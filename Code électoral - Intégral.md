@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1995-01-19
+Version Consolidée au 1995-01-20
 ## Contenu: 
   - [Partie législative (art. L1 à L385)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -5759,12 +5759,12 @@ _Cité par_:
 
 ###### Article LO128
 
-Est inéligible pendant un an celui qui n'a pas déposé l'une des déclarations prévues à l'article LO.135-1..
+Est inéligible pendant un an celui qui n'a pas déposé l'une des déclarations prévues à l'article LO. 135-1. 
 
-Est également inéligible pendant un an à compter de l'élection celui qui n'a pas déposé son compte de campagne dans les
-conditions et le délai prescrits par l'article L. 52-12 et celui dont le compte de campagne a été rejeté à bon droit. Peut
-également être déclaré inéligible, pour la même durée, celui qui a dépassé le plafond des dépenses électorales tel qu'il
-résulte de l'article L. 52-11.
+Est également inéligible pendant un an celui qui n'a pas déposé son compte de campagne dans les conditions et le délai
+prescrits par l'article L. 52-12 et celui dont le compte de campagne a été rejeté à bon droit. Peut également être déclaré
+inéligible, pour la même durée, celui qui a dépassé le plafond des dépenses électorales tel qu'il résulte de l'article L.
+52-11.
 
 **Liens relatifs à cet article**
 
@@ -5793,13 +5793,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°90-383 du 10 mai 1990 - art. 6 () JORF 11 mai 1990
+  - Loi n°95-62 du 19 janvier 1995 - art. 9 () JORF 20 janvier 1995
 
 _Cite_:
 
-  - Code électoral - art. L52-11 (M)
-  - Code électoral - art. L52-12 (M)
-  - Code électoral - art. LO135-1 (M)
+  - Code électoral - art. L52-11 (V)
+  - Code électoral - art. L52-12 (V)
+  - Code électoral - art. LO135-1 (VT)
 
 
 ###### Article LO129
@@ -5995,25 +5995,24 @@ _Modifié par_:
 
 ###### Article LO135-1
 
-Dans les quinze jours qui suivent son entrée en fonction, le député est tenu de déposer sur le bureau de l'Assemblée
-nationale une déclaration certifiée sur l'honneur exacte et sincère de sa situation patrimoniale concernant notamment la
-totalité de ses biens propres ainsi que, éventuellement, ceux de la communauté ou les biens réputés indivis en application de
-l'article 1538 du code civil. Le bureau assure le caractère confidentiel des déclarations reçues ainsi que des observations
-formulées, le cas échéant, par les députés sur l'évolution de leur patrimoine.
+Dans les deux mois qui suivent son entrée en fonction, le député est tenu de déposer auprès de la Commission pour la
+transparence financière de la vie politique une déclaration certifiée sur l'honneur exacte et sincère de sa situation
+patrimoniale concernant notamment la totalité de ses biens propres ainsi que, éventuellement, ceux de la communauté ou les
+biens réputés indivis en application de l'article 1538 du code civil. Ces biens sont évalués à la date du fait générateur de
+la déclaration comme en matière de droit de mutation à titre gratuit.
 
-Une nouvelle déclaration conforme aux dispositions qui précèdent est déposée deux mois au plus tôt et un mois au plus tard
-avant l'expiration du mandat du député ou, en cas de dissolution de l'Assemblée nationale ou de cessation du mandat du député
-pour une cause autre que le décès, dans les quinze jours qui suivent la fin de ses fonctions.
+Les députés communiquent à la Commission pour la transparence financière de la vie politique, pendant l'exercice de leur
+mandat, toutes les modifications substantielles de leur patrimoine, chaque fois qu'ils le jugent utile.
 
-Dès réception de la déclaration mentionnée aux alinéas précédents, le bureau de l'Assemblée nationale délivre au déclarant un
-récépissé attestant du dépôt de cette déclaration.
+Une déclaration conforme aux dispositions qui précèdent est déposée auprès de la Commission pour la transparence financière
+de la vie politique deux mois au plus tôt et un mois au plus tard avant l'expiration du mandat de député ou, en cas de
+dissolution de l'Assemblée nationale ou de cessation du mandat de député pour une cause autre que le décès, dans les deux
+mois qui suivent la fin des fonctions. Le député peut joindre à sa déclaration ses observations sur l'évolution de son
+patrimoine.
 
-Le bureau de l'Assemblée nationale apprécie la variation des situations patrimoniales des députés telle qu'elle résulte des
-déclarations et des observations qu'ils ont pu formuler.
-
-Le président de l'Assemblée nationale établit, chaque fois qu'il le juge utile, et en tout état de cause à l'occasion de
-chaque renouvellement, un rapport publié au Journal officiel de la République française. Ce rapport peut comporter, le cas
-échéant, soit à son initiative, soit à la demande des intéressés, les observations des députés.
+Toutefois, aucune nouvelle déclaration n'est exigée du député lorsqu'il a établi depuis moins de six mois une déclaration de
+sa situation patrimoniale en application du présent article ou des articles 1er et 2 de la loi n° 88-227 du 11 mars 1988
+relative à la transparence financière de la vie politique.
 
 **Liens relatifs à cet article**
 
@@ -6065,17 +6064,18 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+_Cite_:
+
+  - Loi n°88-227 1988-03-11 art. 1, art. 2
+  - Code civil - art. 1538 (V)
+
 **Liens**:
 
   - SPEC_APPLI: Loi n°88-226 du 11 mars 1988 - art. 14 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°88-226 du 11 mars 1988 - art. 5 () JORF 12 mars 1988
-
-_Cite_:
-
-  - Code civil - art. 1538 (V)
+  - Loi n°95-63 du 19 janvier 1995 - art. 1 ()
 
 
 ###### Article LO135-2
@@ -6148,6 +6148,11 @@ La commission instituée par l'article L. 52-14 saisit le Conseil constitutionne
 voir opposer les dispositions du deuxième alinéa de l'article L.O. 128. Le Conseil constitutionnel constate, le cas échéant,
 l'inéligibilité et, s'il s'agit du candidat proclamé élu, il le déclare, par la même décision, démissionnaire d'office.
 
+La Commission pour la transparence financière de la vie politique saisit le bureau de l'Assemblée nationale du cas de tout
+député susceptible de se voir opposer les dispositions du premier alinéa de l'article L.O. 128. Le Conseil constitutionnel,
+saisi par le bureau de l'Assemblée nationale, constate, le cas échéant, l'inéligibilité et, par la même décision, déclare le
+député démissionnaire d'office.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -6170,9 +6175,9 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°90-383 du 10 mai 1990 - art. 7 () JORF 11 mai 1990
+  - Loi n°95-63 du 19 janvier 1995 - art. 2 ()
 
 _Cite_:
 
@@ -6260,9 +6265,9 @@ _Cité par_:
 Le mandat de député est incompatible avec l'exercice de plus d'un des mandats électoraux ou fonctions électives énumérés ci-
 après :
 
-représentant à l'assemblée des communautés européennes, conseiller régional, conseiller général, conseiller de Paris, maire
-d'une commune de 20000 habitants ou plus autre que Paris, adjoint au maire d'une commune de 100000 habitants ou plus autre
-que Paris *nombre*.
+représentant à l'assemblée des communautés européennes, conseiller régional, conseiller à l'Assemblée de Corse conseiller
+général, conseiller de Paris, maire d'une commune de 20000 habitants ou plus autre que Paris, adjoint au maire d'une commune
+de 100000 habitants ou plus autre que Paris.
 
 Pour l'application du présent article, la population prise en compte est celle résultant du dernier recensement national
 connu au moment du renouvellement du conseil municipal.
@@ -6277,10 +6282,6 @@ référence à "l'Assemblée des communautés européennes" est remplacée par l
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Créé par_:
-
-  - Loi n°85-1405 du 30 décembre 1985 - art. 1 () JORF 31 décembre 1985 en vigueur le 16 mars 1986
 
 _Cité par_:
 
@@ -6298,6 +6299,10 @@ _Cité par_:
   - Code électoral - art. LO319 (VD)
   - Code électoral - art. LO328-2 (Ab)
   - Code électoral - art. LO334-7-1 (Ab)
+
+_Modifié par_:
+
+  - Loi n°95-62 du 19 janvier 1995 - art. 10 () JORF 20 janvier 1995
 
 
 ###### Article LO142
@@ -6441,11 +6446,35 @@ _Cité par_:
   - Code électoral - art. LO149 (M)
 
 
+###### Article LO146-1
+
+Il est interdit à tout député de commencer à exercer une fonction de conseil qui n'était pas la sienne avant le début de son
+mandat.
+
+Cette interdiction n'est pas applicable aux membres des professions libérales soumises à un statut législatif ou
+réglementaire ou dont le titre est protégé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°95-63 du 19 janvier 1995 - art. 3 ()
+
+_Cité par_:
+
+  - Loi n°2004-192 du 27 février 2004 - art. 75 (V)
+  - Loi n°2017-1338 du 15 septembre 2017 - art. 20 (V)
+  - Loi n°2017-1339 du 15 septembre 2017 - art. 33 (V)
+
+
 ###### Article LO147
 
 Il est interdit à tout député d'accepter, en cours de mandat, une fonction de membre du conseil d'administration ou de
-surveillance ou toute fonction exercée de façon permanente en qualité de conseil dans l'un des établissements, sociétés ou
-entreprises visés à l'article précédent.
+surveillance dans l'un des établissements, sociétés ou entreprises visés à l'article LO 146.
 
 **Liens relatifs à cet article**
 
@@ -6458,6 +6487,14 @@ _Cité par_:
   - Loi n°77-729 du 7 juillet 1977 - art. 6 (V)
   - Code électoral - art. LO148 (M)
   - Code électoral - art. LO151-1 (V)
+
+_Modifié par_:
+
+  - Loi n°95-63 du 19 janvier 1995 - art. 3 ()
+
+_Cite_:
+
+  - Code électoral - art. LO146 (VT)
 
 
 ###### Article LO148
@@ -6491,22 +6528,22 @@ _Modifié par_:
 ###### Article LO149
 
 Il est interdit à tout avocat inscrit à un barreau, lorsqu'il est investi d'un mandat de député, d'accomplir directement ou
-indirectement par l'intermédiaire d'un associé, d'un collaborateur ou d'un secrétaire, sauf devant la Haute Cour de justice,
-aucun acte de sa profession dans les affaires à l'occasion desquelles des poursuites pénales sont engagées devant les
-juridictions répressives pour crimes ou délits contre la chose publique ou en matière de presse ou d'atteinte au crédit ou à
-l'épargne; il lui est interdit, dans les mêmes conditions, de plaider ou de consulter pour le compte de l'une des sociétés,
-entreprises ou établissements visés aux articles L. O. 145 et L. O. 146 dont il n'était pas habituellement le conseil avant
-son élection, ou contre l'Etat, les sociétés nationales, les collectivités ou établissements publics, à l'exception des
-affaires visées par la loi n° 57-1424 du 31 décembre 1957 attribuant aux tribunaux judiciaires compétence pour statuer sur
-les actions en responsabilité des dommages causés par tout véhicule et dirigées contre une personne morale de droit public.
+indirectement par l'intermédiaire d'un associé, d'un collaborateur ou d'un secrétaire, sauf devant la Haute Cour de justice
+et la cour de justice de la République, aucun acte de sa profession dans les affaires à l'occasion desquelles des poursuites
+pénales sont engagées devant les juridictions répressives pour crimes ou délits contre la nation, l'Etat et la paix publique
+ou en matière de presse ou d'atteinte au crédit ou à l'épargne ; il lui est interdit, dans les mêmes conditions, de plaider
+ou de consulter pour le compte de l'une de ces sociétés, entreprises ou établissements visés aux articles L. O. 145 et L. O.
+146 dont il n'était pas habituellement le conseil avant son élection, ou contre l'Etat, les sociétés nationales, les
+collectivités ou établissements publics, à l'exception des affaires visées par la loi n° 57-1424 du 31 décembre 1957
+attribuant aux tribunaux judiciaires compétence pour statuer sur les actions en responsabilité des dommages causés par tout
+véhicule et dirigées contre une personne morale de droit public.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°57-1424 1957-12-31
-  - Code électoral - art. LO145 (M)
-  - Code électoral - art. LO146 (V)
+  - Loi n°57-1424 du 31 décembre 1957 (V)
+  - Code électoral - art. LO145 (VT)
 
 _Codifié par_:
 
@@ -6518,6 +6555,11 @@ _Cité par_:
   - Décret n°91-1197 du 27 novembre 1991 - art. 117 (V)
   - Code électoral - art. LO151 (V)
   - Code électoral - art. LO151-3 (V)
+
+_Modifié par_:
+
+  - Loi n°95-63 du 19 janvier 1995 - art. 4 ()
+  - Loi organique 95-63 1995-01-19 art. 4, 5 jorf 20 janvier 1995
 
 
 ###### Article LO150
@@ -6549,18 +6591,19 @@ _Modifié par_:
 
 ###### Article LO151
 
-Le député qui, lors de son élection, se trouve dans l'un des cas d'incompatibilité visés au présent code doit, dans les
-quinze jours qui suivent son entrée en fonction ou, en cas de contestation de l'élection, la décision du Conseil
-constitutionnel, se démettre des fonctions ou mandats incompatibles avec son mandat parlementaire ou, s'il est titulaire d'un
-emploi public, demander à être placé dans la position spéciale prévue par son statut.
+Le député qui, lors de son élection, se trouve dans l'un des cas d'incompatibilité visés au présent code doit, dans les deux
+mois qui suivent son entrée en fonction ou, en cas de contestation de l'élection, la décision du Conseil constitutionnel, se
+démettre des fonctions ou mandats incompatibles avec son mandat parlementaire ou, s'il est titulaire d'un emploi public,
+demander à être placé dans la position spéciale prévue par son statut.
 
 A l'expiration du délai prévu au premier alinéa ci-dessus, le député qui se trouve dans un des cas d'incompatibilité visés à
 l'article L.O. 141 est déclaré démissionnaire d'office par le Conseil constitutionnel à la requête du bureau de l'Assemblée
 nationale ou du garde des sceaux, ministre de la justice.
 
-Dans le délai prévu au premier alinéa ci-dessus, le député doit déclarer au bureau de l'Assemblée nationale toute activité
-professionnelle qu'il envisage de conserver. De même il doit, en cours de mandat, déclarer toute activité professionnelle
-nouvelle qu'il envisage d'exercer.
+" Dans le délai prévu au premier alinéa ci-dessus, tout député est tenu de déposer sur le bureau de l'Assemblée nationale une
+déclaration certifiée sur l'honneur exacte et sincère comportant la liste des activités professionnelles ou d'intérêt
+général, même non rémunérées, qu'il envisage de conserver ou attestant qu'il n'en exerce aucune. En cours de mandat, il doit
+déclarer, dans les mêmes formes, tout élément de nature à modifier sa déclaration initiale. "
 
 Le bureau examine si les activités ainsi déclarées sont compatibles avec le mandat parlementaire. S'il y a doute sur la
 compatibilité des fonctions ou activités exercées ou en cas de contestation à ce sujet, le bureau de l'Assemblée nationale,
@@ -6571,9 +6614,9 @@ Dans l'affirmative, le député doit régulariser sa situation dans le délai de
 lui est faite de la décision du Conseil constitutionnel. A défaut, le Conseil constitutionnel le déclare démissionnaire
 d'office de son mandat.
 
-Le député qui a méconnu les dispositions des articles L.O. 149 et L.O. 150 est déclaré démissionnaire d'office, sans délai,
-par le Conseil constitutionnel, à la requête du bureau de l'Assemblée nationale ou du garde des sceaux, ministre de la
-Justice.
+" Le député qui n'a pas procédé à la déclaration prévue au troisième alinéa ou qui a méconnu les dispositions des articles
+L.O. 149 et L.O. 150 est déclaré démissionnaire d'office, sans délai, par le Conseil constitutionnel, à la requête du bureau
+de l'Assemblée nationale ou du garde des sceaux, ministre de la justice. "
 
 La démission d'office est aussitôt notifiée au président de l'Assemblée nationale. Elle n'entraîne pas d'inéligibilité.
 
@@ -6582,11 +6625,6 @@ La démission d'office est aussitôt notifiée au président de l'Assemblée nat
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Loi n°85-1405 du 30 décembre 1985 - art. 2 () JORF 31 Décembre 1985 en vigueur le 16 mars 1986
-  - Loi n°85-1405 du 30 décembre 1985 - art. 6 (V) JORF 31 Décembre 1985 en vigueur le 16 mars 1986
 
 _Cité par_:
 
@@ -6601,6 +6639,10 @@ _Cité par_:
   - Code électoral - art. LO495 (V)
   - Code électoral - art. LO522 (V)
   - Code électoral - art. LO550 (V)
+
+_Modifié par_:
+
+  - Loi n°95-63 du 19 janvier 1995 - art. 6 ()
 
 _Cite_:
 
