@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1976-04-01
+Version Consolidée au 1976-07-17
 ## Contenu: 
   - [Partie législative (art. L1 à L334)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L251)](#2)
@@ -51,8 +51,8 @@ Version Consolidée au 1976-04-01
           - [Section 4 : Propagande (art. L240 à L245)](#48)
           - [Section 5 : Opérations préparatoires au scrutin (art. L247)](#49)
           - [Section 7 : Contentieux (art. L248 à L251)](#50)
-    - [Livre II : Election des sénateurs des départements (art. LO275 à L327)](#51)
-      - [Titre Ier  : Composition du Sénat et durée du mandat des sénateurs (art. LO275 à LO278)](#52)
+    - [Livre II : Election des sénateurs des départements (art. LO274 à L327)](#51)
+      - [Titre Ier  : Composition du Sénat et durée du mandat des sénateurs (art. LO274 à LO278)](#52)
       - [Titre II : Composition du collège électoral (art. L279 à L282)](#53)
       - [Titre III : Désignation des délégués des conseils municipaux (art. L283 à L293)](#54)
       - [Titre IV : Election des sénateurs (art. L294 à LO325)](#55)
@@ -6781,6 +6781,32 @@ _Codifié par_:
 ## Livre II : Election des sénateurs des départements<a id=51></a>
 
 ### Titre Ier  : Composition du Sénat et durée du mandat des sénateurs<a id=52></a>
+
+###### Article LO274
+
+Le nombre des sénateurs est de trois cent seize pour les départements.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Modifié par_:
+
+  - Loi organique 76-98 1976-01-31 art. 2 JORF 1er février 1976
+  - Loi organique 76-643 1976-07-16 art. 1 JORF 17 juillet 1976
+
+_Cité par_:
+
+  - Loi n°76-1217 du 28 décembre 1976 - art. 1 (Ab)
+  - Code électoral - art. LO334-2 (Ab)
+  - Code électoral - art. LO438-2 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Loi n°64-1084 1964-10-24
+
 
 ###### Article LO275
 
