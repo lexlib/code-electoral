@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2004-03-19
+Version Consolidée au 2004-04-16
 ## Contenu: 
   - [Partie législative (art. L1 à L450)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -227,7 +227,7 @@ Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna (
         - [Chapitre II : Candidatures et bulletins de vote (art. R232 à R236)](#223)
         - [Chapitre III : Propagande (art. R237)](#224)
         - [Chapitre IV : Opérations de vote et recensement (art. R238 à R241)](#225)
-      - [Titre IV : Dispositions applicables à l'élection des membres de l'assemblée de la Polynésie française (art. R242 à R253)](#226)
+      - [Titre IV : Dispositions applicables à l'élection des représentants à l'assemblée de la Polynésie française (art. R242 à R253)](#226)
         - [Chapitre Ier : Candidatures et bulletins de vote (art. R242 à R246)](#227)
         - [Chapitre II : Propagande (art. R247 à R249)](#228)
         - [Chapitre III : Opérations de vote et recensement (art. R250 à R253)](#229)
@@ -27255,18 +27255,19 @@ des études économiques" ;
 
 3° "Services du haut-commissaire", au lieu de : "préfecture" ;
 
-4° "Secrétaire général", au lieu de : "secrétaire général de préfecture" ;
+4° "Secrétaire général du haut-commissariat", au lieu de : "Secrétaire général de préfecture" ;
 
 5° "Services du chef de subdivision administrative", au lieu de : "sous-préfecture" ;
 
 6° "Subdivision administrative", au lieu de : "arrondissement", et : "chef de subdivision administrative", au lieu de :
+
 "sous-préfet" ;
 
 7° "Tribunal de première instance", au lieu de : "tribunal d'instance" et de : "tribunal de grande instance" ;
 
-8° "Election des membres de l'assemblée de Polynésie française", au lieu de : "élection des conseillers généraux" ;
+8° "Election des représentants à l'assemblée de la Polynésie française", au lieu de : "élection des conseillers généraux" ;
 
-9° "Membre de l'assemblée de Polynésie française", au lieu de : "conseiller général" et de : "conseiller régional" ;
+9° "Représentant à l'assemblée de la Polynésie française", au lieu de : "conseiller général" et de : "conseiller régional" ;
 
 10° "Circonscriptions électorales", au lieu de : "cantons" ;
 
@@ -27276,7 +27277,8 @@ des études économiques" ;
 
 13° "Chef du service des affaires économiques", au lieu de : "directeur départemental des enquêtes européennes" ;
 
-14° "Budget de l'établissement chargé de la poste", au lieu de : "budget annexe des postes et télécommunications" ;
+14° "Budget de l'office des postes et télécommunications de la Polynésie française", au lieu de : "budget annexe des postes
+et télécommunications" ;
 
 15° "Archives de la Polynésie française", au lieu de : "archives départementales".
 
@@ -27294,9 +27296,9 @@ _Cité par_:
   - Décret n°2005-237 du 17 mars 2005 - art. 24 (V)
   - Décret n°2005-238 du 17 mars 2005 - art. 12 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+  - Décret n°2004-327 2004-04-14 art. 1 1° JORF 16 avril 2004
 
 
 ###### Article R203
@@ -27380,7 +27382,7 @@ des chapitres III et IV, sont applicables, dans leur rédaction en vigueur à la
 
 2° A l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie ;
 
-3° A l'élection des membres de l'assemblée de Polynésie française ;
+3° A l'élection des représentants à l'assemblée de Polynésie française ;
 
 4° A l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française.
 
@@ -27407,7 +27409,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2004-191 du 27 février 2004 - art. 1 () JORF 28 février 2004
+  - Décret n°2004-327 2004-04-14 art. 1 2° JORF 16 avril 2004
 
 _Cité par_:
 
@@ -28654,7 +28656,7 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-### Titre IV : Dispositions applicables à l'élection des membres de l'assemblée de la Polynésie française<a id=226></a>
+### Titre IV : Dispositions applicables à l'élection des représentants à l'assemblée de la Polynésie française<a id=226></a>
 
 #### Chapitre Ier : Candidatures et bulletins de vote<a id=227></a>
 
@@ -28668,9 +28670,9 @@ _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+  - Décret n°2004-327 2004-04-14 art. 1 2° JORF 16 avril 2004
 
 
 ###### Article R243
@@ -28699,9 +28701,9 @@ _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+  - Décret n°2004-327 2004-04-14 art. 1 2° JORF 16 avril 2004
 
 _Cite_:
 
@@ -28725,9 +28727,9 @@ _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+  - Décret n°2004-327 2004-04-14 art. 1 2° JORF 16 avril 2004
 
 _Cite_:
 
@@ -28752,9 +28754,9 @@ _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+  - Décret n°2004-327 2004-04-14 art. 1 2° JORF 16 avril 2004
 
 _Cite_:
 
@@ -28776,9 +28778,9 @@ _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+  - Décret n°2004-327 2004-04-14 art. 1 2° JORF 16 avril 2004
 
 
 #### Chapitre II : Propagande<a id=228></a>
@@ -28794,9 +28796,9 @@ _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+  - Décret n°2004-327 2004-04-14 art. 1 2° JORF 16 avril 2004
 
 _Cite_:
 
@@ -28806,7 +28808,7 @@ _Cite_:
 ###### Article R248
 
 Les bulletins de vote doivent être imprimés sur du papier de la couleur choisie par la liste ou déterminée en application des
-dispositions de l'article R. 209.
+dispositions de l'article R. 209. 
 
 Les bulletins de vote qui ne répondent pas aux conditions prévues à l'alinéa précédent ne sont pas acceptés par la commission
 de propagande.
@@ -28817,9 +28819,9 @@ _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+  - Décret n°2004-327 2004-04-14 art. 1 2° JORF 16 avril 2004
 
 _Cite_:
 
@@ -28843,9 +28845,9 @@ _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+  - Décret n°2004-327 2004-04-14 art. 1 2° JORF 16 avril 2004
 
 _Cité par_:
 
@@ -28875,9 +28877,9 @@ _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+  - Décret n°2004-327 2004-04-14 art. 1 2° JORF 16 avril 2004
 
 _Cite_:
 
@@ -28891,13 +28893,13 @@ _Cite_:
 ###### Article R251
 
 La commission de recensement général des votes mentionnée à l'article L. 416 est instituée par arrêté du haut-commissaire de
-la République publié au Journal officiel de la Polynésie française.
+la République publié au Journal officiel de la Polynésie française. 
 
 La commission comprend trois magistrats, dont le président de la commission, désignés par le premier président de la cour
-d'appel, et un fonctionnaire désigné par le haut-commissaire.
+d'appel, et un fonctionnaire désigné par le haut-commissaire. 
 
 L'arrêté instituant la commission fixe la date à laquelle la commission est installée et celle à laquelle elle doit avoir
-achevé ses travaux.
+achevé ses travaux. 
 
 Un représentant de chacune des listes de candidats peut assister aux opérations de la commission.
 
@@ -28907,9 +28909,9 @@ _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+  - Décret n°2004-327 2004-04-14 art. 1 2° JORF 16 avril 2004
 
 _Cite_:
 
@@ -28928,9 +28930,9 @@ _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+  - Décret n°2004-327 2004-04-14 art. 1 2° JORF 16 avril 2004
 
 
 ###### Article R253
@@ -28940,16 +28942,15 @@ verbaux.
 
 La commission procède, s'il y a lieu, au redressement des chiffres portés sur les procès-verbaux.
 
-La commission détermine le quotient électoral, en divisant le nombre de suffrages exprimés dans la circonscription par le
-nombre de sièges à pourvoir à l'assemblée. Il est attribué à chaque liste autant de sièges de membres de l'assemblée que le
-nombre de suffrages de la liste contient de fois le quotient électoral. Les sièges non répartis sont attribués selon la règle
-de la plus forte moyenne. A cet effet, les sièges sont conférés successivement à celle des listes pour laquelle la division
-du nombre de suffrages recueillis par le nombre de sièges qui lui ont déjà été attribués, plus un, donne le plus fort
-résultat.
+La commission attribue à la liste qui a recueilli la majorité des suffrages exprimés un nombre de sièges égal au tiers du
+nombre de sièges à pourvoir arrondi à l'entier supérieur.
 
-Dans le cas où deux listes ont la même moyenne et qu'il ne reste plus qu'un siège à pourvoir, le siège est attribué à la
-liste qui a reçu le plus grand nombre de suffrages. Lorsque deux listes ont la même moyenne et le même nombre de suffrages,
-le siège est attribué au plus âgé des candidats.
+Cette attribution opérée, elle répartit les autres sièges entre toutes les listes à la représentation proportionnelle suivant
+la règle de la plus forte moyenne. Si plusieurs listes ont la même moyenne pour l'attribution du dernier siège, elle attribue
+celui-ci à la liste qui a obtenu le plus grand nombre de suffrages. En cas d'égalité des suffrages, le siège est attribué au
+plus âgé des candidats susceptibles d'être proclamés élus.
+
+Seules les listes ayant obtenu au moins 3 % des suffrages exprimés sont admises à la répartition des sièges.
 
 Les opérations de recensement des votes et celles de l'attribution des sièges sont constatées par un procès-verbal, dressé en
 deux exemplaires et signé par tous les membres de la commission.
@@ -28964,9 +28965,9 @@ _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+  - Décret n°2004-327 2004-04-14 art. 1 3° JORF 16 avril 2004
 
 
 ### Titre V : Dispositions applicables à l'élection des membres de l'assemblée territoriale des îles  Wallis et Futuna<a id=230></a>
