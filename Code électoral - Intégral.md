@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1964-10-28
+Version Consolidée au 1966-12-30
 ## Contenu: 
   - [Partie législative (art. L1 à L334)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L251)](#2)
@@ -14,7 +14,7 @@ Version Consolidée au 1964-10-28
           - [Section 6 : Cartes électorales (art. L43)](#11)
         - [Chapitre III : Conditions d'éligibilité et inéligibilités (art. L44 à L45)](#12)
         - [Chapitre IV : Incompatibilités (art. L46)](#13)
-        - [Chapitre V : Propagande (art. L47 à L52)](#14)
+        - [Chapitre V : Propagande (art. L47 à L52-1)](#14)
         - [Chapitre VI : Vote (art. L53 à L79 à L85)](#15)
           - [Section 1 : Opérations préparatoires au scrutin (art. L53)](#16)
           - [Section 2 : Opérations de vote (art. L54 à L70)](#17)
@@ -1891,6 +1891,42 @@ _Codifié par_:
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 
+###### Article L52-1
+
+Pendant la durée de la campagne électorale, est également interdite l'utilisation, à des fins de propagande électorale de
+tout procédé de publicité commerciale par la voie de la presse.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°66-1022 1966-12-29 art. 2 JORF 30 décembre 1966
+
+_Cité par_:
+
+  - Loi n°71-1028 du 24 décembre 1971 - art. 22 (Ab)
+  - Loi n°76-97 du 31 janvier 1976 - art. 11 (M)
+  - Loi n°82-471 du 7 juin 1982 - art. 5 (Ab)
+  - Arrêté du 7 mars 1986 - art. Annexe I art. 6 (V)
+  - Décret n°92-772 du 6 août 1992 - art. 2 (V)
+  - Décret n°2000-667 du 18 juillet 2000 - art. 2 (V)
+  - Loi n°2003-486 du 10 juin 2003 - art. 5 (V)
+  - Loi organique n°2004-192 du 27 février 2004 - art. 159 (VD)
+  - Décret n°2005-238 du 17 mars 2005 - art. 2 (V)
+  - Décret n°2009-249 du 4 mars 2009 - art. 2 (V)
+  - Décret n°2009-1434 du 20 novembre 2009 - art. 3 (V)
+  - Décret n°2009-1435 du 20 novembre 2009 - art. 3 (V)
+  - Code de l'environnement - art. L123-25 (V)
+  - Code général des collectivités territoriales - art. LO1112-9 (V)
+  - Code électoral - art. L113-1 (VD)
+  - Code électoral - art. L52-8 (VD)
+  - Code électoral - art. L90-1 (V)
+
+
 #### Chapitre VI : Vote<a id=15></a>
 
 ##### Section 1 : Opérations préparatoires au scrutin<a id=16></a>
@@ -2892,6 +2928,31 @@ _Cite_:
 **Liens**:
 
   - TXT_ASSOCIE: Code électoral - art. L49 (V)
+
+
+###### Article L90-1
+
+Toute infraction aux dispositions de l'article L. 52-1 sera punie d'une amende de 500 000 F.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Modifié par_:
+
+  - Loi n°66-1022 1966-12-29 art. 3 JORF 30 décembre 1966
+
+_Cité par_:
+
+  - Loi n°71-1028 du 24 décembre 1971 - art. 22 (Ab)
+  - Loi n°77-808 du 19 juillet 1977 - art. 12 (M)
+  - Loi n°86-1067 du 30 septembre 1986 - art. 14 (V)
+
+_Cite_:
+
+  - Code électoral - art. L52-1 (M)
 
 
 ###### Article L91
