@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2003-07-31
+Version Consolidée au 2003-12-09
 ## Contenu: 
   - [Partie législative (art. L1 à L450)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -1049,15 +1049,15 @@ _Cite_:
 Les Français et les Françaises établis hors de France et immatriculés au consulat de France peuvent, sur leur demande, être
 inscrits sur la liste électorale de l'une des communes suivantes :
 
-commune de naissance ;
+commune de naissance;
 
-commune de leur dernier domicile ;
+commune de leur dernier domicile;
 
-commune de leur dernière résidence, à condition que cette résidence ait été de six mois au moins ;
+commune de leur dernière résidence, à condition que cette résidence ait été de six mois au moins;
 
-commune où est né, est inscrit ou a été inscrit sur la liste électorale un de leurs ascendants ;
+commune où est né, est inscrit ou a été inscrit sur la liste électorale un de leurs ascendants;
 
-commune sur la liste électorale de laquelle est inscrit un de leurs descendants au premier degré.
+Commune sur la liste électorale de laquelle est inscrit ou a été inscrit un de leurs parents jusqu'au quatrième degré.
 
 **Liens relatifs à cet article**
 
@@ -1065,11 +1065,14 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2003-1165 2003-12-08 art. 38 I, II, III :
+  - SPEC_APPLI: Le titre I de la présente ordonnance est applicable en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna
+
 _Modifié par_:
 
-  - Loi n°72-1071 1972-12-04 art. 1 JORF 5 décembre 1972
-  - Loi n°77-805 du 19 juillet 1977 - art. 1 () JORF 20 juillet 1977
-  - Loi n°82-974 1982-11-19 art. 6 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
+  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 1 () JORF 9 décembre 2003
 
 _Cité par_:
 
@@ -2985,14 +2988,17 @@ _Cité par_:
 
 ###### Article L52-4
 
-Pendant l'année précédant le premier jour du mois d'une élection et jusqu'à la date du tour de scrutin où l'élection a été
-acquise, un candidat à cette élection ne peut avoir recueilli des fonds en vue du financement de sa campagne que par
-l'intermédiaire d'un mandataire nommément désigné par lui, qui est soit une association de financement électorale, soit une
-personne physique dénommée "le mandataire financier". Un même mandataire ne peut être commun à plusieurs candidats.
+Tout candidat à une élection désigne un mandataire au plus tard à la date à laquelle sa candidature est enregistrée. Ce
+mandataire peut être une association de financement électoral, ou une personne physique dénommée "le mandataire financier".
+Un même mandataire ne peut être commun à plusieurs candidats.
 
-Lorsque le candidat a décidé de recourir à une association de financement électorale ou à un mandataire financier, il ne peut
-régler les dépenses occasionnées par sa campagne électorale que par leur intermédiaire, à l'exception du montant du
-cautionnement éventuel et des dépenses prises en charge par un parti ou groupement politique.
+Le mandataire recueille, pendant l'année précédant le premier jour du mois de l'élection et jusqu'à la date du dépôt du
+compte de campagne du candidat, les fonds destinés au financement de la campagne.
+
+Il règle les dépenses engagées en vue de l'élection et antérieures à la date du tour de scrutin où elle a été acquise, à
+l'exception des dépenses prises en charge par un parti ou groupement politique. Les dépenses antérieures à sa désignation
+payées directement par le candidat ou à son profit font l'objet d'un remboursement par le mandataire et figurent dans son
+compte bancaire ou postal.
 
 En cas d'élection anticipée ou partielle, ces dispositions ne sont applicables qu'à compter de l'événement qui rend cette
 élection nécessaire.
@@ -3039,12 +3045,12 @@ _Codifié par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°95-65 1995-01-19 art. 26 :
-  - SPEC_APPLI: La présente loi est applicable dans les territoires d'outre-mer et la collectivité territoriale de Mayotte
+  - SPEC_APPLI: Ordonnance 2003-1165 2003-12-08 art. 38 I, II, III :
+  - SPEC_APPLI: Le titre II de la présente ordonnance est applicable en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna
 
 _Modifié par_:
 
-  - Loi n°95-65 du 19 janvier 1995 - art. 1 ()
+  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 2 () JORF 9 décembre 2003
 
 
 ###### Article L52-5
@@ -3054,27 +3060,35 @@ juillet 1901 relative au contrat d'association. La déclaration doit être accom
 candidat ne peut être membre de l'association de financement qui le soutient ; dans le cas d'un scrutin de liste, aucun
 membre de la liste ne peut être membre de l'association de financement qui soutient le candidat tête de la liste sur laquelle
 il figure. L'expert-comptable chargé de la présentation du compte de campagne ne peut exercer les fonctions de président ou
-de trésorier de cette association.
+de trésorier de cette association. 
 
 L'association de financement électorale est tenue d'ouvrir un compte bancaire ou postal unique retraçant la totalité de ses
 opérations financières. Les comptes de l'association sont annexés au compte de campagne du candidat qu'elle a soutenu ou au
-compte de campagne du candidat tête de liste lorsque le candidat qu'elle a soutenu figure sur cette liste.
+compte de campagne du candidat tête de liste lorsque le candidat qu'elle a soutenu figure sur cette liste. 
 
-L'association ne peut recueillir de fonds que pendant la période prévue à l'article L. 52-4.
+L'association ne peut recueillir de fonds que pendant la période prévue au deuxième alinéa de l'article L. 52-4. 
 
 Elle est dissoute de plein droit trois mois après le dépôt du compte de campagne du candidat qu'elle soutient. Avant
-l'expiration de ce délai, elle est tenue de se prononcer sur la dévolution de son actif net. Celui-ci doit être attribué,
-soit à une association de financement d'un parti politique, soit à un ou plusieurs établissements reconnus d'utilité
-publique. A défaut de décision de dévolution dans les conditions et délais prévus ci-dessus, à la demande du préfet du
-département dans lequel est situé le siège de l'association de financement électorale, le procureur de la République saisit
-le président du tribunal de grande instance, qui détermine le ou les établissements reconnus d'utilité publique attributaires
-de l'actif net. Il en va de même dans le cas où la dévolution n'est pas acceptée.
+l'expiration de ce délai, elle est tenue de se prononcer sur la dévolution de son actif net ne provenant pas de l'apport du
+candidat. Le solde doit être attribué, soit à une association de financement d'un parti politique, soit à un ou plusieurs
+établissements reconnus d'utilité publique. A défaut de décision de dévolution dans les conditions et délais prévus ci-
+dessus, à la demande du préfet du département dans lequel est situé le siège de l'association de financement électorale, le
+procureur de la République saisit le président du tribunal de grande instance, qui détermine le ou les établissements
+reconnus d'utilité publique attributaires de l'actif net. Il en va de même dans le cas où la dévolution n'est pas acceptée. 
 
 Si le candidat soutenu par l'association de financement électorale n'a pas déposé sa candidature, l'association est dissoute
 de plein droit à l'expiration du délai de dépôt des candidatures. La dévolution de l'actif net, sur laquelle l'association
 doit se prononcer dans les trois mois suivant la dissolution, s'effectue dans les conditions prévues à l'alinéa précédent.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi du 1 juillet 1901 - art. 5 (V)
 
 _Cité par_:
 
@@ -3104,18 +3118,9 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°95-65 1995-01-19 art. 26 :
-  - SPEC_APPLI: La présente loi est applicable dans les territoires d'outre-mer et la collectivité territoriale de Mayotte
-
 _Modifié par_:
 
-  - Loi n°96-300 du 10 avril 1996 - art. 2 () JORF 11 avril 1996
-
-_Cite_:
-
-  - Loi n°1901-07-01 art. 5
+  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 3 () JORF 9 décembre 2003
 
 
 ###### Article L52-6
@@ -3130,18 +3135,19 @@ financières. L'intitulé du compte précise que le titulaire agit en qualité d
 désigné. Les comptes du mandataire sont annexés au compte de campagne du candidat qui l'a désigné ou au compte de campagne du
 candidat tête de liste lorsque le candidat qui l'a désigné figure sur cette liste.
 
-Le mandataire financier ne peut recueillir de fonds que pendant la période prévue à l'article L. 52-4.
+Le mandataire financier ne peut recueillir de fonds que pendant la période prévue au deuxième alinéa de l'article L. 52-4.
 
 Les fonctions du mandataire financier cessent de plein droit trois mois après le dépôt du compte de campagne du candidat qui
 l'a mandaté, ou bien, si le candidat n'a pas déposé sa candidature dans les délais légaux, à l'expiration du délai de dépôt
 des candidatures.
 
-Au terme de son mandat, le mandataire remet au candidat un bilan comptable de son activité. Lorsqu'un solde positif apparaît,
-il est dévolu, sur décision du candidat, soit à une association de financement d'un parti politique, soit à un ou plusieurs
-établissements reconnus d'utilité publique. A défaut de décision de dévolution dans les conditions et délais prévus ci-
-dessus, à la demande du préfet du département dans lequel est domicilié le candidat, le procureur de la République saisit le
-président du tribunal de grande instance qui détermine le ou les établissements reconnus d'utilité publique attributaires de
-l'actif net. Il en va de même lorsque la dévolution n'est pas acceptée.
+Au terme de son mandat, le mandataire remet au candidat un bilan comptable de son activité. Lorsqu'un solde positif ne
+provenant pas de l'apport du candidat apparaît, il est dévolu, sur décision du candidat, soit à une association de
+financement d'un parti politique, soit à un ou plusieurs établissements reconnus d'utilité publique. A défaut de décision de
+dévolution dans les conditions et délais prévus ci-dessus, à la demande du préfet du département dans lequel est domicilié le
+candidat, le procureur de la République saisit le président du tribunal de grande instance qui détermine le ou les
+établissements reconnus d'utilité publique attributaires de l'actif net. Il en va de même lorsque la dévolution n'est pas
+acceptée.
 
 **Liens relatifs à cet article**
 
@@ -3164,12 +3170,13 @@ _Codifié par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°95-65 1995-01-19 art. 26 :
-  - SPEC_APPLI: La présente loi est applicable dans les territoires d'outre-mer et la collectivité territoriale de Mayotte
+  - SPEC_APPLI: Ordonnance 2003-1165 2003-12-08 art. 38 I, II, III :
+  - SPEC_APPLI: Le titre II de la présente ordonnance est applicable en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna
 
 _Modifié par_:
 
-  - Loi n°96-300 du 10 avril 1996 - art. 2 ()
+  - Ordonnance 2003-1165 2003-12-08 art. 4 I, II JORF 9 décembre 2003
+  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 4 () JORF 9 décembre 2003
 
 _Cite_:
 
@@ -3634,12 +3641,12 @@ _Cite_:
 ###### Article L52-11-1
 
 Les dépenses électorales des candidats aux élections auxquelles l'article L. 52-4 est applicable font l'objet d'un
-remboursement forfaitaire de la part de l'Etat égal à 50 p. 100 de leur plafond de dépenses. Ce remboursement ne peut excéder
-le montant des dépenses des candidats retracées dans leur compte de campagne.
+remboursement forfaitaire de la part de l'Etat égal à 50 % de leur plafond de dépenses. Ce remboursement ne peut excéder le
+montant des dépenses réglées sur l'apport personnel des candidats et retracées dans leur compte de campagne.
 
-Le remboursement forfaitaire n'est pas versé aux candidats qui ont obtenu moins de 5 p. 100 des suffrages exprimés au premier
-tour de scrutin ni à ceux qui ne se sont pas conformés aux prescriptions des articles L. 52-11 et L. 52-12 ou dont le compte
-de campagne a été rejeté ou qui n'ont pas déposé leur déclaration de situation patrimoniale, s'ils sont astreints à cette
+Le remboursement forfaitaire n'est pas versé aux candidats qui ont obtenu moins de 5 % des suffrages exprimés au premier tour
+de scrutin ni à ceux qui ne se sont pas conformés aux prescriptions des articles L. 52-11 et L. 52-12 ou dont le compte de
+campagne a été rejeté ou qui n'ont pas déposé leur déclaration de situation patrimoniale, s'ils sont astreints à cette
 obligation.
 
 **Liens relatifs à cet article**
@@ -3668,13 +3675,12 @@ _Cité par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-  - SPEC_APPLI: Loi n°95-65 1995-01-19 art. 26 :
-  - SPEC_APPLI: La présente loi est applicable dans les territoires d'outre-mer et la collectivité territoriale de Mayotte
+  - SPEC_APPLI: Ordonnance 2003-1165 2003-12-08 art. 38 I, II, III :
+  - SPEC_APPLI: Le titre II de la présente ordonnance est applicable en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°95-65 du 19 janvier 1995 - art. 6 ()
+  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 5 () JORF 9 décembre 2003
 
 _Cite_:
 
@@ -3695,29 +3701,24 @@ Le candidat estime et inclut, en recettes et en dépenses, les avantages directs
 dons en nature dont il a bénéficié. Le compte de campagne doit être en équilibre ou excédentaire et ne peut présenter un
 déficit.
 
-Dans les deux mois qui suivent le tour de scrutin où l'élection a été acquise [*délai*], chaque candidat ou candidat tête de
-liste présent au premier tour dépose à la préfecture son compte de campagne et ses annexes, présentés par un membre de
-l'ordre des experts-comptables et des comptables agréés et accompagné des justificatifs de ses recettes ainsi que des
-factures, devis et autres documents de nature à établir le montant des dépenses payées ou engagées par le candidat ou pour
-son compte.
+Au plus tard avant 18 heures le neuvième vendredi suivant le tour de scrutin où l'élection a été acquise, chaque candidat ou
+candidat tête de liste présent au premier tour dépose à la Commission nationale des comptes de campagne et des financements
+politiques son compte de campagne et ses annexes, présentés par un membre de l'ordre des experts-comptables et des comptables
+agréés et accompagné des justificatifs de ses recettes ainsi que des factures, devis et autres documents de nature à établir
+le montant des dépenses payées ou engagées par le candidat ou pour son compte. Cette présentation n'est pas nécessaire
+lorsque aucune dépense ou recette ne figure au compte de campagne. Dans ce cas, le mandataire établit une attestation
+d'absence de dépense et de recette.
 
-Le montant du cautionnement n'est pas compris dans les dépenses. Sous réserve du règlement de dépenses engagées avant le
-premier tour de scrutin, le compte de campagne des candidats présents au seul premier tour ne peut retracer de dépenses
-postérieures à la date de celui-ci. La valeur vénale résiduelle des immobilisations éventuellement constituées au cours de la
-période mentionnée à l'article L. 52-4 doit être déduite des charges retracées dans le compte de campagne.
-
-Le compte de campagne et ses annexes sont transmis à la Commission nationale des comptes de campagne et des financements
-politiques.
+Sous réserve du règlement de dépenses engagées avant le premier tour de scrutin, le compte de campagne des candidats présents
+au seul premier tour ne peut retracer de dépenses postérieures à la date de celui-ci. La valeur vénale résiduelle des
+immobilisations éventuellement constituées au cours de la période mentionnée à l'article L. 52-4 doit être déduite des
+charges retracées dans le compte de campagne.
 
 La commission assure la publication des comptes de campagne dans une forme simplifiée.
 
 Pour l'application de l'article L. 52-11, les frais de transport aérien, maritime et fluvial dûment justifiés, exposés par
 les candidats aux élections législatives et aux élections régionales à l'intérieur de chacun des départements d'outre-mer, ne
 sont pas inclus dans le plafond des dépenses.
-
-**Nota:**
-
-
 
 **Liens relatifs à cet article**
 
@@ -3759,12 +3760,12 @@ _Codifié par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°95-65 1995-01-19 art. 26 :
-  - SPEC_APPLI: La présente loi est applicable dans les territoires d'outre-mer et la collectivité territoriale de Mayotte
+  - SPEC_APPLI: Ordonnance 2003-1165 2003-12-08 art. 38 I, II, III :
+  - SPEC_APPLI: Le titre II de la présente ordonnance est applicable en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna
 
 _Modifié par_:
 
-  - Ordonnance n°2000-350 du 19 avril 2000 - art. 1 ()
+  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 6 () JORF 9 décembre 2003
 
 _Cite_:
 
@@ -3807,7 +3808,8 @@ _Cite_:
 
 ###### Article L52-14
 
-Il est institué une Commission nationale des comptes de campagne et des financements politiques.
+Il est institué une autorité administrative indépendante dénommée Commission nationale des comptes de campagne et des
+financements politiques.
 
 Cette commission comprend neuf membres nommés, pour cinq ans, par décret :
 
@@ -3822,9 +3824,19 @@ comptes, après avis des présidents de chambres.
 
 Elle élit son président.
 
-La commission peut bénéficier, pour l'accomplissement de ses tâches, de la mise à disposition de fonctionnaires chargés de
-l'assister et recourir à des experts. Elle peut également demander à des officiers de police judiciaire de procéder à toute
-investigation qu'elle juge nécessaire pour l'exercice de sa mission.
+Les crédits et les emplois nécessaires au fonctionnement de la Commission nationale des comptes de campagne et des
+financements politiques sont inscrits au budget général de l'Etat.
+
+Les dispositions de la loi du 10 août 1922 relative à l'organisation du contrôle des dépenses engagées ne sont pas
+applicables aux dépenses de la commission.
+
+La commission peut recruter des agents contractuels pour les besoins de son fonctionnement.
+
+Les personnels des services de la commission, qu'ils soient fonctionnaires ou contractuels, sont tenus au secret
+professionnel pour les faits, actes et renseignements dont ils ont pu avoir connaissance en raison de leurs fonctions.
+
+La commission peut demander à des officiers de police judiciaire de procéder à toute investigation qu'elle juge nécessaire
+pour l'exercice de sa mission.
 
 **Liens relatifs à cet article**
 
@@ -3849,37 +3861,46 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
-
-  - Loi n°90-55 du 15 janvier 1990 - art. 1 () JORF 16 janvier 1990
-
 **Liens**:
 
   - TXT_SOURCE: Décret n°97-255 du 18 mars 1997
   - TXT_SOURCE: Décret n°97-255 du 18 mars 1997 - art. 1 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 7 () JORF 9 décembre 2003
+
+_Cite_:
+
+  - Loi n°1922-08-10
+
 
 ###### Article L52-15
 
 La Commission nationale des comptes de campagne et des financements politiques approuve et, après procédure contradictoire,
-rejette ou réforme les comptes de campagne.
+rejette ou réforme les comptes de campagne. Elle arrête le montant du remboursement forfaitaire prévu à l'article L.
+52-11-1. 
 
 Hors le cas prévu à l'article L. 118-2, elle se prononce dans les six mois du dépôt des comptes. Passé ce délai, les comptes
-sont réputés approuvés.
+sont réputés approuvés. 
 
 Lorsque la commission a constaté que le compte de campagne n'a pas été déposé dans le délai prescrit, si le compte a été
 rejeté ou si, le cas échéant après réformation, il fait apparaître un dépassement du plafond des dépenses électorales, la
-commission saisit le juge de l'élection.
+commission saisit le juge de l'élection. 
 
 Dans le cas où la commission a relevé des irrégularités de nature à contrevenir aux dispositions des articles L. 52-4 à L.
-52-13 et L. 52-16, elle transmet le dossier au parquet.
+52-13 et L. 52-16, elle transmet le dossier au parquet. 
 
 Le remboursement total ou partiel des dépenses retracées dans le compte de campagne, quand la loi le prévoit, n'est possible
-qu'après l'approbation du compte de campagne par la commission.
+qu'après l'approbation du compte de campagne par la commission. 
 
 Dans tous les cas où un dépassement du plafond des dépenses électorales a été constaté par une décision définitive, la
 commission fixe alors une somme égale au montant du dépassement que le candidat est tenu de verser au Trésor public. Cette
 somme est recouvrée comme les créances de l'Etat étrangères à l'impôt et au domaine.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -3898,13 +3919,20 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
+**Liens**:
 
-  - Loi n°90-55 du 15 janvier 1990 - art. 1 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+  - SPEC_APPLI: Ordonnance 2003-1165 2003-12-08 art. 38 I, II, III :
+  - SPEC_APPLI: Le titre II de la présente ordonnance est applicable en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna
+
+_Modifié par_:
+
+  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 8 () JORF 9 décembre 2003
 
 _Cite_:
 
-  - Code électoral L52-4 à L52-13, L52-16 et L118-2
+  - Code électoral - art. L52-11-1 (V)
+  - Code électoral - art. L52-16 (V)
+  - Code électoral - art. L52-4 (VT)
 
 
 ###### Article L52-16
@@ -4796,39 +4824,18 @@ _Cité par_:
 
 ###### Article L71
 
-Peuvent exercer, sur leur demande, leur droit de vote par procuration dans les conditions fixées par la présente section:
+Peuvent exercer, sur leur demande, leur droit de vote par procuration :
 
-I. - Les électeurs qui établissent que des obligations dûment constatées les placent dans l'impossibilité d'être présents
-dans leur commune d'inscription le jour du scrutin.
+a) Les électeurs attestant sur l'honneur qu'en raison d'obligations professionnelles, en raison d'un handicap, pour raison de
+santé ou en raison de l'assistance apportée à une personne malade ou infirme, il leur est impossible d'être présents dans
+leur commune d'inscription le jour du scrutin ou de participer à celui-ci en dépit de leur présence dans la commune ;
 
-II. - les électeurs appartenant à l'une des catégories ci-après, qu'ils se trouvent ou non dans leur commune d'inscription le
-jour du scrutin :
+b) Les électeurs attestant sur l'honneur qu'en raison d'obligations de formation, parce qu'ils sont en vacances ou parce
+qu'ils résident dans une commune différente de celle où ils sont inscrits sur une liste électorale, ils ne sont pas présents
+dans leur commune d'inscription le jour du scrutin ;
 
-1° les fonctionnaires de l'État exerçant leur profession dans les phares ;
-
-2° les titulaires d'une pension militaire d'invalidité ou de victime civile de guerre dont le taux est égal ou supérieur à 85
-% ;
-
-3° les titulaires d'une pension d'invalidité allouée au titre d'une législation de sécurité sociale, bénéficiant de la
-majoration pour assistance d'une tierce personne, notamment les assurés sociaux du régime général de sécurité sociale placés
-dans le troisième groupe ;
-
-4° les titulaires d'une pension de vieillesse, allouée au titre d'une législation de sécurité sociale, bénéficiant de la
-majoration pour assistance d'une tierce personne ;
-
-5° les victimes d'accidents du travail bénéficiant d'une rente correspondant à un taux égal ou supérieur à 85 % ;
-
-6° les personnes âgées et infirmes bénéficiant d'une prise en charge pour aide d'une tierce personne ;
-
-7° les personnes qui assistent les invalides, vieillards ou infirmes visés aux alinéas précédents ;
-
-8° les malades, femmes en couches, infirmes ou incurables qui, en raison de leur état de santé ou de leur condition physique,
-seront dans l'impossibilité de se déplacer le jour du scrutin ;
-
-9° les personnes placées en détention provisoire et les détenus purgeant une peine n'entraînant pas une incapacité
-électorale ;
-
-III. - Les électeurs qui ont quitté leur résidence habituelle pour prendre des vacances.
+c) Les personnes placées en détention provisoire et les détenus purgeant une peine n'entraînant pas une incapacité
+électorale.
 
 **Liens relatifs à cet article**
 
@@ -4864,10 +4871,15 @@ _Cité par_:
 **Liens**:
 
   - TXT_SOURCE: Décret n°76-158 du 12 février 1976 - art. 1 (Ab)
-  - SPEC_APPLI: Loi n°92-556 1992-06-25 art. 10
   - TXT_SOURCE: Décret n°93-1223 du 10 novembre 1993
   - TXT_SOURCE: Décret n°93-1223 du 10 novembre 1993 - art. 2 (V)
   - TXT_SOURCE: Décret n°93-1223 du 10 novembre 1993 - art. 3 (V)
+  - SPEC_APPLI: Ordonnance 2003-1165 2003-12-08 art. 38 I, II, III :
+  - SPEC_APPLI: Le titre III de la présente ordonnance est applicable en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna
+
+_Modifié par_:
+
+  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 9 () JORF 9 décembre 2003
 
 
 ###### Article L72
@@ -4922,13 +4934,11 @@ _Modifié par_:
 
 ###### Article L74
 
-Le ou la mandataire participe au scrutin dans les conditions prévues à l'article L. 62.
+Le ou la mandataire participe au scrutin dans les conditions prévues à l'article L. 62. 
 
-A son entrée dans la salle du scrutin et sur présentation de sa carte électorale et de sa procuration, il lui est remis une
-enveloppe électorale.
+Il prend une enveloppe électorale après avoir fait constater l'existence d'un mandat de vote par procuration. 
 
-Son vote est constaté par l'estampillage de la procuration et par sa signature apposée à l'encre sur la liste d'émargement en
-face du nom du mandant.
+Son vote est constaté par sa signature apposée à l'encre sur la liste d'émargement en face du nom du mandant.
 
 **Liens relatifs à cet article**
 
@@ -4941,13 +4951,10 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°88-1262 1988-12-30 art. 38
-
 _Modifié par_:
 
-  - Loi n°88-1262 du 30 décembre 1988 - art. 15 () JORF 4 janvier 1989
+  - Ordonnance 2003-1165 2003-12-08 art. 10 I, II JORF 9 décembre 2003
+  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 10 () JORF 9 décembre 2003
 
 _Cite_:
 
@@ -7469,6 +7476,9 @@ _Cité par_:
 Les candidats sont tenus de faire une déclaration revêtue de leur signature, énonçant leurs nom, prénoms, sexe, date et lieu
 de naissance, domicile et profession.
 
+A cette déclaration sont jointes les pièces de nature à prouver que le candidat est âgé de vingt-trois ans révolus et possède
+la qualité d'électeur.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -7483,24 +7493,26 @@ _Cité par_:
   - Code électoral - art. L190 (V)
   - Code électoral - art. R99 (M)
 
+**Liens**:
+
+  - SPEC_APPLI: Le titre IV de la présente ordonnance est applicable en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna
+  - SPEC_APPLI: Ordonnance 2003-1165 2003-12-08 art. 38 I, II, III :
+
 _Modifié par_:
 
-  - Loi n°2000-493 du 6 juin 2000 - art. 14 ()
+  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 11 () JORF 9 décembre 2003
 
 
 ###### Article L155
 
 Cette déclaration doit également indiquer les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de la
 personne appelée à remplacer le candidat élu en cas de vacance du siège. Elle doit être accompagnée de l'acceptation écrite
-du remplaçant; celui-ci doit remplir les conditions d'éligibilité exigées des candidats. Nul ne peut figurer en qualité de
-remplaçant sur plusieurs déclarations de candidatures *interdiction*.
+du remplaçant ; celui-ci doit remplir les conditions d'éligibilité exigées des candidats. Il joint les pièces de nature à
+prouver qu'il répond à ces conditions.
+
+Nul ne peut figurer en qualité de remplaçant sur plusieurs déclarations de candidatures.
 
 Nul ne peut être à la fois candidat et remplaçant d'un autre candidat.
-
-**Nota:**
-
-Loi 2000-493 2000-06-06 art. 17 : Les dispositions de cet article entreront en vigueur lors du prochain renouvellement
-intervenant à échéance normale des conseils et assemblées auxquels elles s'appliquent
 
 **Liens relatifs à cet article**
 
@@ -7517,9 +7529,14 @@ _Cité par_:
   - Code électoral - art. L460 (VT)
   - Code électoral - art. R99 (M)
 
+**Liens**:
+
+  - SPEC_APPLI: Le titre IV de la présente ordonnance est applicable en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna
+  - SPEC_APPLI: Ordonnance 2003-1165 2003-12-08 art. 38 I, II, III :
+
 _Modifié par_:
 
-  - Loi n°2000-493 du 6 juin 2000 - art. 14 ()
+  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 12 () JORF 9 décembre 2003
 
 
 ###### Article L156
@@ -7548,8 +7565,8 @@ _Cité par_:
 
 ###### Article L157
 
-Les déclarations de candidatures doivent être déposées, en double exemplaire, à la préfecture au plus tard vingt et un jours
-avant celui de l'ouverture du scrutin.
+Les déclarations de candidatures doivent être déposées, en double exemplaire, à la préfecture au plus tard à 18 heures le
+quatrième vendredi précédant le jour du scrutin.
 
 La déclaration de candidature est remise personnellement par le candidat ou son suppléant.
 
@@ -7563,12 +7580,12 @@ _Codifié par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°95-65 1995-01-19 art. 26 :
-  - SPEC_APPLI: La présente loi est applicable dans les territoires d'outre-mer et la collectivité territoriale de Mayotte
+  - SPEC_APPLI: Ordonnance 2003-1165 2003-12-08 art. 38 I, II, III :
+  - SPEC_APPLI: Le titre IV de la présente ordonnance est applicable en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna
 
 _Modifié par_:
 
-  - Loi n°95-65 du 19 janvier 1995 - art. 9 ()
+  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 13 () JORF 9 décembre 2003
 
 _Cité par_:
 
@@ -7600,8 +7617,7 @@ _Cité par_:
 
 ###### Article L161
 
-Un récépissé définitif est délivré dans les quatre jours du dépôt de la déclaration de candidature sur présentation du
-récépissé de versement du cautionnement, délivré par le trésorier-payeur général.
+Un récépissé définitif est délivré dans les quatre jours du dépôt de la déclaration de candidature.
 
 Le récépissé définitif n'est délivré que si la candidature est conforme aux prescriptions des lois en vigueur.
 
@@ -7611,6 +7627,15 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2003-1165 2003-12-08 art. 38 I, II, III :
+  - SPEC_APPLI: Le titre IV de la présente ordonnance est applicable en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna
+
+_Modifié par_:
+
+  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 14 () JORF 9 décembre 2003
+
 _Cité par_:
 
   - Code électoral - art. L190 (V)
@@ -7618,26 +7643,27 @@ _Cité par_:
 
 ###### Article L162
 
-Les déclarations de candidatures pour le second tour de scrutin doivent être déposées avant le mardi minuit qui suit le
-premier tour.
+Les déclarations de candidatures pour le second tour de scrutin doivent être déposées avant dix-huit heures le mardi qui suit
+le premier tour. 
 
 Toutefois si, par suite d'un cas de force majeure, le recensement des votes n'a pu être effectué dans le délai prévu à
-l'article L.175, les déclarations seront reçues jusqu'au mercredi minuit.
+l'article L. 175, les déclarations seront reçues jusqu'à dix-huit heures le mercredi. 
 
 Sous réserve des dispositions de l'article L. 163, nul ne peut être candidat au deuxième tour s'il ne s'est présenté au
-premier tour et s'il n'a obtenu un nombre de suffrages au moins égal à 12,5 % du nombre des électeurs inscrits.
+premier tour et s'il n'a obtenu un nombre de suffrages au moins égal à 12,5 % du nombre des électeurs inscrits. 
 
 Dans le cas où un seul candidat remplit ces conditions, le candidat ayant obtenu après celui-ci le plus grand nombre de
-suffrages au premier tour peut se maintenir au second.
+suffrages au premier tour peut se maintenir au second. 
 
 Dans le cas où aucun candidat ne remplit ces conditions, les deux candidats ayant obtenu le plus grand nombre de suffrages au
-premier tour peuvent se maintenir au second.
+premier tour peuvent se maintenir au second. 
 
 Un candidat ne peut présenter pour le second tour de scrutin un remplaçant autre que celui qu'il avait désigné dans sa
-déclaration de candidature lors du premier tour.
+déclaration de candidature lors du premier tour. 
 
-Les dispositions de l'article L. 159 sont applicables aux déclarations de candidatures pour le second tour de scrutin. Dans
-ce cas, le tribunal administratif statue dans un délai de vingt-quatre heures.
+Les dispositions des deuxième et troisième alinéas de l'article L. 157 et celles de l'article L. 159 sont applicables aux
+déclarations de candidatures pour le second tour de scrutin. Dans ce cas, le tribunal administratif statue dans un délai de
+vingt-quatre heures.
 
 **Liens relatifs à cet article**
 
@@ -7645,15 +7671,20 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2003-1165 2003-12-08 art. 38 I, II, III :
+
 _Modifié par_:
 
-  - Loi n°86-825 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
+  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 15 () JORF 9 décembre 2003
 
 _Cite_:
 
+  - Code électoral - art. L157 (V)
   - Code électoral - art. L159 (V)
-  - Code électoral - art. L163 (M)
-  - Code électoral - art. L175 (M)
+  - Code électoral - art. L163 (V)
+  - Code électoral - art. L175 (V)
 
 _Cité par_:
 
@@ -7862,14 +7893,15 @@ délibération, le bureau est complété par les présidents de groupe.
 Les émissions précédant le deuxième tour de scrutin ont une durée d'une heure trente : elles sont réparties entre les mêmes
 partis et groupements et selon les mêmes proportions.
 
-III. - Tout parti ou groupement présentant au premier tour de scrutin soixante-quinze candidats au moins [*nombre minimum*] a
-accès aux antennes de la radiodiffusion-télévision française pour une durée de sept minutes au premier tour et de cinq
-minutes au second, dès lors qu'aucun de ses candidats n'appartient à l'un des groupements ou partis bénéficiant d'émissions
-au titre du paragraphe II.
+III. - Tout parti ou groupement politique qui n'est pas représenté par des groupes parlementaires de l'Assemblée nationale a
+accès, à sa demande, aux émissions du service public de la communication audiovisuelle pour une durée de sept minutes au
+premier tour et de cinq minutes au second, dès lors qu'au moins soixante-quinze candidats ont indiqué, dans leur déclaration
+de candidature, s'y rattacher pour l'application de la procédure prévue par le deuxième alinéa de l'article 9 de la loi n°
+88-277 du 11 mars 1988 relative à la transparence financière de la vie politique.
 
 L'habilitation est donnée à ces partis ou groupements dans des conditions qui seront fixées par décret.
 
-IV. - Les conditions de production, de programmation et de diffusion des émissions sont fixées, après consultation des
+IV. - Les conditions de productions, de programmation et de diffusion des émissions sont fixés, après consultation des
 conseils d'administration des sociétés nationales de télévision et de radiodiffusion, par le conseil supérieur de
 l'audiovisuel.
 
@@ -7890,9 +7922,18 @@ _Cité par_:
   - Ordonnance n°2000-350 du 19 avril 2000 - art. 20 (V)
   - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
 
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2003-1165 2003-12-08 art. 38 I, II, III :
+  - SPEC_APPLI: Le titre IV de la présente ordonnance est applicable en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna
+
 _Modifié par_:
 
-  - Loi n°2001-624 du 17 juillet 2001 - art. 24 ()
+  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 16 () JORF 9 décembre 2003
+
+_Cite_:
+
+  - Loi n°88-277 1988-03-11 art. 9
 
 
 ###### Article L168
@@ -7989,7 +8030,7 @@ _Codifié par_:
 
 ###### Article L173
 
-Les élections ont lieu le cinquième dimanche qui suit la publication du décret convoquant les électeurs.
+Les élections ont lieu le septième dimanche qui suit la publication du décret convoquant les électeurs.
 
 **Liens relatifs à cet article**
 
@@ -8003,6 +8044,10 @@ _Cité par_:
   - Décret n°86-170 du 6 février 1986 - art. 3 (Ab)
   - Code électoral - art. L330-11 (V)
   - Code électoral - art. L397 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 17 () JORF 9 décembre 2003
 
 
 #### Chapitre VIII : Opérations de vote<a id=31></a>
@@ -8941,9 +8986,17 @@ _Cite_:
 ###### Article L205
 
 Tout conseiller général qui, pour une cause survenue postérieurement à son élection, se trouve dans un des cas
-d'inéligibilité prévus par les articles L. 195, L. 199 et L. 200 ou se trouve frappé de l'une des incapacités qui font perdre
-la qualité d'électeur, est déclaré démissionnaire par le conseil général soit d'office, soit sur la réclamation de tout
-électeur.
+d'inéligibilité prévus par les articles L. 195, 
+L. 199 et L. 200 ou se trouve frappé de l'une des incapacités qui font perdre la qualité d'électeur, est déclaré
+démissionnaire par le représentant de l'Etat dans le département, sauf réclamation au tribunal administratif dans les dix
+jours de la notification, et sauf recours au Conseil d'Etat, conformément aux articles L. 222 et L. 223. Lorsqu'un conseiller
+général est déclaré démissionnaire d'office à la suite d'une condamnation pénale définitive prononcée à son encontre et
+entraînant de ce fait la perte de ses droits civiques et électoraux, le recours éventuel contre l'acte de notification du
+préfet n'est pas suspensif.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -8953,13 +9006,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-1248 du 21 décembre 2001 - art. 45 ()
+  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 18 () JORF 9 décembre 2003
 
 _Cite_:
 
-  - Code électoral - art. L195 (M)
-  - Code électoral - art. L199 (M)
-  - Code électoral - art. L200 (M)
+  - Code électoral - art. L195 (VT)
+  - Code électoral - art. L199 (VT)
+  - Code électoral - art. L222 (VT)
 
 _Cité par_:
 
@@ -9123,8 +9176,13 @@ _Anciens textes_:
 ###### Article L210
 
 Tout conseiller général qui, pour une cause survenue postérieurement à son élection, se trouve dans un des cas
-d'incompatibilité prévus par les articles L. 206 et L. 207 est déclaré démissionnaire par le conseil général, soit d'office,
-soit sur la réclamation de tout électeur.
+d'incompatibilité prévus par les articles L. 206 et L. 207 est déclaré démissionnaire par le représentant de l'Etat dans le
+département, sauf réclamation au tribunal administratif dans les dix jours de la notification, et sauf recours au Conseil
+d'Etat, conformément aux articles L. 222 et L. 223.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -9132,10 +9190,14 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+_Modifié par_:
+
+  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 19 () JORF 9 décembre 2003
+
 _Cite_:
 
-  - Code électoral - art. L206 (M)
-  - Code électoral - art. L207 (M)
+  - Code électoral - art. L206 (VT)
+  - Code électoral - art. L222 (VT)
 
 _Cité par_:
 
@@ -9272,31 +9334,6 @@ _Cité par_:
 _Cite_:
 
   - Code électoral - art. L217 (V)
-
-
-###### Article L214
-
-Sont prescrits et acquis au Trésor public, dans le délai d'un an à dater de leur dépôt, les cautionnements versés à la caisse
-des dépôts et consignations par les candidats en application de l'article L. 213.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°46-2769 du 27 novembre 1946 - art. 32 (M)
-  - Décret n°1947-05-02 du 2 mai 1947 - art. 10 bis (Ab)
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Abrogé par_:
-
-  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 20 () JORF 9 décembre 2003
-
-_Cite_:
-
-  - Code électoral - art. L213 (Ab)
 
 
 ###### Article L215
@@ -9617,7 +9654,8 @@ _Cite_:
 ###### Article L227
 
 Les conseillers municipaux sont élus pour six ans. Lors même qu'ils ont été élus dans l'intervalle, ils sont renouvelés
-intégralement au mois de mars à une date fixée au moins trois mois auparavant par décret pris en Conseil des ministres.
+intégralement au mois de mars à une date fixée au moins trois mois auparavant par décret pris en Conseil des ministres. Ce
+décret convoque en outre les électeurs.
 
 **Liens relatifs à cet article**
 
@@ -9636,6 +9674,15 @@ _Cité par_:
   - Code électoral - art. L247 (VD)
   - Code électoral - art. L273-3 (VD)
   - Loi n°94-590 du 15 juillet 1994 - art. 1 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2003-1165 2003-12-08 art. 38 I :
+  - SPEC_APPLI: Le titre VI de la présente ordonnance est applicable en Nouvelle-Calédonie
+
+_Modifié par_:
+
+  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 21 () JORF 9 décembre 2003
 
 
 ##### Section 1 bis : Dispositions spéciales à l'exercice par les ressortissants d'un Etat membre de l'Union européenne autre que la France du droit de vote pour l'élection des conseillers municipaux et des membres du Conseil de Paris<a id=49></a>
@@ -10404,30 +10451,6 @@ _Cite_:
   - Code électoral - art. L242 (V)
 
 
-###### Article L245
-
-Sont prescrits et acquis au Trésor public, dans le délai d'un an à dater de leur dépôt les cautionnements versés par les
-candidats en application de l'article L. 244.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Cité par_:
-
-  - Ordonnance n°77-122 du 10 février 1977 - art. 11 (Ab)
-
-_Abrogé par_:
-
-  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 22 () JORF 9 décembre 2003
-
-_Cite_:
-
-  - Code électoral - art. L244 (Ab)
-
-
 ###### Article L246
 
 Sera puni d'une amende de 3 750 euros et d'un emprisonnement de six mois, ou de l'une de ces deux peines seulement, quiconque
@@ -10452,8 +10475,7 @@ _Cite_:
 
 ###### Article L247
 
-L'assemblée des électeurs est convoquée, par arrêté du préfet, dans le cas de renouvellement général des conseils municipaux,
-et par arrêté du sous-préfet dans tous les autres cas.
+Par dérogation à l'article L. 227, les électeurs sont convoqués pour les élections partielles, par arrêté du sous-préfet. 
 
 L'arrêté de convocation est publié dans la commune quinze jours au moins avant l'élection.
 
@@ -10463,13 +10485,22 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2003-1165 2003-12-08 art. 38 I :
+  - TXT_ASSOCIE: Code électoral - art. R127 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 23 () JORF 9 décembre 2003
+
 _Cité par_:
 
   - CODE DES COMMUNES. - art. R*173-13 (Ab)
 
-**Liens**:
+_Cite_:
 
-  - TXT_ASSOCIE: Code électoral - art. R127 (Ab)
+  - Code électoral - art. L227 (V)
 
 
 ##### Section 6 : Opérations de vote<a id=54></a>
@@ -10599,7 +10630,7 @@ _Cité par_:
 ###### Article L251
 
 Dans le cas où l'annulation de tout ou partie des élections est devenue définitive, l'assemblée des électeurs est convoquée
-dans un délai qui ne peut excéder deux mois, à moins que l'annulation n'intervienne dans les trois mois qui précèdent le
+dans un délai qui ne peut excéder trois mois, à moins que l'annulation n'intervienne dans les trois mois qui précèdent le
 renouvellement général des conseils municipaux.
 
 **Liens relatifs à cet article**
@@ -10607,6 +10638,15 @@ renouvellement général des conseils municipaux.
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+**Liens**:
+
+  - SPEC_APPLI: Le titre VI de la présente ordonnance est applicable en Nouvelle-Calédonie
+  - SPEC_APPLI: Ordonnance 2003-1165 2003-12-08 art. 38 I :
+
+_Modifié par_:
+
+  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 24 () JORF 9 décembre 2003
 
 
 #### Chapitre II : Dispositions spéciales aux communes de moins de 3 500 habitants<a id=56></a>
@@ -10859,7 +10899,7 @@ _Cité par_:
 ###### Article L258
 
 Lorsque le conseil municipal a perdu, par l'effet des vacances survenues, le tiers de ses membres, il est, dans le délai de
-deux mois à dater de la dernière vacance, procédé à des élections complémentaires.
+trois mois à dater de la dernière vacance, procédé à des élections complémentaires.
 
 Toutefois, dans l'année qui précède le renouvellement général des conseils municipaux, les élections complémentaires ne sont
 obligatoires qu'au cas où le conseil municipal a perdu plus de la moitié de ses membres.
@@ -10873,15 +10913,20 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Modifié par_:
-
-  - Loi n°82-974 1982-11-19 art. 2 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
-
 _Cité par_:
 
   - Code général des collectivités territoriales - art. R2121-3 (M)
   - Code électoral - art. L270 (V)
   - Code électoral - art. L429 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Le titre VI de la présente ordonnance est applicable en Nouvelle-Calédonie
+  - SPEC_APPLI: Ordonnance 2003-1165 2003-12-08 art. 38 I :
+
+_Modifié par_:
+
+  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 25 () JORF 9 décembre 2003
 
 
 ###### Article L259
@@ -11092,12 +11137,12 @@ _Cité par_:
 ###### Article L265
 
 La déclaration de candidature résulte du dépôt à la préfecture ou à la sous-préfecture d'une liste répondant aux conditions
-fixées aux articles L. 260, L. 263 et L. 264. Il en est délivré récépissé.
+fixées aux articles L. 260, L. 263, L. 264 et LO 265-1. Il en est délivré récépissé.
 
 Elle est faite collectivement pour chaque liste par la personne ayant la qualité de responsable de liste. A cet effet, chaque
 candidat établit un mandat signé de lui, confiant au responsable de liste le soin de faire ou de faire faire, par une
 personne déléguée par lui, toutes déclarations et démarches utiles à l'enregistrement de la liste, pour le premier et le
-second tours. La liste déposée indique expressément [*mentions obligatoires*] :
+second tours. La liste déposée indique expressément :
 
 1° Le titre de la liste présentée ;
 
@@ -11118,25 +11163,16 @@ Récépissé ne peut être délivré que si les conditions énumérées au prés
 visés au quatrième alinéa établissent que les candidats satisfont aux conditions d'éligibilité posées par les deux premiers
 alinéas de l'article L. 228.
 
-En cas de refus de délivrance du récépissé, tout candidat de la liste intéressée dispose de vingt-quatre heures [*délai*]
-pour saisir le tribunal administratif qui statue, en premier et dernier ressort, dans les trois jours du dépôt de la requête.
+En cas de refus de délivrance du récépissé, tout candidat de la liste intéressée dispose de vingt-quatre heures pour saisir
+le tribunal administratif qui statue, en premier et dernier ressort, dans les trois jours du dépôt de la requête.
 
 Faute par le tribunal administratif d'avoir statué dans ce délai, le récépissé est délivré.
-
-**Nota:**
-
-Loi n° 2000-493 2000-06-06 art. 17 : Les dispositions de cet article entreront en vigueur lors du prochain renouvellement
-intervenant à échéance normale des conseils et assemblées auxquels elles s'appliquent
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°88-1262 1988-12-30 art. 38
 
 _Cité par_:
 
@@ -11147,15 +11183,22 @@ _Cité par_:
   - Code électoral - art. R128 (V)
   - Code électoral - art. R128-3 (VD)
 
+**Liens**:
+
+  - SPEC_APPLI: Le titre VI de la présente ordonnance est applicable en Nouvelle-Calédonie
+  - SPEC_APPLI: Ordonnance 2003-1165 2003-12-08 art. 38 I :
+
 _Modifié par_:
 
-  - Loi n°2000-493 du 6 juin 2000 - art. 2 ()
+  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 27 () JORF 9 décembre 2003
 
 _Cite_:
 
   - Code électoral - art. L228 (V)
   - Code électoral - art. L260 (V)
-  - Code électoral L228, L260, L263 et L264
+  - Code électoral - art. L263 (V)
+  - Code électoral - art. L264 (M)
+  - Code électoral L260, L263, L264, L228, LO 265-1
 
 
 ###### Article L266
@@ -11182,14 +11225,14 @@ _Cite_:
 
 Les déclarations de candidatures doivent être déposées au plus tard :
 
-- pour le premier tour, le deuxième vendredi qui précède le jour du scrutin, à vingt-quatre heures;
+- pour le premier tour, le troisième jeudi qui précède le jour du scrutin, à dix-huit heures ;
 
-- pour le second tour, le mardi qui suit le premier tour, à vingt-quatre heures.
+- pour le second tour, le mardi qui suit le premier tour, à dix-huit heures.
 
 Aucun retrait volontaire ou remplacement de candidat n'est accepté après le dépôt de la liste.
 
 Les retraits des listes complètes qui interviennent avant l'expiration des délais prévus à l'alinéa 1 du présent article pour
-le dépôt des déclarations de candidatures sont enregistrés; ils comportent la signature de la majorité des candidats de la
+le dépôt des déclarations de candidatures sont enregistrés ; ils comportent la signature de la majorité des candidats de la
 liste.
 
 **Liens relatifs à cet article**
@@ -11198,9 +11241,14 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+**Liens**:
+
+  - SPEC_APPLI: Le titre VI de la présente ordonnance est applicable en Nouvelle-Calédonie
+  - SPEC_APPLI: Ordonnance 2003-1165 2003-12-08 art. 38 I :
+
 _Modifié par_:
 
-  - Loi n°82-974 1982-11-19 art. 4 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
+  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 28 () JORF 9 décembre 2003
 
 
 ###### Article LO265-1
@@ -11294,20 +11342,20 @@ _Modifié par_:
 Le candidat venant sur une liste immédiatement après le dernier élu est appelé à remplacer le conseiller municipal élu sur
 cette liste dont le siège devient vacant pour quelque cause que ce soit. La constatation, par la juridiction administrative,
 de l'inéligibilité d'un ou plusieurs candidats n'entraîne l'annulation de l'élection que du ou des élus inéligibles. La
-juridiction saisie proclame en conséquence l'élection du ou des suivants de liste.
+juridiction saisie proclame en conséquence l'élection du ou des suivants de liste. 
 
 Si le candidat ainsi appelé à remplacer le conseiller municipal se trouve de ce fait dans l'un des cas d'incompatibilité
 mentionnés à l'article L. 46-1, il dispose d'un délai de trente jours à compter de la date de la vacance pour faire cesser
 l'incompatibilité en démissionnant de l'un des mandats visés par ces dispositions. A défaut d'option dans le délai imparti,
-le remplacement est assuré par le candidat suivant dans l'ordre de la liste.
+le remplacement est assuré par le candidat suivant dans l'ordre de la liste. 
 
 Lorsque les dispositions des alinéas précédents ne peuvent plus être appliquées, il est procédé au renouvellement du conseil
-municipal :
+municipal : 
 
-1° Dans les deux mois de la dernière vacance, si le conseil municipal a perdu le tiers de ses membres, et sous réserve de
-l'application du deuxième alinéa de l'article L. 258;
+1° Dans les trois mois de la dernière vacance, si le conseil municipal a perdu le tiers de ses membres, et sous réserve de
+l'application du deuxième alinéa de l'article L. 258 ; 
 
-2° Dans les conditions prévues aux articles L2122-8 et L2122-14 du code général des collectivités territoriales, s'il est
+2° Dans les conditions prévues aux articles L. 2122-8 et L. 2122-14 du code général des collectivités territoriales, s'il est
 nécessaire de compléter le conseil avant l'élection d'un nouveau maire.
 
 **Liens relatifs à cet article**
@@ -11316,9 +11364,13 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance 2003-1165 2003-12-08 art. 38 I :
+
 _Modifié par_:
 
-  - Loi n°2002-276 du 27 février 2002 - art. 63 ()
+  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 26 () JORF 9 décembre 2003
 
 _Cité par_:
 
@@ -11330,7 +11382,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code électoral - art. L258 (M)
+  - Code électoral - art. L258 (V)
   - Code général des collectivités territoriales - art. L2122-14 (V)
   - Code général des collectivités territoriales - art. L2122-8 (V)
 
@@ -14721,10 +14773,10 @@ _Cité par_:
 
 Tout conseiller régional qui, pour une cause survenue postérieurement à son élection, se trouve dans un cas d'inéligibilité
 prévu à l'article précédent ou se trouve frappé d'une des incapacités qui font perdre la qualité d'électeur, est déclaré
-démissionnaire d'office par arrêté du représentant de l'Etat dans la région. Lorsqu'un conseiller régional est déclaré
-démissionnaire d'office à la suite d'une condamnation pénale définitive prononcée à son encontre et entraînant de ce fait la
-perte de ses droits civiques et électoraux, le recours éventuel contre l'arrêté du représentant de l'Etat dans la région
-n'est pas suspensif.
+démissionnaire d'office par arrêté du représentant de l'Etat dans la région, sauf recours au Conseil d'Etat dans les dix
+jours de la notification. Lorsqu'un conseiller régional est déclaré démissionnaire d'office à la suite d'une condamnation
+pénale définitive prononcée à son encontre et entraînant de ce fait la perte de ses droits civiques et électoraux, le recours
+éventuel contre l'arrêté du représentant de l'Etat dans la région n'est pas suspensif.
 
 **Liens relatifs à cet article**
 
@@ -14732,17 +14784,9 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
 _Modifié par_:
 
-  - Loi n°2001-1248 du 21 décembre 2001 - art. 48 ()
-
-_Cite_:
-
-  - Code électoral - art. L340 (M)
+  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 29 () JORF 9 décembre 2003
 
 
 ###### Article L341-1
@@ -14845,11 +14889,14 @@ L. 343 dispose d'un délai d'un mois à partir de la date à laquelle son élect
 son mandat ou mettre fin à la situation incompatible avec l'exercice de celui-ci. Il fait connaître son option par écrit au
 représentant de l'Etat dans la région, qui en informe le président du conseil régional. A défaut d'option dans le délai
 imparti, il est réputé démissionnaire de son mandat ; cette démission est constatée par arrêté du représentant de l'Etat dans
-la région.
+la région. 
 
 Si la cause d'incompatibilité survient postérieurement à l'élection, le droit d'option est ouvert dans les mêmes conditions.
 A défaut d'option dans le délai d'un mois à compter de la date à laquelle est survenue la cause d'incompatibilité, le
-conseiller régional est déclaré démissionnaire de son mandat par arrêté du représentant de l'Etat dans la région.
+conseiller régional est déclaré démissionnaire de son mandat par arrêté du représentant de l'Etat dans la région. 
+
+Les arrêtés du représentant de l'Etat dans la région mentionnés aux deux alinéas précédents peuvent être contestés dans les
+dix jours suivant leur notification devant le Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -14857,19 +14904,13 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
 _Modifié par_:
 
-  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 30 () JORF 9 décembre 2003
 
 _Cite_:
 
-  - Code électoral - art. L342 (M)
-  - Code électoral - art. L343 (M)
+  - Code électoral - art. L342 (V)
 
 
 ###### Article L345
@@ -14878,7 +14919,7 @@ Nul ne peut être membre de plusieurs conseils régionaux.
 
 A défaut de leur avoir fait connaître son option dans les trois jours de son élection, le conseiller régional élu dans
 plusieurs régions est déclaré démissionnaire de ses mandats par arrêtés des représentants de l'Etat dans les régions où il a
-été élu.
+été élu. Ces arrêtés peuvent être contestés dans les dix jours suivant leur notification devant le Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -14886,14 +14927,9 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
 _Modifié par_:
 
-  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 31 () JORF 9 décembre 2003
 
 
 #### Chapitre V : Déclarations de candidature<a id=105></a>
