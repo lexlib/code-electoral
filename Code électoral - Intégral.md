@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1976-01-03
+Version Consolidée au 1976-02-08
 ## Contenu: 
   - [Partie législative (art. L1 à L334)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L251)](#2)
@@ -67,11 +67,6 @@ Version Consolidée au 1976-01-03
       - [Titre V : Conditions d'application (art. L326)](#64)
       - [Titre VI : Dispositions pénales (art. L327)](#65)
     - [Livre III  : Dispositions spéciales au département de Saint-Pierre-et-Miquelon (art. L334)](#66)
-  - [Partie réglementaire (art. R81 à R93)](#67)
-    - [Livre Ier  : Election des députés, des conseillers généraux et des conseillers municipaux des départements (art. R81 à R93)](#68)
-      - [Titre Ier  : Dispositions communes à l'élection des députés, des conseillers généraux et des conseillers municipaux (art. R81 à R93)](#69)
-        - [Chapitre VI : Vote (art. R81 à R93)](#70)
-          - [Section 4 : Vote par correspondance (art. R81 à R93)](#71)
 # Partie législative<a id=1></a>
 
 ## LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS<a id=2></a>
@@ -7809,28 +7804,5 @@ _Cité par_:
   - Code électoral - art. L328-4 (Ab)
   - Code électoral - art. L333-4 (Ab)
   - Code électoral - art. R174-1 (Ab)
-
-
-# Partie réglementaire<a id=67></a>
-
-## Livre Ier  : Election des députés, des conseillers généraux et des conseillers municipaux des départements<a id=68></a>
-
-### Titre Ier  : Dispositions communes à l'élection des députés, des conseillers généraux et des conseillers municipaux<a id=69></a>
-
-#### Chapitre VI : Vote<a id=70></a>
-
-##### Section 4 : Vote par correspondance<a id=71></a>
-
-###### Article R81 à R93
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 du 27 octobre 1964, v. init.
-
-_Abrogé par_:
-
-  - Décret n°76-128 du 6 février 1976, art. 10 v. init.
 
 
