@@ -1,7 +1,7 @@
 # Code électoral  
-Version Consolidée au 1981-03-28
+Version Consolidée au 1982-01-30
 ## Contenu: 
-  - [Partie législative (art. L1 à L334)](#1)
+  - [Partie législative (art. L1 à L330)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L251)](#2)
       - [Titre Ier : Dispositions communes à l'élection des députés, des conseillers généraux et des  conseillers municipaux (art. L1 à L118-1)](#3)
         - [Chapitre Ier : Conditions requises pour être électeur (art. L1 à L8)](#4)
@@ -68,49 +68,50 @@ Version Consolidée au 1981-03-28
         - [Chapitre IX : Contentieux (art. LO325)](#65)
       - [Titre V : Conditions d'application (art. L326)](#66)
       - [Titre VI : Dispositions pénales (art. L327)](#67)
-    - [Livre III  : Dispositions spéciales au département de Saint-Pierre-et-Miquelon (art. L334)](#68)
-  - [Partie réglementaire (art. R*1 à R*171)](#69)
-    - [Livre Ier  : Election des députés, des conseillers généraux et des conseillers municipaux des départements (art. R*1 à R130)](#70)
-      - [Titre Ier  : Dispositions communes à l'élection des députés, des conseillers généraux et des conseillers municipaux (art. R*1 à R97)](#71)
-        - [Chapitre II : Listes électorales (art. R*1 à R*25)](#72)
-          - [Section 1 : Conditions d'inscription sur une liste électorale (art. R*1 à R*4)](#73)
-          - [Section 2 : Etablissement et révision des listes électorales (art. R*5 à R15-7)](#74)
-          - [Section 3 : Inscription en dehors des périodes de révision (art. R*17-2)](#75)
-          - [Section 4 : Contrôle des inscriptions sur les listes électorales (art. R*18 à R*22)](#76)
-          - [Section 6 : Cartes électorales (art. R*23 à R*25)](#77)
-        - [Chapitre V : Propagande (art. R26 à R39)](#78)
-        - [Chapitre VI : Vote (art. R40 à R*93-3)](#79)
-          - [Section 1 : Opérations préparatoires au scrutin (art. R40 à R41)](#80)
-          - [Section 2 : Opérations de vote (art. R42 à R71)](#81)
-          - [Section 3 : Vote par procuration (art. R*72 à R*80)](#82)
-          - [Section 5  : Commissions de contrôle des opérations de vote (art. R*93-1 à R*93-3)](#83)
-        - [Chapitre VIII : Contentieux (art. R97)](#84)
-      - [Titre II : Dispositions spéciales à l'élection des députés (art. R*98 à R*109)](#85)
-        - [Chapitre V : Déclarations de candidatures (art. R*98 à R*102)](#86)
-        - [Chapitre VI : Propagande (art. R*103)](#87)
-        - [Chapitre VIII : Opérations de vote (art. R*104 à R*109)](#88)
-      - [Titre III : Dispositions spéciales à l'élection des conseillers généraux (art. R109-1 à R117)](#89)
-        - [Chapitre IV bis : Déclarations de candidatures (art. R109-1)](#90)
-        - [Chapitre V : Propagande (art. R110)](#91)
-        - [Chapitre VII : Opérations de vote (art. R111 à R112)](#92)
-        - [Chapitre IX : Contentieux (art. R113 à R117)](#93)
-      - [Titre IV  : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris (art. R118 à R130)](#94)
-        - [Chapitre Ier : Dispositions applicables à toutes les communes (art. R118 à R123)](#95)
-          - [Section 6 : Opérations de vote (art. R118)](#96)
-          - [Section 7 : Contentieux (art. R119 à R123)](#97)
-        - [Chapitre II : Dispositions spéciales aux communes de moins de 3 500 habitants (art. R124)](#98)
-          - [Section 1 : Mode de scrutin (art. R124)](#99)
-        - [Chapitre III : Dispositions spéciales aux communes de 3 500 habitants et plus (art. R128)](#100)
-          - [Section 2 : Déclarations de candidatures (art. R128)](#101)
-        - [Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille (art. R129 à R130)](#102)
-          - [Section 2 : Opérations préparatoires au scrutin (art. R129 à R130)](#103)
-    - [Livre II  : Election des sénateurs des départements (art. R*131 à R*171)](#104)
-      - [Titre III : Désignation des délégués des conseils municipaux (art. R*131 à R*148)](#105)
-      - [Titre IV : Election des sénateurs (art. R*149 à R*171)](#106)
-        - [Chapitre IV : Déclarations de candidatures (art. R*149 à R*153)](#107)
-        - [Chapitre V : Propagande (art. R*154 à R*161)](#108)
-        - [Chapitre VI : Opérations préparatoires au scrutin (art. R*162)](#109)
-        - [Chapitre VII : Opérations de vote (art. R*163 à R*171)](#110)
+    - [Livre III  : Dispositions spéciales au département de Saint-Pierre-et-Miquelon (art. L328 à L334)](#68)
+    - [Livre III : Dispositions spéciales à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. L330)](#69)
+  - [Partie réglementaire (art. R*1 à R*171)](#70)
+    - [Livre Ier  : Election des députés, des conseillers généraux et des conseillers municipaux des départements (art. R*1 à R130)](#71)
+      - [Titre Ier  : Dispositions communes à l'élection des députés, des conseillers généraux et des conseillers municipaux (art. R*1 à R97)](#72)
+        - [Chapitre II : Listes électorales (art. R*1 à R*25)](#73)
+          - [Section 1 : Conditions d'inscription sur une liste électorale (art. R*1 à R*4)](#74)
+          - [Section 2 : Etablissement et révision des listes électorales (art. R*5 à R15-7)](#75)
+          - [Section 3 : Inscription en dehors des périodes de révision (art. R*17-2)](#76)
+          - [Section 4 : Contrôle des inscriptions sur les listes électorales (art. R*18 à R*22)](#77)
+          - [Section 6 : Cartes électorales (art. R*23 à R*25)](#78)
+        - [Chapitre V : Propagande (art. R26 à R39)](#79)
+        - [Chapitre VI : Vote (art. R40 à R*93-3)](#80)
+          - [Section 1 : Opérations préparatoires au scrutin (art. R40 à R41)](#81)
+          - [Section 2 : Opérations de vote (art. R42 à R71)](#82)
+          - [Section 3 : Vote par procuration (art. R*72 à R*80)](#83)
+          - [Section 5  : Commissions de contrôle des opérations de vote (art. R*93-1 à R*93-3)](#84)
+        - [Chapitre VIII : Contentieux (art. R97)](#85)
+      - [Titre II : Dispositions spéciales à l'élection des députés (art. R*98 à R*109)](#86)
+        - [Chapitre V : Déclarations de candidatures (art. R*98 à R*102)](#87)
+        - [Chapitre VI : Propagande (art. R*103)](#88)
+        - [Chapitre VIII : Opérations de vote (art. R*104 à R*109)](#89)
+      - [Titre III : Dispositions spéciales à l'élection des conseillers généraux (art. R109-1 à R117)](#90)
+        - [Chapitre IV bis : Déclarations de candidatures (art. R109-1)](#91)
+        - [Chapitre V : Propagande (art. R110)](#92)
+        - [Chapitre VII : Opérations de vote (art. R111 à R112)](#93)
+        - [Chapitre IX : Contentieux (art. R113 à R117)](#94)
+      - [Titre IV  : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris (art. R118 à R130)](#95)
+        - [Chapitre Ier : Dispositions applicables à toutes les communes (art. R118 à R123)](#96)
+          - [Section 6 : Opérations de vote (art. R118)](#97)
+          - [Section 7 : Contentieux (art. R119 à R123)](#98)
+        - [Chapitre II : Dispositions spéciales aux communes de moins de 3 500 habitants (art. R124)](#99)
+          - [Section 1 : Mode de scrutin (art. R124)](#100)
+        - [Chapitre III : Dispositions spéciales aux communes de 3 500 habitants et plus (art. R128)](#101)
+          - [Section 2 : Déclarations de candidatures (art. R128)](#102)
+        - [Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille (art. R129 à R130)](#103)
+          - [Section 2 : Opérations préparatoires au scrutin (art. R129 à R130)](#104)
+    - [Livre II  : Election des sénateurs des départements (art. R*131 à R*171)](#105)
+      - [Titre III : Désignation des délégués des conseils municipaux (art. R*131 à R*148)](#106)
+      - [Titre IV : Election des sénateurs (art. R*149 à R*171)](#107)
+        - [Chapitre IV : Déclarations de candidatures (art. R*149 à R*153)](#108)
+        - [Chapitre V : Propagande (art. R*154 à R*161)](#109)
+        - [Chapitre VI : Opérations préparatoires au scrutin (art. R*162)](#110)
+        - [Chapitre VII : Opérations de vote (art. R*163 à R*171)](#111)
 # Partie législative<a id=1></a>
 
 ## LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS<a id=2></a>
@@ -8676,6 +8677,111 @@ _Cite_:
 
 ## Livre III  : Dispositions spéciales au département de Saint-Pierre-et-Miquelon<a id=68></a>
 
+###### Article L328
+
+Les articles L. 191, L. 193, L. 210-1, L. 213 et L. 221 ne sont pas applicables à Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Cite_:
+
+  - Code électoral - art. L191 (V)
+  - Code électoral - art. L193 (V)
+  - Code électoral - art. L210-1 (M)
+  - Code électoral - art. L213 (Ab)
+  - Code électoral - art. L221 (M)
+
+_Nouveaux textes_:
+
+  - Code électoral - art. L328-4 (Ab)
+
+
+###### Article L329
+
+Le conseil général de Saint-Pierre-et-Miquelon est composé de quatorze membres. Le département est divisé en deux
+circonscriptions électorales et les sièges sont répartis de la manière suivante : Saint-Pierre : onze sièges ; Miquelon-
+Langlade :
+
+trois sièges.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°82-104 1982-01-29 art. 1 JORF 30 JANVIER 1982
+
+
+###### Article L331
+
+Les élections se font au scrutin de liste majoritaire à deux tours. Au premier tour de scrutin, nul n'est élu s'il n'a
+réuni :
+
+la majorité absolue des suffrages exprimés;
+
+un nombre de suffrages au moins égal au quart des électeurs inscrits.
+
+Au second tour, l'élection a lieu à la majorité relative quel que soit le nombre de votants. Si plusieurs candidats
+obtiennent le même nombre de suffrages, l'élection est acquise au plus âgé.
+
+Le panachage est autorisé. Les bulletins sont valables bien qu'ils portent plus ou moins de noms qu'il n'y a de conseillers à
+élire. Les derniers noms inscrits au-delà du nombre ne sont pas comptés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+_Cité par_:
+
+  - Code électoral - art. L332 (Ab)
+  - Code électoral - art. L332-1 (M)
+
+
+###### Article L332
+
+Toute liste fait l'objet d'une déclaration collective revêtue de la signature de tous les candidats. Elle est déposée et
+enregistrée à la préfecture au plus tard le quinzième jour précédant le premier tour de scrutin .
+
+A défaut de signature, une procuration du candidat doit être produite. Il est donné au déposant un reçu provisoire de
+déclaration. Le récépissé définitif est délivré dans les trois jours.
+
+La déclaration doit mentionner :
+
+1° les nom, prénoms, date et lieu de naissance des candidats;
+
+2° la circonscription électorale dans laquelle la liste se présente;
+
+3° le titre de la liste. Plusieurs listes ne peuvent avoir, dans la même circonscription, le même titre.
+
+Chaque liste doit comporter un nombre de noms de candidats égal à celui des sièges attribués à la circonscription
+correspondante.
+
+Nul ne peut être candidat sur plusieurs listes ni dans plus d'une circonscription.
+
+Après le dépôt de la liste aucun retrait de candidature n'est admis.
+
+En cas de décès de l'un des candidats, ses colistiers doivent le remplacer immédiatement par un nouveau candidat au rang qui
+leur convient. Cette nouvelle candidature fait l'objet d'une déclaration complémentaire soumise aux règles prévues ci-dessus.
+
+Aucune liste constituée en violation des alinéas précédents ou des dispositions du présent livre ne sera enregistrée. Les
+bulletins obtenus par une liste non enregistrée sont nuls.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+
 ###### Article L334
 
 En cas de vacance par décès, démission ou pour toute autre cause, il sera procédé à des élections partielles dans un délai de
@@ -8700,15 +8806,32 @@ _Cité par_:
   - Code électoral - art. R174-1 (Ab)
 
 
-# Partie réglementaire<a id=69></a>
+## Livre III : Dispositions spéciales à la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=69></a>
 
-## Livre Ier  : Election des députés, des conseillers généraux et des conseillers municipaux des départements<a id=70></a>
+###### Article L330
 
-### Titre Ier  : Dispositions communes à l'élection des députés, des conseillers généraux et des conseillers municipaux<a id=71></a>
+A Saint-Pierre-et-Miquelon, le conseil général est renouvelé intégralement tous les six ans.
 
-#### Chapitre II : Listes électorales<a id=72></a>
+**Liens relatifs à cet article**
 
-##### Section 1 : Conditions d'inscription sur une liste électorale<a id=73></a>
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Modifié par_:
+
+  - Loi n°85-595 du 11 juin 1985 - art. 44 () JORF 14 juin 1985
+
+
+# Partie réglementaire<a id=70></a>
+
+## Livre Ier  : Election des députés, des conseillers généraux et des conseillers municipaux des départements<a id=71></a>
+
+### Titre Ier  : Dispositions communes à l'élection des députés, des conseillers généraux et des conseillers municipaux<a id=72></a>
+
+#### Chapitre II : Listes électorales<a id=73></a>
+
+##### Section 1 : Conditions d'inscription sur une liste électorale<a id=74></a>
 
 ###### Article R*1
 
@@ -8824,7 +8947,7 @@ _Cite_:
   - Code électoral - art. R*3 (M)
 
 
-##### Section 2 : Etablissement et révision des listes électorales<a id=74></a>
+##### Section 2 : Etablissement et révision des listes électorales<a id=75></a>
 
 ###### Article R*5
 
@@ -9609,7 +9732,7 @@ _Cite_:
   - Nouveau code de procédure civile 640, 641, 642
 
 
-##### Section 3 : Inscription en dehors des périodes de révision<a id=75></a>
+##### Section 3 : Inscription en dehors des périodes de révision<a id=76></a>
 
 ###### Article R*17-2
 
@@ -9664,7 +9787,7 @@ _Cite_:
   - Code électoral - art. R*17-1 (M)
 
 
-##### Section 4 : Contrôle des inscriptions sur les listes électorales<a id=76></a>
+##### Section 4 : Contrôle des inscriptions sur les listes électorales<a id=77></a>
 
 ###### Article R*18
 
@@ -9959,7 +10082,7 @@ _Cité par_:
   - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 7 (V)
 
 
-##### Section 6 : Cartes électorales<a id=77></a>
+##### Section 6 : Cartes électorales<a id=78></a>
 
 ###### Article R*23
 
@@ -10062,7 +10185,7 @@ _Cité par_:
   - Code électoral - art. R24-1 (VT)
 
 
-#### Chapitre V : Propagande<a id=78></a>
+#### Chapitre V : Propagande<a id=79></a>
 
 ###### Article R26
 
@@ -10703,9 +10826,9 @@ _Modifié par_:
   - TXT_ASSOCIE: Code électoral - art. L167 (V)
 
 
-#### Chapitre VI : Vote<a id=79></a>
+#### Chapitre VI : Vote<a id=80></a>
 
-##### Section 1 : Opérations préparatoires au scrutin<a id=80></a>
+##### Section 1 : Opérations préparatoires au scrutin<a id=81></a>
 
 ###### Article R40
 
@@ -10927,7 +11050,7 @@ _Cité par_:
   - Code électoral - art. R355 (V)
 
 
-##### Section 2 : Opérations de vote<a id=81></a>
+##### Section 2 : Opérations de vote<a id=82></a>
 
 ###### Article R42
 
@@ -12153,7 +12276,7 @@ _Cite_:
   - Code électoral - art. L68 (VT)
 
 
-##### Section 3 : Vote par procuration<a id=82></a>
+##### Section 3 : Vote par procuration<a id=83></a>
 
 ###### Article R*72
 
@@ -12605,7 +12728,7 @@ _Cité par_:
   - Code électoral - art. R176-2-4 (V)
 
 
-##### Section 5  : Commissions de contrôle des opérations de vote<a id=83></a>
+##### Section 5  : Commissions de contrôle des opérations de vote<a id=84></a>
 
 ###### Article R*93-1
 
@@ -12713,7 +12836,7 @@ _Cite_:
   - Code électoral - art. L85-1 (M)
 
 
-#### Chapitre VIII : Contentieux<a id=84></a>
+#### Chapitre VIII : Contentieux<a id=85></a>
 
 ###### Article R97
 
@@ -12736,9 +12859,9 @@ _Cité par_:
   - Décret n°2018-457 du 6 juin 2018 - art. 13 (V)
 
 
-### Titre II : Dispositions spéciales à l'élection des députés<a id=85></a>
+### Titre II : Dispositions spéciales à l'élection des députés<a id=86></a>
 
-#### Chapitre V : Déclarations de candidatures<a id=86></a>
+#### Chapitre V : Déclarations de candidatures<a id=87></a>
 
 ###### Article R*98
 
@@ -12885,7 +13008,7 @@ _Cité par_:
   - Code électoral - art. R173-5 (V)
 
 
-#### Chapitre VI : Propagande<a id=87></a>
+#### Chapitre VI : Propagande<a id=88></a>
 
 ###### Article R*103
 
@@ -12918,7 +13041,7 @@ _Cite_:
   - Code électoral - art. LO176 (M)
 
 
-#### Chapitre VIII : Opérations de vote<a id=88></a>
+#### Chapitre VIII : Opérations de vote<a id=89></a>
 
 ###### Article R*104
 
@@ -13090,9 +13213,9 @@ _Cité par_:
   - Code électoral - art. R*109 (M)
 
 
-### Titre III : Dispositions spéciales à l'élection des conseillers généraux<a id=89></a>
+### Titre III : Dispositions spéciales à l'élection des conseillers généraux<a id=90></a>
 
-#### Chapitre IV bis : Déclarations de candidatures<a id=90></a>
+#### Chapitre IV bis : Déclarations de candidatures<a id=91></a>
 
 ###### Article R109-1
 
@@ -13130,7 +13253,7 @@ _Cite_:
   - Code électoral - art. R37 (Ab)
 
 
-#### Chapitre V : Propagande<a id=91></a>
+#### Chapitre V : Propagande<a id=92></a>
 
 ###### Article R110
 
@@ -13161,7 +13284,7 @@ _Cité par_:
   - TXT_ASSOCIE: Code électoral - art. L217 (V)
 
 
-#### Chapitre VII : Opérations de vote<a id=92></a>
+#### Chapitre VII : Opérations de vote<a id=93></a>
 
 ###### Article R111
 
@@ -13209,7 +13332,7 @@ _Modifié par_:
   - TXT_ASSOCIE: Code électoral - art. L221 (V)
 
 
-#### Chapitre IX : Contentieux<a id=93></a>
+#### Chapitre IX : Contentieux<a id=94></a>
 
 ###### Article R113
 
@@ -13364,11 +13487,11 @@ _Cite_:
   - Code électoral - art. R114 (VT)
 
 
-### Titre IV  : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris<a id=94></a>
+### Titre IV  : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris<a id=95></a>
 
-#### Chapitre Ier : Dispositions applicables à toutes les communes<a id=95></a>
+#### Chapitre Ier : Dispositions applicables à toutes les communes<a id=96></a>
 
-##### Section 6 : Opérations de vote<a id=96></a>
+##### Section 6 : Opérations de vote<a id=97></a>
 
 ###### Article R118
 
@@ -13396,7 +13519,7 @@ _Modifié par_:
   - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
 
 
-##### Section 7 : Contentieux<a id=97></a>
+##### Section 7 : Contentieux<a id=98></a>
 
 ###### Article R119
 
@@ -13571,9 +13694,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2113-11 (V)
 
 
-#### Chapitre II : Dispositions spéciales aux communes de moins de 3 500 habitants<a id=98></a>
+#### Chapitre II : Dispositions spéciales aux communes de moins de 3 500 habitants<a id=99></a>
 
-##### Section 1 : Mode de scrutin<a id=99></a>
+##### Section 1 : Mode de scrutin<a id=100></a>
 
 ###### Article R124
 
@@ -13610,9 +13733,9 @@ _Cité par_:
   - Code électoral - art. R268 (V)
 
 
-#### Chapitre III : Dispositions spéciales aux communes de 3 500 habitants et plus<a id=100></a>
+#### Chapitre III : Dispositions spéciales aux communes de 3 500 habitants et plus<a id=101></a>
 
-##### Section 2 : Déclarations de candidatures<a id=101></a>
+##### Section 2 : Déclarations de candidatures<a id=102></a>
 
 ###### Article R128
 
@@ -13643,9 +13766,9 @@ _Cité par_:
   - Code électoral - art. R268 (Ab)
 
 
-#### Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille<a id=102></a>
+#### Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille<a id=103></a>
 
-##### Section 2 : Opérations préparatoires au scrutin<a id=103></a>
+##### Section 2 : Opérations préparatoires au scrutin<a id=104></a>
 
 ###### Article R129
 
@@ -13681,9 +13804,9 @@ _Modifié par_:
   - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
 
 
-## Livre II  : Election des sénateurs des départements<a id=104></a>
+## Livre II  : Election des sénateurs des départements<a id=105></a>
 
-### Titre III : Désignation des délégués des conseils municipaux<a id=105></a>
+### Titre III : Désignation des délégués des conseils municipaux<a id=106></a>
 
 ###### Article R*131
 
@@ -14104,9 +14227,9 @@ _Modifié par_:
   - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
 
 
-### Titre IV : Election des sénateurs<a id=106></a>
+### Titre IV : Election des sénateurs<a id=107></a>
 
-#### Chapitre IV : Déclarations de candidatures<a id=107></a>
+#### Chapitre IV : Déclarations de candidatures<a id=108></a>
 
 ###### Article R*149
 
@@ -14231,7 +14354,7 @@ _Cité par_:
   - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
 
 
-#### Chapitre V : Propagande<a id=108></a>
+#### Chapitre V : Propagande<a id=109></a>
 
 ###### Article R*154
 
@@ -14477,7 +14600,7 @@ _Cité par_:
   - Code électoral - art. R160 (V)
 
 
-#### Chapitre VI : Opérations préparatoires au scrutin<a id=109></a>
+#### Chapitre VI : Opérations préparatoires au scrutin<a id=110></a>
 
 ###### Article R*162
 
@@ -14506,7 +14629,7 @@ _Cité par_:
   - Code électoral - art. R278 (V)
 
 
-#### Chapitre VII : Opérations de vote<a id=110></a>
+#### Chapitre VII : Opérations de vote<a id=111></a>
 
 ###### Article R*163
 
