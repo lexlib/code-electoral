@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2004-01-10
+Version Consolidée au 2004-02-13
 ## Contenu: 
   - [Partie législative (art. L1 à L450)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -20739,11 +20739,10 @@ _Cité par_:
 
 ###### Article R39-2
 
-Lors du dépôt des comptes de campagne dans les préfectures, effectué conformément aux dispositions de l'article L. 52-12, les
-pièces annexes relatives aux recettes et faisant apparaître des informations nominatives sont insérées dans une enveloppe
-spéciale éditée par la Commission nationale des comptes de campagne et des financements politiques qui ne peut être ouverte
-que par elle. La commission conserve ces pièces jusqu'au 31 décembre de la troisième année qui suit celle au cours de
-laquelle a été produit le compte de campagne.
+Lors du dépôt des comptes de campagne, les pièces annexes relatives aux recettes et faisant apparaître des informations
+nominatives sont insérées dans une enveloppe spéciale éditée par la Commission nationale des comptes de campagne et des
+financements politiques qui ne peut être ouverte que par elle. La commission conserve ces pièces jusqu'au 31 décembre de la
+troisième année qui suit celle au cours de laquelle a été produit le compte de campagne.
 
 **Liens relatifs à cet article**
 
@@ -20751,13 +20750,13 @@ _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-134 2004-02-12 art. 12
+
 _Modifié par_:
 
-  - Décret n°92-1300 du 14 décembre 1992 - art. 1 ()
-
-_Cite_:
-
-  - Code électoral - art. L52-12 (M)
+  - Décret n°2004-134 du 12 février 2004 - art. 1 () JORF 13 février 2004
 
 
 ###### Article R39-3
@@ -22318,10 +22317,10 @@ _Modifié par_:
 Les procurations données par les personnes se trouvant hors de France sont établies par acte dressé devant l'autorité
 consulaire.
 
-Pour les militaires et les autres personnes auxquelles s'applique l'article 68 du code de justice militaire, stationnés hors
+Pour les militaires et les autres personnes auxquelles s'applique l'article 60 du code de justice militaire, stationnés hors
 de France, l'autorité consulaire peut déléguer les compétences qui lui sont conférées par l'alinéa ci-dessus aux officiers de
 police judiciaire des forces armées et aux autorités qui ont qualité pour exercer des attributions d'officier de police
-judiciaire conformément à l'article 88 du même code.
+judiciaire conformément à l'article 84 du même code.
 
 **Liens relatifs à cet article**
 
@@ -22342,18 +22341,14 @@ _Cité par_:
   - Code de la sécurité sociale. - art. R214-21 (P)
   - Code électoral - art. R72-1 (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°95-57 1995-01-18 art. 4 :
-  - SPEC_APPLI: Les dispositions du décret 95-57 1995-01-18 art. 4 sont applicables aux territoires d'outre-mer et à la collectivité territoriale de Mayotte
-
 _Modifié par_:
 
-  - Décret n°95-57 du 18 janvier 1995 - art. 3 ()
+  - Décret n°2004-134 du 12 février 2004 - art. 3 () JORF 13 février 2004
 
 _Cite_:
 
-  - Code de justice militaire 68 et 88
+  - Code de justice militaire - art. 60 (Ab)
+  - Code de justice militaire - art. 84 (Ab)
 
 
 ###### Article R*72-2
@@ -22382,21 +22377,18 @@ _Cité par_:
 
 La procuration est établie sans frais.
 
-Les intéressés doivent justifier de leur identité et fournir à l'appui de leur demande une attestation ou, le cas échéant,
-des justifications .
-
-La désignation des personnes habilitées à établir les attestations, le modèle de ces attestations et la liste des
-justifications à produire sont fixés par décret.
+Les mandants doivent justifier de leur identité. Ceux mentionnés aux a et b de l'article L. 71 doivent fournir une
+attestation sur l'honneur précisant le motif en raison duquel il leur est impossible d'être présents dans leur commune
+d'inscription le jour du scrutin ou de participer à celui-ci en dépit de leur présence dans la commune. Ceux mentionnés au c
+de l'article L. 71 doivent fournir un extrait du registre d'écrou.
 
 La présence du mandataire n'est pas nécessaire.
 
-Dans le cas prévu au deuxième alinéa de l'article R.72, la demande doit être formulée par écrit et accompagnée d'un
-certificat médical justifiant que l'électeur est dans l'impossibilité manifeste de comparaître. Toutefois, pour les électeurs
-appartenant aux catégories visées aux 2°, 3°, 4°, 5°, 6° du II de l'article L. 71, la production du certificat médical est
-remplacée par celle des justifications prévues au troisième alinéa du présent article.
+Dans le cas prévu au deuxième alinéa de l'article R. 72, la demande doit être formulée par écrit et accompagnée d'un
+certificat médical ou de tout document officiel justifiant que l'électeur est dans l'impossibilité manifeste de comparaître.
 
 Les attestations, justifications, demandes et certificats prévus au présent article sont conservés par les autorités
-mentionnées au premier alinéa de l'article R.72 pendant une durée de six mois après l'expiration du délai de validité de la
+mentionnées au premier alinéa de l'article R. 72 pendant une durée de six mois après l'expiration du délai de validité de la
 procuration.
 
 **Liens relatifs à cet article**
@@ -22404,14 +22396,6 @@ procuration.
 _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Décret n°69-747 1969-07-24 art. 11 JORF 26 juillet 1969
-  - Décret n°76-128 1976-02-06 art. 3 JORF 8 février 1976
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
-  - Décret n°77-134 1977-02-11 art. 4 JORF 13 février 1977
-  - Décret n°79-380 1979-05-10 art. 1 JORF 13 mai 1979
 
 _Cité par_:
 
@@ -22427,18 +22411,28 @@ _Cité par_:
   - Code électoral - art. R176-2-2 (V)
   - Code électoral - art. R74 (V)
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-134 2004-02-12 art. 12
+
+_Modifié par_:
+
+  - Décret n°2004-134 2004-02-12 art. 4 I, II, III JORF 13 février 2004
+  - Décret n°2004-134 du 12 février 2004 - art. 4 () JORF 13 février 2004
+
 _Cite_:
 
   - Code électoral - art. L71 (M)
+  - Code électoral - art. R*72 (M)
 
 
 ###### Article R*74
 
 La validité de la procuration est limitée à un seul scrutin. Toutefois, à la demande du mandant, elle peut être fixée à une
-année à compter de sa date d'établissement si les attestations et justifications prévues au deuxième alinéa de l'article R.
-73 établissent que l'intéressé est de façon durable dans l'impossibilité de se rendre à son bureau de vote. Pour les Français
-et Françaises établis hors de France, la procuration peut également être établie pour la durée de l'immatriculation au
-consulat avec une validité maximale de trois ans.
+année à compter de sa date d'établissement si les documents prévus au deuxième alinéa de l'article R. 73 établissent que
+l'intéressé est de façon durable dans l'impossibilité de se rendre à son bureau de vote. Pour les Français et Françaises
+établis hors de France, la procuration peut également être établie pour une durée maximale de trois ans par l'autorité
+consulaire territorialement compétente pour leur lieu de résidence.
 
 Mention expresse de la validité choisie est portée sur la procuration.
 
@@ -22450,14 +22444,6 @@ _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°86-212 1986-02-14 art. 2 : dispositions applicables dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte
-
-_Modifié par_:
-
-  - Décret n°89-80 du 8 février 1989 - art. 8 () JORF 10 février 1989
-
 _Cité par_:
 
   - Décret n°99-433 du 27 mai 1999 - art. 36-1 (V)
@@ -22466,6 +22452,15 @@ _Cité par_:
   - Code de commerce. - art. R927-4 (T)
   - Code électoral - art. R176-2 (V)
   - Code électoral - art. R176-2-2 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-134 2004-02-12 art. 12
+
+_Modifié par_:
+
+  - Décret n°2004-134 2004-02-12 art. 5 I, II JORF 13 février 2004
+  - Décret n°2004-134 du 12 février 2004 - art. 5 () JORF 13 février 2004
 
 _Cite_:
 
@@ -22479,24 +22474,19 @@ Chaque procuration est établie sur un imprimé comportant deux volets et un tal
 L'autorité devant laquelle est dressée la procuration, après avoir porté mention de celle-ci sur un registre spécial ouvert
 par ses soins, indique sur les volets et le talon ses nom et qualité et les revêt de son visa et de son cachet.
 
-Elle remet ensuite le talon au mandant et adresse, par la poste, en recommandé, sans enveloppe, le premier volet au maire de
-la commune sur la liste électorale de laquelle le mandant est inscrit et le second volet au mandataire.
+Elle remet ensuite le talon au mandant et adresse, sans enveloppe et en recommandé, le premier volet au maire de la commune
+sur la liste électorale de laquelle le mandant est inscrit. Elle adresse, sans enveloppe, le second volet au mandataire.
 
-Toutefois, lorsque la procuration est établie hors de France ces envois sont faits, soit par pli recommandé sous enveloppe,
-soit par la valise diplomatique ou consulaire. Dans ce dernier cas, les services centraux du ministère des affaires
-étrangères réexpédient par la poste, en recommandé sans enveloppe, le premier volet au maire de la commune sur la liste
-électorale de laquelle le mandant est inscrit et le second volet au mandataire.
+Lorsque la procuration est établie hors de France, ces envois sont faits par l'autorité consulaire soit directement sous
+enveloppe, soit par la valise diplomatique, le ministre des affaires étrangères les réexpédiant sans enveloppe. Dans les deux
+cas, le premier volet destiné au maire de la commune sur la liste électorale de laquelle le mandant est inscrit lui est
+adressé en recommandé.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Décret n°76-128 1976-02-06 art. 4 JORF 8 février 1976
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
 
 _Cité par_:
 
@@ -22518,6 +22508,15 @@ _Cité par_:
   - Code de la sécurité sociale. - art. R214-60 (P)
   - Code électoral - art. R176-2-3 (V)
   - Code électoral - art. R78 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-134 2004-02-12 art. 12
+
+_Modifié par_:
+
+  - Décret n°2004-134 2004-02-12 art. 6 I, II JORF 13 février 2004
+  - Décret n°2004-134 du 12 février 2004 - art. 6 () JORF 13 février 2004
 
 
 ###### Article R*76
@@ -22575,8 +22574,8 @@ _Modifié par_:
 
 Au fur et à mesure de la réception des volets de procuration, le maire inscrit sur un registre ouvert à cet effet les noms et
 prénoms du mandant et du mandataire, le nom et la qualité de l'autorité qui a dressé l'acte de procuration et la date de son
-établissement ainsi que la durée de validité de la procuration. Le registre est tenu à la disposition de tout électeur
-requérant.
+établissement ainsi que la durée de validité de la procuration. Le registre est tenu à la disposition de tout électeur. Une
+copie en est tenue à la disposition des électeurs dans les bureaux de vote de la commune le jour du scrutin.
 
 Le défaut de réception par le maire du volet d'une procuration fait obstacle à ce que le mandataire participe au scrutin.
 
@@ -22586,15 +22585,6 @@ _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
-
-  - Décret n°76-128 1976-02-06 art. 6 JORF 8 février 1976
-
-_Modifié par_:
-
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
-  - Décret n°77-134 1977-02-11 art. 5 JORF 13 février 1977
-
 _Cité par_:
 
   - Décret n°83-678 du 26 juillet 1983 - art. 21 (Ab)
@@ -22603,6 +22593,14 @@ _Cité par_:
   - Décret n°94-148 du 16 février 1994 - art. 20 (V)
   - Code de la sécurité sociale. - art. R214-21 (P)
   - Code de la sécurité sociale. - art. R214-60 (P)
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2004-134 2004-02-12 art. 12
+
+_Modifié par_:
+
+  - Décret n°2004-134 du 12 février 2004 - art. 7 () JORF 13 février 2004
 
 
 ###### Article R*77
