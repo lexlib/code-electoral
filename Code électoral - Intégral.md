@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1993-01-01
+Version Consolidée au 1993-01-05
 ## Contenu: 
   - [Partie législative (art. L1 à L385)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -5515,37 +5515,6 @@ _Cite_:
   - Code électoral - art. L61 (V)
   - Code électoral - art. L86 (V)
   - Code électoral - art. L91 (V)
-
-
-###### Article L115
-
-Les articles 679 et 688 du code de procédure pénale sont inapplicables aux crimes et aux délits ou à leurs tentatives qui
-auront été commis afin de favoriser ou de combattre une candidature de quelque nature qu'elle soit.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Cité par_:
-
-  - Ordonnance n°77-1102 du 26 septembre 1977 - art. 4-10 (V)
-  - Loi n°82-1061 du 17 décembre 1982 - art. 29 (Ab)
-  - Loi n°93-2 du 4 janvier 1993 - art. 102 (V)
-  - Code de la sécurité sociale. - art. L214-12 (Ab)
-  - Code du travail - art. L513-10 (P)
-  - Code du travail - art. L513-9 (AbD)
-  - Code électoral - art. L110 (V)
-
-_Abrogé par_:
-
-  - Loi n°93-2 du 4 janvier 1993 - art. 102 (V)
-
-_Cite_:
-
-  - CODE DE PROCEDURE PENALE - art. 679 (Ab)
-  - CODE DE PROCEDURE PENALE - art. 688 (Ab)
 
 
 ###### Article L116
