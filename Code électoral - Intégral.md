@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2001-07-18
+Version Consolidée au 2001-12-26
 ## Contenu: 
   - [Partie législative (art. L1 à L450)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -8512,78 +8512,85 @@ _Modifié par_:
 
 ###### Article L195
 
-Ne peuvent être élus membres du conseil général :
+Ne peuvent être élus membres du conseil général : 
 
 1° Les préfets dans le département où ils exercent ou ont exercé leurs fonctions depuis moins de trois ans ; les sous-
 préfets, secrétaires généraux, directeurs de cabinet de préfet ou sous-préfets chargés de mission auprès d'un préfet, ainsi
 que les secrétaires en chef de sous-préfecture, dans le département où ils exercent ou ont exercé leurs fonctions depuis
-moins d'une année ;
+moins d'une année ; 
 
 2° Les magistrats du siège et du parquet des cours d'appel, dans le ressort de la juridiction où ils exercent ou ont exercé
-depuis moins de six mois ;
+depuis moins de six mois ; 
 
 3° Les membres des tribunaux administratifs ainsi que les magistrats et les secrétaires généraux des chambres régionales des
-comptes, dans le ressort de la juridiction où ils exercent ou ont exercé depuis moins de six mois ;
+comptes, dans le ressort de la juridiction où ils exercent ou ont exercé depuis moins de six mois ; 
 
 4° Les magistrats des tribunaux de grande instance et d'instance, dans le ressort de la juridiction où ils exercent ou ont
-exercé depuis moins de six mois ;
+exercé depuis moins de six mois ; 
 
 5° Les officiers des armées de terre, de mer et de l'air dans l'étendue de toute circonscription comprise dans le ressort où,
-dotés d'un commandement territorial, ils ont exercé leur autorité depuis moins de six mois ;
+dotés d'un commandement territorial, ils ont exercé leur autorité depuis moins de six mois ; 
 
 6° Les fonctionnaires des corps actifs de police dans les cantons où ils exercent ou ont exercé leurs fonctions depuis moins
-de six mois ;
+de six mois ; 
 
-7° Dans les départements où ils exercent ou ont exercé leurs fonctions depuis moins de six mois: les ingénieurs en chef,
-ingénieurs en chef adjoints et ingénieurs des ponts et chaussées ;
+7° Dans les départements où ils exercent ou ont exercé leurs fonctions depuis moins de six mois : les ingénieurs en chef,
+ingénieurs en chef adjoints et ingénieurs des ponts et chaussées ; 
 
 8° Les ingénieurs du service ordinaire des mines, dans les cantons où ils exercent ou ont exercé leurs fonctions depuis moins
-de six mois ;
+de six mois ; 
 
 9° Les recteurs d'académie, dans tous les départements compris dans l'académie où ils exercent ou ont exercé depuis moins de
-six mois ;
+six mois ; 
 
 10° Les inspecteurs d'académie et les inspecteurs de l'enseignement primaire dans le département où ils exercent ou ont
-exercé leurs fonctions depuis moins de six mois ;
+exercé leurs fonctions depuis moins de six mois ; 
 
-11° Les agents et comptables de tout ordre, employés à l'assiette, à la perception et au recouvrement des contributions
-directes ou indirectes, et au paiement des dépenses publiques de toute nature, dans le département où ils exercent ou ont
-exercé leurs fonctions depuis moins de six mois ;
+11° Les agents et comptables de tout ordre agissant en qualité de fonctionnaire, employés à l'assiette, à la perception et au
+recouvrement des contributions directes ou indirectes, et au paiement des dépenses publiques de toute nature, dans le
+département où ils exercent ou ont exercé leurs fonctions depuis moins de six mois ; 
 
 12° Les directeurs départementaux et inspecteurs principaux des postes et télécommunications, dans le département où ils
-exercent ou ont exercé leurs fonctions depuis moins de six mois ;
+exercent ou ont exercé leurs fonctions depuis moins de six mois ; 
 
 13° Les ingénieurs en chef chargés de la direction d'un établissement du service des manufactures de tabac, les inspecteurs
 des manufactures de tabac et les directeurs du service de la culture et des magasins de tabac, dans le département où ils
-exercent ou ont exercé leurs fonctions depuis moins de six mois ;
+exercent ou ont exercé leurs fonctions depuis moins de six mois ; 
 
 14° Les ingénieurs en chef, ingénieurs principaux, ingénieurs des travaux et autres agents du génie rural, des eaux et des
-forêts dans les cantons où ils exercent ou ont exercé leurs fonctions depuis moins de six mois ;
+forêts dans les cantons où ils exercent ou ont exercé leurs fonctions depuis moins de six mois ; 
 
 15° Les inspecteurs des instruments de mesure dans les cantons où ils exercent ou ont exercé leurs fonctions depuis moins de
-six mois ;
+six mois ; 
 
 16° Les directeurs départementaux et inspecteurs de l'action sanitaire et sociale dans le département où ils exercent ou ont
-exercé leurs fonctions depuis moins de six mois ;
+exercé leurs fonctions depuis moins de six mois ; 
 
 17° Les directeurs et chefs de service régionaux des administrations civiles de l'Etat dans les départements où ils exercent
-ou ont exercé leurs fonctions depuis moins de six mois ;
+ou ont exercé leurs fonctions depuis moins de six mois ; 
 
 18° Les membres du cabinet du président du conseil général et du président du conseil régional, les directeurs généraux, les
 directeurs, les directeurs adjoints, les chefs de service et les chefs de bureau de conseil général et de conseil régional
-dans la circonscription où ils exercent ou ont exercé leurs fonctions depuis moins de six mois ;
+dans la circonscription où ils exercent ou ont exercé leurs fonctions depuis moins de six mois ; 
 
 19° Les membres du cabinet du président de l'Assemblée et les membres du cabinet du président du conseil exécutif de Corse,
 les directeurs généraux, les directeurs, directeurs adjoints, chefs de service et chefs de bureau de la collectivité
 territoriale de Corse et de ses établissements publics dans les départements de la Corse-du-Sud et de la Haute-Corse, s'ils y
-exercent leurs fonctions ou les ont exercées depuis moins de six mois.
+exercent leurs fonctions ou les ont exercées depuis moins de six mois. 
 
 Les délais mentionnés aux troisième (2°) à vingtième (19°) alinéas ci-dessus ne sont pas opposables aux candidats qui, au
-jour de l'élection, auront été admis à faire valoir leurs droits à la retraite.
+jour de l'élection, auront été admis à faire valoir leurs droits à la retraite. 
 
-" Sont également inéligibles, pendant un an, le président du conseil général ou le conseiller général visé au deuxième alinéa
+Sont également inéligibles, pendant un an, le président du conseil général ou le conseiller général visé au deuxième alinéa
 de l'article 2 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique, qui n'a pas
-déposé l'une des déclarations prévues par ce même article. "
+déposé l'une des déclarations prévues par ce même article.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
+départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
+s’appliquera aux élections organisées en mars 2015 à l’occasion du prochain renouvellement général des conseils
+départementaux, y compris aux opérations préparatoires à ce scrutin (date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -8606,19 +8613,18 @@ _Cité par_:
   - Code électoral - art. L558-11 (V)
   - Code électoral - art. L558-15 (V)
 
+_Cite_:
+
+  - Loi n°88-227 du 11 mars 1988 - art. 2 (VT)
+
 **Liens**:
 
   - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 87
   - SPEC_APPLI: Loi n°95-126 1995-02-08 art. 8 :
-  - SPEC_APPLI: La loi n°95-126 du 8 février 1995 est applicable dans les territoire d'outre-mer et dans la collectivité territoriale de Mayotte
 
 _Modifié par_:
 
-  - Loi n°95-126 du 8 février 1995 - art. 6 ()
-
-_Cite_:
-
-  - Loi n°88-227 1988 03-11 art. 2
+  - Loi n°2001-1248 du 21 décembre 2001 - art. 45 ()
 
 _Anciens textes_:
 
@@ -8832,10 +8838,6 @@ d'inéligibilité prévus par les articles L. 195, L. 199 et L. 200 ou se trouve
 la qualité d'électeur, est déclaré démissionnaire par le conseil général soit d'office, soit sur la réclamation de tout
 électeur.
 
-Toutefois, la procédure prévue à l'alinéa précédent n'est mise en oeuvre à l'égard d'un conseiller général déclaré comptable
-de fait par un jugement du juge des comptes statuant définitivement que si quitus ne lui a pas été délivré de sa gestion dans
-les six mois de l'expiration du délai de production des comptes imparti par ledit jugement.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -8844,7 +8846,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°91-716 du 26 juillet 1991 - art. 41 () JORF 27 juillet 1991
+  - Loi n°2001-1248 du 21 décembre 2001 - art. 45 ()
 
 _Cite_:
 
@@ -9817,26 +9819,26 @@ pour les affaires régionales ou pour les affaires de Corse.
 Ne peuvent être élus conseillers municipaux dans les communes situées dans le ressort où ils exercent ou ont exercé leurs
 fonctions depuis moins de six mois :
 
-1° Les magistrats des cours d'appel  ;
+1° Les magistrats des cours d'appel ;
 
-2° Les membres des tribunaux administratifs et des chambres régionales des comptes  ;
+2° Les membres des tribunaux administratifs et des chambres régionales des comptes ;
 
 3° Les officiers des armées de terre, de mer et de l'air, dans les communes comprises dans le ressort de leur commandement
-territorial  ;
+territorial ;
 
-4° Les magistrats des tribunaux de grande instance et d'instance  ;
+4° Les magistrats des tribunaux de grande instance et d'instance ;
 
-5° Les fonctionnaires des corps actifs de la police nationale  ;
+5° Les fonctionnaires des corps actifs de la police nationale ;
 
-6° Les comptables des deniers communaux et les entrepreneurs de services municipaux  ;
+6° Les comptables des deniers communaux agissant en qualité de fonctionnaire et les entrepreneurs de services municipaux ;
 
-7° Les directeurs et les chefs de bureau de préfecture et les secrétaires en chef de sous-préfecture  ;
+7° Les directeurs et les chefs de bureau de préfecture et les secrétaires en chef de sous-préfecture ;
 
 8° Les directeurs de cabinet du président du conseil général et du président du conseil régional, les directeurs généraux,
 les directeurs, les directeurs adjoints, chefs de service et chefs de bureau de conseil général et de conseil régional, le
 directeur de cabinet du président de l'assemblée et le directeur de cabinet du président du conseil exécutif de Corse, les
 directeurs généraux, les directeurs, les directeurs adjoints, chefs de service et chefs de bureau de la collectivité
-territoriale de Corse et de ses établissements publics ;.
+territoriale de Corse et de ses établissements publics ;
 
 9° En tant que chargés d'une circonscription territoriale de voirie : les ingénieurs en chef, ingénieurs divisionnaires et
 ingénieurs des travaux publics de l'Etat, les chefs de section principaux et chefs de section des travaux publics de l'Etat.
@@ -9849,6 +9851,13 @@ saisonnière ou occasionnelle.
 
 Les délais mentionnés aux alinéas ci-dessus ne sont pas opposables aux candidats qui, au jour de l'élection, auront été admis
 à faire valoir leurs droits à la retraite.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
+départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
+s’appliquera aux élections organisées les 23 et 30 mars 2014 à l’occasion du prochain renouvellement général des conseils
+municipaux et communautaires, y compris aux opérations préparatoires à ce scrutin.
 
 **Liens relatifs à cet article**
 
@@ -9874,7 +9883,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2000-295 du 5 avril 2000 - art. 5 ()
+  - Loi n°2001-1248 du 21 décembre 2001 - art. 46 ()
 
 
 ###### Article L233
@@ -9951,31 +9960,24 @@ aux articles L. 249 et L. 250. Lorsqu'un conseiller municipal est déclaré dém
 condamnation pénale définitive prononcée à son encontre et entraînant de ce fait la perte de ses droits civiques et
 électoraux, le recours éventuel contre l'acte de notification du préfet n'est pas suspensif.
 
-Toutefois, la procédure prévue à l'alinéa précédent n'est mise en oeuvre à l'égard d'un conseiller municipal déclaré
-comptable de fait par un jugement du juge des comptes statuant définitivement que si quitus ne lui a pas été délivré de sa
-gestion dans les six mois de l'expiration du délai de production des comptes imparti par ledit jugement.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Modifié par_:
-
-  - Loi n°95-125 du 8 février 1995 - art. 78 ()
-
 **Liens**:
 
   - SPEC_APPLI: Ordonnance 98-730 1998-08-20 art. 5 : Le dernier alinéa de cet article est applicable dans les territoires d'outre-mer
 
+_Modifié par_:
+
+  - Loi n°2001-1248 du 21 décembre 2001 - art. 46 ()
+
 _Cite_:
 
-  - Code électoral - art. L230 (M)
-  - Code électoral - art. L231 (M)
-  - Code électoral - art. L232 (Ab)
+  - Code électoral - art. L230 (VT)
   - Code électoral - art. L249 (V)
-  - Code électoral - art. L250 (V)
 
 
 ###### Article LO228-1
@@ -14613,10 +14615,6 @@ démissionnaire d'office à la suite d'une condamnation pénale définitive pron
 perte de ses droits civiques et électoraux, le recours éventuel contre l'arrêté du représentant de l'Etat dans la région
 n'est pas suspensif.
 
-Toutefois, la procédure prévue à l'alinéa précédent n'est mise en oeuvre à l'égard d'un conseiller régional déclaré comptable
-de fait par un jugement du juge des comptes statuant définitivement que si quitus ne lui a pas été délivré de sa gestion dans
-les six mois de l'expiration du délai de production des comptes imparti par ledit jugement.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -14629,7 +14627,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°95-125 du 8 février 1995 - art. 78 ()
+  - Loi n°2001-1248 du 21 décembre 2001 - art. 48 ()
 
 _Cite_:
 
