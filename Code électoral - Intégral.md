@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1997-11-11
+Version Consolidée au 1997-11-29
 ## Contenu: 
   - [Partie législative (art. L1 à L385)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -14683,6 +14683,59 @@ _Cite_:
   - Code électoral L17 AL. 1, L23, R8
 
 
+###### Article R*6
+
+Les informations mentionnées au premier alinéa de l'article L. 17-1 sont transmises à l'Institut national de la statistique
+et des études économiques au plus tard deux mois avant le début des travaux des commissions administratives par les autorités
+gestionnaires des fichiers mentionnés dans le même alinéa.
+
+Au cours du premier mois des travaux des commissions administratives, l'Institut national de la statistique et des études
+économiques communique à chaque maire les informations nominatives susmentionnées, en précisant dans chaque cas si elles
+proviennent du fichier du recensement établi en application du code du service national ou d'un fichier d'un organisme
+servant les prestations de base des régimes obligatoires d'assurance maladie. Le maire assure sans délai la transmission de
+ces informations à la commission administrative compétente.
+
+La commission administrative ajoute à la liste électorale les personnes ainsi identifiées qui possèdent les qualités exigées
+par la loi pour être électeur dans la circonscription du bureau de vote.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Modifié par_:
+
+  - Décret n°69-747 1969-07-24 art. 2 JORF 26 juillet 1969
+  - Décret n°97-1105 du 28 novembre 1997 - art. 1 ()
+
+_Abrogé par_:
+
+  - Décret n°76-128 1976-02-06 art. 10 JORF 8 février 1976
+
+_Cité par_:
+
+  - Décret n°97-1105 du 28 novembre 1997 - art. 5 (V)
+  - Décret n°98-733 du 20 août 1998 - art. 9 (V)
+  - Décret n°2000-255 du 20 mars 2000 - art. 13 (Ab)
+  - Décret n°2015-882 du 17 juillet 2015 - art. 1 (V)
+  - Décret n°2018-286 du 19 avril 2018 - art. 3 (V)
+  - Décret n°2018-424 du 30 mai 2018 - art. 1 (V)
+  - Arrêté du 16 novembre 2018 - art. 3 (V)
+  - Arrêté du 16 novembre 2018 - art. 4 (V)
+  - Arrêté du 16 novembre 2018 - art. 5 (V)
+  - Arrêté du 16 novembre 2018 - art. 7 (V)
+  - Arrêté du 16 novembre 2018 - art. 9 (V)
+  - Arrêté du 16 novembre 2018 - art. 1 (V)
+  - Décret n°2020-127 du 14 février 2020 - art. 2
+  - Code électoral - art. R219 (V)
+  - Code électoral - art. R7-1 (VT)
+
+_Cite_:
+
+  - Code électoral - art. L17-1 (V)
+
+
 ###### Article R*7
 
 La commission administrative retranche de la liste :
@@ -14775,17 +14828,16 @@ recopier et le reproduire par la voie de l'impression.
 
 Le jour même du dépôt, le tableau est affiché par le maire aux lieux accoutumés, où il devra demeurer pendant dix jours.
 
+Les dispositions des deux alinéas précédents sont applicables au tableau des additions opérées par la commission
+administrative conformément aux dispositions du deuxième alinéa de l'article L. 11-2. Toutefois, dans cette hypothèse, le
+dépôt du tableau a lieu cinq jours après la date de la clôture des inscriptions d'office fixée par le quatrième alinéa de
+l'article L. 17.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Décret n°69-747 1969-07-24 art. 3 JORF 26 juillet 1969
-  - Décret n°76-128 1976-02-06 art. 1 JORF 8 février 1976
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
 
 _Cité par_:
 
@@ -14798,6 +14850,14 @@ _Cité par_:
   - Code électoral - art. R204 (V)
   - Code électoral - art. R213-2 (VD)
   - Code électoral - art. R7 (VD)
+
+_Modifié par_:
+
+  - Décret n°97-1105 du 28 novembre 1997 - art. 3 ()
+
+_Cite_:
+
+  - Code électoral - art. L11-2 (V)
 
 
 ###### Article R*11
@@ -15014,21 +15074,16 @@ _Cité par_:
 
 ###### Article R*17
 
-La liste électorale reste, jusqu'au dernier jour de février de l'année suivante, telle qu'elle a été arrêtée, sauf les
-changements résultant des décisions du tribunal d'instance ou d'arrêts de la Cour de cassation, et sauf aussi les radiations
-des électeurs décédés ainsi que celles opérées en cours d'année par la commission administrative en application de l'article
-L. 40.
+La liste électorale reste jusqu'au dernier jour de février de l'année suivante, telle qu'elle a été arrêtée, sauf les
+changements résultant des décisions du tribunal d'instance ou d'arrêts de la Cour de cassation, les radiations des électeurs
+décédés, les rectifications opérées en cours d'année par la commission administrative en application de l'article L. 40,
+ainsi que les inscriptions d'office prononcées en application du deuxième alinéa de l'article L. 11-2.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Décret n°69-747 1969-07-24 art. 8 JORF 26 juillet 1969
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
 
 _Cité par_:
 
@@ -15083,8 +15138,13 @@ _Cité par_:
   - Code de commerce - art. R713-41 (VD)
   - Code de la santé publique - art. R4031-29 (VD)
 
+_Modifié par_:
+
+  - Décret n°97-1105 du 28 novembre 1997 - art. 4 ()
+
 _Cite_:
 
+  - Code électoral - art. L11-2 (V)
   - Code électoral - art. L40 (V)
 
 
@@ -15126,6 +15186,40 @@ _Cite_:
 **Liens**:
 
   - TXT_ASSOCIE: Nouveau code de procédure civile 640, 641, 642
+
+
+###### Article R7-1
+
+Lorsqu'il est fait application des dispositions du deuxième alinéa de l'article L. 11-2, l'article R. 6 est applicable.
+Toutefois, l'Institut national de la statistique et des études économiques doit disposer des informations mentionnées par
+l'article L. 17-1 un mois avant la date de clôture des travaux des commissions administratives. Il transmet aux maires les
+informations nominatives nécessaires au plus tard à cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Décret n°97-1105 du 28 novembre 1997 - art. 2 ()
+
+_Cité par_:
+
+  - Décret n°2017-223 du 24 février 2017 - art. 2 (V)
+  - Décret n°2019-188 du 13 mars 2019 - art. 5 (V)
+  - Décret n°2019-928 du 4 septembre 2019 - art. 4 (V)
+
+_Abrogé par_:
+
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. L11-2
+  - Code électoral - art. L17-1
+  - Code électoral - art. R6
 
 
 ###### Article R15-1
