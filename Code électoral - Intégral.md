@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1999-05-30
+Version Consolidée au 1999-12-29
 ## Contenu: 
   - [Partie législative (art. L1 à L385)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -13314,16 +13314,17 @@ _Créé par_:
 Les dispositions du titre III du livre Ier du présent code sont applicables à Mayotte, à l'exception du troisième alinéa de
 l'article L. 192, des articles L. 207 et L. 212 et sous réserve des dispositions suivantes.
 
+Le conseil général de Mayotte est renouvelé en même temps que les conseils généraux des départements.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°98-730 du 20 août 1998 - art. 16 ()
-  - Ordonnance n°98-730 du 20 août 1998 - art. 18 ()
+  - Loi n°99-1121 1999-12-28 art. 19 jorf 29 décembre 1999
 
 _Cite_:
 
