@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1990-01-16
+Version Consolidée au 1990-01-25
 ## Contenu: 
   - [Partie législative (art. L1 à L364)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -5755,15 +5755,15 @@ _Cité par_:
 
 ###### Article LO148
 
-Nonobstant les dispositions des articles L. O. 146 et L. O. 147, les députés membres d'un conseil général ou d'un conseil
-municipal peuvent être désignés par ces conseils pour représenter le département ou la commune dans des organismes d'intérêt
-régional ou local, à la condition que ces organismes n'aient pas pour objet propre de faire ni de distribuer des bénéfices et
-que les intéressés n'y occupent pas de fonctions rémunérées.
+Nonobstant les dispositions des articles LO. 146 et LO. 147, les députés membres d'un conseil régional, d'un conseil général
+ou d'un conseil municipal peuvent être désignés par ces conseils pour représenter la région, le département ou la commune
+dans des organismes d'intérêt régional ou local, à la condition que ces organismes n'aient pas pour objet propre de faire ni
+de distribuer des bénéfices et que les intéressés n'y occupent pas de fonctions rémunérées.
 
-En outre, les députés, même non membres d'un conseil général ou d'un conseil municipal, peuvent exercer les fonctions de
-président du conseil d'administration, d'administrateur délégué ou de membre du conseil d'administration des sociétés
-d'économie mixte d'équipement régional ou local, ou des sociétés ayant un objet exclusivement social lorsque ces fonctions ne
-sont pas rémunérées.
+En outre, les députés, même non membres d'un conseil régional, d'un conseil général ou d'un conseil municipal, peuvent
+exercer les fonctions de président du conseil d'administration, d'administrateur délégué ou de membre du conseil
+d'administration des sociétés d'économie mixte d'équipement régional ou local, ou des sociétés ayant un objet exclusivement
+social lorsque ces fonctions ne sont pas rémunérées.
 
 **Liens relatifs à cet article**
 
@@ -5776,10 +5776,9 @@ _Cité par_:
   - Loi n°77-729 du 7 juillet 1977 - art. 6 (V)
   - Code électoral - art. LO151-2 (V)
 
-_Cite_:
+_Modifié par_:
 
-  - Code électoral - art. LO146 (V)
-  - Code électoral - art. LO147 (M)
+  - Loi n°90-87 du 23 janvier 1990 - art. 1 () JORF 25 janvier 1990
 
 
 ###### Article LO149
