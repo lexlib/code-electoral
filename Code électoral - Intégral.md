@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1987-07-11
+Version Consolidée au 1987-08-29
 ## Contenu: 
   - [Partie législative (art. L1 à L364)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -143,18 +143,24 @@ Version Consolidée au 1987-07-11
         - [Chapitre V : Propagande (art. R*154 à R*161)](#140)
         - [Chapitre VI : Opérations préparatoires au scrutin (art. R*162)](#141)
         - [Chapitre VII : Opérations de vote (art. R*163 à R*171)](#142)
-    - [Livre IV : Election des conseillers régionaux (art. R182 à R189)](#143)
-      - [Chapitre V : Déclarations de candidatures (art. R183 à R184)](#144)
-      - [Chapitre VI : Propagande (art. R185 à R186)](#145)
-      - [Chapitre VI : Opérations de vote (art. R187 à R189)](#146)
-  - [Annexes (art. Annexe tableau n° 1 à Annexe tableau n° 5)](#147)
-    - [Tableau des circonscriptions électorales des départements (élection des députés) (art. Annexe tableau n° 1)](#148)
-    - [Tableau des circonscriptions électorales des départements (élection des députés) (1). (art. Annexe tableau n° 1 (suite))](#149)
-    - [Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés). (art. Annexe tableau n° 1 bis)](#150)
-    - [Tableau des secteurs pour l'élection des membres du conseil de Paris (art. Annexe tableau n° 2)](#151)
-    - [Tableau des secteurs pour l'élection des conseillers municipaux de Lyon (art. Annexe tableau n° 3)](#152)
-    - [Tableau des secteurs pour l'élection des conseillers municipaux de Marseille. (art. Annexe tableau n° 4)](#153)
-    - [Election des sénateurs (art. Annexe tableau n° 5)](#154)
+    - [Livre III : Dispositions spéciales à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R*172 à R*178)](#143)
+      - [Chapitre Ier : Dispositions communes (art. R*172 à R*173)](#144)
+      - [Chapitre II : Dispositions applicables à l'élection du député de la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R*174)](#145)
+      - [Chapitre III : Dispositions applicables à l'élection des conseillers généraux de la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R*175 à R*176)](#146)
+      - [Chapitre IV : Dispositions applicables à l'élection des conseillers municipaux de la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R*177)](#147)
+      - [Chapitre V : Dispositions applicables à l'élection du sénateur de la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R*178)](#148)
+    - [Livre IV : Election des conseillers régionaux (art. R182 à R189)](#149)
+      - [Chapitre V : Déclarations de candidatures (art. R183 à R184)](#150)
+      - [Chapitre VI : Propagande (art. R185 à R186)](#151)
+      - [Chapitre VI : Opérations de vote (art. R187 à R189)](#152)
+  - [Annexes (art. Annexe tableau n° 1 à Annexe tableau n° 5)](#153)
+    - [Tableau des circonscriptions électorales des départements (élection des députés) (art. Annexe tableau n° 1)](#154)
+    - [Tableau des circonscriptions électorales des départements (élection des députés) (1). (art. Annexe tableau n° 1 (suite))](#155)
+    - [Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés). (art. Annexe tableau n° 1 bis)](#156)
+    - [Tableau des secteurs pour l'élection des membres du conseil de Paris (art. Annexe tableau n° 2)](#157)
+    - [Tableau des secteurs pour l'élection des conseillers municipaux de Lyon (art. Annexe tableau n° 3)](#158)
+    - [Tableau des secteurs pour l'élection des conseillers municipaux de Marseille. (art. Annexe tableau n° 4)](#159)
+    - [Election des sénateurs (art. Annexe tableau n° 5)](#160)
 # Partie législative<a id=1></a>
 
 ## LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS<a id=2></a>
@@ -17758,7 +17764,171 @@ _Cité par_:
   - TXT_ASSOCIE: Code électoral - art. L317 (V)
 
 
-## Livre IV : Election des conseillers régionaux<a id=143></a>
+## Livre III : Dispositions spéciales à la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=143></a>
+
+### Chapitre Ier : Dispositions communes<a id=144></a>
+
+###### Article R*172
+
+Les dispositions du titre Ier du livre Ier du présent code (partie Réglementaire) sont applicables à la collectivité
+territoriale de Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Décret n°87-709 1987-08-12 art. 1 JORF 29 août 1987
+
+_Cité par_:
+
+  - Code électoral - art. R176-3 (V)
+
+
+###### Article R*173
+
+Pour l'application du présent code à la collectivité territoriale de Saint-Pierre-et-Miquelon, il y a lieu de lire :
+
+1° "Collectivité territoriale" au lieu de : "département";
+
+2° "Représentant de l'Etat" et "services du représentant de l'Etat" au lieu de : "préfet" et de "préfecture";
+
+3° "De la collectivité territoriale" au lieu de :
+
+"départementaux";
+
+4° "Tribunal de première instance", au lieu de : "tribunal d'instance" et de "tribunal de grande instance";
+
+5° "Président du tribunal supérieur d'appel" au lieu de : "premier président de la cour d'appel";
+
+6° "Payeur" au lieu de : "trésorier-payeur général".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Cité par_:
+
+  - Décret n°79-160 du 28 février 1979 - art. 24 (M)
+  - Décret n°80-213 du 11 mars 1980 - art. 8 (Ab)
+  - Décret n°92-773 du 6 août 1992 - art. 2 (V)
+  - Décret n°2000-835 du 31 août 2000 - art. 2 (V)
+  - Décret n°88-946 du 5 octobre 1988 - art. 2 (V)
+
+_Créé par_:
+
+  - Décret n°87-709 1987-08-12 art. 1 JORF 29 août 1987
+
+
+### Chapitre II : Dispositions applicables à l'élection du député de la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=145></a>
+
+###### Article R*174
+
+Les dispositions du titre II du livre Ier du présent code (partie Réglementaire) sont applicables à l'élection du député de
+Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Décret n°87-709 1987-08-12 art. 1 JORF 29 août 1987
+
+
+### Chapitre III : Dispositions applicables à l'élection des conseillers généraux de la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=146></a>
+
+###### Article R*175
+
+Les dispositions de l'article R. 110 et celles du chapitre IX du titre III du livre Ier du présent code (partie
+Réglementaire) sont applicables à l'élection des conseillers généraux de la collectivité territoriale de Saint-Pierre-et-
+Miquelon.
+
+Pour l'application des dispositions du chapitre IX du titre III du livre Ier (partie Réglementaire) il y a lieu de lire :
+
+1° A l'alinéa 1er de l'article R. 113 : "par un électeur de la collectivité territoriale ou par un candidat" au lieu de :
+"par un électeur du canton, par un candidat ou par un membre du conseil général";
+
+2° A l'alinéa 1er de l'article R. 116 : "dans les services du représentant de l'Etat" au lieu de : "au secrétariat de la
+sous-préfecture ou de la préfecture".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Décret n°87-709 1987-08-12 art. 1 JORF 29 août 1987
+
+_Cite_:
+
+  - Code électoral - art. R110 (Ab)
+  - Code électoral - art. R113 (M)
+  - Code électoral - art. R116 (M)
+
+
+###### Article R*176
+
+Immédiatement après le dépouillement du scrutin, un exemplaire du procès-verbal est, après signature, envoyé au représentant
+de l'Etat qui en constate la réception sur un registre et en donne récépissé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Décret n°87-709 1987-08-12 art. 1 JORF 29 août 1987
+
+
+### Chapitre IV : Dispositions applicables à l'élection des conseillers municipaux de la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=147></a>
+
+###### Article R*177
+
+Les dispositions des chapitres Ier à III du titre IV du livre Ier du présent code (partie Réglementaire) sont applicables à
+l'élection des conseillers municipaux dans la collectivité territoriale de Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Décret n°87-709 1987-08-12 art. 1 JORF 29 août 1987
+
+
+### Chapitre V : Dispositions applicables à l'élection du sénateur de la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=148></a>
+
+###### Article R*178
+
+Les dispositions du livre II du présent code (partie Réglementaire) sont applicables à l'élection du sénateur de Saint-
+Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Décret n°87-709 1987-08-12 art. 1 JORF 29 août 1987
+
+
+## Livre IV : Election des conseillers régionaux<a id=149></a>
 
 ###### Article R182
 
@@ -17780,7 +17950,7 @@ _Créé par_:
   - Décret n°85-1236 du 22 novembre 1985 - art. 1 () JORF 26 novembre 1985
 
 
-### Chapitre V : Déclarations de candidatures<a id=144></a>
+### Chapitre V : Déclarations de candidatures<a id=150></a>
 
 ###### Article R183
 
@@ -17827,7 +17997,7 @@ _Cité par_:
   - Code électoral - art. R187 (Ab)
 
 
-### Chapitre VI : Propagande<a id=145></a>
+### Chapitre VI : Propagande<a id=151></a>
 
 ###### Article R185
 
@@ -17874,7 +18044,7 @@ _Cité par_:
   - Code électoral - art. R187 (Ab)
 
 
-### Chapitre VI : Opérations de vote<a id=146></a>
+### Chapitre VI : Opérations de vote<a id=152></a>
 
 ###### Article R187
 
@@ -17950,9 +18120,9 @@ _Cite_:
   - Code électoral L359, R106 à R108
 
 
-# Annexes<a id=147></a>
+# Annexes<a id=153></a>
 
-## Tableau des circonscriptions électorales des départements (élection des députés)<a id=148></a>
+## Tableau des circonscriptions électorales des départements (élection des députés)<a id=154></a>
 
 ###### Article Annexe tableau n° 1
 
@@ -19908,7 +20078,7 @@ _Cite_:
   - Loi n°86-97 1986-11-24 art. 3
 
 
-## Tableau des circonscriptions électorales des départements (élection des députés) (1).<a id=149></a>
+## Tableau des circonscriptions électorales des départements (élection des députés) (1).<a id=155></a>
 
 ###### Article Annexe tableau n° 1 (suite)
 
@@ -20699,7 +20869,7 @@ _Cite_:
   - Loi n°86-97 1986-11-24 art. 3
 
 
-## Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés).<a id=150></a>
+## Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés).<a id=156></a>
 
 ###### Article Annexe tableau n° 1 bis
 
@@ -20743,7 +20913,7 @@ _Modifié par_:
   - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 () JORF 22 avril 2000
 
 
-## Tableau des secteurs pour l'élection des membres du conseil de Paris<a id=151></a>
+## Tableau des secteurs pour l'élection des membres du conseil de Paris<a id=157></a>
 
 ###### Article Annexe tableau n° 2
 
@@ -20816,7 +20986,7 @@ _Modifié par_:
   - Loi n°82-1170 1982-12-31 art. 4 JORF 1er janvier 1983
 
 
-## Tableau des secteurs pour l'élection des conseillers municipaux de Lyon<a id=152></a>
+## Tableau des secteurs pour l'élection des conseillers municipaux de Lyon<a id=158></a>
 
 ###### Article Annexe tableau n° 3
 
@@ -20859,7 +21029,7 @@ _Modifié par_:
   - Loi n°82-1170 1982-12-31 art. 4 JORF 1er janvier 1983
 
 
-## Tableau des secteurs pour l'élection des conseillers municipaux de Marseille.<a id=153></a>
+## Tableau des secteurs pour l'élection des conseillers municipaux de Marseille.<a id=159></a>
 
 ###### Article Annexe tableau n° 4
 
@@ -20901,7 +21071,7 @@ _Modifié par_:
   - Loi n°87-509 1987-07-09 art. 1 JORF 11 juillet 1987
 
 
-## Election des sénateurs<a id=154></a>
+## Election des sénateurs<a id=160></a>
 
 ###### Article Annexe tableau n° 5
 
