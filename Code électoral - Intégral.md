@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1995-05-12
+Version Consolidée au 1995-12-20
 ## Contenu: 
   - [Partie législative (art. L1 à L385)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -5825,14 +5825,17 @@ _Codifié par_:
 
 ###### Article LO121
 
-Les pouvoirs de l'Assemblée nationale expirent à l'ouverture de la session ordinaire d'avril de la cinquième année qui suit
-son élection.
+Les pouvoirs de l'Assemblée nationale expirent le premier mardi d'avril de la cinquième année qui suit son élection.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Modifié par_:
+
+  - Loi n°95-1292 du 16 décembre 1995 - art. 1 ()
 
 
 ###### Article LO122
@@ -10685,14 +10688,18 @@ _Cité par_:
 
 ###### Article LO277
 
-Dans chaque série, le mandat des sénateurs commence à l'ouverture de la session ordinaire d'octobre qui suit leur élection,
-date à laquelle expire le mandat des sénateurs antérieurement en fonctions.
+Dans chaque série, le mandat des sénateurs commence à l'ouverture de la session ordinaire qui suit leur élection, date à
+laquelle expire le mandat des sénateurs antérieurement en fonctions.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Modifié par_:
+
+  - Loi n°95-1292 du 16 décembre 1995 - art. 2 ()
 
 
 ###### Article LO278
