@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1973-01-04
+Version Consolidée au 1973-07-12
 ## Contenu: 
   - [Partie législative (art. L1 à L334)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L251)](#2)
@@ -3982,6 +3982,25 @@ _Cité par_:
 
   - Loi n°77-729 du 7 juillet 1977 - art. 5 (V)
   - Décret n°84-558 du 4 juillet 1984 - art. 1 (V)
+
+
+###### Article LO130-1
+
+Le médiateur est inéligible dans toutes les circonscriptions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Cité par_:
+
+  - Loi n°77-729 du 7 juillet 1977 - art. 5 (V)
+
+_Abrogé par_:
+
+  - Loi organique n°2011-410 du 14 avril 2011 - art. 1
 
 
 ###### Article LO131
