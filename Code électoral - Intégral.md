@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1990-03-01
+Version Consolidée au 1990-05-11
 ## Contenu: 
   - [Partie législative (art. L1 à L364)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -26,7 +26,7 @@ Version Consolidée au 1990-03-01
       - [Titre II : Dispositions spéciales à l'élection des députés (art. LO119 à L190)](#23)
         - [Chapitre Ier : Composition de l'Assemblée nationale et durée du mandat des députés (art. LO119 à LO122)](#24)
         - [Chapitre II : Mode de scrutin (art. L123 à L126)](#25)
-        - [Chapitre III : Conditions d'éligibilité et inéligibilités (art. LO127 à LO136)](#26)
+        - [Chapitre III : Conditions d'éligibilité et inéligibilités (art. LO127 à LO136-1)](#26)
         - [Chapitre IV : Incompatibilités (art. LO137 à LO153)](#27)
         - [Chapitre V : Déclarations de candidatures (art. L154 à LO160)](#28)
         - [Chapitre VI : Propagande (art. L164 à LO163-4)](#29)
@@ -5052,10 +5052,12 @@ _Cité par_:
 
 ###### Article LO128
 
-Est inéligible pendant un an celui qui n'a pas déposé l'une des déclarations prévues à l'article L.O. 135-1.
+Est inéligible pendant un an celui qui n'a pas déposé l'une des déclarations prévues à l'article LO.135-1..
 
-Est également inéligible pendant un an celui qui n'a pas déposé ses comptes dans les conditions prévues à l'article L.O.
-179-1.
+Est également inéligible pendant un an à compter de l'élection celui qui n'a pas déposé son compte de campagne dans les
+conditions et le délai prescrits par l'article L. 52-12 et celui dont le compte de campagne a été rejeté à bon droit. Peut
+également être déclaré inéligible, pour la même durée, celui qui a dépassé le plafond des dépenses électorales tel qu'il
+résulte de l'article L. 52-11.
 
 **Liens relatifs à cet article**
 
@@ -5078,17 +5080,19 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
-
-  - Loi n°88-226 du 11 mars 1988 - art. 12 () JORF 12 mars 1988
-
 **Liens**:
 
   - SPEC_APPLI: Loi n°88-226 du 11 mars 1988 - art. 14 (V)
 
+_Modifié par_:
+
+  - Loi n°90-383 du 10 mai 1990 - art. 6 () JORF 11 mai 1990
+
 _Cite_:
 
-  - Code électoral LO135-1 LO179-1
+  - Code électoral - art. L52-11 (M)
+  - Code électoral - art. L52-12 (M)
+  - Code électoral - art. LO135-1 (M)
 
 
 ###### Article LO129
@@ -5429,6 +5433,44 @@ _Cité par_:
 
   - Loi n°83-499 du 17 juin 1983 - art. 2 (V)
   - Code électoral - art. LO176 (V)
+
+
+###### Article LO136-1
+
+La commission instituée par l'article L. 52-14 saisit le Conseil constitutionnel du cas de tout candidat susceptible de se
+voir opposer les dispositions du deuxième alinéa de l'article L.O. 128. Le Conseil constitutionnel constate, le cas échéant,
+l'inéligibilité et, s'il s'agit du candidat proclamé élu, il le déclare, par la même décision, démissionnaire d'office.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Ordonnance n°58-1067 du 7 novembre 1958 - art. 41-1 (V)
+  - Code électoral - art. L197 (V)
+  - Code électoral - art. L234 (V)
+  - Code électoral - art. L341-1 (V)
+  - Code électoral - art. L45-1 (V)
+  - Code électoral - art. LO128 (V)
+  - Code électoral - art. LO176 (V)
+  - Code électoral - art. LO178 (V)
+  - Code électoral - art. LO186-1 (V)
+  - Code électoral - art. LO319 (VD)
+  - Code électoral - art. LO489 (V)
+  - Code électoral - art. LO516 (V)
+  - Code électoral - art. LO544 (V)
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°90-383 du 10 mai 1990 - art. 7 () JORF 11 mai 1990
+
+_Cite_:
+
+  - Code électoral - art. L52-14 (M)
+  - Code électoral LO128 al. 2, L52-14
 
 
 #### Chapitre IV : Incompatibilités<a id=27></a>
@@ -6483,32 +6525,6 @@ _Cite_:
   - Code électoral - art. L169 (V)
 
 
-###### Article LO163-1
-
-Chaque candidat à l'élection des députés est tenu d'établir un compte de campagne retraçant, selon leur origine, l'ensemble
-des recettes perçues et, selon leur nature, l'ensemble des dépenses effectuées en vue de son élection par lui-même ou pour
-son compte dans les trois mois précédant le scrutin.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (M)
-  - Code électoral - art. LO179-1 (Ab)
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-_Créé par_:
-
-  - Loi n°88-226 du 11 mars 1988 - art. 7 () JORF 12 mars 1988
-
-_Abrogé par_:
-
-  - Loi n°90-383 du 10 mai 1990 - art. 10 () JORF 11 mai 1990
-
-
 ###### Article LO163-2
 
 Les dépenses de campagne d'un candidat, autres que les dépenses de propagande directement prises en charge par l'Etat, ne
@@ -6834,42 +6850,6 @@ _Cité par_:
   - Code électoral - art. L68 (VD)
 
 
-###### Article LO179-1
-
-Dans les trente jours qui suivent le tour de scrutin où l'élection a été acquise, chaque candidat présent au premier tour
-dépose à la préfecture le compte de sa campagne prévu à l'article L.O. 163-1, présenté par un membre de l'ordre des experts
-comptables et des comptables agréés et accompagné des justificatifs de ses recettes ainsi que des factures, devis et autres
-documents de nature à établir le montant des dépenses payées ou engagées par lui ou par son mandataire.
-
-Les comptes de campagne des candidats proclamés élus et les pièces justificatives sont transmis au bureau de l'Assemblée
-nationale.
-
-Les comptes de campagne sont communiqués, sur leur demande, au Conseil constitutionnel ou aux autorités judiciaires. "
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (M)
-  - Code électoral - art. LO325 (M)
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Créé par_:
-
-  - Loi n°88-226 du 11 mars 1988 - art. 10 () JORF 12 mars 1988
-
-_Abrogé par_:
-
-  - Loi n°90-383 du 10 mai 1990 - art. 10 () JORF 11 mai 1990
-
-_Cite_:
-
-  - Code électoral - art. LO163-1 (Ab)
-
-
 ###### Article LO180
 
 Ainsi qu'il est dit à l'article 33 de l'ordonnance n° 58-1067 du 7 novembre 1958, l'élection d'un député peut être contestée
@@ -6999,23 +6979,52 @@ _Codifié par_:
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 
+###### Article LO186-1
+
+Ainsi qu'il est dit à l'article 41-1 de l'ordonnance n° 58-1067 du 7 novembre 1958, le Conseil, si l'instruction fait
+apparaître qu'un candidat se trouve dans l'un des cas mentionnés au deuxième alinéa de l'article L.O. 128, prononce son
+inéligibilité conformément à cet article et, s'il s'agit du candidat proclamé élu, annule son élection.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°58-1067 du 7 novembre 1958 - art. 41-1 (V)
+  - Code électoral LO128 al. 2
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°90-383 du 10 mai 1990 - art. 8 () JORF 11 mai 1990
+
+
 ###### Article LO187
 
 Ainsi qu'il est dit à l'article 42 de l'ordonnance n° 58-1067 du 7 novembre 1958, le Conseil et les sections peuvent, le cas
-échéant, ordonner une enquête et se faire communiquer tous documents et rapports ayant trait à l'élection.
+échéant, ordonner une enquête et se faire communiquer tous documents et rapports ayant trait à l'élection, notamment les
+comptes de campagnes établis par les candidats intéressés, ainsi que l'ensemble des documents, rapports et décisions
+éventuellement réunis ou établis par la commission instituée par l'article L. 52-14.
 
-Le rapporteur est commis pour recevoir sous serment les déclarations des témoins. Procès verbal est dressé par le rapporteur
+Le rapporteur est commis pour recevoir sous serment les déclarations des témoins. Procès-verbal est dressé par le rapporteur
 et communiqué aux intéressés, qui ont un délai de trois jours pour déposer leurs observations écrites.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°58-1067 du 7 novembre 1958 - art. 42 (M)
+  - Ordonnance n°58-1067 du 7 novembre 1958 - art. 42 (V)
+  - Code électoral - art. L52-14 (V)
 
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Modifié par_:
+
+  - Loi n°90-383 du 10 mai 1990 - art. 9 () JORF 11 mai 1990
 
 
 ###### Article LO188
@@ -10838,7 +10847,7 @@ _Cite_:
 
 ###### Article LO325
 
-Les dispositions du chapitre X du titre II du livre Ier sont applicables, à l'exception de l'article L.O. 179-1.
+Les dispositions du chapitre X du titre II du livre Ier sont applicables.
 
 **Liens relatifs à cet article**
 
@@ -10848,11 +10857,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°88-226 du 11 mars 1988 - art. 11 () JORF 12 mars 1988
-
-_Cite_:
-
-  - Code électoral - art. LO179-1 (Ab)
+  - Loi n°90-383 du 10 mai 1990 - art. 11 () JORF 11 mai 1990
 
 
 ### Titre V : Conditions d'application<a id=79></a>
