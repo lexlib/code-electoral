@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2000-07-11
+Version Consolidée au 2001-01-04
 ## Contenu: 
   - [Partie législative (art. L1 à L450)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -2866,7 +2866,16 @@ ou par tout moyen de communication audiovisuelle est interdite.
 
 A compter du premier jour du sixième mois précédant le mois au cours duquel il doit être procédé à des élections générales,
 aucune campagne de promotion publicitaire des réalisations ou de la gestion d'une collectivité ne peut être organisée sur le
-territoire des collectivités intéressées par le scrutin.
+territoire des collectivités intéressées par le scrutin. Sans préjudice des dispositions du présent chapitre, cette
+interdiction ne s'applique pas à la présentation, par un candidat ou pour son compte, dans le cadre de l'organisation de sa
+campagne, du bilan de la gestion des mandats qu'il détient ou qu'il a détenus. Les dépenses afférentes sont soumises aux
+dispositions relatives au financement et au plafonnement des dépenses électorales contenues au chapitre V bis du présent
+titre.
+
+**Nota:**
+
+Loi n° 2001-2 du 3 janvier 2001, article 23 II ; Les dispositions des deux dernières phrases du deuxième alinéa revêtent un
+caractère interprétatif.
 
 **Liens relatifs à cet article**
 
@@ -2896,7 +2905,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°90-55 du 15 janvier 1990 - art. 3 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+  - Loi n°2001-2 du 3 janvier 2001 - art. 23 () JORF 4 janvier 2001
 
 
 ###### Article L52-2
