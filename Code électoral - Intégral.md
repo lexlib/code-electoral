@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1998-10-01
+Version Consolidée au 1998-12-10
 ## Contenu: 
   - [Partie législative (art. L1 à L385)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -152,53 +152,55 @@ Version Consolidée au 1998-10-01
         - [Chapitre IV bis : Déclarations de candidatures (art. R109-1 à R109-2)](#149)
         - [Chapitre VII : Opérations de vote (art. R111 à R112)](#150)
         - [Chapitre IX : Contentieux (art. R113 à R117-1)](#151)
-      - [Titre IV  : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris (art. R118 à R130)](#152)
-        - [Chapitre Ier : Dispositions applicables à toutes les communes (art. R118 à R123)](#153)
-          - [Section 6 : Opérations de vote (art. R118)](#154)
-          - [Section 7 : Contentieux (art. R119 à R123)](#155)
-        - [Chapitre II : Dispositions spéciales aux communes de moins de 3 500 habitants (art. R124 à R127)](#156)
-          - [Section 1 : Mode de scrutin (art. R124)](#157)
-          - [Section 2 : Propagande (art. R125 à R126)](#158)
-          - [Section 3 : Opérations préparatoires au scrutin (art. R127)](#159)
-        - [Chapitre III : Dispositions spéciales aux communes de 3 500 habitants et plus (art. R127-1 à R128)](#160)
-          - [Section 1 : Mode de scrutin (art. R127-1)](#161)
-          - [Section 2 : Déclarations de candidatures (art. R128)](#162)
-        - [Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille (art. R129 à R130)](#163)
-          - [Section 2 : Opérations préparatoires au scrutin (art. R129 à R130)](#164)
-    - [Livre II  : Election des sénateurs des départements (art. R*130-1 à R*171)](#165)
-      - [Titre II : Composition du collège électoral (art. R*130-1)](#166)
-      - [Titre III : Désignation des délégués des conseils municipaux (art. R*131 à R*148)](#167)
-      - [Titre III bis : Désignation des délégués à l'Assemblée de Corse (art. R*148-1 à R*148-3)](#168)
-      - [Titre IV : Election des sénateurs (art. R*149 à R*171)](#169)
-        - [Chapitre IV : Déclarations de candidatures (art. R*149 à R*153)](#170)
-        - [Chapitre V : Propagande (art. R*154 à R*161)](#171)
-        - [Chapitre VI : Opérations préparatoires au scrutin (art. R*162)](#172)
-        - [Chapitre VII : Opérations de vote (art. R*163 à R*171)](#173)
-    - [Livre III : Dispositions spéciales à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R*172 à R*178)](#174)
-      - [Chapitre Ier : Dispositions communes (art. R*172 à R*173)](#175)
-      - [Chapitre II : Dispositions applicables à l'élection du député de la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R*174)](#176)
-      - [Chapitre III : Dispositions applicables à l'élection des conseillers généraux de la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R*175 à R*176)](#177)
-      - [Chapitre IV : Dispositions applicables à l'élection des conseillers municipaux de la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R*177)](#178)
-      - [Chapitre V : Dispositions applicables à l'élection du sénateur de la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R*178)](#179)
-    - [Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse (art. R182 à R200)](#180)
-      - [Titre Ier : Election des conseillers régionaux (art. R183 à R190)](#181)
-        - [Chapitre V : Déclarations de candidatures (art. R183 à R184)](#182)
-        - [Chapitre VI : Propagande (art. R185 à R186)](#183)
-        - [Chapitre VIII : Opérations de vote (art. R187 à R189)](#184)
-        - [Chapitre X : Contentieux (art. R190)](#185)
-      - [Titre  II : Election des conseillers à l'Assemblée de Corse (art. R191 à R200)](#186)
-        - [Chapitre V : Déclarations de candidature (art. R191 à R192)](#187)
-        - [Chapitre VI : Propagande (art. R193 à R196)](#188)
-        - [Chapitre VII : Opérations de vote (art. R197 à R199)](#189)
-        - [Chapitre X : Contentieux (art. R200)](#190)
-  - [Annexes (art. Annexe tableau n° 1 à Annexe tableau n° 5)](#191)
-    - [Tableau des circonscriptions électorales des départements (élection des députés) (art. Annexe tableau n° 1)](#192)
-    - [Tableau des circonscriptions électorales des départements (élection des députés) (1). (art. Annexe tableau n° 1 (suite))](#193)
-    - [Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés). (art. Annexe tableau n° 1 bis)](#194)
-    - [Tableau des secteurs pour l'élection des membres du conseil de Paris (art. Annexe tableau n° 2)](#195)
-    - [Tableau des secteurs pour l'élection des conseillers municipaux de Lyon (art. Annexe tableau n° 3)](#196)
-    - [Tableau des secteurs pour l'élection des conseillers municipaux de Marseille. (art. Annexe tableau n° 4)](#197)
-    - [Election des sénateurs (art. Annexe tableau n° 5)](#198)
+      - [Titre IV  : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris (art. R117-2 à R130)](#152)
+        - [Chapitre Ier : Dispositions applicables à toutes les communes (art. R117-2 à R123)](#153)
+          - [Section 1 bis : Dispositions spéciales à l'exercice par les ressortissants d'un Etat membre de l'Union européenne autre que la France du droit de vote pour l'élection des conseillers municipaux et des membres du Conseil de Paris (art. R117-2 à R117-3)](#154)
+          - [Section 6 : Opérations de vote (art. R118)](#155)
+          - [Section 7 : Contentieux (art. R119 à R123)](#156)
+        - [Chapitre II : Dispositions spéciales aux communes de moins de 3 500 habitants (art. R124 à R127)](#157)
+          - [Section 1 : Mode de scrutin (art. R124)](#158)
+          - [Section 2 : Propagande (art. R125 à R126)](#159)
+          - [Section 3 : Opérations préparatoires au scrutin (art. R127)](#160)
+        - [Chapitre III : Dispositions spéciales aux communes de 3 500 habitants et plus (art. R127-1 à R128)](#161)
+          - [Section 1 : Mode de scrutin (art. R127-1)](#162)
+          - [Section 2 : Déclarations de candidature (art. R128-1)](#163)
+          - [Section 2 : Déclarations de candidatures (art. R128)](#164)
+        - [Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille (art. R129 à R130)](#165)
+          - [Section 2 : Opérations préparatoires au scrutin (art. R129 à R130)](#166)
+    - [Livre II  : Election des sénateurs des départements (art. R*130-1 à R*171)](#167)
+      - [Titre II : Composition du collège électoral (art. R*130-1)](#168)
+      - [Titre III : Désignation des délégués des conseils municipaux (art. R*131 à R*148)](#169)
+      - [Titre III bis : Désignation des délégués à l'Assemblée de Corse (art. R*148-1 à R*148-3)](#170)
+      - [Titre IV : Election des sénateurs (art. R*149 à R*171)](#171)
+        - [Chapitre IV : Déclarations de candidatures (art. R*149 à R*153)](#172)
+        - [Chapitre V : Propagande (art. R*154 à R*161)](#173)
+        - [Chapitre VI : Opérations préparatoires au scrutin (art. R*162)](#174)
+        - [Chapitre VII : Opérations de vote (art. R*163 à R*171)](#175)
+    - [Livre III : Dispositions spéciales à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R*172 à R*178)](#176)
+      - [Chapitre Ier : Dispositions communes (art. R*172 à R*173)](#177)
+      - [Chapitre II : Dispositions applicables à l'élection du député de la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R*174)](#178)
+      - [Chapitre III : Dispositions applicables à l'élection des conseillers généraux de la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R*175 à R*176)](#179)
+      - [Chapitre IV : Dispositions applicables à l'élection des conseillers municipaux de la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R*177)](#180)
+      - [Chapitre V : Dispositions applicables à l'élection du sénateur de la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R*178)](#181)
+    - [Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse (art. R182 à R200)](#182)
+      - [Titre Ier : Election des conseillers régionaux (art. R183 à R190)](#183)
+        - [Chapitre V : Déclarations de candidatures (art. R183 à R184)](#184)
+        - [Chapitre VI : Propagande (art. R185 à R186)](#185)
+        - [Chapitre VIII : Opérations de vote (art. R187 à R189)](#186)
+        - [Chapitre X : Contentieux (art. R190)](#187)
+      - [Titre  II : Election des conseillers à l'Assemblée de Corse (art. R191 à R200)](#188)
+        - [Chapitre V : Déclarations de candidature (art. R191 à R192)](#189)
+        - [Chapitre VI : Propagande (art. R193 à R196)](#190)
+        - [Chapitre VII : Opérations de vote (art. R197 à R199)](#191)
+        - [Chapitre X : Contentieux (art. R200)](#192)
+  - [Annexes (art. Annexe tableau n° 1 à Annexe tableau n° 5)](#193)
+    - [Tableau des circonscriptions électorales des départements (élection des députés) (art. Annexe tableau n° 1)](#194)
+    - [Tableau des circonscriptions électorales des départements (élection des députés) (1). (art. Annexe tableau n° 1 (suite))](#195)
+    - [Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés). (art. Annexe tableau n° 1 bis)](#196)
+    - [Tableau des secteurs pour l'élection des membres du conseil de Paris (art. Annexe tableau n° 2)](#197)
+    - [Tableau des secteurs pour l'élection des conseillers municipaux de Lyon (art. Annexe tableau n° 3)](#198)
+    - [Tableau des secteurs pour l'élection des conseillers municipaux de Marseille. (art. Annexe tableau n° 4)](#199)
+    - [Election des sénateurs (art. Annexe tableau n° 5)](#200)
 # Partie législative<a id=1></a>
 
 ## LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS<a id=2></a>
@@ -20302,7 +20304,65 @@ _Cite_:
 
 #### Chapitre Ier : Dispositions applicables à toutes les communes<a id=153></a>
 
-##### Section 6 : Opérations de vote<a id=154></a>
+##### Section 1 bis : Dispositions spéciales à l'exercice par les ressortissants d'un Etat membre de l'Union européenne autre que la France du droit de vote pour l'élection des conseillers municipaux et des membres du Conseil de Paris<a id=154></a>
+
+###### Article R117-2
+
+Les dispositions des articles R. 5, R. 7, R. 8 à R. 22 sont applicables à l'établissement et à la révision des listes
+électorales complémentaires instituées par l'article LO 227-2.
+
+L'avis d'inscription ou de radiation prévu par l'article R. 20 comporte en outre la mention de la nationalité de l'électeur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Décret n°98-1110 du 8 décembre 1998 - art. 1 ()
+
+_Cite_:
+
+  - Code électoral - art. LO227-2 (V)
+  - Code électoral - art. R*20 (M)
+  - Code électoral - art. R*5 (M)
+  - Code électoral - art. R*7 (M)
+  - Code électoral R5, R7, R8 à R22, R20, LO227-2
+
+_Cité par_:
+
+  - Code électoral - art. R265 (VD)
+
+
+###### Article R117-3
+
+Une carte électorale d'un modèle spécial, valable pour les seules élections des conseillers municipaux et des membres du
+conseil de Paris, est délivrée à tout électeur inscrit sur une liste électorale complémentaire. Les dispositions des articles
+R. 24 et R. 25 sont applicables à cette carte électorale qui mentionne en outre la nationalité de l'électeur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Décret n°98-1110 du 8 décembre 1998 - art. 1 ()
+
+_Cite_:
+
+  - Code électoral - art. R*24 (M)
+  - Code électoral - art. R*25 (M)
+
+_Cité par_:
+
+  - Code électoral - art. R265 (VD)
+
+
+##### Section 6 : Opérations de vote<a id=155></a>
 
 ###### Article R118
 
@@ -20330,7 +20390,7 @@ _Modifié par_:
   - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
 
 
-##### Section 7 : Contentieux<a id=155></a>
+##### Section 7 : Contentieux<a id=156></a>
 
 ###### Article R119
 
@@ -20531,9 +20591,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2113-11 (V)
 
 
-#### Chapitre II : Dispositions spéciales aux communes de moins de 3 500 habitants<a id=156></a>
+#### Chapitre II : Dispositions spéciales aux communes de moins de 3 500 habitants<a id=157></a>
 
-##### Section 1 : Mode de scrutin<a id=157></a>
+##### Section 1 : Mode de scrutin<a id=158></a>
 
 ###### Article R124
 
@@ -20577,7 +20637,7 @@ _Cité par_:
   - Code électoral - art. R268 (V)
 
 
-##### Section 2 : Propagande<a id=158></a>
+##### Section 2 : Propagande<a id=159></a>
 
 ###### Article R125
 
@@ -20634,7 +20694,7 @@ _Cité par_:
   - Code électoral - art. R265 (VT)
 
 
-##### Section 3 : Opérations préparatoires au scrutin<a id=159></a>
+##### Section 3 : Opérations préparatoires au scrutin<a id=160></a>
 
 ###### Article R127
 
@@ -20668,9 +20728,9 @@ _Abrogé par_:
   - TXT_ASSOCIE: Code électoral - art. L247 (M)
 
 
-#### Chapitre III : Dispositions spéciales aux communes de 3 500 habitants et plus<a id=160></a>
+#### Chapitre III : Dispositions spéciales aux communes de 3 500 habitants et plus<a id=161></a>
 
-##### Section 1 : Mode de scrutin<a id=161></a>
+##### Section 1 : Mode de scrutin<a id=162></a>
 
 ###### Article R127-1
 
@@ -20710,7 +20770,56 @@ _Cité par_:
   - Code électoral - art. R269 (V)
 
 
-##### Section 2 : Déclarations de candidatures<a id=162></a>
+##### Section 2 : Déclarations de candidature<a id=163></a>
+
+###### Article R128-1
+
+Les documents officiels prévus au b du deuxième alinéa de l'article LO 265-1 sont les suivants :
+
+1° Si le candidat est électeur dans la commune où il se présente, une attestation d'inscription sur la liste électorale
+complémentaire de cette commune délivrée par le maire dans les trente jours précédant la date du dépôt de la candidature ou
+une copie certifiée conforme de la décision de justice ordonnant l'inscription de l'intéressé ;
+
+2° Si le candidat est électeur dans une autre commune que celle où il se présente, une attestation d'inscription sur la liste
+électorale complémentaire de cette commune délivrée par le maire dans les trente jours précédant la date du dépôt de la
+candidature ou une copie certifiée conforme de la décision de justice ordonnant l'inscription de l'intéressé ;
+
+3° Dans les autres cas, une copie certifiée conforme de la carte de séjour du candidat, ainsi qu'un bulletin n° 3 du casier
+judiciaire délivré depuis moins de trois mois.
+
+Dans les cas prévus au 2° et au 3° ci-dessus, le candidat doit en outre fournir l'une des pièces mentionnées à l'article R.
+128 requises du candidat français qui n'est pas électeur dans la commune où il se présente.
+
+Le dernier alinéa de l'article R. 128 est applicable.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°89-80 du 8 février 1989 - art. 12 (V)
+
+_Créé par_:
+
+  - Décret n°98-1110 du 8 décembre 1998 - art. 2 ()
+
+_Cité par_:
+
+  - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
+  - Code électoral - art. R124 (VD)
+  - Code électoral - art. R266 (Ab)
+  - Code électoral - art. R268 (Ab)
+
+_Cite_:
+
+  - Code électoral - art. LO265-1 (V)
+  - Code électoral - art. R128 (M)
+
+
+##### Section 2 : Déclarations de candidatures<a id=164></a>
 
 ###### Article R128
 
@@ -20776,9 +20885,9 @@ _Cite_:
   - Code électoral - art. L265 (M)
 
 
-#### Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille<a id=163></a>
+#### Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille<a id=165></a>
 
-##### Section 2 : Opérations préparatoires au scrutin<a id=164></a>
+##### Section 2 : Opérations préparatoires au scrutin<a id=166></a>
 
 ###### Article R129
 
@@ -20814,9 +20923,9 @@ _Modifié par_:
   - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
 
 
-## Livre II  : Election des sénateurs des départements<a id=165></a>
+## Livre II  : Election des sénateurs des départements<a id=167></a>
 
-### Titre II : Composition du collège électoral<a id=166></a>
+### Titre II : Composition du collège électoral<a id=168></a>
 
 ###### Article R*130-1
 
@@ -20857,7 +20966,7 @@ _Cité par_:
   - Code électoral - art. R271 (V)
 
 
-### Titre III : Désignation des délégués des conseils municipaux<a id=167></a>
+### Titre III : Désignation des délégués des conseils municipaux<a id=169></a>
 
 ###### Article R*131
 
@@ -21289,7 +21398,7 @@ _Modifié par_:
   - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
 
 
-### Titre III bis : Désignation des délégués à l'Assemblée de Corse<a id=168></a>
+### Titre III bis : Désignation des délégués à l'Assemblée de Corse<a id=170></a>
 
 ###### Article R*148-1
 
@@ -21366,9 +21475,9 @@ _Créé par_:
   - Décret n°91-653 du 15 juillet 1991 - art. 8 () JORF 16 juillet 1991
 
 
-### Titre IV : Election des sénateurs<a id=169></a>
+### Titre IV : Election des sénateurs<a id=171></a>
 
-#### Chapitre IV : Déclarations de candidatures<a id=170></a>
+#### Chapitre IV : Déclarations de candidatures<a id=172></a>
 
 ###### Article R*149
 
@@ -21489,7 +21598,7 @@ _Cité par_:
   - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
 
 
-#### Chapitre V : Propagande<a id=171></a>
+#### Chapitre V : Propagande<a id=173></a>
 
 ###### Article R*154
 
@@ -21731,7 +21840,7 @@ _Cité par_:
   - Code électoral - art. R160 (V)
 
 
-#### Chapitre VI : Opérations préparatoires au scrutin<a id=172></a>
+#### Chapitre VI : Opérations préparatoires au scrutin<a id=174></a>
 
 ###### Article R*162
 
@@ -21760,7 +21869,7 @@ _Cité par_:
   - Code électoral - art. R278 (V)
 
 
-#### Chapitre VII : Opérations de vote<a id=173></a>
+#### Chapitre VII : Opérations de vote<a id=175></a>
 
 ###### Article R*163
 
@@ -22029,9 +22138,9 @@ _Cité par_:
   - TXT_ASSOCIE: Code électoral - art. L317 (V)
 
 
-## Livre III : Dispositions spéciales à la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=174></a>
+## Livre III : Dispositions spéciales à la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=176></a>
 
-### Chapitre Ier : Dispositions communes<a id=175></a>
+### Chapitre Ier : Dispositions communes<a id=177></a>
 
 ###### Article R*172
 
@@ -22090,7 +22199,7 @@ _Créé par_:
   - Décret n°87-709 1987-08-12 art. 1 JORF 29 août 1987
 
 
-### Chapitre II : Dispositions applicables à l'élection du député de la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=176></a>
+### Chapitre II : Dispositions applicables à l'élection du député de la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=178></a>
 
 ###### Article R*174
 
@@ -22108,7 +22217,7 @@ _Créé par_:
   - Décret n°87-709 1987-08-12 art. 1 JORF 29 août 1987
 
 
-### Chapitre III : Dispositions applicables à l'élection des conseillers généraux de la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=177></a>
+### Chapitre III : Dispositions applicables à l'élection des conseillers généraux de la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=179></a>
 
 ###### Article R*175
 
@@ -22154,7 +22263,7 @@ _Créé par_:
   - Décret n°87-709 1987-08-12 art. 1 JORF 29 août 1987
 
 
-### Chapitre IV : Dispositions applicables à l'élection des conseillers municipaux de la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=178></a>
+### Chapitre IV : Dispositions applicables à l'élection des conseillers municipaux de la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=180></a>
 
 ###### Article R*177
 
@@ -22172,7 +22281,7 @@ _Créé par_:
   - Décret n°87-709 1987-08-12 art. 1 JORF 29 août 1987
 
 
-### Chapitre V : Dispositions applicables à l'élection du sénateur de la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=179></a>
+### Chapitre V : Dispositions applicables à l'élection du sénateur de la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=181></a>
 
 ###### Article R*178
 
@@ -22190,7 +22299,7 @@ _Créé par_:
   - Décret n°87-709 1987-08-12 art. 1 JORF 29 août 1987
 
 
-## Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse<a id=180></a>
+## Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse<a id=182></a>
 
 ###### Article R182
 
@@ -22212,9 +22321,9 @@ _Modifié par_:
   - Décret n°91-653 du 15 juillet 1991 - art. 1 () JORF 16 juillet 1991
 
 
-### Titre Ier : Election des conseillers régionaux<a id=181></a>
+### Titre Ier : Election des conseillers régionaux<a id=183></a>
 
-#### Chapitre V : Déclarations de candidatures<a id=182></a>
+#### Chapitre V : Déclarations de candidatures<a id=184></a>
 
 ###### Article R183
 
@@ -22269,7 +22378,7 @@ _Cité par_:
   - Code électoral - art. R187 (Ab)
 
 
-#### Chapitre VI : Propagande<a id=183></a>
+#### Chapitre VI : Propagande<a id=185></a>
 
 ###### Article R185
 
@@ -22328,7 +22437,7 @@ _Cité par_:
   - Code électoral - art. R187 (Ab)
 
 
-#### Chapitre VIII : Opérations de vote<a id=184></a>
+#### Chapitre VIII : Opérations de vote<a id=186></a>
 
 ###### Article R187
 
@@ -22417,7 +22526,7 @@ _Cite_:
   - Code électoral L359, R107 à R109
 
 
-#### Chapitre X : Contentieux<a id=185></a>
+#### Chapitre X : Contentieux<a id=187></a>
 
 ###### Article R190
 
@@ -22448,9 +22557,9 @@ _Cité par_:
   - Code électoral - art. R358 (V)
 
 
-### Titre  II : Election des conseillers à l'Assemblée de Corse<a id=186></a>
+### Titre  II : Election des conseillers à l'Assemblée de Corse<a id=188></a>
 
-#### Chapitre V : Déclarations de candidature<a id=187></a>
+#### Chapitre V : Déclarations de candidature<a id=189></a>
 
 ###### Article R191
 
@@ -22511,7 +22620,7 @@ _Cité par_:
   - Code électoral - art. R197 (Ab)
 
 
-#### Chapitre VI : Propagande<a id=188></a>
+#### Chapitre VI : Propagande<a id=190></a>
 
 ###### Article R193
 
@@ -22631,7 +22740,7 @@ _Cité par_:
   - Code électoral - art. R197 (Ab)
 
 
-#### Chapitre VII : Opérations de vote<a id=189></a>
+#### Chapitre VII : Opérations de vote<a id=191></a>
 
 ###### Article R197
 
@@ -22722,7 +22831,7 @@ _Cite_:
   - Code électoral - art. R107 (VT)
 
 
-#### Chapitre X : Contentieux<a id=190></a>
+#### Chapitre X : Contentieux<a id=192></a>
 
 ###### Article R200
 
@@ -22747,9 +22856,9 @@ _Cite_:
   - Code électoral - art. R190 (V)
 
 
-# Annexes<a id=191></a>
+# Annexes<a id=193></a>
 
-## Tableau des circonscriptions électorales des départements (élection des députés)<a id=192></a>
+## Tableau des circonscriptions électorales des départements (élection des députés)<a id=194></a>
 
 ###### Article Annexe tableau n° 1
 
@@ -24705,7 +24814,7 @@ _Cite_:
   - Loi n°86-97 1986-11-24 art. 3
 
 
-## Tableau des circonscriptions électorales des départements (élection des députés) (1).<a id=193></a>
+## Tableau des circonscriptions électorales des départements (élection des députés) (1).<a id=195></a>
 
 ###### Article Annexe tableau n° 1 (suite)
 
@@ -25496,7 +25605,7 @@ _Cite_:
   - Loi n°86-97 1986-11-24 art. 3
 
 
-## Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés).<a id=194></a>
+## Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés).<a id=196></a>
 
 ###### Article Annexe tableau n° 1 bis
 
@@ -25540,7 +25649,7 @@ _Modifié par_:
   - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 () JORF 22 avril 2000
 
 
-## Tableau des secteurs pour l'élection des membres du conseil de Paris<a id=195></a>
+## Tableau des secteurs pour l'élection des membres du conseil de Paris<a id=197></a>
 
 ###### Article Annexe tableau n° 2
 
@@ -25613,7 +25722,7 @@ _Modifié par_:
   - Loi n°82-1170 1982-12-31 art. 4 JORF 1er janvier 1983
 
 
-## Tableau des secteurs pour l'élection des conseillers municipaux de Lyon<a id=196></a>
+## Tableau des secteurs pour l'élection des conseillers municipaux de Lyon<a id=198></a>
 
 ###### Article Annexe tableau n° 3
 
@@ -25656,7 +25765,7 @@ _Modifié par_:
   - Loi n°82-1170 1982-12-31 art. 4 JORF 1er janvier 1983
 
 
-## Tableau des secteurs pour l'élection des conseillers municipaux de Marseille.<a id=197></a>
+## Tableau des secteurs pour l'élection des conseillers municipaux de Marseille.<a id=199></a>
 
 ###### Article Annexe tableau n° 4
 
@@ -25698,7 +25807,7 @@ _Modifié par_:
   - Loi n°87-509 1987-07-09 art. 1 JORF 11 juillet 1987
 
 
-## Election des sénateurs<a id=198></a>
+## Election des sénateurs<a id=200></a>
 
 ###### Article Annexe tableau n° 5
 
