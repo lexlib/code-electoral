@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1988-01-15
+Version Consolidée au 1988-03-12
 ## Contenu: 
   - [Partie législative (art. L1 à L364)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -28,7 +28,7 @@ Version Consolidée au 1988-01-15
         - [Chapitre III : Conditions d'éligibilité et inéligibilités (art. LO127 à LO136)](#25)
         - [Chapitre IV : Incompatibilités (art. LO137 à LO153)](#26)
         - [Chapitre V : Déclarations de candidatures (art. L154 à LO160)](#27)
-        - [Chapitre VI : Propagande (art. L164 à L171)](#28)
+        - [Chapitre VI : Propagande (art. L164 à LO163-4)](#28)
         - [Chapitre VII : Opérations préparatoires au scrutin (art. L172 à L173)](#29)
         - [Chapitre VIII : Opérations de vote (art. L174 à L175)](#30)
         - [Chapitre IX : Remplacement des députés (art. L178-1 à LO178)](#31)
@@ -1574,13 +1574,19 @@ _Abrogé par_:
 
 Les listes électorales sont réunies en un registre et conservées dans les archives de la commune.
 
-Tout électeur peut prendre communication et copie de la liste électorale.
+Tout électeur, tout candidat et tout parti ou groupement politique peut prendre communication et copie de la liste
+électorale.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
 _Cité par_:
 
@@ -1591,6 +1597,14 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R*151-2 (Ab)
   - Code des relations entre le public et l'adminis... - art. L342-2 (VT)
   - Code général des collectivités territoriales - art. D2411-2 (VT)
+
+_Modifié par_:
+
+  - Loi n°88-227 du 11 mars 1988 - art. 13
+
+_Abrogé par_:
+
+  - Loi n°2016-1048 du 1er août 2016 - art. 5
 
 
 ###### Article L29
@@ -4128,19 +4142,16 @@ Quiconque, par des dons ou libéralités en argent ou en nature, par des promess
 publics ou privés ou d'autres avantages particuliers, faits en vue d'influencer le vote d'un ou de plusieurs électeurs aura
 obtenu ou tenté d'obtenir leur suffrage, soit directement, soit par l'entremise d'un tiers, quiconque, par les mêmes moyens,
 aura déterminé ou tenté de déterminer un ou plusieurs d'entre eux à s'abstenir, sera puni de trois mois à deux ans
-d'emprisonnement et d'une amende de 1 800 F à 30 000 F.
+d'emprisonnement et d'une amende de 1800 F à 30000 F.
 
-Seront punis des mêmes peines ceux qui auront agréé ou sollicité les mêmes dons, libéralités ou promesses.
+Seront punis des mêmes peines ceux qui auront agréé ou sollicité les mêmes dons, libéralités ou promesses, ainsi que ceux qui
+auront contrevenu aux dispositions de l'article L.O. 163-3.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 DECEMBRE 1977
 
 _Cité par_:
 
@@ -4166,6 +4177,10 @@ _Cité par_:
   - Code électoral - art. L201 (Ab)
   - Code électoral - art. L327 (V)
   - Décret n°1947-05-02 du 2 mai 1947 - art. 40 bis (Ab)
+
+_Modifié par_:
+
+  - Loi n°88-227 du 11 mars 1988 - art. 12
 
 
 ###### Article L107
@@ -4786,6 +4801,47 @@ _Cité par_:
   - Décret n°84-558 du 4 juillet 1984 - art. 1 (V)
 
 
+###### Article LO128
+
+Est inéligible pendant un an celui qui n'a pas déposé l'une des déclarations prévues à l'article L.O. 135-1.
+
+Est également inéligible pendant un an celui qui n'a pas déposé ses comptes dans les conditions prévues à l'article L.O.
+179-1.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (M)
+  - Loi n°77-729 du 7 juillet 1977 - art. 5 (V)
+  - Loi n°88-227 du 11 mars 1988 - art. 9 (V)
+  - Décret n°2008-465 du 15 mai 2008 (V)
+  - Décret n°2009-92 du 27 janvier 2009 (V)
+  - Décret n°2010-106 du 29 janvier 2010 (V)
+  - Décret n°2011-113 du 27 janvier 2011 (V)
+  - Décret n°2012-191 du 7 février 2012 (V)
+  - Décret n°2013-430 du 27 mai 2013 (V)
+  - Décret n°2014-111 du 6 février 2014 (V)
+  - Décret n°2016-111 du 4 février 2016 (V)
+  - Décret n°2017-251 du 27 février 2017 (V)
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°88-226 du 11 mars 1988 - art. 12 () JORF 12 mars 1988
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°88-226 du 11 mars 1988 - art. 14 (V)
+
+_Cite_:
+
+  - Code électoral LO135-1 LO179-1
+
+
 ###### Article LO129
 
 Sont inéligibles les individus condamnés lorsque la condamnation empêche d'une manière définitive leur inscription sur une
@@ -4975,6 +5031,133 @@ _Codifié par_:
 _Modifié par_:
 
   - Loi n°85-688 1985-07-10 art. 2 JORF 11 JUILLET 1985
+
+
+###### Article LO135-1
+
+Dans les quinze jours qui suivent son entrée en fonction, le député est tenu de déposer sur le bureau de l'Assemblée
+nationale une déclaration certifiée sur l'honneur exacte et sincère de sa situation patrimoniale concernant notamment la
+totalité de ses biens propres ainsi que, éventuellement, ceux de la communauté ou les biens réputés indivis en application de
+l'article 1538 du code civil. Le bureau assure le caractère confidentiel des déclarations reçues ainsi que des observations
+formulées, le cas échéant, par les députés sur l'évolution de leur patrimoine.
+
+Une nouvelle déclaration conforme aux dispositions qui précèdent est déposée deux mois au plus tôt et un mois au plus tard
+avant l'expiration du mandat du député ou, en cas de dissolution de l'Assemblée nationale ou de cessation du mandat du député
+pour une cause autre que le décès, dans les quinze jours qui suivent la fin de ses fonctions.
+
+Dès réception de la déclaration mentionnée aux alinéas précédents, le bureau de l'Assemblée nationale délivre au déclarant un
+récépissé attestant du dépôt de cette déclaration.
+
+Le bureau de l'Assemblée nationale apprécie la variation des situations patrimoniales des députés telle qu'elle résulte des
+déclarations et des observations qu'ils ont pu formuler.
+
+Le président de l'Assemblée nationale établit, chaque fois qu'il le juge utile, et en tout état de cause à l'occasion de
+chaque renouvellement, un rapport publié au Journal officiel de la République française. Ce rapport peut comporter, le cas
+échéant, soit à son initiative, soit à la demande des intéressés, les observations des députés.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (VD)
+  - Loi n°88-227 du 11 mars 1988 - art. 1 (Ab)
+  - Loi n°88-227 du 11 mars 1988 - art. 2 (Ab)
+  - Loi n°88-227 du 11 mars 1988 - art. 4 (Ab)
+  - Loi n°95-126 du 8 février 1995 - art. 4 (V)
+  - Décret n°2001-213 du 8 mars 2001 - art. 9-1 (V)
+  - Loi organique n°2011-410 du 14 avril 2011 - art. 24 (V)
+  - Loi n°2013-907 du 11 octobre 2013 - art. 11 (VD)
+  - Loi n°2013-907 du 11 octobre 2013 - art. 20 (VT)
+  - Loi n°2013-907 du 11 octobre 2013 - art. 26 (V)
+  - Loi n°2013-907 du 11 octobre 2013 - art. 4 (V)
+  - Décret n°2013-1204 du 23 décembre 2013 (V)
+  - Décret n°2013-1212 du 23 décembre 2013 (V)
+  - Décret n°2013-1212 du 23 décembre 2013 - art. 1 (VD)
+  - Décret n°2013-1212 du 23 décembre 2013 - art. Annexe 1 (VD)
+  - Décret n°2013-1212 du 23 décembre 2013 - art. Annexe 2 (VD)
+  - Décret n°2013-1212 du 23 décembre 2013 - art. Annexe 4 (VD)
+  - Décret n°2013-1212 du 23 décembre 2013 - art. Annexe 5 (VT)
+  - Décret n°2013-1212 du 23 décembre 2013 - art. Annexe 6 (VT)
+  - Décret n°2015-246 du 3 mars 2015 (V)
+  - Loi n°2016-483 du 20 avril 2016 - art. 12
+  - Loi n°2016-483 du 20 avril 2016 - art. 13
+  - Loi n°2016-483 du 20 avril 2016 - art. 15
+  - Loi n°2016-483 du 20 avril 2016 - art. 16
+  - Décret n°2016-570 du 11 mai 2016 (V)
+  - Décret n°2016-1819 du 22 décembre 2016 - art. 1
+  - Loi n°2017-1338 du 15 septembre 2017 - art. 20 (V)
+  - Code de justice administrative - art. L131-10 (V)
+  - Code de justice administrative - art. L231-4-4 (V)
+  - Code des juridictions financières - art. L120-12 (VT)
+  - Code des juridictions financières - art. L120-13 (V)
+  - Code des juridictions financières - art. L220-11 (V)
+  - Code des juridictions financières - art. L220-9 (V)
+  - Code pénal - art. 131-26-2 (V)
+  - Code électoral - art. LO128 (M)
+  - Code électoral - art. LO135-2 (V)
+  - Code électoral - art. LO135-4 (V)
+  - Code électoral - art. LO135-5 (V)
+  - Code électoral - art. LO135-6 (V)
+  - Code électoral - art. LO136-2 (VD)
+  - Code électoral - art. LO151-2 (V)
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°88-226 du 11 mars 1988 - art. 14 (V)
+
+_Créé par_:
+
+  - Loi n°88-226 du 11 mars 1988 - art. 5 () JORF 12 mars 1988
+
+_Cite_:
+
+  - Code civil - art. 1538 (V)
+
+
+###### Article LO135-2
+
+Les déclarations déposées par le député conformément aux dispositions de l'article L. O. 135-1 du code électoral ainsi que,
+éventuellement, les observations qu'il a formulées, ne peuvent être communiquées qu'à la demande expresse du déclarant ou de
+ses ayants droit ou sur requête des autorités judiciaires lorsque leur communication est nécessaire à la solution du litige
+ou utile pour la découverte de la vérité.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (VT)
+  - Loi n°88-227 du 11 mars 1988 - art. 2 (M)
+  - Décret n°2001-213 du 8 mars 2001 - art. 9-5 (V)
+  - Décret n°2013-1212 du 23 décembre 2013 (V)
+  - Décret n°2013-1212 du 23 décembre 2013 - art. 5 (V)
+  - Décret n°2013-1212 du 23 décembre 2013 - art. 6 (VD)
+  - Décret n°2013-1212 du 23 décembre 2013 - art. 7 (VD)
+  - Arrêté du 28 mai 2014 - art. 1 (V)
+  - Arrêté du 8 juillet 2014 (V)
+  - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
+  - Décret n°2016-570 du 11 mai 2016 (V)
+  - Décret n°2016-1819 du 22 décembre 2016 - art. 1
+  - Livre des procédures fiscales - art. L139 B (V)
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°88-226 du 11 mars 1988 - art. 14 (V)
+
+_Créé par_:
+
+  - Loi n°88-226 du 11 mars 1988 - art. 6 () JORF 12 mars 1988
+
+_Cite_:
+
+  - Code électoral - art. LO135-1 (V)
 
 
 ###### Article LO136
@@ -5882,10 +6065,19 @@ _Cité par_:
 ###### Article L167
 
 L'État prend à sa charge les dépenses provenant des opérations effectuées par les commissions instituées par l'article L. 166
-ainsi que celles qui résultent de leur fonctionnement.
+ainsi que celles qui résultent de leur fonctionnement. 
 
 En outre, il est remboursé aux candidats ayant obtenu au moins 5 % des suffrages exprimés le coût du papier, l'impression des
-bulletins de vote, affiches, circulaires ainsi que les frais d'affichage.
+bulletins de vote, affiches, circulaires ainsi que les frais d'affichage. 
+
+Les autres dépenses électorales des candidats ayant obtenu au moins 5 % des suffrages exprimés au premier tour font l'objet
+d'un remboursement forfaitaire de la part de l'Etat égal au dixième du plafond prévu à l'article L. O. 163-2. 
+
+Ce remboursement ne peut excéder le montant des dépenses du candidat, retracées dans son compte de campagne. 
+
+Le remboursement forfaitaire prévu à l'alinéa précédent n'est pas effectué aux candidats qui ne se sont pas conformés aux
+prescriptions de l'article L. O. 179-1 ou de l'article L. O. 163-2 et aux candidats élus qui n'ont pas déposé la déclaration
+prévue à l'article L. O. 135-1.
 
 **Liens relatifs à cet article**
 
@@ -5895,11 +6087,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°86-825 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
-
-_Cite_:
-
-  - Code électoral - art. L166 (M)
+  - Loi n°88-227 du 11 mars 1988 - art. 6
 
 _Cité par_:
 
@@ -6045,6 +6233,118 @@ _Cite_:
 
   - Code électoral - art. L156 (M)
   - Code électoral - art. L169 (V)
+
+
+###### Article LO163-1
+
+Chaque candidat à l'élection des députés est tenu d'établir un compte de campagne retraçant, selon leur origine, l'ensemble
+des recettes perçues et, selon leur nature, l'ensemble des dépenses effectuées en vue de son élection par lui-même ou pour
+son compte dans les trois mois précédant le scrutin.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (M)
+  - Code électoral - art. LO179-1 (Ab)
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+_Créé par_:
+
+  - Loi n°88-226 du 11 mars 1988 - art. 7 () JORF 12 mars 1988
+
+_Abrogé par_:
+
+  - Loi n°90-383 du 10 mai 1990 - art. 10 () JORF 11 mai 1990
+
+
+###### Article LO163-2
+
+Les dépenses de campagne d'un candidat, autres que les dépenses de propagande directement prises en charge par l'Etat, ne
+peuvent dépasser un plafond de 500 000 F.
+
+Ce plafond est actualisé chaque année par décret en fonction de l'évolution prévue de la moyenne annuelle des prix à la
+consommation des ménages telle qu'elle résulte du rapport économique et financier accompagnant le projet de loi de finances.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (M)
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+_Créé par_:
+
+  - Loi n°88-226 du 11 mars 1988 - art. 7 () JORF 12 mars 1988
+
+_Abrogé par_:
+
+  - Loi n°90-55 du 15 janvier 1990 - art. 8 (V) JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+
+
+###### Article LO163-3
+
+Les dons manuels consentis à un candidat par des personnes physiques ou morales dûment identifiées ne peuvent excéder 20 000
+F pour une personne physique et 50 000 F pour une personne morale. Ces dispositions ne sont toutefois pas applicables aux
+dons consentis par un parti ou groupement politique.
+
+Tout don de plus de 2 000 F consenti à un candidat en vue de sa campagne doit être versé par chèque.
+
+Le montant global des dons en espèces faits au candidat ne peut excéder 20 % du total des recettes mentionnées à l'article
+L.O. 163-1.
+
+Le montant global des dons consentis au candidat ne peut excéder le plafond de dépenses prévu à l'article L.O. 163-2.
+
+Les personnes morales de droit public, les casinos, cercles et maisons de jeux ne peuvent effectuer aucun don aux candidats.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (M)
+  - Code électoral - art. L106 (M)
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+_Créé par_:
+
+  - Loi n°88-226 du 11 mars 1988 - art. 7 () JORF 12 mars 1988
+
+_Abrogé par_:
+
+  - Loi n°90-55 du 15 janvier 1990 - art. 8 (V) JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+
+_Cite_:
+
+  - Code électoral LO163-1 LO163-2
+
+
+###### Article LO163-4
+
+Aucun candidat ne peut recevoir directement ou indirectement, pour quelque dépense que ce soit, des contributions ou aides
+matérielles d'un Etat étranger ou d'une personne physique ou morale de nationalité étrangère. "
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+_Créé par_:
+
+  - Loi n°88-226 du 11 mars 1988 - art. 8 () JORF 12 mars 1988
+
+_Abrogé par_:
+
+  - Loi n°90-55 du 15 janvier 1990 - art. 8 (V) JORF 16 janvier 1990 en vigueur le 1er septembre 1990
 
 
 #### Chapitre VII : Opérations préparatoires au scrutin<a id=29></a>
@@ -6284,6 +6584,42 @@ _Cité par_:
   - Loi n°78-753 du 17 juillet 1978 - art. 21 (VT)
   - Code des relations entre le public et l'adminis... - art. L342-2 (VT)
   - Code électoral - art. L68 (VD)
+
+
+###### Article LO179-1
+
+Dans les trente jours qui suivent le tour de scrutin où l'élection a été acquise, chaque candidat présent au premier tour
+dépose à la préfecture le compte de sa campagne prévu à l'article L.O. 163-1, présenté par un membre de l'ordre des experts
+comptables et des comptables agréés et accompagné des justificatifs de ses recettes ainsi que des factures, devis et autres
+documents de nature à établir le montant des dépenses payées ou engagées par lui ou par son mandataire.
+
+Les comptes de campagne des candidats proclamés élus et les pièces justificatives sont transmis au bureau de l'Assemblée
+nationale.
+
+Les comptes de campagne sont communiqués, sur leur demande, au Conseil constitutionnel ou aux autorités judiciaires. "
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (M)
+  - Code électoral - art. LO325 (M)
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°88-226 du 11 mars 1988 - art. 10 () JORF 12 mars 1988
+
+_Abrogé par_:
+
+  - Loi n°90-383 du 10 mai 1990 - art. 10 () JORF 11 mai 1990
+
+_Cite_:
+
+  - Code électoral - art. LO163-1 (Ab)
 
 
 ###### Article LO180
@@ -6692,13 +7028,19 @@ leurs fonctions ;
 
 18° Les membres du cabinet du président du conseil général et du président du conseil régional, les directeurs généraux, les
 directeurs, les directeurs adjoints, les chefs de service et les chefs de bureau de conseil général et de conseil régional
-dans la circonscription où ils exercent leurs fonctions.
+dans la circonscription où ils exercent leurs fonctions. Est également inéligible, pendant un an, le président de conseil
+général qui n'a pas déposé l'une des déclarations prévues à l'article 2 de la loi n° 88-227 du 11 mars 1988 relative à la
+transparence financière de la vie politique.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Cite_:
+
+  - Loi n°88-227 1988 03-11 art. 2
 
 _Cité par_:
 
@@ -6717,7 +7059,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°86-16 1986-01-06 ART. 33 I et II JORF 8 janvier 1986
+  - Loi n°88-227 1988-03-11 art. 5 JORF 12 mars 1988
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°88-1262 1988-12-30 art. 38
 
 _Anciens textes_:
 
@@ -7628,17 +7974,28 @@ _Cité par_:
 
 Ne peuvent être conseillers municipaux :
 
-1° Les individus privés du droit électoral;
+1° Les individus privés du droit électoral ;
 
-2° Ceux qui sont pourvus d'un conseil judiciaire;
+2° Ceux qui sont pourvus d'un conseil judiciaire ;
 
-3° Ceux qui sont dispensés de subvenir aux charges communales.
+3° Ceux qui sont dispensés de subvenir aux charges communales ;
+
+4° Pour une durée d'un an, le maire qui n'a pas déposé l'une des déclarations prévues à l'article 2 de la loi n° 88-227 du 11
+mars 1988 relative à la transparence financière de la vie politique.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Modifié par_:
+
+  - Loi n°88-227 1988-03-11 art. 5 II JORF 12 mars 1988
+
+_Cite_:
+
+  - Loi n°88-227 du 11 mars 1988 - art. 2 (M)
 
 _Cité par_:
 
@@ -10219,13 +10576,21 @@ _Cite_:
 
 ###### Article LO325
 
-Les dispositions du chapitre X du titre II du livre I sont applicables.
+Les dispositions du chapitre X du titre II du livre Ier sont applicables, à l'exception de l'article L.O. 179-1.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Modifié par_:
+
+  - Loi n°88-226 du 11 mars 1988 - art. 11 () JORF 12 mars 1988
+
+_Cite_:
+
+  - Code électoral - art. LO179-1 (Ab)
 
 
 ### Titre V : Conditions d'application<a id=78></a>
@@ -10863,7 +11228,11 @@ affaires régionales en qualité de secrétaire général ou de chargé de missi
 Pendant la durée de ses fonctions, le médiateur ne peut être candidat à un mandat de conseiller régional s'ils n'exerçait le
 même mandat antérieurement à sa nomination.
 
-Les articles L. 199 à L. 203 sont applicables à l'élection des conseillers régionaux.
+Les articles L. 199 à L. 203 sont applicables à l'élection des conseillers régionaux ;
+
+3° Pour une durée d'un an, le président de conseil régional ou le président de l'assemblée de Corse qui n'a pas déposé l'une
+des déclarations prévues à l'article 2 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie
+politique.
 
 **Liens relatifs à cet article**
 
@@ -10873,10 +11242,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°86-16 1986-01-06 art. 33 III JORF 8 janvier 1986
+  - Loi n°88-227 1988-03-11 art. 5 III JORF 12 mars 1988
 
 _Cite_:
 
+  - Loi n°88-227 du 11 mars 1988 - art. 2 (M)
   - Code électoral - art. L195 (M)
   - Code électoral - art. L196 (V)
   - Code électoral L195, L196, L199 à L203
