@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2001-04-04
+Version Consolidée au 2001-05-16
 ## Contenu: 
   - [Partie législative (art. L1 à L450)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -6182,7 +6182,7 @@ _Codifié par_:
 
 ###### Article LO121
 
-Les pouvoirs de l'Assemblée nationale expirent le premier mardi d'avril de la cinquième année qui suit son élection.
+Les pouvoirs de l'Assemblée nationale expirent le troisième mardi de juin de la cinquième année qui suit son élection.
 
 **Liens relatifs à cet article**
 
@@ -6192,7 +6192,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°95-1292 du 16 décembre 1995 - art. 1 ()
+  - Loi n°2001-419 du 15 mai 2001 - art. 1 ()
 
 
 ###### Article LO122
