@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1985-11-26
+Version Consolidée au 1985-12-14
 ## Contenu: 
   - [Partie législative (art. L1 à L364)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -14,7 +14,7 @@ Version Consolidée au 1985-11-26
           - [Section 6 : Cartes électorales (art. L43)](#11)
         - [Chapitre III : Conditions d'éligibilité et inéligibilités (art. L44 à L45)](#12)
         - [Chapitre IV : Incompatibilités (art. L46)](#13)
-        - [Chapitre V : Propagande (art. L47 à L52-1)](#14)
+        - [Chapitre V : Propagande (art. L47 à L52-2)](#14)
         - [Chapitre VI : Vote (art. L53 à L85-1)](#15)
           - [Section 1 : Opérations préparatoires au scrutin (art. L53)](#16)
           - [Section 2 : Opérations de vote (art. L54 à L70)](#17)
@@ -2324,6 +2324,9 @@ _Codifié par_:
 
 Il est interdit de distribuer ou faire distribuer, le jour du scrutin, des bulletins, circulaires et autres documents.
 
+A partir de la veille du scrutin à zéro heure, il est interdit de diffuser ou de faire diffuser par tout moyen de
+communication audiovisuelle tout message ayant le caractère de propagande électorale.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -2348,6 +2351,10 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Modifié par_:
+
+  - Loi n°85-1317 1985-12-13 art. 22 JORF 14 Décembre 1985
 
 **Liens**:
 
@@ -2469,17 +2476,13 @@ _Codifié par_:
 ###### Article L52-1
 
 Pendant la durée de la campagne électorale, est également interdite l'utilisation, à des fins de propagande électorale de
-tout procédé de publicité commerciale par la voie de la presse.
+tout procédé de publicité commerciale par la voie de la presse ou par tout moyen de communication audiovisuelle.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Créé par_:
-
-  - Loi n°66-1022 1966-12-29 art. 2 JORF 30 décembre 1966
 
 _Cité par_:
 
@@ -2501,6 +2504,40 @@ _Cité par_:
   - Code électoral - art. L113-1 (VD)
   - Code électoral - art. L52-8 (VD)
   - Code électoral - art. L90-1 (V)
+
+_Modifié par_:
+
+  - Loi n°85-1317 1985-12-13 art. 22 II JORF 14 Décembre 1985
+
+
+###### Article L52-2
+
+En cas d'élections générales, aucun résultat d'élection, partiel ou définitif, ne peut être communiqué au public par la voie
+de la presse ou par tout moyen de communication audiovisuelle, en métropole, avant la fermeture du dernier bureau de vote sur
+le territoire métropolitain. Il en est de même dans les départements d'outre-mer avant la fermeture du dernier bureau de vote
+dans chacun des départements concernés.
+
+En cas d'élections partielles, les mêmes dispositions s'appliquent jusqu'à la fermeture du dernier bureau de vote de la
+circonscription territoriale intéressée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°85-1317 1985-12-13 art. 22 III JORF 14 décembre 1985
+
+_Cité par_:
+
+  - Arrêté du 7 mars 1986 - art. Annexe I art. 6 (V)
+  - Décret n°92-772 du 6 août 1992 - art. 2 (V)
+  - Décret n°2000-667 du 18 juillet 2000 - art. 2 (V)
+  - Décret n°2005-238 du 17 mars 2005 - art. 11 (V)
+  - Décret n°2005-238 du 17 mars 2005 - art. 2 (V)
+  - Code électoral - art. L89 (M)
 
 
 #### Chapitre VI : Vote<a id=15></a>
@@ -3719,8 +3756,8 @@ _Cité par_:
 
 ###### Article L89
 
-Toute infraction aux dispositions de l'article L. 49 et L. 52-2 sera punie d'une amende de 900 F à 20000 F sans préjudice de
-la confiscation des bulletins et autres documents distribués.
+Toute infraction aux dispositions de l'article L. 49 et L. 52-2 sera punie d'une amende de 25 000 F sans préjudice de la
+confiscation des bulletins et autres documents distribués ou diffusés par tout moyen.
 
 **Liens relatifs à cet article**
 
@@ -3730,11 +3767,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 DECEMBRE 1977
+  - Loi n°85-1317 1985-12-13 art. 22 JORF 14 Décembre 1985
 
 _Cite_:
 
   - Code électoral - art. L49 (M)
+  - Code électoral - art. L52-2 (M)
 
 **Liens**:
 
@@ -5828,8 +5866,8 @@ _Cité par_:
 ###### Article L167-1
 
 I. - Les partis et groupements peuvent utiliser les antennes du service public de radiodiffusion et de télévision pour leur
-campagne en vue des élections législatives. Chaque émission est diffusée simultanément par les sociétés nationales de
-télévision et de radiodiffusion.
+campagne en vue des élections législatives. Chaque émission est diffusée par les sociétés nationales de télévision et de
+radiodiffusion sonore. Cette diffusion s'effectue simultanément sur les antennes des sociétés nationales de télévision.
 
 II. - Une durée d'émission de trois heures est mise à la disposition des partis et groupements représentés par des groupes
 parlementaires de l'Assemblée nationale.
@@ -5842,9 +5880,9 @@ entre les présidents des groupes intéressés. A défaut d'accord amiable, la r
 bureau de l'Assemblée nationale sortante, en tenant compte notamment de l'importance respective de ces groupes ; pour cette
 délibération, le bureau est complété par les présidents de groupe.
 
-III. - Tout parti ou groupement présentant des listes dans vingt circonscriptions au moins a accès aux antennes du service
-public de radiodiffusion et de télévision, pour une durée de sept minutes, dès lors qu'aucun de ses candidats n'appartient à
-l'un des groupements ou partis bénéficiant d'émissions au titre du paragraphe II.
+III. - Tout parti ou groupement présentant des listes dans vingt circonscriptions au moins *nombre minimum* a accès aux
+antennes du service public de radiodiffusion et de télévision *condition*, pour une durée de sept minutes, dès lors qu'aucun
+de ses candidats n'appartient à l'un des groupements ou partis bénéficiant d'émissions au titre du paragraphe II.
 
 L'habilitation est donnée à ces partis ou groupements dans des conditions fixées par décret.
 
@@ -5873,7 +5911,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°85-690 du 10 juillet 1985 - art. 11 () JORF 11 JUILLET 1985
+  - Loi n°85-1317 1985-12-13 art. 22 V JORF 14 Décembre 1985
 
 
 ###### Article L168
