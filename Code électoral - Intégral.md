@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2004-03-02
+Version Consolidée au 2004-03-19
 ## Contenu: 
   - [Partie législative (art. L1 à L450)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -249,13 +249,14 @@ Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna (
   - [Annexes (art. Annexe tableau n° 1 à Annexe tableau n° 7)](#245)
     - [Tableau des circonscriptions électorales des départements (élection des députés) (art. Annexe tableau n° 1)](#246)
     - [Tableau des circonscriptions électorales des départements (élection des députés) (1). (art. Annexe tableau n° 1 (suite))](#247)
-    - [Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés). (art. Annexe tableau n° 1 bis)](#248)
-    - [Tableau des secteurs pour l'élection des membres du conseil de Paris (art. Annexe tableau n° 2)](#249)
-    - [Tableau des secteurs pour l'élection des conseillers municipaux de Lyon (art. Annexe tableau n° 3)](#250)
-    - [Tableau des secteurs pour l'élection des conseillers municipaux de Marseille. (art. Annexe tableau n° 4)](#251)
-    - [Election des sénateurs (art. Annexe tableau n° 5 à Annexe tableau n° 6)](#252)
-      - [Nombre de sénateurs représentant les départements (art. Annexe tableau n° 6)](#253)
-    - [Effectif des conseils régionaux et nombre de candidats par section départementale (art. Annexe tableau n° 7)](#254)
+    - [Liste des communes où est autorisée l'utilisation de machines à voter (art. Annexe)](#248)
+    - [Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés). (art. Annexe tableau n° 1 bis)](#249)
+    - [Tableau des secteurs pour l'élection des membres du conseil de Paris (art. Annexe tableau n° 2)](#250)
+    - [Tableau des secteurs pour l'élection des conseillers municipaux de Lyon (art. Annexe tableau n° 3)](#251)
+    - [Tableau des secteurs pour l'élection des conseillers municipaux de Marseille. (art. Annexe tableau n° 4)](#252)
+    - [Election des sénateurs (art. Annexe tableau n° 5 à Annexe tableau n° 6)](#253)
+      - [Nombre de sénateurs représentant les départements (art. Annexe tableau n° 6)](#254)
+    - [Effectif des conseils régionaux et nombre de candidats par section départementale (art. Annexe tableau n° 7)](#255)
 # Partie législative<a id=1></a>
 
 ## LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS<a id=2></a>
@@ -21866,6 +21867,32 @@ _Modifié par_:
   - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
 
 
+###### Article R53
+
+Des machines à voter peuvent être utilisées dans les bureaux de vote des communes figurant sur la liste annexée à la partie
+Réglementaire du présent code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Cité par_:
+
+  - Décret n°89-80 du 8 février 1989 - art. 11 (V)
+  - Code du travail - art. R513-13 (Ab)
+  - Code général des collectivités territoriales - art. R1112-6 (V)
+
+_Créé par_:
+
+  - Décret n°2004-238 du 18 mars 2004 - art. 1 () JORF 19 mars 2004
+
+_Abrogé par_:
+
+  - Décret n°2006-1244 du 11 octobre 2006 - art. 12 () JORF 13 octobre 2006
+
+
 ###### Article R54
 
 Les enveloppes électorales sont fournies par l'administration préfectorale. Elles sont opaques, non gommées et de type
@@ -32418,7 +32445,130 @@ _Cite_:
   - Loi n°86-97 1986-11-24 art. 3
 
 
-## Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés).<a id=248></a>
+## Liste des communes où est autorisée l'utilisation de machines à voter<a id=248></a>
+
+###### Article Annexe
+
+Ain
+
+Bourg-en-Bresse.
+
+Alpes-Maritimes
+
+Nice.
+
+Bouches-du-Rhône
+
+Marseille.
+
+Charente-Maritime
+
+Royan.
+
+Cher
+
+Bourges.
+
+Corrèze
+
+Brive-la-Gaillarde.
+
+Côte-d'Or
+
+Dijon.
+
+Deux-Sèvres
+
+Niort.
+
+Essonne
+
+Bures-sur-Yvette, Orsay, Villebon-sur-Yvette.
+
+Finistère
+
+Brest.
+
+Gironde
+
+Mérignac.
+
+Haute-Garonne
+
+Toulouse.
+
+Hauts-de-Seine
+
+Boulogne-Billancourt, Issy-les-Moulineaux, Suresnes.
+
+Ille-et-Vilaine
+
+Rennes.
+
+Isère
+
+Grenoble, Meylan.
+
+Loiret
+
+La Ferté-Saint-Aubin.
+
+Marne
+
+Châlons-en-Champagne.
+
+Meurthe-et-Moselle
+
+Vandoeuvre-lès-Nancy.
+
+Morbihan
+
+Lorient, Questembert.
+
+Oise
+
+Beauvais.
+
+Seine-Maritime
+
+Le Havre.
+
+Seine-Saint-Denis
+
+Rosny-sous-Bois.
+
+Val-de-Marne
+
+Marolles-en-Brie.
+
+Var
+
+Six-Fours-les-Plages.
+
+Vendée
+
+Les Herbiers.
+
+Vienne
+
+Vouneuil-sous-Biard.
+
+Yvelines
+
+Versailles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+_Créé par_:
+
+  - Décret n°2004-238 du 18 mars 2004 - art. 2 () JORF 19 mars 2004
+
+
+## Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés).<a id=249></a>
 
 ###### Article Annexe tableau n° 1 bis
 
@@ -32462,7 +32612,7 @@ _Modifié par_:
   - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 () JORF 22 avril 2000
 
 
-## Tableau des secteurs pour l'élection des membres du conseil de Paris<a id=249></a>
+## Tableau des secteurs pour l'élection des membres du conseil de Paris<a id=250></a>
 
 ###### Article Annexe tableau n° 2
 
@@ -32535,7 +32685,7 @@ _Modifié par_:
   - Loi n°82-1170 1982-12-31 art. 4 JORF 1er janvier 1983
 
 
-## Tableau des secteurs pour l'élection des conseillers municipaux de Lyon<a id=250></a>
+## Tableau des secteurs pour l'élection des conseillers municipaux de Lyon<a id=251></a>
 
 ###### Article Annexe tableau n° 3
 
@@ -32578,7 +32728,7 @@ _Modifié par_:
   - Loi n°82-1170 1982-12-31 art. 4 JORF 1er janvier 1983
 
 
-## Tableau des secteurs pour l'élection des conseillers municipaux de Marseille.<a id=251></a>
+## Tableau des secteurs pour l'élection des conseillers municipaux de Marseille.<a id=252></a>
 
 ###### Article Annexe tableau n° 4
 
@@ -32620,7 +32770,7 @@ _Modifié par_:
   - Loi n°87-509 1987-07-09 art. 1 JORF 11 juillet 1987
 
 
-## Election des sénateurs<a id=252></a>
+## Election des sénateurs<a id=253></a>
 
 ###### Article Annexe tableau n° 5
 
@@ -32674,7 +32824,7 @@ _Modifié par_:
   - Loi n°86-958 1986-08-13 art. 10 JORF 14 août 1986 rectificatif JORF du 1er octobre 1986
 
 
-### Nombre de sénateurs représentant les départements<a id=253></a>
+### Nombre de sénateurs représentant les départements<a id=254></a>
 
 ###### Article Annexe tableau n° 6
 
@@ -32903,7 +33053,7 @@ _Modifié par_:
   - Loi n°2003-697 du 30 juillet 2003 - art. 1 () JORF 31 juillet 2003
 
 
-## Effectif des conseils régionaux et nombre de candidats par section départementale<a id=254></a>
+## Effectif des conseils régionaux et nombre de candidats par section départementale<a id=255></a>
 
 ###### Article Annexe tableau n° 7
 
