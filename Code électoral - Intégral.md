@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2001-07-13
+Version Consolidée au 2001-07-18
 ## Contenu: 
   - [Partie législative (art. L1 à L450)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -7733,7 +7733,7 @@ _Cité par_:
 
 I. - Les partis et groupements peuvent utiliser les antennes du service public de radiodiffusion et de télévision pour leur
 campagne en vue des élections législatives. Chaque émission est diffusée par les sociétés nationales de télévision et de
-radiodiffusion sonore. Cette diffusion s'effectue simultanément sur les antennes des sociétés nationales de télévision.
+radiodiffusion sonore.
 
 II. - Pour le premier tour de scrutin, une durée d'émission de trois heures est mise à la disposition des partis et
 groupements représentés par des groupes parlementaires de l'Assemblée nationale.
@@ -7781,7 +7781,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°86-825 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
+  - Loi n°2001-624 du 17 juillet 2001 - art. 24 ()
 
 
 ###### Article L168
