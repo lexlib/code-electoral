@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1990-01-25
+Version Consolidée au 1990-03-01
 ## Contenu: 
   - [Partie législative (art. L1 à L364)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -3461,11 +3461,11 @@ Peuvent exercer, sur leur demande, leur droit de vote par procuration dans les c
 I. - les électeurs appartenant à l'une des catégories ci-après et que des obligations dûment constatées retiennent éloignés
 de la commune sur la liste électorale de laquelle ils sont inscrits :
 
-1° les marins du commerce (inscrits maritimes, agents du service général et pêcheurs);
+1° les marins du commerce (inscrits maritimes, agents du service général et pêcheurs) ;
 
-2° les militaires;
+2° les militaires ;
 
-3° les fonctionnaires, cheminots et agents des services publics appelés en déplacement par les nécessités de leur service;
+3° les fonctionnaires, cheminots et agents des services publics appelés en déplacement par les nécessités de leur service ;
 
 4° le personnel navigant de l'aéronautique civile ;
 
@@ -3480,7 +3480,7 @@ Santé ;
 8° les journalistes titulaires de la carte professionnelle en déplacement par nécessité de service ;
 
 9° les voyageurs et représentants qui exercent leur activité dans les conditions prévues par les articles L. 751-1 et
-suivants du code du travail ;
+suivants du Code du travail ;
 
 10° les agents commerciaux ;
 
@@ -3534,7 +3534,7 @@ dans le troisième groupe ;
 4° les titulaires d'une pension de vieillesse, allouée au titre d'une législation de sécurité sociale, bénéficiant de la
 majoration pour assistance d'une tierce personne ;
 
-5° les victimes d'accidents de travail bénéficiant d'une rente correspondant à un taux égal ou supérieur à 85 %;
+5° les victimes d'accidents de travail bénéficiant d'une rente correspondant à un taux égal ou supérieur à 85 % ;
 
 6° les personnes âgées et infirmes bénéficiant d'une prise en charge pour aide d'une tierce personne ;
 
@@ -3544,21 +3544,13 @@ majoration pour assistance d'une tierce personne ;
 seront dans l'impossibilité de se déplacer le jour du scrutin ;
 
 9° les personnes placées en détention provisoire et les détenus purgeant une peine n'entraînant pas une incapacité
-électorale ;
-
-III. - les électeurs qui ont leur résidence et exercent leur activité professionnelle hors du département où se trouve leur
-commune d'inscription ainsi que leur conjoint.
+électorale.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Loi n°72-1153 1972-12-23 art. 1 JORF 27 décembre 1972
-  - Loi n°75-1329 1975-12-31 art. 4 JORF 1er janvier 1976
 
 _Cité par_:
 
@@ -3588,10 +3580,14 @@ _Cité par_:
 **Liens**:
 
   - TXT_SOURCE: Décret n°76-158 du 12 février 1976 - art. 1 (Ab)
-  - SPEC_APPLI: Loi n°88-1262 1988-12-30 art. 38
+  - SPEC_APPLI: Loi n°92-556 1992-06-25 art. 10
   - TXT_SOURCE: Décret n°93-1223 du 10 novembre 1993
   - TXT_SOURCE: Décret n°93-1223 du 10 novembre 1993 - art. 2 (V)
   - TXT_SOURCE: Décret n°93-1223 du 10 novembre 1993 - art. 3 (V)
+
+_Modifié par_:
+
+  - Loi n°88-1262 du 30 décembre 1988 - art. 13 () JORF 4 janvier 1989 en vigueur le 1er mars 1990
 
 
 ###### Article L72
