@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1989-01-04
+Version Consolidée au 1989-02-10
 ## Contenu: 
   - [Partie législative (art. L1 à L364)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -14740,55 +14740,20 @@ _Modifié par_:
   - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
 
 
-###### Article R53
-
-Pendant toute la durée des opérations électorales une copie de la liste électorale certifiée par le maire et comportant les
-mentions prescrites par les articles L. 18 et L. 19, ainsi que le numéro d'ordre attribué à chaque électeur, reste déposée
-sur la table autour de laquelle siège le bureau.
-
-Cette copie constitue la liste d'émargement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°89-80 1989-02-08 art. 12-II
-
-_Abrogé par_:
-
-  - Décret n°89-80 du 8 février 1989 - art. 11 (V) JORF 10 février 1989
-
-_Cité par_:
-
-  - Décret n°89-80 du 8 février 1989 - art. 11 (V)
-  - Code du travail - art. R513-13 (Ab)
-  - Code général des collectivités territoriales - art. R1112-6 (V)
-
-_Cite_:
-
-  - Code électoral - art. L18 (M)
-  - Code électoral - art. L19 (V)
-
-
 ###### Article R54
 
-Les enveloppes électorales sont fournies par l'administration préfectorale. Elles sont opaques, non gommées, frappées du
-timbre à date des préfectures ou des sous-préfectures, et de type uniforme pour chaque collège électoral.
+Les enveloppes électorales sont fournies par l'administration préfectorale. Elles sont opaques, non gommées et de type
+uniforme pour chaque collège électoral.
 
 Les enveloppes sont envoyées dans chaque mairie cinq jours au moins avant l'élection, en nombre égal à celui des électeurs
 inscrits. Toutefois, lorsque la circonscription électorale comprend des bureaux de vote dotés d'une machine à voter, le
 nombre des enveloppes est égal au nombre des électeurs inscrits dans les bureaux non pourvus d'une machine à voter, et à 20 %
 des électeurs inscrits dans les bureaux dotés d'une telle machine.
 
-Le maire doit immédiatement en accuser réception.
+Les enveloppes spéciales prévues au deuxième alinéa de l'article L. 65, dites enveloppes de centaine, sont fournies par
+l'administration préfectorale et envoyées dans chaque mairie dans le même délai que les enveloppes électorales.
+
+Le maire accuse immédiatement réception des différents envois d'enveloppes.
 
 **Liens relatifs à cet article**
 
@@ -14822,8 +14787,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°69-746 1969-07-24 art. 5 JORF 26 juillet 1969
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+  - Décret n°89-80 1989-02-08 art. 1 I, II JORF 10 février 1989
+  - Décret n°89-80 du 8 février 1989 - art. 1 () JORF 10 février 1989
+
+_Cite_:
+
+  - Code électoral - art. L65 (M)
 
 
 ###### Article R55
@@ -15080,11 +15049,11 @@ _Cité par_:
 
 ###### Article R61
 
-Le vote de chaque électeur est constaté par la signature ou le paraphe de l'un des membres du bureau, apposé sur la liste
-d'émargement en face du nom du votant.
+Un assesseur est chargé de veiller à l'application des dispositions du dernier alinéa de l'article L. 62-1 et du second
+alinéa de l'article L. 64. 
 
-En même temps, la carte électorale ou l'attestation d'inscription en tenant lieu est estampillée au moyen d'un timbre portant
-la date du scrutin.
+Après la signature de la liste d'émargement, la carte électorale ou l'attestation d'inscription en tenant lieu est
+estampillée par un autre assesseur au moyen d'un timbre portant la date du scrutin. 
 
 Les opérations visées au présent article sont réparties entre les assesseurs désignés par les candidats ou listes en présence
 conformément aux dispositions de l'article R. 44. En cas de désaccord sur cette répartition, il est procédé par voie de
@@ -15092,16 +15061,15 @@ tirage au sort à la désignation du ou des assesseurs chargés respectivement d
 un tirage au sort si aucun des assesseurs n'a été désigné par les candidats ou listes en présence, ou si le nombre des
 assesseurs ainsi désignés est insuffisant.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Décret n°72-1252 1972-12-29 art. 2 JORF 31 décembre 1972
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
 
 _Cité par_:
 
@@ -15121,24 +15089,31 @@ _Cité par_:
   - Code électoral - art. R176-1 (V)
   - Code électoral - art. R176-1-12 (V)
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°89-80 du 8 février 1989 - art. 12 (V)
+
+_Modifié par_:
+
+  - Décret n°89-80 du 8 février 1989 - art. 2 () JORF 10 février 1989
+
 _Cite_:
 
-  - Code électoral - art. R44 (M)
+  - Code électoral - art. L62-1 (V)
+  - Code électoral - art. L64 (V)
+  - Code électoral - art. R44 (V)
 
 
 ###### Article R62
 
-Dès la clôture du scrutin la liste d'émargement est signée par tous les membres du bureau.
+Dès la clôture du scrutin, la liste d'émargement est signée par tous les membres du bureau. Il est aussitôt procédé au
+dénombrement des émargements.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
 
 _Cité par_:
 
@@ -15151,11 +15126,15 @@ _Cité par_:
   - Code de commerce - art. R723-15 (V)
   - Code électoral - art. R177 (V)
 
+_Modifié par_:
+
+  - Décret n°89-80 du 8 février 1989 - art. 3 () JORF 10 février 1989
+
 
 ###### Article R63
 
-Le dépouillement suit immédiatement la clôture du scrutin. Il doit être conduit sans désemparer jusqu'à son achèvement
-complet.
+Le dépouillement suit immédiatement le dénombrement des émargements. Il doit être conduit sans désemparer jusqu'à son
+achèvement complet.
 
 Les tables sur lesquelles s'effectue le dépouillement sont disposées de telle sorte que les électeurs puissent circuler
 autour.
@@ -15165,10 +15144,6 @@ autour.
 _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
 
 _Cité par_:
 
@@ -15185,6 +15160,10 @@ _Cité par_:
   - Code général des collectivités territoriales - art. D6232-7 (V)
   - Code général des collectivités territoriales - art. D6332-7 (V)
   - Code général des collectivités territoriales - art. R1112-8 (V)
+
+_Modifié par_:
+
+  - Décret n°89-80 du 8 février 1989 - art. 4 () JORF 10 février 1989
 
 
 ###### Article R64
@@ -15220,21 +15199,17 @@ _Cité par_:
 ###### Article R65
 
 Les scrutateurs désignés, en application de l'article L. 65, par les candidats ou mandataires des listes en présence ou par
-les délégués prévus à l'article R. 47, sont pris parmi les électeurs présents; les délégués peuvent être également
+les délégués prévus à l'article R. 47, sont pris parmi les électeurs présents ; les délégués peuvent être également
 scrutateurs. Leurs nom, prénoms et date de naissance sont communiqués au président du bureau au moins une heure avant la
 clôture du scrutin. Ces scrutateurs sont affectés aux tables de dépouillement de telle sorte que la lecture des bulletins et
 l'inscription des suffrages soient, autant que possible, contrôlées simultanément par un scrutateur de chaque candidat ou de
-chaque liste. Le président répartit entre les diverses tables les enveloppes à vérifier.
+chaque liste.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
 
 _Cité par_:
 
@@ -15252,17 +15227,56 @@ _Cité par_:
   - Code électoral - art. R176-1-8 (V)
   - Code électoral - art. R56 (V)
 
+_Modifié par_:
+
+  - Décret n°89-80 du 8 février 1989 - art. 5 () JORF 10 février 1989
+
 _Cite_:
 
-  - Code électoral - art. L65 (M)
+  - Code électoral - art. L65 (V)
   - Code électoral - art. R47 (V)
+
+
+###### Article R65-1
+
+Si à la fin du regroupement des enveloppes électorales par paquets de cent prévu au deuxième alinéa de l'article L. 65, le
+bureau constate qu'il reste des enveloppes électorales en nombre inférieur à cent, il introduit ces enveloppes dans une
+enveloppe de centaine qui doit porter, outre les signatures énumérées audit alinéa, la mention du nombre des enveloppes
+électorales qu'elle contient. 
+
+Le président répartit entre les diverses tables de dépouillement les enveloppes de centaine. 
+
+Après avoir vérifié que les enveloppes de centaine sont conformes aux dispositions du deuxième alinéa de l'article L. 65, les
+scrutateurs les ouvrent, en extraient les enveloppes électorales et procèdent comme il est dit au troisième alinéa dudit
+article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Décret n°89-80 du 8 février 1989 - art. 6 () JORF 10 février 1989
+
+_Cité par_:
+
+  - Arrêté du 29 avril 1996 - art. 13 (V)
+  - Décret n°98-733 du 20 août 1998 - art. 31 (V)
+  - Décret n°2008-598 du 23 juin 2008 - art. 8 (V)
+  - Code général des collectivités territoriales - art. R1112-8 (V)
+
+_Cite_:
+
+  - Code électoral - art. L65 (V)
 
 
 ###### Article R66
 
-Une fois les opérations de lecture et de pointage terminées, les scrutateurs remettent au bureau les feuilles de pointage,
-signées par eux, en même temps que les bulletins dont la validité leur a paru douteuse ou a été contestée par des électeurs
-ou par les délégués des candidats.
+Une fois les opérations de lecture et de pointage terminées, les scrutateurs remettent au bureau les feuilles de pointage
+signées par eux, en même temps que les bulletins, enveloppes électorales et enveloppes de centaine dont la régularité leur a
+paru douteuse, ou a été contestée par des électeurs ou par les délégués des candidats.
 
 **Liens relatifs à cet article**
 
@@ -15287,7 +15301,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+  - Décret n°89-80 du 8 février 1989 - art. 7 () JORF 10 février 1989
 
 
 ###### Article R66-1
@@ -15710,9 +15724,11 @@ _Cite_:
 
 ###### Article R*74
 
-La validité de la procuration est, au choix du mandant, limitée à un seul scrutin ou fixée à une année, à compter de la date
-d'établissement. Toutefois, pour les Français et Françaises établis hors de France, la procuration peut également être
-établie pour la durée de l'immatriculation au consulat avec une validité maximum de trois ans.
+La validité de la procuration est limitée à un seul scrutin. Toutefois, à la demande du mandant, elle peut être fixée à une
+année à compter de sa date d'établissement si les attestations et justifications prévues au deuxième alinéa de l'article R.
+73 établissent que l'intéressé est de façon durable dans l'impossibilité de se rendre à son bureau de vote. Pour les Français
+et Françaises établis hors de France, la procuration peut également être établie pour la durée de l'immatriculation au
+consulat avec une validité maximale de trois ans.
 
 Mention expresse de la validité choisie est portée sur la procuration.
 
@@ -15724,13 +15740,13 @@ _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Modifié par_:
-
-  - Décret n°86-212 1986-02-14 art. 1 JORF 16 février 1986
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°86-212 1986-02-14 art. 2 : dispositions applicables dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte
+
+_Modifié par_:
+
+  - Décret n°89-80 du 8 février 1989 - art. 8 () JORF 10 février 1989
 
 _Cité par_:
 
@@ -15740,6 +15756,10 @@ _Cité par_:
   - Code de commerce. - art. R927-4 (T)
   - Code électoral - art. R176-2 (V)
   - Code électoral - art. R176-2-2 (V)
+
+_Cite_:
+
+  - Code électoral - art. R*73 (M)
 
 
 ###### Article R*75
@@ -17135,12 +17155,39 @@ _Cité par_:
 
 ###### Article R128
 
-Dans les communes où la déclaration de candidature pour l'élection des conseils municipaux est obligatoire, tout candidat
-inscrit sur une liste peut, en cas de contestation concernant l'enregistrement de cette liste, se pourvoir dans un délai de
-vingt-quatre heures devant le tribunal administratif qui statue, en premier et dernier ressort, dans les trois jours du dépôt
-de la requête.
+Les documents officiels prévus au troisième alinéa de l'article L. 265 sont les suivants :
 
-Faute par le tribunal administratif d'avoir statué dans ce délai, la déclaration de candidature doit être enregistrée.
+1° Si le candidat est électeur dans la commune où il se présente, une attestation d'inscription sur la liste électorale de
+cette commune délivrée par le maire dans les trente jours précédant la date du dépôt de la candidature ou une copie certifiée
+conforme de la décision de justice ordonnant l'inscription de l'intéressé ;
+
+2° Si le candidat est électeur dans une autre commune que celle où il se présente, une attestation d'inscription sur la liste
+électorale de cette commune délivrée par le maire dans les trente jours précédant la date du dépôt de la candidature ou une
+copie certifiée conforme de la décision de justice ordonnant l'inscription de l'intéressé ;
+
+3° Dans les autres cas, un certificat de nationalité ou la carte nationale d'identité en cours de validité et un bulletin n°
+3 du casier judiciaire délivré depuis moins de trois mois.
+
+Dans les cas prévus au 2° et au 3° ci-dessus, le candidat doit en outre fournir :
+
+a) Soit un avis d'imposition ou un extrait de rôle délivré par le comptable du Trésor chargé du recouvrement qui établissent
+que l'intéressé est inscrit au rôle des contributions directes de la commune où il se présente au 1er janvier de l'année de
+l'élection ;
+
+b) Soit une copie certifiée conforme d'un acte notarié établissant que l'intéressé est devenu dans l'année précédant celle de
+l'élection propriétaire ou locataire d'un immeuble dans cette commune, ou d'un acte sous seing privé enregistré au cours de
+la même année établissant qu'il est devenu locataire d'un immeuble dans cette commune ;
+
+c) Soit une attestation du directeur des services fiscaux établissant que l'intéressé, au vu notamment des rôles de l'année
+précédant celle de l'élection et des éléments que celui-ci produit, et sous réserve d'une modification de sa situation dont
+l'autorité compétente n'aurait pas eu connaissance, justifie qu'il devait être inscrit au rôle des contributions directes
+dans la commune où il se présente à la date du 1er janvier de l'année de l'élection.
+
+Les députés et les sénateurs élus dans le département sont dispensés de la production des pièces énumérées au présent
+article.
+
+La délivrance du récépissé par le préfet ne fait pas obstacle à ce que l'éligibilité du candidat puisse être contestée devant
+le juge de l'élection.
 
 **Liens relatifs à cet article**
 
@@ -17150,7 +17197,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+  - Décret n°89-80 du 8 février 1989 - art. 10 () JORF 10 février 1989
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°89-80 du 8 février 1989 - art. 12 (V)
 
 _Cité par_:
 
@@ -17160,6 +17211,10 @@ _Cité par_:
   - Code électoral - art. R128-1 (V)
   - Code électoral - art. R266 (Ab)
   - Code électoral - art. R268 (Ab)
+
+_Cite_:
+
+  - Code électoral - art. L265 (M)
 
 
 #### Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille<a id=134></a>
