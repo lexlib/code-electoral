@@ -1,9 +1,9 @@
 # Code électoral  
-Version Consolidée au 1976-01-01
+Version Consolidée au 1976-01-03
 ## Contenu: 
   - [Partie législative (art. L1 à L334)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L251)](#2)
-      - [Titre Ier : Dispositions communes à l'élection des députés, des conseillers généraux et des  conseillers municipaux (art. L1 à L118)](#3)
+      - [Titre Ier : Dispositions communes à l'élection des députés, des conseillers généraux et des  conseillers municipaux (art. L1 à L118-1)](#3)
         - [Chapitre Ier : Conditions requises pour être électeur (art. L1 à L8)](#4)
         - [Chapitre II : Listes électorales (art. L9 à L43)](#5)
           - [Section 1 : Conditions d'inscription sur une liste électorale (art. L9 à L15)](#6)
@@ -19,60 +19,59 @@ Version Consolidée au 1976-01-01
           - [Section 1 : Opérations préparatoires au scrutin (art. L53)](#16)
           - [Section 2 : Opérations de vote (art. L54 à L70)](#17)
           - [Section 3 : Vote par procuration (art. L71 à L78)](#18)
-          - [Section 4 : Vote par correspondance (art. L79 à L85)](#19)
-          - [Section 5 : Commissions de contrôle des opérations de vote (art. L85-1)](#20)
-        - [Chapitre VII : Dispositions pénales (art. L86 à L117)](#21)
-        - [Chapitre VIII : Contentieux (art. L118)](#22)
-      - [Titre II : Dispositions spéciales à l'élection des députés (art. LO119 à L190)](#23)
-        - [Chapitre Ier : Composition de l'Assemblée nationale et durée du mandat des députés (art. LO119 à LO122)](#24)
-        - [Chapitre II : Mode de scrutin (art. L123 à L125)](#25)
-        - [Chapitre III : Conditions d'éligibilité et inéligibilités (art. LO127 à LO136)](#26)
-        - [Chapitre IV : Incompatibilités (art. L141 à LO153)](#27)
-        - [Chapitre V : Déclarations de candidatures (art. L154 à LO160)](#28)
-        - [Chapitre VI : Propagande (art. L164 à L170)](#29)
-        - [Chapitre VII : Opérations préparatoires au scrutin (art. L172 à L173)](#30)
-        - [Chapitre VIII : Opérations de vote (art. L174 à L175)](#31)
-        - [Chapitre IX : Remplacement des députés (art. LO176 à LO178)](#32)
-        - [Chapitre X : Contentieux (art. LO179 à LO189)](#33)
-        - [Chapitre XI : Conditions d'application (art. L190)](#34)
-      - [Titre III : Dispositions spéciales à l'élection des conseillers généraux (art. L191 à L224)](#35)
-        - [Chapitre Ier : Composition des conseils généraux et durée du mandat des conseillers (art. L191)](#36)
-        - [Chapitre II : Mode de scrutin (art. L193)](#37)
-        - [Chapitre III : Conditions d'éligibilité et inéligibilités (art. L194 à L205)](#38)
-        - [Chapitre IV : Incompatibilités (art. L206 à L210)](#39)
-        - [Chapitre IV bis : Déclarations de candidature (art. L210-1)](#40)
-        - [Chapitre V : Propagande (art. L211 à L217)](#41)
-        - [Chapitre VI : Opérations préparatoires au scrutin (art. L218 à L220)](#42)
-        - [Chapitre IX : Contentieux (art. L222 à L223)](#43)
-        - [Chapitre X : Conditions d'application (art. L224)](#44)
-      - [Titre IV : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris (art. L226 à L251)](#45)
-        - [Chapitre Ier : Dispositions applicables à toutes les communes (art. L226 à L251)](#46)
-          - [Section 1 : Composition des conseils municipaux et durée du mandat des conseillers (art. L226 à L227)](#47)
-          - [Section 2 : Conditions d'éligibilité et inéligibilités (art. L229 à L236)](#48)
-          - [Section 4 : Propagande (art. L240 à L245)](#49)
-          - [Section 5 : Opérations préparatoires au scrutin (art. L247)](#50)
-          - [Section 7 : Contentieux (art. L248 à L251)](#51)
-    - [Livre II : Election des sénateurs des départements (art. LO275 à L327)](#52)
-      - [Titre Ier  : Composition du Sénat et durée du mandat des sénateurs (art. LO275 à LO278)](#53)
-      - [Titre II : Composition du collège électoral (art. L279 à L282)](#54)
-      - [Titre III : Désignation des délégués des conseils municipaux (art. L283 à L293)](#55)
-      - [Titre IV : Election des sénateurs (art. L294 à LO325)](#56)
-        - [Chapitre Ier  : Mode de scrutin (art. L294 à L295)](#57)
-        - [Chapitre III : Incompatibilités (art. LO297)](#58)
-        - [Chapitre IV : Déclarations de candidatures (art. L298 à LO304)](#59)
-        - [Chapitre V : Propagande (art. L306 à L308)](#60)
-        - [Chapitre VI : Opérations préparatoires au scrutin (art. L309 à L311)](#61)
-        - [Chapitre VII : Opérations de vote (art. L312 à L318)](#62)
-        - [Chapitre VIII : Remplacement des sénateurs (art. L324 à LO323)](#63)
-        - [Chapitre IX : Contentieux (art. LO325)](#64)
-      - [Titre V : Conditions d'application (art. L326)](#65)
-      - [Titre VI : Dispositions pénales (art. L327)](#66)
-    - [Livre III  : Dispositions spéciales au département de Saint-Pierre-et-Miquelon (art. L334)](#67)
-  - [Partie réglementaire (art. R81 à R93)](#68)
-    - [Livre Ier  : Election des députés, des conseillers généraux et des conseillers municipaux des départements (art. R81 à R93)](#69)
-      - [Titre Ier  : Dispositions communes à l'élection des députés, des conseillers généraux et des conseillers municipaux (art. R81 à R93)](#70)
-        - [Chapitre VI : Vote (art. R81 à R93)](#71)
-          - [Section 4 : Vote par correspondance (art. R81 à R93)](#72)
+          - [Section 5 : Commissions de contrôle des opérations de vote (art. L85-1)](#19)
+        - [Chapitre VII : Dispositions pénales (art. L86 à L117-1)](#20)
+        - [Chapitre VIII : Contentieux (art. L118 à L118-1)](#21)
+      - [Titre II : Dispositions spéciales à l'élection des députés (art. LO119 à L190)](#22)
+        - [Chapitre Ier : Composition de l'Assemblée nationale et durée du mandat des députés (art. LO119 à LO122)](#23)
+        - [Chapitre II : Mode de scrutin (art. L123 à L125)](#24)
+        - [Chapitre III : Conditions d'éligibilité et inéligibilités (art. LO127 à LO136)](#25)
+        - [Chapitre IV : Incompatibilités (art. L141 à LO153)](#26)
+        - [Chapitre V : Déclarations de candidatures (art. L154 à LO160)](#27)
+        - [Chapitre VI : Propagande (art. L164 à L170)](#28)
+        - [Chapitre VII : Opérations préparatoires au scrutin (art. L172 à L173)](#29)
+        - [Chapitre VIII : Opérations de vote (art. L174 à L175)](#30)
+        - [Chapitre IX : Remplacement des députés (art. LO176 à LO178)](#31)
+        - [Chapitre X : Contentieux (art. LO179 à LO189)](#32)
+        - [Chapitre XI : Conditions d'application (art. L190)](#33)
+      - [Titre III : Dispositions spéciales à l'élection des conseillers généraux (art. L191 à L224)](#34)
+        - [Chapitre Ier : Composition des conseils généraux et durée du mandat des conseillers (art. L191)](#35)
+        - [Chapitre II : Mode de scrutin (art. L193)](#36)
+        - [Chapitre III : Conditions d'éligibilité et inéligibilités (art. L194 à L205)](#37)
+        - [Chapitre IV : Incompatibilités (art. L206 à L210)](#38)
+        - [Chapitre IV bis : Déclarations de candidature (art. L210-1)](#39)
+        - [Chapitre V : Propagande (art. L211 à L217)](#40)
+        - [Chapitre VI : Opérations préparatoires au scrutin (art. L218 à L220)](#41)
+        - [Chapitre IX : Contentieux (art. L222 à L223-1)](#42)
+        - [Chapitre X : Conditions d'application (art. L224)](#43)
+      - [Titre IV : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris (art. L226 à L251)](#44)
+        - [Chapitre Ier : Dispositions applicables à toutes les communes (art. L226 à L251)](#45)
+          - [Section 1 : Composition des conseils municipaux et durée du mandat des conseillers (art. L226 à L227)](#46)
+          - [Section 2 : Conditions d'éligibilité et inéligibilités (art. L229 à L236)](#47)
+          - [Section 4 : Propagande (art. L240 à L245)](#48)
+          - [Section 5 : Opérations préparatoires au scrutin (art. L247)](#49)
+          - [Section 7 : Contentieux (art. L248 à L251)](#50)
+    - [Livre II : Election des sénateurs des départements (art. LO275 à L327)](#51)
+      - [Titre Ier  : Composition du Sénat et durée du mandat des sénateurs (art. LO275 à LO278)](#52)
+      - [Titre II : Composition du collège électoral (art. L279 à L282)](#53)
+      - [Titre III : Désignation des délégués des conseils municipaux (art. L283 à L293)](#54)
+      - [Titre IV : Election des sénateurs (art. L294 à LO325)](#55)
+        - [Chapitre Ier  : Mode de scrutin (art. L294 à L295)](#56)
+        - [Chapitre III : Incompatibilités (art. LO297)](#57)
+        - [Chapitre IV : Déclarations de candidatures (art. L298 à LO304)](#58)
+        - [Chapitre V : Propagande (art. L306 à L308)](#59)
+        - [Chapitre VI : Opérations préparatoires au scrutin (art. L309 à L311)](#60)
+        - [Chapitre VII : Opérations de vote (art. L312 à L318)](#61)
+        - [Chapitre VIII : Remplacement des sénateurs (art. L324 à LO323)](#62)
+        - [Chapitre IX : Contentieux (art. LO325)](#63)
+      - [Titre V : Conditions d'application (art. L326)](#64)
+      - [Titre VI : Dispositions pénales (art. L327)](#65)
+    - [Livre III  : Dispositions spéciales au département de Saint-Pierre-et-Miquelon (art. L334)](#66)
+  - [Partie réglementaire (art. R81 à R93)](#67)
+    - [Livre Ier  : Election des députés, des conseillers généraux et des conseillers municipaux des départements (art. R81 à R93)](#68)
+      - [Titre Ier  : Dispositions communes à l'élection des députés, des conseillers généraux et des conseillers municipaux (art. R81 à R93)](#69)
+        - [Chapitre VI : Vote (art. R81 à R93)](#70)
+          - [Section 4 : Vote par correspondance (art. R81 à R93)](#71)
 # Partie législative<a id=1></a>
 
 ## LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS<a id=2></a>
@@ -759,6 +758,64 @@ _Cité par_:
 **Liens**:
 
   - TXT_ASSOCIE: Code électoral L85
+
+
+###### Article L11
+
+Sont inscrits sur la liste électorale, sur leur demande :
+
+1° Tous les électeurs qui ont leur domicile réel dans la commune ou y habitent depuis six mois au moins ;
+
+2° Ceux qui figurent pour la cinquième fois sans interruption, l'année de la demande d'inscription, au rôle d'une des
+contributions directes communales et, s'ils ne résident pas dans la commune, ont déclaré vouloir y exercer leurs droits
+électoraux. Tout électeur ou toute électrice peut être inscrit sur la même liste que son conjoint au titre de la présente
+disposition ;
+
+3° Ceux qui sont assujettis à une résidence obligatoire dans la commune en qualité de fonctionnaires publics.
+
+Sont également inscrits, dans les mêmes conditions, les citoyens qui, ne remplissant pas les conditions d'âge et de résidence
+ci-dessus indiquées lors de la formation des listes, les rempliront avant la clôture définitive.
+
+L'absence de la commune résultant du service national ne porte aucune atteinte aux règles ci-dessus édictées pour
+l'inscription sur les listes électorales.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Modifié par_:
+
+  - Loi n°66-1022 1966-12-29 art. 1 JORF 30 décembre 1966
+  - Loi n°75-1329 1975-12-31 art. 1 JORF 1er janvier 1976
+
+_Cité par_:
+
+  - Loi n°77-729 du 7 juillet 1977 - art. 2-3 (VD)
+  - Loi organique n°99-209 du 19 mars 1999 - art. 218-2 (V)
+  - Loi organique n°99-209 du 19 mars 1999 - art. 219 (V)
+  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 33 (V)
+  - Arrêté du 16 octobre 2006 - art. 6 (V)
+  - Arrêté du 28 février 2007 - art. 6 (V)
+  - Décret n°2014-1292 du 23 octobre 2014 - art. (V)
+  - Loi n°2015-852 du 13 juillet 2015 - art. 1 (V)
+  - Décret n°2018-286 du 19 avril 2018 - art. 8 (V)
+  - Décret n°2018-343 du 9 mai 2018 - art. 7 (VD)
+  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L822-2 (M)
+  - CODE DES COMMUNES. - art. R*125-3 (Ab)
+  - Code des communes de la Nouvelle-Calédonie - art. R125-6 (V)
+  - Code général des collectivités territoriales - art. R2142-5 (Ab)
+  - Code électoral - art. L11-1 (VT)
+  - Code électoral - art. L13 (V)
+  - Code électoral - art. L16 (VD)
+  - Code électoral - art. L18 (VD)
+  - Code électoral - art. L31 (VD)
+  - Code électoral - art. R1 (VD)
+  - Code électoral - art. R3 (VD)
+  - Code électoral - art. R4 (V)
+  - Code électoral - art. R5 (VD)
+  - Code électoral - art. R6 (VD)
 
 
 ###### Article L13
@@ -2921,18 +2978,7 @@ _Cité par_:
   - Loi n°87-369 du 5 juin 1987 - art. 14 (V)
 
 
-##### Section 4 : Vote par correspondance<a id=19></a>
-
-###### Article L79 à L85
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Loi n°75-1329 du 31 décembre 1975, v. init.
-
-
-##### Section 5 : Commissions de contrôle des opérations de vote<a id=20></a>
+##### Section 5 : Commissions de contrôle des opérations de vote<a id=19></a>
 
 ###### Article L85-1
 
@@ -2985,7 +3031,7 @@ _Cité par_:
   - Code électoral - art. R93-3 (V)
 
 
-#### Chapitre VII : Dispositions pénales<a id=21></a>
+#### Chapitre VII : Dispositions pénales<a id=20></a>
 
 ###### Article L86
 
@@ -3068,6 +3114,43 @@ _Cité par_:
 _Cite_:
 
   - Code électoral - art. L113 (V)
+
+
+###### Article L88
+
+Ceux qui, à l'aide de déclarations frauduleuses ou de faux certificats, se seront fait inscrire ou auront tenté de se faire
+inscrire indûment sur une liste électorale, ceux qui, à l'aide des mêmes moyens, auront fait inscrire ou rayer, tenté de
+faire inscrire ou rayer indûment un citoyen, et les complices de ces délits, seront passibles d'un emprisonnement de six
+jours à un an et d'une amende de 180 F à 8000 F.
+
+Les coupables pourront, en outre, être privés de l'exercice de leurs droits civiques pendant deux ans au moins et dix ans au
+plus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Modifié par_:
+
+  - Loi n°75-1329 1975-12-31 art. 13 JORF 3 janvier 1976
+  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 DECEMBRE 1977
+
+_Cité par_:
+
+  - Décret n°79-807 du 18 septembre 1979 - art. 39 (Ab)
+  - Décret n°80-22 du 14 janvier 1980 - art. 25 (Ab)
+  - Loi n°88-828 du 20 juillet 1988 - art. 29 (V)
+  - Loi n°95-884 du 3 août 1995 - art. 25 (V)
+  - Code de la sécurité sociale. - art. R611-94 (Ab)
+  - Code de la sécurité sociale. - art. R632-23 (T)
+  - Code de la sécurité sociale. - art. R633-48 (Ab)
+  - Code de la sécurité sociale. - art. R633-8-1 (Ab)
+  - Code rural ancien - art. 1019 (Ab)
+  - Code rural et de la pêche maritime - art. L723-24 (V)
+  - Code électoral - art. L5 (M)
+  - Décret n°1947-05-02 du 2 mai 1947 - art. 40 bis (Ab)
 
 
 ###### Article L89
@@ -3659,19 +3742,6 @@ _Cite_:
   - Code électoral - art. L71 (V)
 
 
-###### Article L112
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 du 27 octobre 1964, v. init.
-
-_Abrogé par_:
-
-  - Loi n°75-1329 du 31 décembre 1975, art. 10 v. init.
-
-
 ###### Article L114
 
 L'action publique et l'action civile intentées en vertu des articles L. 86, L. 87, L. 91 à L. 104, L. 106 à L. 108 et L. 113
@@ -3823,7 +3893,23 @@ _Cite_:
   - Code pénal 109, 110, 111, 112, 113
 
 
-#### Chapitre VIII : Contentieux<a id=22></a>
+###### Article L117-1
+
+Lorsque la juridiction administrative a retenu, dans sa décision définitive, des faits de fraude électorale, elle communique
+le dossier au procureur de la République compétent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°75-1329 1975-12-31 art. 12 JORF 3 janvier 1976
+
+
+#### Chapitre VIII : Contentieux<a id=21></a>
 
 ###### Article L118
 
@@ -3851,9 +3937,38 @@ _Cite_:
   - Code général des impôts, CGI. - art. 698 (T)
 
 
-### Titre II : Dispositions spéciales à l'élection des députés<a id=23></a>
+###### Article L118-1
 
-#### Chapitre Ier : Composition de l'Assemblée nationale et durée du mandat des députés<a id=24></a>
+La juridiction administrative, en prononçant l'annulation d'une élection pour fraude, peut décider que la présidence d'un ou
+plusieurs bureaux de vote sera assurée par une personne désignée par le président du tribunal de grande instance lors de
+l'élection partielle consécutive à cette annulation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°75-1329 1975-12-31 art. 7 JORF 3 janvier 1976
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°80-274 du 15 avril 1980
+  - TXT_SOURCE: Décret n°80-274 du 15 avril 1980 - art. 1 (V)
+  - TXT_SOURCE: Décret n°80-274 du 15 avril 1980 - art. 2 (V)
+  - TXT_SOURCE: Décret n°80-274 du 15 avril 1980 - art. 3 (V)
+
+_Cité par_:
+
+  - Décret n°80-274 du 15 avril 1980 - art. 1 (V)
+  - Décret n°80-274 du 15 avril 1980 - art. 2 (V)
+
+
+### Titre II : Dispositions spéciales à l'élection des députés<a id=22></a>
+
+#### Chapitre Ier : Composition de l'Assemblée nationale et durée du mandat des députés<a id=23></a>
 
 ###### Article LO119
 
@@ -3908,7 +4023,7 @@ _Codifié par_:
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 
-#### Chapitre II : Mode de scrutin<a id=25></a>
+#### Chapitre II : Mode de scrutin<a id=24></a>
 
 ###### Article L123
 
@@ -3954,7 +4069,7 @@ _Cité par_:
   - Code électoral - art. L395 (M)
 
 
-#### Chapitre III : Conditions d'éligibilité et inéligibilités<a id=26></a>
+#### Chapitre III : Conditions d'éligibilité et inéligibilités<a id=25></a>
 
 ###### Article LO127
 
@@ -4246,7 +4361,7 @@ _Cité par_:
   - Code électoral - art. LO176 (V)
 
 
-#### Chapitre IV : Incompatibilités<a id=27></a>
+#### Chapitre IV : Incompatibilités<a id=26></a>
 
 ###### Article L141
 
@@ -4670,7 +4785,7 @@ _Cité par_:
   - Code électoral - art. LO177 (V)
 
 
-#### Chapitre V : Déclarations de candidatures<a id=28></a>
+#### Chapitre V : Déclarations de candidatures<a id=27></a>
 
 ###### Article L154
 
@@ -4869,7 +4984,7 @@ _Cité par_:
   - Code électoral - art. LO304 (V)
 
 
-#### Chapitre VI : Propagande<a id=29></a>
+#### Chapitre VI : Propagande<a id=28></a>
 
 ###### Article L164
 
@@ -5023,7 +5138,7 @@ _Cite_:
   - Code électoral - art. L156 (V)
 
 
-#### Chapitre VII : Opérations préparatoires au scrutin<a id=30></a>
+#### Chapitre VII : Opérations préparatoires au scrutin<a id=29></a>
 
 ###### Article L172
 
@@ -5054,7 +5169,7 @@ _Cité par_:
   - Code électoral - art. L397 (V)
 
 
-#### Chapitre VIII : Opérations de vote<a id=31></a>
+#### Chapitre VIII : Opérations de vote<a id=30></a>
 
 ###### Article L174
 
@@ -5095,7 +5210,7 @@ _Cité par_:
   - Code électoral - art. R106 (V)
 
 
-#### Chapitre IX : Remplacement des députés<a id=32></a>
+#### Chapitre IX : Remplacement des députés<a id=31></a>
 
 ###### Article LO176
 
@@ -5166,7 +5281,7 @@ _Cite_:
   - Code électoral - art. LO176 (M)
 
 
-#### Chapitre X : Contentieux<a id=33></a>
+#### Chapitre X : Contentieux<a id=32></a>
 
 ###### Article LO179
 
@@ -5379,7 +5494,7 @@ _Codifié par_:
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 
-#### Chapitre XI : Conditions d'application<a id=34></a>
+#### Chapitre XI : Conditions d'application<a id=33></a>
 
 ###### Article L190
 
@@ -5398,9 +5513,9 @@ _Cite_:
   - Code électoral - art. L161 (V)
 
 
-### Titre III : Dispositions spéciales à l'élection des conseillers généraux<a id=35></a>
+### Titre III : Dispositions spéciales à l'élection des conseillers généraux<a id=34></a>
 
-#### Chapitre Ier : Composition des conseils généraux et durée du mandat des conseillers<a id=36></a>
+#### Chapitre Ier : Composition des conseils généraux et durée du mandat des conseillers<a id=35></a>
 
 ###### Article L191
 
@@ -5427,7 +5542,7 @@ _Anciens textes_:
   - Loi n°1871-08-10. du 10 août 1871 - art. 4 (Ab)
 
 
-#### Chapitre II : Mode de scrutin<a id=37></a>
+#### Chapitre II : Mode de scrutin<a id=36></a>
 
 ###### Article L193
 
@@ -5460,7 +5575,7 @@ _Anciens textes_:
   - Loi n°1871-08-10. du 10 août 1871 - art. 14 (Ab)
 
 
-#### Chapitre III : Conditions d'éligibilité et inéligibilités<a id=38></a>
+#### Chapitre III : Conditions d'éligibilité et inéligibilités<a id=37></a>
 
 ###### Article L194
 
@@ -5755,7 +5870,7 @@ _Cité par_:
   - Code électoral - art. L221 (VT)
 
 
-#### Chapitre IV : Incompatibilités<a id=39></a>
+#### Chapitre IV : Incompatibilités<a id=38></a>
 
 ###### Article L206
 
@@ -5866,7 +5981,7 @@ _Anciens textes_:
   - Loi n°1871-08-10. du 10 août 1871 - art. 18 (Ab)
 
 
-#### Chapitre IV bis : Déclarations de candidature<a id=40></a>
+#### Chapitre IV bis : Déclarations de candidature<a id=39></a>
 
 ###### Article L210-1
 
@@ -5914,7 +6029,7 @@ _Cite_:
   - Code électoral - art. L217 (M)
 
 
-#### Chapitre V : Propagande<a id=41></a>
+#### Chapitre V : Propagande<a id=40></a>
 
 ###### Article L211
 
@@ -6074,7 +6189,7 @@ _Cité par_:
   - TXT_ASSOCIE: Code électoral R26 A R39, R110, R111
 
 
-#### Chapitre VI : Opérations préparatoires au scrutin<a id=42></a>
+#### Chapitre VI : Opérations préparatoires au scrutin<a id=41></a>
 
 ###### Article L218
 
@@ -6114,7 +6229,7 @@ _Codifié par_:
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 
-#### Chapitre IX : Contentieux<a id=43></a>
+#### Chapitre IX : Contentieux<a id=42></a>
 
 ###### Article L222
 
@@ -6165,7 +6280,34 @@ _Cité par_:
   - Code électoral - art. L224-9 (VD)
 
 
-#### Chapitre X : Conditions d'application<a id=44></a>
+###### Article L223-1
+
+Le tribunal administratif peut, en cas d'annulation d'une élection pour manoeuvres dans l'établissement de la liste
+électorale ou irrégularité dans le déroulement du scrutin, décider, nonobstant appel, la suspension du mandat de celui dont
+l'élection est annulée.
+
+En ce cas, le Conseil d'Etat rend sa décision dans les trois mois de l'enregistrement du recours. A défaut de décision
+définitive dans ce délai, il est mis fin à la suspension.
+
+Dans les cas non visés aux alinéas précédents, le Conseil d'Etat rend sa décision dans les six mois qui suivent
+l'enregistrement du recours.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°75-1329 1975-12-31 art. 8 JORF 3 janvier 1976
+
+
+#### Chapitre X : Conditions d'application<a id=43></a>
 
 ###### Article L224
 
@@ -6178,11 +6320,11 @@ _Codifié par_:
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 
-### Titre IV : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris<a id=45></a>
+### Titre IV : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris<a id=44></a>
 
-#### Chapitre Ier : Dispositions applicables à toutes les communes<a id=46></a>
+#### Chapitre Ier : Dispositions applicables à toutes les communes<a id=45></a>
 
-##### Section 1 : Composition des conseils municipaux et durée du mandat des conseillers<a id=47></a>
+##### Section 1 : Composition des conseils municipaux et durée du mandat des conseillers<a id=46></a>
 
 ###### Article L226
 
@@ -6221,7 +6363,7 @@ _Cité par_:
   - Loi n°94-590 du 15 juillet 1994 - art. 1 (V)
 
 
-##### Section 2 : Conditions d'éligibilité et inéligibilités<a id=48></a>
+##### Section 2 : Conditions d'éligibilité et inéligibilités<a id=47></a>
 
 ###### Article L229
 
@@ -6359,7 +6501,7 @@ _Cite_:
   - Code électoral - art. L250 (V)
 
 
-##### Section 4 : Propagande<a id=49></a>
+##### Section 4 : Propagande<a id=48></a>
 
 ###### Article L240
 
@@ -6504,7 +6646,7 @@ _Cite_:
   - Code électoral - art. L244 (Ab)
 
 
-##### Section 5 : Opérations préparatoires au scrutin<a id=50></a>
+##### Section 5 : Opérations préparatoires au scrutin<a id=49></a>
 
 ###### Article L247
 
@@ -6528,7 +6670,7 @@ _Cité par_:
   - TXT_ASSOCIE: Code électoral - art. R127 (Ab)
 
 
-##### Section 7 : Contentieux<a id=51></a>
+##### Section 7 : Contentieux<a id=50></a>
 
 ###### Article L248
 
@@ -6599,6 +6741,33 @@ _Cité par_:
   - Code électoral - art. L239 (M)
 
 
+###### Article L250-1
+
+Le tribunal administratif peut, en cas d'annulation d'une élection pour manoeuvres dans l'établissement de la liste
+électorale ou irrégularité dans le déroulement du scrutin, décider, nonobstant appel, la suspension du mandat de celui ou de
+ceux dont l'élection a été annulée.
+
+En ce cas, le Conseil d'Etat rend sa décision dans les trois mois de l'enregistrement du recours. A défaut de décision
+définitive dans ce délai, il est mis fin à la suspension.
+
+Dans les cas non visés aux alinéas précédents, le Conseil d'Etat rend sa décision dans les six mois qui suivent
+l'enregistrement du recours.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°75-1329 1975-12-31 art. 9 JORF 3 janvier 1976
+
+_Cité par_:
+
+  - Code électoral - art. L273-5 (VD)
+
+
 ###### Article L251
 
 Dans le cas où l'annulation de tout ou partie des élections est devenue définitive, l'assemblée des électeurs est convoquée
@@ -6612,9 +6781,9 @@ _Codifié par_:
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 
-## Livre II : Election des sénateurs des départements<a id=52></a>
+## Livre II : Election des sénateurs des départements<a id=51></a>
 
-### Titre Ier  : Composition du Sénat et durée du mandat des sénateurs<a id=53></a>
+### Titre Ier  : Composition du Sénat et durée du mandat des sénateurs<a id=52></a>
 
 ###### Article LO275
 
@@ -6679,7 +6848,7 @@ _Codifié par_:
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 
-### Titre II : Composition du collège électoral<a id=54></a>
+### Titre II : Composition du collège électoral<a id=53></a>
 
 ###### Article L279
 
@@ -6755,7 +6924,7 @@ _Cité par_:
   - Code électoral - art. R130-1 (VT)
 
 
-### Titre III : Désignation des délégués des conseils municipaux<a id=55></a>
+### Titre III : Désignation des délégués des conseils municipaux<a id=54></a>
 
 ###### Article L283
 
@@ -6955,9 +7124,9 @@ _Codifié par_:
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 
-### Titre IV : Election des sénateurs<a id=56></a>
+### Titre IV : Election des sénateurs<a id=55></a>
 
-#### Chapitre Ier  : Mode de scrutin<a id=57></a>
+#### Chapitre Ier  : Mode de scrutin<a id=56></a>
 
 ###### Article L294
 
@@ -7009,7 +7178,7 @@ _Codifié par_:
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 
-#### Chapitre III : Incompatibilités<a id=58></a>
+#### Chapitre III : Incompatibilités<a id=57></a>
 
 ###### Article LO297
 
@@ -7030,7 +7199,7 @@ _Codifié par_:
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 
-#### Chapitre IV : Déclarations de candidatures<a id=59></a>
+#### Chapitre IV : Déclarations de candidatures<a id=58></a>
 
 ###### Article L298
 
@@ -7195,7 +7364,7 @@ _Cite_:
   - Code électoral - art. LO160 (V)
 
 
-#### Chapitre V : Propagande<a id=60></a>
+#### Chapitre V : Propagande<a id=59></a>
 
 ###### Article L306
 
@@ -7262,7 +7431,7 @@ _Cité par_:
   - Code électoral - art. R160 (V)
 
 
-#### Chapitre VI : Opérations préparatoires au scrutin<a id=61></a>
+#### Chapitre VI : Opérations préparatoires au scrutin<a id=60></a>
 
 ###### Article L309
 
@@ -7302,7 +7471,7 @@ _Cité par_:
   - Décret n°2018-319 du 2 mai 2018 (V)
 
 
-#### Chapitre VII : Opérations de vote<a id=62></a>
+#### Chapitre VII : Opérations de vote<a id=61></a>
 
 ###### Article L312
 
@@ -7443,7 +7612,7 @@ _Cité par_:
   - Code électoral - art. L447 (V)
 
 
-#### Chapitre VIII : Remplacement des sénateurs<a id=63></a>
+#### Chapitre VIII : Remplacement des sénateurs<a id=62></a>
 
 ###### Article L324
 
@@ -7571,7 +7740,7 @@ _Cite_:
   - Code électoral - art. LO322 (V)
 
 
-#### Chapitre IX : Contentieux<a id=64></a>
+#### Chapitre IX : Contentieux<a id=63></a>
 
 ###### Article LO325
 
@@ -7584,7 +7753,7 @@ _Codifié par_:
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 
-### Titre V : Conditions d'application<a id=65></a>
+### Titre V : Conditions d'application<a id=64></a>
 
 ###### Article L326
 
@@ -7598,7 +7767,7 @@ _Codifié par_:
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 
-### Titre VI : Dispositions pénales<a id=66></a>
+### Titre VI : Dispositions pénales<a id=65></a>
 
 ###### Article L327
 
@@ -7616,7 +7785,7 @@ _Cite_:
   - Code électoral - art. L113 (V)
 
 
-## Livre III  : Dispositions spéciales au département de Saint-Pierre-et-Miquelon<a id=67></a>
+## Livre III  : Dispositions spéciales au département de Saint-Pierre-et-Miquelon<a id=66></a>
 
 ###### Article L334
 
@@ -7642,15 +7811,15 @@ _Cité par_:
   - Code électoral - art. R174-1 (Ab)
 
 
-# Partie réglementaire<a id=68></a>
+# Partie réglementaire<a id=67></a>
 
-## Livre Ier  : Election des députés, des conseillers généraux et des conseillers municipaux des départements<a id=69></a>
+## Livre Ier  : Election des députés, des conseillers généraux et des conseillers municipaux des départements<a id=68></a>
 
-### Titre Ier  : Dispositions communes à l'élection des députés, des conseillers généraux et des conseillers municipaux<a id=70></a>
+### Titre Ier  : Dispositions communes à l'élection des députés, des conseillers généraux et des conseillers municipaux<a id=69></a>
 
-#### Chapitre VI : Vote<a id=71></a>
+#### Chapitre VI : Vote<a id=70></a>
 
-##### Section 4 : Vote par correspondance<a id=72></a>
+##### Section 4 : Vote par correspondance<a id=71></a>
 
 ###### Article R81 à R93
 
