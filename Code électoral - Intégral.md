@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1991-05-14
+Version Consolidée au 1991-07-16
 ## Contenu: 
   - [Partie législative (art. L1 à L385)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -118,7 +118,7 @@ Version Consolidée au 1991-05-14
       - [Titre II : Election des conseillers à l'Assemblée de Corse (art. L367)](#115)
         - [Chapitre III : Conditions d'éligibilité et inéligibilités (art. L367)](#116)
     - [Dispositions finales (art. L385)](#117)
-  - [Partie réglementaire (art. R*1 à R190)](#118)
+  - [Partie réglementaire (art. R*1 à R200)](#118)
     - [Livre Ier  : Election des députés, des conseillers généraux et des conseillers municipaux des départements (art. R*1 à R130)](#119)
       - [Titre Ier  : Dispositions communes à l'élection des députés, des conseillers généraux et des conseillers municipaux (art. R*1 à R97)](#120)
         - [Chapitre II : Listes électorales (art. R*1 à R*25)](#121)
@@ -158,31 +158,40 @@ Version Consolidée au 1991-05-14
           - [Section 2 : Déclarations de candidatures (art. R128)](#155)
         - [Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille (art. R129 à R130)](#156)
           - [Section 2 : Opérations préparatoires au scrutin (art. R129 à R130)](#157)
-    - [Livre II  : Election des sénateurs des départements (art. R*131 à R*171)](#158)
-      - [Titre III : Désignation des délégués des conseils municipaux (art. R*131 à R*148)](#159)
-      - [Titre IV : Election des sénateurs (art. R*149 à R*171)](#160)
-        - [Chapitre IV : Déclarations de candidatures (art. R*149 à R*153)](#161)
-        - [Chapitre V : Propagande (art. R*154 à R*161)](#162)
-        - [Chapitre VI : Opérations préparatoires au scrutin (art. R*162)](#163)
-        - [Chapitre VII : Opérations de vote (art. R*163 à R*171)](#164)
-    - [Livre III : Dispositions spéciales à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R*172 à R*178)](#165)
-      - [Chapitre Ier : Dispositions communes (art. R*172 à R*173)](#166)
-      - [Chapitre II : Dispositions applicables à l'élection du député de la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R*174)](#167)
-      - [Chapitre III : Dispositions applicables à l'élection des conseillers généraux de la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R*175 à R*176)](#168)
-      - [Chapitre IV : Dispositions applicables à l'élection des conseillers municipaux de la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R*177)](#169)
-      - [Chapitre V : Dispositions applicables à l'élection du sénateur de la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R*178)](#170)
-    - [Livre IV : Election des conseillers régionaux (art. R182 à R190)](#171)
-      - [Chapitre V : Déclarations de candidatures (art. R183 à R184)](#172)
-      - [Chapitre VI : Propagande (art. R185 à R186)](#173)
-      - [Chapitre VI : Opérations de vote (art. R187 à R190)](#174)
-  - [Annexes (art. Annexe tableau n° 1 à Annexe tableau n° 5)](#175)
-    - [Tableau des circonscriptions électorales des départements (élection des députés) (art. Annexe tableau n° 1)](#176)
-    - [Tableau des circonscriptions électorales des départements (élection des députés) (1). (art. Annexe tableau n° 1 (suite))](#177)
-    - [Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés). (art. Annexe tableau n° 1 bis)](#178)
-    - [Tableau des secteurs pour l'élection des membres du conseil de Paris (art. Annexe tableau n° 2)](#179)
-    - [Tableau des secteurs pour l'élection des conseillers municipaux de Lyon (art. Annexe tableau n° 3)](#180)
-    - [Tableau des secteurs pour l'élection des conseillers municipaux de Marseille. (art. Annexe tableau n° 4)](#181)
-    - [Election des sénateurs (art. Annexe tableau n° 5)](#182)
+    - [Livre II  : Election des sénateurs des départements (art. R*130-1 à R*171)](#158)
+      - [Titre II : Composition du collège électoral (art. R*130-1)](#159)
+      - [Titre III : Désignation des délégués des conseils municipaux (art. R*131 à R*148)](#160)
+      - [Titre III bis : Désignation des délégués à l'Assemblée de Corse (art. R*148-1 à R*148-3)](#161)
+      - [Titre IV : Election des sénateurs (art. R*149 à R*171)](#162)
+        - [Chapitre IV : Déclarations de candidatures (art. R*149 à R*153)](#163)
+        - [Chapitre V : Propagande (art. R*154 à R*161)](#164)
+        - [Chapitre VI : Opérations préparatoires au scrutin (art. R*162)](#165)
+        - [Chapitre VII : Opérations de vote (art. R*163 à R*171)](#166)
+    - [Livre III : Dispositions spéciales à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R*172 à R*178)](#167)
+      - [Chapitre Ier : Dispositions communes (art. R*172 à R*173)](#168)
+      - [Chapitre II : Dispositions applicables à l'élection du député de la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R*174)](#169)
+      - [Chapitre III : Dispositions applicables à l'élection des conseillers généraux de la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R*175 à R*176)](#170)
+      - [Chapitre IV : Dispositions applicables à l'élection des conseillers municipaux de la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R*177)](#171)
+      - [Chapitre V : Dispositions applicables à l'élection du sénateur de la collectivité territoriale de Saint-Pierre-et-Miquelon (art. R*178)](#172)
+    - [Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse (art. R182 à R200)](#173)
+      - [Titre Ier : Election des conseillers régionaux (art. R183 à R190)](#174)
+        - [Chapitre V : Déclarations de candidatures (art. R183 à R184)](#175)
+        - [Chapitre VI : Propagande (art. R185 à R186)](#176)
+        - [Chapitre VIII : Opérations de vote (art. R187 à R189)](#177)
+        - [Chapitre X : Contentieux (art. R190)](#178)
+      - [Titre  II : Election des conseillers à l'Assemblée de Corse (art. R191 à R200)](#179)
+        - [Chapitre V : Déclarations de candidature (art. R191 à R192)](#180)
+        - [Chapitre VI : Propagande (art. R193 à R196)](#181)
+        - [Chapitre VII : Opérations de vote (art. R197 à R199)](#182)
+        - [Chapitre X : Contentieux (art. R200)](#183)
+  - [Annexes (art. Annexe tableau n° 1 à Annexe tableau n° 5)](#184)
+    - [Tableau des circonscriptions électorales des départements (élection des députés) (art. Annexe tableau n° 1)](#185)
+    - [Tableau des circonscriptions électorales des départements (élection des députés) (1). (art. Annexe tableau n° 1 (suite))](#186)
+    - [Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés). (art. Annexe tableau n° 1 bis)](#187)
+    - [Tableau des secteurs pour l'élection des membres du conseil de Paris (art. Annexe tableau n° 2)](#188)
+    - [Tableau des secteurs pour l'élection des conseillers municipaux de Lyon (art. Annexe tableau n° 3)](#189)
+    - [Tableau des secteurs pour l'élection des conseillers municipaux de Marseille. (art. Annexe tableau n° 4)](#190)
+    - [Election des sénateurs (art. Annexe tableau n° 5)](#191)
 # Partie législative<a id=1></a>
 
 ## LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS<a id=2></a>
@@ -19645,7 +19654,48 @@ _Modifié par_:
 
 ## Livre II  : Election des sénateurs des départements<a id=158></a>
 
-### Titre III : Désignation des délégués des conseils municipaux<a id=159></a>
+### Titre II : Composition du collège électoral<a id=159></a>
+
+###### Article R*130-1
+
+Les personnes appelées à remplacer les députés, les conseillers régionaux, les conseillers à l'assemblée de Corse et les
+conseillers généraux dans les conditions prévues par l'article L. 282 doivent être désignées préalablement à l'élection des
+délégués des conseils municipaux et de leurs suppléants.
+
+Le président du conseil général ou le président du conseil régional en accuse réception aux députés, aux conseillers
+régionaux, aux conseillers à l'assemblée de Corse ou aux conseillers généraux remplacés et les notifie au préfet dans les
+vingt-quatre heures.
+
+Par dérogation aux dispositions des alinéas précédents, le président de l'assemblée de Corse désigne les remplaçants des
+conseillers à l'assemblée de Corse qui sont en même temps députés préalablement à l'élection des délégués de l'assemblée de
+Corse.
+
+Les désignations faites en vertu du présent article sont de droit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+_Créé par_:
+
+  - Décret n°91-653 du 15 juillet 1991 - art. 5 () JORF 16 juillet 1991
+
+_Cite_:
+
+  - Code électoral - art. L282 (M)
+
+_Cité par_:
+
+  - Code électoral - art. R271 (V)
+
+
+### Titre III : Désignation des délégués des conseils municipaux<a id=160></a>
 
 ###### Article R*131
 
@@ -19710,22 +19760,17 @@ _Cité par_:
 
 ###### Article R*134
 
-Les personnes appelées à remplacer les députés, les conseillers régionaux ou les conseillers généraux dans les conditions
-prévues par les articles L. 282 et L. 287 doivent être désignées préalablement à l'élection des délégués ou suppléants.
+Les personnes appelées à remplacer les députés, les conseillers régionaux, les conseillers à l'assemblée de Corse ou les
+conseillers généraux dans les conditions prévues par l'article L. 287 doivent être désignées préalablement à l'élection des
+délégués ou de leurs suppléants.
 
-Le maire désigne les remplaçants présentés par les députés, les conseillers régionaux ou les conseillers généraux en tant que
-délégués de droit du conseil municipal. Ces remplaçants doivent être inscrits sur la liste électorale de la commune
-intéressée.
+Le maire désigne les remplaçants présentés par les députés, les conseillers régionaux, les conseillers à l'assemblée de Corse
+ou les conseillers généraux en tant que délégués de droit du conseil municipal. Ces remplaçants doivent être inscrits sur la
+liste électorale de la commune intéressée.
 
-Le président du conseil général désigne les remplaçants présentés par les conseillers généraux qui sont en même temps députés
-ou conseillers généraux.
-
-Le président du conseil régional désigne les remplaçants présentés par les conseillers régionaux qui sont en même temps
-députés.
-
-Les désignations faites en vertu du présent article sont de droit. Le maire, ou le président du conseil général ou le
-président du conseil régional en accuse réception aux députés, aux conseillers régionaux ou aux conseillers généraux
-remplacés et les notifie au commissaire de la République dans les vingt-quatre heures.
+Les désignations faites en vertu du présent article sont de droit. Le maire en accuse réception aux députés, aux conseillers
+régionaux, aux conseillers à l'assemblée de Corse ou aux conseillers généraux remplacés et les notifie au préfet dans les
+vingt-quatre heures.
 
 **Liens relatifs à cet article**
 
@@ -19733,13 +19778,16 @@ _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°91-653 1991-07-15
+
 _Modifié par_:
 
-  - Décret n°85-1236 du 22 novembre 1985 - art. 2 () JORF 26 novembre 1985
+  - Décret n°91-653 du 15 juillet 1991 - art. 6 () JORF 16 juillet 1991
 
 _Cite_:
 
-  - Code électoral - art. L282 (M)
   - Code électoral - art. L287 (M)
 
 
@@ -19845,10 +19893,10 @@ _Modifié par_:
 
 ###### Article R*139
 
-Les députés, conseillers régionaux et conseillers généraux peuvent voter par procuration, dans les conditions prévues par
-l'article L. 121-12 du code des communes : soit en cas de maladie récemment constatée, soit lorsqu'ils sont retenus hors de
-la commune par des obligations découlant de l'exercice de leur mandat ou de missions qui leur ont été confiées par le
-gouvernement.
+Les députés, conseillers régionaux, conseillers à l'assemblée de Corse et conseillers généraux peuvent voter par procuration,
+dans les conditions prévues par l'article L. 121-12 (deuxième alinéa) du code des communes : soit en cas de maladie dûment
+constatée, soit lorsqu'ils sont retenus hors de la commune par des obligations découlant de l'exercice de leur mandat ou de
+missions qui leur ont été confiées par le gouvernement.
 
 **Liens relatifs à cet article**
 
@@ -19856,9 +19904,17 @@ _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°91-653 1991-07-15
+
 _Modifié par_:
 
-  - Décret n°85-1236 du 22 novembre 1985 - art. 3 () JORF 26 novembre 1985
+  - Décret n°91-653 du 15 juillet 1991 - art. 7 () JORF 16 juillet 1991
+
+_Abrogé par_:
+
+  - Décret n°2001-284 du 2 avril 2001 - art. 16 (V)
 
 _Cite_:
 
@@ -20071,9 +20127,86 @@ _Modifié par_:
   - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
 
 
-### Titre IV : Election des sénateurs<a id=160></a>
+### Titre III bis : Désignation des délégués à l'Assemblée de Corse<a id=161></a>
 
-#### Chapitre IV : Déclarations de candidatures<a id=161></a>
+###### Article R*148-1
+
+L'élection prévue à l'article L. 293-3 du code électoral a lieu sans débat et au scrutin secret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+_Créé par_:
+
+  - Décret n°91-653 du 15 juillet 1991 - art. 8 () JORF 16 juillet 1991
+
+_Cite_:
+
+  - Code électoral - art. L293-3 (M)
+
+
+###### Article R*148-2
+
+Dans le cas où, en application du deuxième alinéa de l'article L. 282, un remplaçant a été désigné à un conseiller de
+l'assemblée de Corse cumulant ce mandat avec celui de député, seul ce remplaçant peut figurer sur une liste de candidats.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+_Créé par_:
+
+  - Décret n°91-653 du 15 juillet 1991 - art. 8 () JORF 16 juillet 1991
+
+_Abrogé par_:
+
+  - Décret n°99-232 du 24 mars 1999 - art. 7 (V) JORF 26 mars 1999
+
+_Cite_:
+
+  - Code électoral - art. L282 (M)
+
+
+###### Article R*148-3
+
+Les sièges sont attribués aux candidats d'après l'ordre de présentation sur chaque liste. Si plusieurs listes ont obtenu la
+même moyenne pour l'attribution du dernier siège, celui-ci revient à la liste qui a obtenu le plus grand nombre de suffrages.
+En cas d'égalité de suffrages, le siège est attribué au plus âgé des candidats susceptibles d'être proclamés élus.
+
+Si le nombre de candidats figurant sur une liste est inférieur au nombre de sièges qui lui reviennent, le ou les sièges non
+pourvus sont attribués à la ou aux plus fortes moyennes suivantes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+_Créé par_:
+
+  - Décret n°91-653 du 15 juillet 1991 - art. 8 () JORF 16 juillet 1991
+
+
+### Titre IV : Election des sénateurs<a id=162></a>
+
+#### Chapitre IV : Déclarations de candidatures<a id=163></a>
 
 ###### Article R*149
 
@@ -20194,7 +20327,7 @@ _Cité par_:
   - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
 
 
-#### Chapitre V : Propagande<a id=162></a>
+#### Chapitre V : Propagande<a id=164></a>
 
 ###### Article R*154
 
@@ -20440,7 +20573,7 @@ _Cité par_:
   - Code électoral - art. R160 (V)
 
 
-#### Chapitre VI : Opérations préparatoires au scrutin<a id=163></a>
+#### Chapitre VI : Opérations préparatoires au scrutin<a id=165></a>
 
 ###### Article R*162
 
@@ -20469,7 +20602,7 @@ _Cité par_:
   - Code électoral - art. R278 (V)
 
 
-#### Chapitre VII : Opérations de vote<a id=164></a>
+#### Chapitre VII : Opérations de vote<a id=166></a>
 
 ###### Article R*163
 
@@ -20738,9 +20871,9 @@ _Cité par_:
   - TXT_ASSOCIE: Code électoral - art. L317 (V)
 
 
-## Livre III : Dispositions spéciales à la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=165></a>
+## Livre III : Dispositions spéciales à la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=167></a>
 
-### Chapitre Ier : Dispositions communes<a id=166></a>
+### Chapitre Ier : Dispositions communes<a id=168></a>
 
 ###### Article R*172
 
@@ -20799,7 +20932,7 @@ _Créé par_:
   - Décret n°87-709 1987-08-12 art. 1 JORF 29 août 1987
 
 
-### Chapitre II : Dispositions applicables à l'élection du député de la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=167></a>
+### Chapitre II : Dispositions applicables à l'élection du député de la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=169></a>
 
 ###### Article R*174
 
@@ -20817,7 +20950,7 @@ _Créé par_:
   - Décret n°87-709 1987-08-12 art. 1 JORF 29 août 1987
 
 
-### Chapitre III : Dispositions applicables à l'élection des conseillers généraux de la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=168></a>
+### Chapitre III : Dispositions applicables à l'élection des conseillers généraux de la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=170></a>
 
 ###### Article R*175
 
@@ -20866,7 +20999,7 @@ _Créé par_:
   - Décret n°87-709 1987-08-12 art. 1 JORF 29 août 1987
 
 
-### Chapitre IV : Dispositions applicables à l'élection des conseillers municipaux de la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=169></a>
+### Chapitre IV : Dispositions applicables à l'élection des conseillers municipaux de la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=171></a>
 
 ###### Article R*177
 
@@ -20884,7 +21017,7 @@ _Créé par_:
   - Décret n°87-709 1987-08-12 art. 1 JORF 29 août 1987
 
 
-### Chapitre V : Dispositions applicables à l'élection du sénateur de la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=170></a>
+### Chapitre V : Dispositions applicables à l'élection du sénateur de la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=172></a>
 
 ###### Article R*178
 
@@ -20902,33 +21035,35 @@ _Créé par_:
   - Décret n°87-709 1987-08-12 art. 1 JORF 29 août 1987
 
 
-## Livre IV : Election des conseillers régionaux<a id=171></a>
+## Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse<a id=173></a>
 
 ###### Article R182
 
-Les conseillers régionaux et les membres de l'assemblée de Corse sont élus dans les conditions fixées par les dispositions du
-titre Ier (partie Réglementaire) du présent code et par les dispositions du présent livre.
+Les conseillers régionaux et les membres de l'Assemblée de Corse sont élus dans les conditions fixées par les dispositions du
+titre Ier du livre Ier (partie réglementaire) du présent code et par les dispositions du présent livre.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code électoral Tivre Ier titre Ier
 
 _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°85-1236 du 22 novembre 1985 - art. 1 () JORF 26 novembre 1985
+  - SPEC_APPLI: Décret n°91-653 1991-07-15
+
+_Modifié par_:
+
+  - Décret n°91-653 du 15 juillet 1991 - art. 1 () JORF 16 juillet 1991
 
 
-### Chapitre V : Déclarations de candidatures<a id=172></a>
+### Titre Ier : Election des conseillers régionaux<a id=174></a>
+
+#### Chapitre V : Déclarations de candidatures<a id=175></a>
 
 ###### Article R183
 
-Les déclarations de candidature sont reçues à la préfecture à compter du cinquième lundi qui précède le jour du scrutin.
+Les déclarations de candidatures sont reçues à la préfecture à compter du cinquième lundi qui précède le jour du scrutin.
 
 Elles sont rédigées sur papier libre.
 
@@ -20938,9 +21073,13 @@ _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°85-1236 du 22 novembre 1985 - art. 1 () JORF 26 novembre 1985
+  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+_Modifié par_:
+
+  - Décret n°91-653 du 15 juillet 1991 - art. 1 () JORF 16 juillet 1991
 
 _Cité par_:
 
@@ -20949,10 +21088,10 @@ _Cité par_:
 
 ###### Article R184
 
-L'état des listes de candidats est arrêté, dans l'ordre du dépot des listes, par le commissaire de la République du
-département et publié au plus tard le troisième samedi qui précède le jour du scrutin.
+L'état des listes de candidats est arrêté, dans l'ordre du dépôt des listes, par le préfet du département et publié au plus
+tard le troisième samedi qui précède le jour du scrutin.
 
-cet état indique pour chaque liste son titre ainsi que les noms et prénoms des candidats, énumérés dans l'ordre de leur
+Cet état indique pour chaque liste son titre ainsi que les nom et prénoms des candidats, énumérés dans l'ordre de leur
 présentation sur la liste, tel qu'il résulte de la déclaration.
 
 **Liens relatifs à cet article**
@@ -20961,9 +21100,13 @@ _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°85-1236 du 22 novembre 1985 - art. 4 () JORF 26 novembre 1985
+  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+_Modifié par_:
+
+  - Décret n°91-653 du 15 juillet 1991 - art. 1 () JORF 16 juillet 1991
 
 _Cité par_:
 
@@ -20971,7 +21114,7 @@ _Cité par_:
   - Code électoral - art. R187 (Ab)
 
 
-### Chapitre VI : Propagande<a id=173></a>
+#### Chapitre VI : Propagande<a id=176></a>
 
 ###### Article R185
 
@@ -20984,9 +21127,17 @@ _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°85-1236 du 22 novembre 1985 - art. 1 () JORF 26 novembre 1985
+  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+_Modifié par_:
+
+  - Décret n°91-653 du 15 juillet 1991 - art. 1 () JORF 16 juillet 1991
+
+_Abrogé par_:
+
+  - Décret n°2007-1670 du 26 novembre 2007 - art. 8 () JORF 28 novembre 2007
 
 _Cite_:
 
@@ -20996,7 +21147,7 @@ _Cite_:
 
 ###### Article R186
 
-Les bulletins de vote comporte le titre de la liste ainsi que les noms et prénoms de chacun des candidats dans l'ordre de
+Les bulletins de vote comportent  le titre de la liste ainsi que les nom et prénoms de chacun des candidats dans l'ordre de
 leur présentation sur la liste tel qu'il résulte de la publication prévue à l'article R. 184.
 
 **Liens relatifs à cet article**
@@ -21005,9 +21156,13 @@ _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°85-1236 du 22 novembre 1985 - art. 1 () JORF 26 novembre 1985
+  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+_Modifié par_:
+
+  - Décret n°91-653 du 15 juillet 1991 - art. 1 () JORF 16 juillet 1991
 
 _Cite_:
 
@@ -21018,7 +21173,7 @@ _Cité par_:
   - Code électoral - art. R187 (Ab)
 
 
-### Chapitre VI : Opérations de vote<a id=174></a>
+#### Chapitre VIII : Opérations de vote<a id=177></a>
 
 ###### Article R187
 
@@ -21042,9 +21197,13 @@ _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°85-1236 du 22 novembre 1985 - art. 1 () JORF 26 novembre 1985
+  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+_Modifié par_:
+
+  - Décret n°91-653 du 15 juillet 1991 - art. 1 () JORF 16 juillet 1991
 
 _Cite_:
 
@@ -21060,22 +21219,26 @@ recensement instituée par l'article L. 359, soit par porteur, soit sous pli pos
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code électoral annexe, L359
-
 _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°85-1236 du 22 novembre 1985 - art. 1 () JORF 26 novembre 1985
+  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+_Modifié par_:
+
+  - Décret n°91-653 du 15 juillet 1991 - art. 1 () JORF 16 juillet 1991
+
+_Cite_:
+
+  - Code électoral - art. L359 (V)
 
 
 ###### Article R189
 
-Les dispositions des articles R. 106 à R. 108 sont applicables à la composition et au fonctionnement de la commission
+Les dispositions des articles R. 107 à R. 109 sont applicables à la composition et au fonctionnement de la commission
 instituée par l'article L. 359.
 
 **Liens relatifs à cet article**
@@ -21084,15 +21247,22 @@ _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°85-1236 du 22 novembre 1985 - art. 1 () JORF 26 novembre 1985
+  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+_Modifié par_:
+
+  - Décret n°91-653 du 15 juillet 1991 - art. 1 () JORF 16 juillet 1991
+  - Décret n°91-653 du 15 juillet 1991 - art. 3 () JORF 16 juillet 1991
 
 _Cite_:
 
   - Code électoral - art. L359 (M)
-  - Code électoral L359, R106 à R108
+  - Code électoral L359, R107 à R109
 
+
+#### Chapitre X : Contentieux<a id=178></a>
 
 ###### Article R190
 
@@ -21105,13 +21275,17 @@ _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
+**Liens**:
 
-  - Décret n°90-606 1990-07-09 art. 7 JORF 13 juillet 1990 en vigueur le 1er septembre 1990
+  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+_Modifié par_:
+
+  - Décret n°91-653 du 15 juillet 1991 - art. 1 () JORF 16 juillet 1991
 
 _Cite_:
 
-  - Code électoral - art. L118-3 (M)
+  - Code électoral - art. L118-3 (VT)
 
 _Cité par_:
 
@@ -21119,9 +21293,308 @@ _Cité par_:
   - Code électoral - art. R358 (V)
 
 
-# Annexes<a id=175></a>
+### Titre  II : Election des conseillers à l'Assemblée de Corse<a id=179></a>
 
-## Tableau des circonscriptions électorales des départements (élection des députés)<a id=176></a>
+#### Chapitre V : Déclarations de candidature<a id=180></a>
+
+###### Article R191
+
+Les déclarations de candidature en vue du premier tour de scrutin sont reçues à compter du cinquième lundi qui précède le
+jour de ce scrutin. Les déclarations de candidature en vue du second tour sont reçues à compter du lundi suivant le premier
+tour.
+
+Elles sont rédigées sur papier libre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+_Créé par_:
+
+  - Décret n°91-653 du 15 juillet 1991 - art. 4 () JORF 16 juillet 1991
+
+
+###### Article R192
+
+L'état des listes de candidats au premier tour de scrutin est arrêté, dans l'ordre du dépôt des listes, par le préfet de
+Corse et publié au plus tard le troisième samedi qui précède le jour du premier tour.
+
+L'état des listes de candidats au second tour est arrêté, s'il y a lieu, dans les mêmes conditions et publié le mercredi qui
+suit le premier tour. Il fait l'objet, le cas échéant, de publications complémentaires lorsqu'il a été fait application du
+dernier alinéa de l'article L. 374.
+
+Pour chacun des deux tours de scrutin, l'état indique pour chaque liste son titre ainsi que les nom et prénoms des candidats,
+énumérés dans l'ordre de leur présentation sur la liste, tel qu'il résulte de la déclaration.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+_Créé par_:
+
+  - Décret n°91-653 du 15 juillet 1991 - art. 4 () JORF 16 juillet 1991
+
+_Cite_:
+
+  - Code électoral - art. L374 (V)
+
+_Cité par_:
+
+  - Code électoral - art. R196 (V)
+  - Code électoral - art. R197 (Ab)
+
+
+#### Chapitre VI : Propagande<a id=181></a>
+
+###### Article R193
+
+Par dérogation aux dispositions de l'article R. 31, la commission de propagande prévue par l'article L. 376 est instituée par
+arrêté du préfet de Corse et installée à compter du quatrième vendredi qui précède le jour du scrutin.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+_Créé par_:
+
+  - Décret n°91-653 du 15 juillet 1991 - art. 4 () JORF 16 juillet 1991
+
+_Abrogé par_:
+
+  - Décret n°2007-1670 du 26 novembre 2007 - art. 8 () JORF 28 novembre 2007
+
+_Cite_:
+
+  - Code électoral - art. L376 (V)
+  - Code électoral - art. R31 (M)
+
+
+###### Article R194
+
+Par dérogation aux dispositions de l'article R. 32, la commission de propagande comprend :
+
+- un magistrat désigné par le premier président de la cour d'appel, président ;
+
+- un fonctionnaire désigné par le préfet de Corse ;
+
+- un fonctionnaire désigné par le trésorier-payeur général de Corse ;
+
+- un fonctionnaire désigné par le chef de service de La Poste compétent pour la Corse.
+
+Le secrétariat est assuré par un fonctionnaire désigné par le préfet de Corse.
+
+Les mandataires des listes de candidats peuvent participer, avec voix consultative, aux travaux de la commission.
+
+Le président fixe, en accord avec le préfet de Corse, le lieu où la commission doit siéger.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+_Créé par_:
+
+  - Décret n°91-653 du 15 juillet 1991 - art. 4 () JORF 16 juillet 1991
+
+_Cite_:
+
+  - Code électoral - art. R32 (M)
+
+
+###### Article R195
+
+Pour l'application des dispositions des articles R. 34 à R. 38, les attributions dévolues au préfet sont exercées par le
+préfet de Corse.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+_Créé par_:
+
+  - Décret n°91-653 du 15 juillet 1991 - art. 4 () JORF 16 juillet 1991
+
+_Cite_:
+
+  - Code électoral R34 à R38
+
+
+###### Article R196
+
+Les bulletins de vote comportent le titre de la liste ainsi que les nom et prénoms de chacun des candidats dans l'ordre de
+leur présentation sur la liste tel qu'il résulte des publications prévues à l'article R. 192.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+_Créé par_:
+
+  - Décret n°91-653 du 15 juillet 1991 - art. 4 () JORF 16 juillet 1991
+
+_Cite_:
+
+  - Code électoral - art. R192 (V)
+
+_Cité par_:
+
+  - Code électoral - art. R197 (Ab)
+
+
+#### Chapitre VII : Opérations de vote<a id=182></a>
+
+###### Article R197
+
+N'entrent pas en compte dans le résultat du dépouillement :
+
+- les bulletins établis au nom d'une liste qui n'a pas fait l'objet de l'une des publications prévues à l'article R. 192 ;
+
+- les bulletins non conformes aux dispositions de l'article R. 196 ;
+
+- les bulletins comportant adjonction ou suppression de nom ou modification de l'ordre de présentation des candidats ;
+
+- les bulletins manuscrits ;
+
+- les circulaires utilisées comme bulletin ;
+
+- les bulletins qui ne sont pas imprimés en caractères noirs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+_Créé par_:
+
+  - Décret n°91-653 du 15 juillet 1991 - art. 4 () JORF 16 juillet 1991
+
+_Cite_:
+
+  - Code électoral - art. R192 (V)
+  - Code électoral - art. R196 (V)
+
+
+###### Article R198
+
+Dès que le dépouillement est terminé, un exemplaire des procès-verbaux des opérations électorales de chaque commune,
+accompagné des pièces qui y sont réglementairement annexées, est scellé et transmis au président de la commission de
+recensement instituée par l'article L. 379 soit par porteur, soit sous pli postal recommandé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+_Créé par_:
+
+  - Décret n°91-653 du 15 juillet 1991 - art. 4 () JORF 16 juillet 1991
+
+_Cite_:
+
+  - Code électoral - art. L379 (V)
+
+
+###### Article R199
+
+Les dispositions des articles R. 107 à R. 109 sont applicables à la composition et au fonctionnement de la commission
+instituée par l'article L. 379. 
+
+Pour l'application des dispositions de l'article R. 107, les attributions dévolues au préfet sont exercées par le préfet de
+Corse.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+_Créé par_:
+
+  - Décret n°91-653 du 15 juillet 1991 - art. 4 () JORF 16 juillet 1991
+
+_Cite_:
+
+  - Code électoral - art. L379 (V)
+  - Code électoral - art. R107 (VT)
+
+
+#### Chapitre X : Contentieux<a id=183></a>
+
+###### Article R200
+
+Les dispositions de l'article R. 190 sont applicables à l'élection des conseillers à l'Assemblée de Corse.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
+
+_Créé par_:
+
+  - Décret n°91-653 du 15 juillet 1991 - art. 4 () JORF 16 juillet 1991
+
+_Cite_:
+
+  - Code électoral - art. R190 (V)
+
+
+# Annexes<a id=184></a>
+
+## Tableau des circonscriptions électorales des départements (élection des députés)<a id=185></a>
 
 ###### Article Annexe tableau n° 1
 
@@ -23077,7 +23550,7 @@ _Cite_:
   - Loi n°86-97 1986-11-24 art. 3
 
 
-## Tableau des circonscriptions électorales des départements (élection des députés) (1).<a id=177></a>
+## Tableau des circonscriptions électorales des départements (élection des députés) (1).<a id=186></a>
 
 ###### Article Annexe tableau n° 1 (suite)
 
@@ -23868,7 +24341,7 @@ _Cite_:
   - Loi n°86-97 1986-11-24 art. 3
 
 
-## Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés).<a id=178></a>
+## Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés).<a id=187></a>
 
 ###### Article Annexe tableau n° 1 bis
 
@@ -23912,7 +24385,7 @@ _Modifié par_:
   - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 () JORF 22 avril 2000
 
 
-## Tableau des secteurs pour l'élection des membres du conseil de Paris<a id=179></a>
+## Tableau des secteurs pour l'élection des membres du conseil de Paris<a id=188></a>
 
 ###### Article Annexe tableau n° 2
 
@@ -23985,7 +24458,7 @@ _Modifié par_:
   - Loi n°82-1170 1982-12-31 art. 4 JORF 1er janvier 1983
 
 
-## Tableau des secteurs pour l'élection des conseillers municipaux de Lyon<a id=180></a>
+## Tableau des secteurs pour l'élection des conseillers municipaux de Lyon<a id=189></a>
 
 ###### Article Annexe tableau n° 3
 
@@ -24028,7 +24501,7 @@ _Modifié par_:
   - Loi n°82-1170 1982-12-31 art. 4 JORF 1er janvier 1983
 
 
-## Tableau des secteurs pour l'élection des conseillers municipaux de Marseille.<a id=181></a>
+## Tableau des secteurs pour l'élection des conseillers municipaux de Marseille.<a id=190></a>
 
 ###### Article Annexe tableau n° 4
 
@@ -24070,7 +24543,7 @@ _Modifié par_:
   - Loi n°87-509 1987-07-09 art. 1 JORF 11 juillet 1987
 
 
-## Election des sénateurs<a id=182></a>
+## Election des sénateurs<a id=191></a>
 
 ###### Article Annexe tableau n° 5
 
