@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2000-07-05
+Version Consolidée au 2000-07-08
 ## Contenu: 
   - [Partie législative (art. L1 à L450)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -8320,6 +8320,15 @@ département en deux séries, en répartissant, autant que possible dans une pro
 arrondissement dans chacune des séries, et il procède ensuite à un tirage au sort pour régler l'ordre du renouvellement des
 séries.
 
+Lorsqu'un nouveau canton est créé par la fusion de deux cantons qui n'appartiennent pas à la même série de renouvellement, il
+est procédé à une élection à la date du renouvellement le plus proche afin de pourvoir le siège de ce nouveau canton. Dans ce
+cas, et malgré la suppression du canton où il a été élu, le conseiller général de celui des deux anciens cantons qui
+appartient à la série renouvelée à la date la plus lointaine peut exercer son mandat jusqu'à son terme.
+
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -8329,10 +8338,7 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Loi n°90-1103 1990-12-11 art. 9, art. 12
-
-_Modifié par_:
-
-  - Loi n°94-44 du 18 janvier 1994 - art. 1 ()
+  - SPEC_APPLI: Loi n°2000-629 du 7 juillet 2000 - art. 3 ()
 
 _Cité par_:
 
@@ -8347,6 +8353,10 @@ _Cité par_:
   - Code électoral - art. L221 (VD)
   - Code électoral - art. L328-4 (M)
   - Code électoral - art. L334-8 (Ab)
+
+_Modifié par_:
+
+  - Loi n°2000-629 du 7 juillet 2000 - art. 2 () JORF 8 juillet 2000
 
 
 #### Chapitre II : Mode de scrutin<a id=37></a>
@@ -8983,6 +8993,11 @@ Si la déclaration de candidature n'est pas accompagnée des pièces mentionnée
 n'établissent pas que le candidat répond aux conditions d'éligibilité prévues par l'article L. 194, elle n'est pas
 enregistrée.
 
+Nul ne peut être candidat dans plus d'un canton.
+
+Si le candidat fait, contrairement aux prescriptions de l'alinéa précédent, acte de candidature dans plusieurs cantons, sa
+candidature n'est pas enregistrée.
+
 Le candidat qui s'est vu opposer un refus d'enregistrement dispose de vingt-quatre heures pour saisir le tribunal
 administratif qui statue sous trois jours.
 
@@ -8999,8 +9014,11 @@ premier tour peuvent se maintenir au second.
 
 **Nota:**
 
-NOTA : Loi 2000-493 2000-06-06 art. 17 : Les dispositions de cet article entreront en vigueur lors du prochain renouvellement
+Loi 2000-493 2000-06-06 art. 17 : Les dispositions de cet article entreront en vigueur lors du prochain renouvellement
 intervenant à échéance normale des conseils et assemblées auxquels elles s'appliquent
+
+Loi 2007-128 du 31 janvier 2007 art. 4 II : Les dispositions du présent article entrent en vigueur à compter du premier
+renouvellement par moitié des conseils généraux qui suit la publication de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -9008,9 +9026,14 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+**Liens**:
+
+  - SPEC_APPLI: Fin de vigueur : date indéterminée
+  - SPEC_APPLI: Loi n°2000-629 du 7 juillet 2000 - art. 3 ()
+
 _Modifié par_:
 
-  - Loi n°2000-493 du 6 juin 2000 - art. 14 ()
+  - Loi n°2000-629 du 7 juillet 2000 - art. 1 () JORF 8 juillet 2000
 
 _Cité par_:
 
@@ -9023,7 +9046,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code électoral L194 et L217
+  - Code électoral - art. L194 (M)
+  - Code électoral - art. L217 (M)
 
 
 #### Chapitre V : Propagande<a id=41></a>
