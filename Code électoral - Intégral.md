@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1996-01-30
+Version Consolidée au 1996-02-24
 ## Contenu: 
   - [Partie législative (art. L1 à L385)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -46,9 +46,9 @@ Version Consolidée au 1996-01-30
         - [Chapitre VIII : Remplacement des conseillers généraux (art. L221)](#43)
         - [Chapitre IX : Contentieux (art. L222 à L223-1)](#44)
         - [Chapitre X : Conditions d'application (art. L224)](#45)
-      - [Titre IV : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris (art. L227 à L273)](#46)
-        - [Chapitre Ier : Dispositions applicables à toutes les communes (art. L227 à L251)](#47)
-          - [Section 1 : Composition des conseils municipaux et durée du mandat des conseillers (art. L227)](#48)
+      - [Titre IV : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris (art. L225 à L273)](#46)
+        - [Chapitre Ier : Dispositions applicables à toutes les communes (art. L225 à L251)](#47)
+          - [Section 1 : Composition des conseils municipaux et durée du mandat des conseillers (art. L225 à L227)](#48)
           - [Section 2 : Conditions d'éligibilité et inéligibilités (art. L228 à L236)](#49)
           - [Section 3 : Incompatibilités (art. L237 à L239)](#50)
           - [Section 4 : Propagande (art. L240 à L246)](#51)
@@ -8395,6 +8395,34 @@ _Cite_:
   - Ordonnance 1945-01-06
 
 
+###### Article L204
+
+Les conseillers généraux qui, dans les conditions prévues aux articles 34 et 91 de la loi du 10 août 1871, ont été condamnés
+et exclus du conseil général sont inéligibles au conseil général pendant les trois années qui suivent la condamnation. 
+
+Les conseillers généraux déclarés démissionnaires d'office par application de l'article L. 3121-4 du code général des
+collectivités territoriales sont inéligibles pendant une année au conseil général.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Modifié par_:
+
+  - Loi n°96-142 1996-02-21 art. 11, art. 12 16° JORF 24 février 1996
+  - Loi n°96-142 du 21 février 1996 - art. 11 (V) JORF 24 février 1996
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L3121-4 (VT)
+
+
 ###### Article L205
 
 Tout conseiller général qui, pour une cause survenue postérieurement à son élection, se trouve dans un des cas
@@ -9019,6 +9047,38 @@ _Codifié par_:
 #### Chapitre Ier : Dispositions applicables à toutes les communes<a id=47></a>
 
 ##### Section 1 : Composition des conseils municipaux et durée du mandat des conseillers<a id=48></a>
+
+###### Article L225
+
+Le nombre des conseillers municipaux est, sauf en ce qui concerne Paris, fixé par l'article L2121-2 du code général des
+collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Cité par_:
+
+  - Loi n°71-1028 du 24 décembre 1971 - art. 22 (Ab)
+  - Code général des collectivités territoriales - art. L2121-3 (V)
+  - Code général des collectivités territoriales - art. L2573-5 (VD)
+
+_Modifié par_:
+
+  - Loi n°82-974 1982-11-19 art. 1 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
+  - Loi n°96-142 du 21 février 1996 - art. 11 (V) JORF 24 février 1996
+  - Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996
+
+**Liens**:
+
+  - TXT_ASSOCIE: Loi n°82-1169 du 31 décembre 1982 - art. 44 (Ab)
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L2121-2 (M)
+
 
 ###### Article L227
 
