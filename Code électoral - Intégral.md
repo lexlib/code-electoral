@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1980-12-28
+Version Consolidée au 1981-03-28
 ## Contenu: 
   - [Partie législative (art. L1 à L334)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L251)](#2)
@@ -69,15 +69,15 @@ Version Consolidée au 1980-12-28
       - [Titre V : Conditions d'application (art. L326)](#66)
       - [Titre VI : Dispositions pénales (art. L327)](#67)
     - [Livre III  : Dispositions spéciales au département de Saint-Pierre-et-Miquelon (art. L334)](#68)
-  - [Partie réglementaire (art. R*1 à R*170)](#69)
+  - [Partie réglementaire (art. R*1 à R*171)](#69)
     - [Livre Ier  : Election des députés, des conseillers généraux et des conseillers municipaux des départements (art. R*1 à R130)](#70)
       - [Titre Ier  : Dispositions communes à l'élection des députés, des conseillers généraux et des conseillers municipaux (art. R*1 à R97)](#71)
-        - [Chapitre II : Listes électorales (art. R*1 à R*24)](#72)
+        - [Chapitre II : Listes électorales (art. R*1 à R*25)](#72)
           - [Section 1 : Conditions d'inscription sur une liste électorale (art. R*1 à R*4)](#73)
           - [Section 2 : Etablissement et révision des listes électorales (art. R*5 à R15-7)](#74)
           - [Section 3 : Inscription en dehors des périodes de révision (art. R*17-2)](#75)
           - [Section 4 : Contrôle des inscriptions sur les listes électorales (art. R*18 à R*22)](#76)
-          - [Section 6 : Cartes électorales (art. R*23 à R*24)](#77)
+          - [Section 6 : Cartes électorales (art. R*23 à R*25)](#77)
         - [Chapitre V : Propagande (art. R26 à R39)](#78)
         - [Chapitre VI : Vote (art. R40 à R*93-3)](#79)
           - [Section 1 : Opérations préparatoires au scrutin (art. R40 à R41)](#80)
@@ -104,13 +104,13 @@ Version Consolidée au 1980-12-28
           - [Section 2 : Déclarations de candidatures (art. R128)](#101)
         - [Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille (art. R129 à R130)](#102)
           - [Section 2 : Opérations préparatoires au scrutin (art. R129 à R130)](#103)
-    - [Livre II  : Election des sénateurs des départements (art. R*131 à R*170)](#104)
+    - [Livre II  : Election des sénateurs des départements (art. R*131 à R*171)](#104)
       - [Titre III : Désignation des délégués des conseils municipaux (art. R*131 à R*148)](#105)
-      - [Titre IV : Election des sénateurs (art. R*149 à R*170)](#106)
+      - [Titre IV : Election des sénateurs (art. R*149 à R*171)](#106)
         - [Chapitre IV : Déclarations de candidatures (art. R*149 à R*153)](#107)
         - [Chapitre V : Propagande (art. R*154 à R*161)](#108)
         - [Chapitre VI : Opérations préparatoires au scrutin (art. R*162)](#109)
-        - [Chapitre VII : Opérations de vote (art. R*163 à R*170)](#110)
+        - [Chapitre VII : Opérations de vote (art. R*163 à R*171)](#110)
 # Partie législative<a id=1></a>
 
 ## LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS<a id=2></a>
@@ -9889,6 +9889,53 @@ _Cite_:
   - Code électoral - art. L19 (V)
 
 
+###### Article R*25
+
+Les cartes électorales sont distribuées au domicile des électeurs, par les soins du maire.
+
+Cette distribution doit être achevée en toute hypothèse trois jours avant le jour du scrutin.
+
+Les cartes qui n'ont pu être remises à leur titulaire font retour à la mairie.
+
+Elle y sont conservées à la disposition des intéressés jusqu'au jour du scrutin inclus, si la mairie se trouve constituer
+dans la commune l'unique bureau de vote.
+
+Dans les communes où existent plusieurs bureaux de vote, elles sont remises le jour du scrutin au bureau de vote intéressé et
+y sont tenues à la disposition de leur titulaire. Dans l'un et l'autre cas elles ne peuvent être délivrées à l'électeur que
+sur le vu de pièces d'identité, ou après authentification de son identité par deux témoins inscrits sur les listes du même
+bureau de vote.
+
+Procès-verbal de cette opération est alors dressé, signé par le titulaire, et, le cas échéant, par les témoins et paraphé par
+le bureau.
+
+Dans chaque bureau de vote, lors de la clôture du scrutin, les cartes non retirées, ainsi que celles qui l'ont été, sont
+mentionnées nominativement sur le procès-verbal des opérations de vote, auquel sont joints les procès-verbaux de remise
+prévus à l'alinéa précédent.
+
+Les cartes non retirées sont mises sous pli cacheté, portant l'indication de leur nombre, et ce pli, paraphé par les membres
+du bureau, est déposé à la mairie; il ne peut être ouvert que par la commission administrative lors de la plus prochaine
+révision des listes électorales.
+
+Cette commission tient compte, dans ses travaux, des indications qui ont motivé le retour de la carte à la mairie, ainsi que
+des indications fournies par les électeurs qui ont dû retirer directement leur carte au bureau de vote.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Modifié par_:
+
+  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+_Cité par_:
+
+  - Décret n°79-160 du 28 février 1979 - art. 2-4 (V)
+  - Code électoral - art. R117-3 (M)
+  - Code électoral - art. R24-1 (VT)
+
+
 #### Chapitre V : Propagande<a id=78></a>
 
 ###### Article R26
@@ -10105,6 +10152,63 @@ _Modifié par_:
 
   - Décret n°72-1251 1972-12-29 art. 2 JORF 31 décembre 1972
   - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+
+
+###### Article R30
+
+Chaque candidat ou liste de candidats ne peut faire imprimer, pour chaque tour de scrutin, un nombre de bulletins supérieur
+de plus de 20 % à deux fois le nombre des électeurs inscrits dans la circonscription.
+
+Les bulletins ne peuvent dépasser les formats définis ci-après :
+
+- 74 x 105 mm pour une candidature isolée;
+
+- 105 x 148 mm pour les bulletins comportant deux noms;
+
+- 148 x 210 mm pour les listes comportant de trois à trente et un noms;
+
+- 210 x 297 mm pour les listes comportant plus de trente et un noms.
+
+Le libellé et, le cas échéant, la dimension des caractères des bulletins doivent être conformes aux prescriptions légales ou
+réglementaires édictées pour chaque catégorie d'élections.
+
+Les bulletins de vote sont soustraits à la formalité du dépôt légal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Modifié par_:
+
+  - Décret n°69-746 1969-07-24 art. 1 JORF 26 juillet 1969
+  - Décret n°72-1251 1972-12-29 art. 3 JORF 31 décembre 1972
+  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+  - Décret n°81-280 1981-03-27 art. 2 JORF 28 MARS 1981
+
+_Cité par_:
+
+  - Décret n°86-170 du 6 février 1986 - art. 13 (Ab)
+  - Décret n°86-170 du 6 février 1986 - art. 6 (Ab)
+  - Décret n°93-1429 du 31 décembre 1993 - art. 39 (Ab)
+  - Décret n°93-1429 du 31 décembre 1993 - art. 7 (Ab)
+  - Décret n°2014-290 du 4 mars 2014 - art. 26 (V)
+  - Décret n°2014-290 du 4 mars 2014 - art. 3 (V)
+  - Décret n°2014-290 du 4 mars 2014 - art. 5 (V)
+  - Arrêté du 17 juin 2014 (V)
+  - Arrêté du 11 juillet 2016 - art. 1
+  - Code de commerce - art. A713-22 (V)
+  - Code de commerce - art. A713-7 (V)
+  - Code électoral - art. R204 (VD)
+  - Code électoral - art. R296 (VT)
+  - Code électoral - art. R30-1 (V)
+  - Code électoral - art. R314 (V)
+  - Code électoral - art. R329 (V)
+  - Code électoral - art. R343 (V)
+  - Code électoral - art. R38 (VD)
+  - Code électoral - art. R39 (V)
+  - Code électoral - art. R55 (VD)
 
 
 ###### Article R31
@@ -10332,6 +10436,49 @@ _Abrogé par_:
 _Cité par_:
 
   - Code électoral - art. R109-1 (M)
+
+
+###### Article R38
+
+Chaque candidat ou son mandataire ou le mandataire de chaque liste fait connaître au président de la commission, en déposant
+les justifications visées à l'article précédent, le nom de l'imprimeur choisi par lui sur la liste des imprimeurs agréés.
+
+Le président lui indique les caractéristiques et le nombre maximum des documents de chaque catégorie qu'il est autorisé à
+faire imprimer ainsi que les tarifs maxima d'impression et d'affichage fixés en application de l'article R. 39.
+
+Le mandataire du candidat ou de la liste doit remettre au président de la commission, avant une date limite fixée pour chaque
+tour de scrutin par arrêté préfectoral, les exemplaires imprimés de la circulaire ainsi qu'une quantité de bulletins au moins
+égale au double du nombre des électeurs inscrits.
+
+La commission n'est pas tenue d'assurer l'envoi des imprimés remis postérieurement à cette date.
+
+Les circulaires et bulletins dont le format, le libellé ou l'impression ne répondent pas aux prescriptions légales ou
+réglementaires ne sont pas acceptés par la commission.
+
+Seuls les imprimés envoyés par la commission bénéficient des tarifs postaux préférentiels.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Modifié par_:
+
+  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+  - Décret n°81-280 1981-03-27 art. 3 JORF 28 MARS 1981
+
+_Cité par_:
+
+  - Décret n°79-160 du 28 février 1979 - art. 6 (V)
+  - Arrêté du 27 avril 2012 - art. 1 (V)
+  - Code électoral - art. R125 (Ab)
+  - Code électoral - art. R174 (V)
+  - Code électoral - art. R174-1 (V)
+
+_Cite_:
+
+  - Code électoral - art. R39 (M)
 
 
 ###### Article R39
@@ -11137,6 +11284,45 @@ _Modifié par_:
   - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
 
 
+###### Article R55
+
+Les bulletins de vote déposés par les candidats ou les listes, en application de l'article L. 58, ainsi que ceux adressés au
+maire par la commission de propagande sont placés dans chaque bureau, à la disposition des électeurs, sous la responsabilité
+du président du bureau de vote.
+
+Les candidats désirant faire assurer ce dépôt par le maire doivent lui remettre les bulletins au plus tard à midi, la veille
+du scrutin.
+
+Les bulletins peuvent être remis directement par les candidats ou par les listes au président du bureau.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Modifié par_:
+
+  - Décret n°69-746 1969-07-24 art. 6 JORF 26 juillet 1969
+  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+  - Décret n°81-280 1981-03-27 art. 4 JORF 28 MARS 1981
+
+_Cité par_:
+
+  - Décret n°85-904 du 27 août 1985 - art. 1 (Ab)
+  - Loi n°2003-486 du 10 juin 2003 - art. 4 (V)
+  - Décret n°2009-249 du 4 mars 2009 - art. 2 (V)
+  - Décret n°2009-1434 du 20 novembre 2009 - art. 3 (V)
+  - Décret n°2009-1435 du 20 novembre 2009 - art. 3 (V)
+  - Décret n°2018-457 du 6 juin 2018 - art. 13 (V)
+  - Code électoral - art. R176-1 (V)
+  - Code électoral - art. R176-1-5 (V)
+
+_Cite_:
+
+  - Code électoral - art. L58 (V)
+
+
 ###### Article R55-1
 
 Pour les bureaux de vote dotés d'une machine à voter, le préfet transmet au maire, au plus tard l'avant-veille du scrutin, la
@@ -11853,6 +12039,52 @@ _Cité par_:
   - Code électoral - art. R72-2 (V)
   - Code électoral - art. R73 (V)
   - Code électoral - art. R78 (V)
+
+
+###### Article R*72-1
+
+Les procurations données par les personnes se trouvant hors de France sont établies par acte dressé devant l'autorité
+consulaire.
+
+Pour les militaires et les autres personnes auxquelles s'applique l'article 68 du code de justice militaire, stationnés hors
+de France, l'autorité consulaire peut déléguer les compétences qui lui sont conférées par l'alinéa ci-dessus aux officiers de
+police judiciaire des forces armées et aux autorités qui ont qualité pour exercer des attributions d'officier de police
+judiciaire conformément à l'article 88 du même code.
+
+Les procurations données par les personnes se trouvant en Andorre sont établies par acte dressé devant le président du
+tribunal supérieur du coprince français d'Andorre, président du tribunal de grande instance de Perpignan, et, en cas
+d'empêchement de celui-ci et sur sa délégation, devant un magistrat français membre desdits tribunaux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Décret n°77-134 1977-02-11 art. 3 JORF 13 février 1977
+
+_Modifié par_:
+
+  - Décret n°81-280 1981-03-27 art. 5 JORF 28 mars 1981
+
+_Cité par_:
+
+  - Décret n°83-678 du 26 juillet 1983 - art. 21 (Ab)
+  - Décret n°84-477 du 18 juin 1984 - art. 58 (M)
+  - Décret n°94-148 du 16 février 1994 - art. 20 (V)
+  - Décret n°2005-1613 du 22 décembre 2005 - art. 41 (T)
+  - Décret n°2005-1613 du 22 décembre 2005 - art. 43 (T)
+  - Arrêté du 29 mars 2006 - art. 7 (Ab)
+  - Arrêté du 20 juillet 2007 - art. 10 (V)
+  - Décret n°2015-1407 du 5 novembre 2015 - art. Annexe 1 (V)
+  - Code de la sécurité sociale. - art. R214-21 (P)
+  - Code électoral - art. R72-1 (V)
+
+_Cite_:
+
+  - Code de justice militaire 68 et 88
 
 
 ###### Article R*72-2
@@ -14343,5 +14575,40 @@ _Modifié par_:
 _Cite_:
 
   - Code électoral - art. L66 (V)
+
+
+###### Article R*171
+
+Les membres du collège électoral qui auront pris part au scrutin bénéficieront, à l'occasion de leur déplacement au chef-lieu
+du département, d'une indemnité forfaitaire représentative de frais égale à l'indemnité pour frais de mission allouée aux
+personnels civils de l'Etat du groupe I, cette allocation ne pouvant en aucun cas être inférieure à une fois le taux de base.
+
+Ils pourront également prétendre au remboursement, dans les mêmes conditions que les fonctionnaires de l'Etat visés à
+l'alinéa précédent, de leurs frais de transport : s'ils sont domiciliés dans le département, de leur domicile au chef-lieu ;
+s'ils n'y sont pas domiciliés, de la commune dont ils sont délégués ou du chef-lieu de canton qu'ils représentent, au chef-
+lieu.
+
+Ces dispositions ne s'appliquent pas aux électeurs de droit qui reçoivent au titre de leur mandat une indemnité annuelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Modifié par_:
+
+  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+  - Décret n°81-280 1981-03-27 art. 6 JORF 28 mars 1981
+
+_Cité par_:
+
+  - Arrêté du 3 septembre 2014 (V)
+  - Arrêté du 26 septembre 2014 (V)
+  - Code électoral - art. R283 (V)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code électoral - art. L317 (V)
 
 
