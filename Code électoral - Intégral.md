@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1969-07-26
+Version Consolidée au 1971-07-18
 ## Contenu: 
   - [Partie législative (art. L1 à L334)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L251)](#2)
@@ -6744,6 +6744,24 @@ _Cite_:
 
   - Code général des collectivités territoriales - art. L2121-35 (V)
   - Code général des collectivités territoriales - art. L2121-36 (V)
+
+
+###### Article L290-1
+
+Dans le cas de création de commune associée par application des dispositions de la législation sur les fusions de communes,
+la commune associée conserve un nombre de délégués égal à celui auquel elle aurait eu droit si la fusion n'avait pas été
+prononcée. Les délégués de la commune associée sont élus par le conseil municipal parmi les électeurs de la section
+électorale correspondante ou, à défaut, parmi les électeurs qui y sont domiciliés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°71-588 du 16 juillet 1971 - art. 17 () JORF 18 juillet 1971
 
 
 ###### Article L291
