@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1995-02-09
+Version Consolidée au 1995-05-12
 ## Contenu: 
   - [Partie législative (art. L1 à L385)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -14550,8 +14550,9 @@ _Cite_:
 
 Le tribunal statue, sans forme et sur simple avertissement donné trois jours à l'avance à toutes les parties intéressées,
 dans les dix jours du recours ou, le cas échéant, de la décision du tribunal administratif saisi en application de l'article
-L. 20. Trois jours également à l'avance, le secrétariat-greffe du tribunal avise du recours le commissaire de la République,
-qui peut présenter des observations.
+L. 20. Trois jours également à l'avance, le secrétariat-greffe du tribunal avise du recours le préfet, qui peut présenter des
+observations. Le tribunal se prononce après avoir vérifié notamment la validité des justifications produites par l'électeur à
+l'appui de sa demande d'inscription devant la commission administrative compétente.
 
 Toutefois, si la demande portée devant lui implique la solution préjudicielle d'une question d'état, le tribunal d'instance
 renvoie préalablement les parties à se pourvoir devant le juge compétent et fixe un bref délai dans lequel la partie qui aura
@@ -14566,11 +14567,6 @@ _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Modifié par_:
-
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
-  - Décret n°80-1075 1980-12-24 art. 3 JORF 28 décembre 1980
-
 _Cité par_:
 
   - Décret n°84-252 du 6 avril 1984 - art. 18 (Ab)
@@ -14578,6 +14574,10 @@ _Cité par_:
   - Décret n°2005-1613 du 22 décembre 2005 - art. 11 (VD)
   - Décret n°2018-451 du 6 juin 2018 - art. 2 (V)
   - Code de la sécurité sociale. - art. R611-66 (M)
+
+_Modifié par_:
+
+  - Décret n°95-719 du 9 mai 1995 - art. 1 ()
 
 _Cite_:
 
