@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2004-04-16
+Version Consolidée au 2004-05-11
 ## Contenu: 
   - [Partie législative (art. L1 à L450)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -11861,7 +11861,9 @@ _Modifié par_:
 
 Les députés, les conseillers régionaux, les conseillers à l'Assemblée de Corse et les conseillers généraux qui ont été
 proclamés par les commissions de recensement sont inscrits sur la liste des électeurs sénatoriaux et prennent part au vote
-même si leur élection est contestée.
+même si leur élection est contestée. En cas d'empêchement majeur, ils peuvent exercer, sur leur demande écrite, leur droit de
+vote par procuration. Le mandataire doit être membre du collège électoral sénatorial et ne peut disposer de plus d'une
+procuration.
 
 **Liens relatifs à cet article**
 
@@ -11869,13 +11871,9 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 87
-
 _Modifié par_:
 
-  - Loi n°91-428 du 13 mai 1991 - art. 11 () JORF 14 mai 1991
+  - Loi n°2004-404 du 10 mai 2004 - art. 2 () JORF 11 mai 2004
 
 
 ###### Article L282
@@ -11913,13 +11911,17 @@ _Modifié par_:
 ###### Article L283
 
 Le décret convoquant les électeurs sénatoriaux fixe le jour auquel doivent être désignés les délégués des conseils municipaux
-et leurs suppléants. Un intervalle de trois semaines au moins doit séparer cette élection de celle des sénateurs.
+et leurs suppléants. Un intervalle de six semaines au moins doit séparer cette élection de celle des sénateurs.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Modifié par_:
+
+  - Loi n°2004-404 du 10 mai 2004 - art. 3 () JORF 11 mai 2004
 
 _Cité par_:
 
@@ -11929,7 +11931,7 @@ _Cité par_:
 
 ###### Article L284
 
-Les conseils municipaux élisent dans les communes de moins de 9 000 habitants :
+Les conseils municipaux élisent parmi leurs membres dans les communes de moins de 9 000 habitants :
 
 - un délégué pour les conseils municipaux de neuf et onze membres;
 
@@ -11961,13 +11963,9 @@ _Cité par_:
   - Code électoral - art. L439-2 (V)
   - Code électoral - art. R*136 (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
-
 _Modifié par_:
 
-  - Loi n°2000-641 du 10 juillet 2000 - art. 2 () JORF 11 juillet 2000
+  - Loi n°2004-404 du 10 mai 2004 - art. 4 () JORF 11 mai 2004
 
 _Cite_:
 
@@ -11977,8 +11975,7 @@ _Cite_:
 
 ###### Article L285
 
-Dans les communes de 9000 habitants et plus, ainsi que dans toutes les communes de la Seine, tous les conseillers municipaux
-sont délégués de droit.
+Dans les communes de 9000 habitants et plus, tous les conseillers municipaux sont délégués de droit.
 
 En outre, dans les communes de plus de 30 000 habitants, les conseils municipaux élisent des délégués supplémentaires à
 raison de 1 pour 1000 habitants en sus de 30 000.
@@ -11994,12 +11991,18 @@ _Cité par_:
   - Loi n°85-691 du 10 juillet 1985 - art. 19 (Ab)
   - Code électoral - art. L290-2 (V)
 
+_Modifié par_:
+
+  - Loi n°2004-404 du 10 mai 2004 - art. 5 () JORF 11 mai 2004
+
 
 ###### Article L286
 
 Le nombre des suppléants est de trois quand le nombre des titulaires est égal ou inférieur à cinq. Il est augmenté de un par
 cinq titulaires ou fraction de cinq. Dans les communes visées au chapitre II du titre IV du livre Ier du présent code, les
-suppléants sont élus au sein du conseil municipal.
+suppléants sont élus au sein du conseil municipal. Toutefois, lorsque le nombre de délégués du conseil municipal et de leurs
+suppléants est supérieur au nombre des conseillers municipaux, les suppléants peuvent être élus parmi les électeurs inscrits
+sur les listes électorales de la commune.
 
 **Liens relatifs à cet article**
 
@@ -12007,13 +12010,9 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
-
 _Modifié par_:
 
-  - Loi n°2000-641 du 10 juillet 2000 - art. 3 () JORF 11 juillet 2000
+  - Loi n°2004-404 du 10 mai 2004 - art. 6 () JORF 11 mai 2004
 
 
 ###### Article L287
@@ -12022,7 +12021,8 @@ Les députés, les conseillers régionaux, les conseillers à l'Assemblée de Co
 désignés délégués, élus ou de droit, par les conseils municipaux dans lesquels ils siègent.
 
 Au cas où un député, un conseiller régional, un conseiller à l'Assemblée de Corse ou un conseiller général serait délégué de
-droit comme conseiller municipal, un remplaçant lui est désigné par le maire sur sa présentation.
+droit comme conseiller municipal ou comme membre du conseil consultatif d'une commune associée, un remplaçant lui est désigné
+par le maire sur sa présentation.
 
 **Liens relatifs à cet article**
 
@@ -12030,14 +12030,9 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 87
-  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
-
 _Modifié par_:
 
-  - Loi n°2000-641 du 10 juillet 2000 - art. 4 () JORF 11 juillet 2000
+  - Loi n°2004-404 du 10 mai 2004 - art. 7 () JORF 11 mai 2004
 
 _Cité par_:
 
@@ -12526,22 +12521,19 @@ _Cite_:
 
 Dans les départements où les élections ont lieu à la représentation proportionnelle, chaque liste de candidats doit comporter
 deux noms de plus qu'il y a de sièges à pourvoir. Sur chacune des listes, l'écart entre le nombre des candidats de chaque
-sexe ne peut être supérieur à un. Chaque liste est composée alternativement d'un candidat de chaque sexe.
+sexe ne peut être supérieur à un. Chaque liste est composée alternativement d'un candidat de chaque sexe. 
 
 Outre les renseignements mentionnés à l'article L. 298, la déclaration doit indiquer le titre de la liste et l'ordre de
-présentation des candidats.
+présentation des candidats. 
 
-Une déclaration collective pour chaque liste peut être faite par un mandataire de celle-ci.
+Une déclaration collective pour chaque liste est faite par un mandataire de celle-ci. Tout changement de composition d'une
+liste ne peut être effectué que par retrait de celle-ci et le dépôt d'une nouvelle déclaration. La déclaration de retrait
+doit comporter la signature de l'ensemble des candidats de la liste. 
 
-Aucun retrait de candidature n'est admis après la date limite de dépôt des candidatures.
+Le retrait d'une liste ne peut intervenir après l'expiration du délai prévu pour le dépôt des déclarations de candidatures. 
 
 En cas de décès de l'un des candidats au cours de la campagne électorale, les autres candidats de la liste auront le droit de
 le remplacer jusqu'à la veille de l'ouverture du scrutin par un nouveau candidat au rang qui leur conviendra.
-
-**Nota:**
-
-Loi n° 2000-493 2000-06-06 art. 17 : Les dispositions de cet article entreront en vigueur lors du prochain renouvellement
-intervenant à échéance normale des conseils et assemblées auxquels elles s'appliquent.
 
 **Liens relatifs à cet article**
 
@@ -12557,15 +12549,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2000-641 du 10 juillet 2000 - art. 11 () JORF 11 juillet 2000
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
+  - Loi n°2004-404 du 10 mai 2004 - art. 8 () JORF 11 mai 2004
 
 _Cite_:
 
-  - Code électoral - art. L298 (M)
+  - Code électoral - art. L298 (V)
 
 
 ###### Article L301
@@ -12844,17 +12832,21 @@ _Cité par_:
 
 ###### Article L313
 
-Le vote a lieu sous enveloppes.
+Le vote a lieu sous enveloppes. 
 
-Le jour du vote, celles-ci sont mises à la disposition des électeurs dans la salle de vote.
+Le jour du vote, celles-ci sont mises à la disposition des électeurs dans la salle de vote. 
 
 Avant l'ouverture du scrutin, le bureau doit constater que le nombre des enveloppes correspond exactement à celui des
-électeurs inscrits.
+électeurs inscrits. 
 
 Si, par suite d'un cas de force majeure, du délit prévu à l'article L. 113 ou pour toute autre cause, ces enveloppes
 réglementaires font défaut, le président du bureau est tenu de les remplacer par d'autres d'un type uniforme, et de procéder
 au scrutin conformément aux dispositions du présent code. Mention est faite de ce remplacement au procès-verbal et cinq des
-enveloppes dont il a été fait usage y sont annexées.
+enveloppes dont il a été fait usage y sont annexées. 
+
+Dans les départements dans lesquels l'élection a lieu à la représentation proportionnelle, des machines à voter agréées dans
+les conditions fixées à l'article L. 57-1 peuvent être utilisées. Dans ce cas, les alinéas précédents ne sont pas
+applicables.
 
 **Liens relatifs à cet article**
 
@@ -12867,9 +12859,14 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+_Modifié par_:
+
+  - Loi n°2004-404 du 10 mai 2004 - art. 9 () JORF 11 mai 2004
+
 _Cite_:
 
-  - Code électoral - art. L113 (M)
+  - Code électoral - art. L113 (V)
+  - Code électoral - art. L57-1 (VT)
 
 
 ###### Article L314
@@ -12877,12 +12874,15 @@ _Cite_:
 A son entrée dans la salle du scrutin, l'électeur, après avoir fait constater son identité suivant les règles et usages
 établis ou après avoir fait la preuve de son droit de voter, prend lui-même une enveloppe. Sans quitter la salle du scrutin,
 il doit se rendre isolément dans la partie de la salle aménagée pour le soustraire aux regards pendant qu'il met son bulletin
-dans l'enveloppe; il fait ensuite constater au président qu'il n'est porteur que d'une seule enveloppe; le président le
+dans l'enveloppe; il fait ensuite constater au président qu'il n'est porteur que d'une seule enveloppe ; le président le
 constate, sans toucher l'enveloppe, que l'électeur introduit lui-même dans l'urne.
 
 Dans chaque section de vote il y a un isoloir par trois cents électeurs inscrits ou par fraction.
 
 Les isoloirs ne doivent pas être placés de façon à dissimuler au public les opérations électorales.
+
+Dans les bureaux de vote dotés d'une machine à voter, l'électeur, après avoir fait constater son identité ou fait la preuve
+de son droit de voter, fait enregistrer son suffrage par la machine à voter.
 
 **Liens relatifs à cet article**
 
@@ -12894,11 +12894,15 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+_Modifié par_:
+
+  - Loi n°2004-404 du 10 mai 2004 - art. 9 () JORF 11 mai 2004
+
 
 ###### Article L314-1
 
-Pendant toute la durée des opérations électorales, une copie du tableau des électeurs sénatoriaux mentionné à l'article L.
-292, certifiée par le préfet, reste déposée sur la table du bureau de vote. Cette copie constitue la liste d'émargement.
+Pendant toute la durée des opérations électorales, une copie de la liste des électeurs du département certifiée par le
+préfet, reste déposée sur la table du bureau de vote. Cette copie constitue la liste d'émargement.
 
 Le vote de chaque électeur est constaté par sa signature apposée à l'encre en face de son nom sur la liste d'émargement.
 
@@ -12915,17 +12919,9 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2000-641 du 10 juillet 2000 - art. 16 () JORF 11 juillet 2000
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
-
-_Cite_:
-
-  - Code électoral - art. L292 (V)
+  - Loi n°2004-404 du 10 mai 2004 - art. 10 () JORF 11 mai 2004
 
 
 ###### Article L315
@@ -12982,7 +12978,7 @@ _Cité par_:
 
 ###### Article L318
 
-Tout membre du collège électoral qui, sans cause légitime, n'aura pas pris part au scrutin, sera condamné à une amende de 4,5
+Tout membre du collège électoral qui, sans cause légitime, n'aura pas pris part au scrutin, sera condamné à une amende de 100
 euros par le tribunal de grande instance du chef-lieu, sur les réquisitions du ministère public.
 
 La même peine peut être appliquée dans les mêmes conditions au délégué suppléant qui, dûment averti en temps utile, n'aura
@@ -12996,7 +12992,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2004-404 du 10 mai 2004 - art. 11 () JORF 11 mai 2004
 
 _Cité par_:
 
@@ -14506,22 +14502,29 @@ _Abrogé par_:
 
 ###### Article L334-15
 
-Les dispositions du livre II du présent code sont applicables à l'élection du sénateur de Mayotte, à l'exclusion de l'article
-L. 280.
+Les dispositions du livre II du présent code sont applicables à l'élection des sénateurs de Mayotte, à l'exclusion de
+l'article L. 280.
 
-Le renouvellement du mandat de sénateur de Mayotte a lieu à la même date que celui des sénateurs de la série C prévue à
+Le renouvellement du mandat des sénateurs de Mayotte a lieu à la même date que celui des sénateurs de la série C prévue à
 l'article LO 276 du code électoral.
 
 **Nota:**
 
-Nota : Les dispositions de la loi 2004-404 du 10 mai 2004 art. 12 V modifiant l'article l334-15 du code électoral, prennent
-effet à compter du prochain renouvellement de la série à laquelle Mayotte appartient.
+Nota : Les dispositions de la loi 2004-404 du 10 mai 2004 art. 12 V modifiant l'article L334-15 du code électoral, prennent
+effet à compter du renouvellement de la série à laquelle Mayotte appartient. Ce dernier a eu lieu le 26 septembre 2004.
+
+Nota : Loi 2005-1563 du 15 décembre 2005 art. 5 : Ces dispositions prennent effet à compter du renouvellement partiel de
+2011.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+**Liens**:
+
+  - SPEC_APPLI: Fin d'application, renouvellement partiel de 2011
 
 _Cité par_:
 
@@ -14529,50 +14532,20 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Loi n°2004-404 du 10 mai 2004 - art. 12 () JORF 11 mai 2004
+
+_Abrogé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 _Cite_:
 
   - Code électoral - art. L280 (M)
 
 
-###### Article L334-15-1
-
-Pour l'application à Mayotte des articles L. 284 (dernier alinéa) et L. 290, il y a lieu de lire :
-
-1° " des articles L. 112-6 et L. 112-7 du code des communes applicable localement " au lieu de : " des articles L. 2113-6 et
-L. 2113-7 du code général des collectivités territoriales " ;
-
-2° " de l'article L. 121-5 du code des communes applicable localement " au lieu de : " des articles L. 2121-35 et L. 2121-36
-du code général des collectivités territoriales ".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2004-404 du 10 mai 2004 - art. 12 () JORF 11 mai 2004
-
-_Cite_:
-
-  - Code électoral - art. L284 (M)
-  - Code électoral - art. L290 (M)
-  - Code général des collectivités territoriales - art. L2113-6 (M)
-  - Code général des collectivités territoriales - art. L2113-7 (M)
-  - Code général des collectivités territoriales - art. L2121-35 (V)
-  - Code général des collectivités territoriales - art. L2121-36 (V)
-
-
 ###### Article L334-16
 
-Le sénateur est élu par un collège électoral composé :
+Les sénateurs sont élus par un collège électoral composé :
 
 1° Du député ;
 
@@ -14582,9 +14555,8 @@ Le sénateur est élu par un collège électoral composé :
 
 **Nota:**
 
-Nota : Les dispositions de la Loi 2004-404 du 10 mai 2004 art. 12 V modifiant l'article L334-16 du code électoral prennent
-effet à compter du prochain renouvellement de la série à laquelle Mayotte appartient. Ce dernier a eu lieu le 26 septembre
-2004.
+Loi n° 2004-404 du 10 mai 2004 art. 12 V : Ces dispositions prennent effet à compter du renouvellement de la série à laquelle
+Mayotte appartient. Ce dernier a eu lieu le 26 septembre 2004.
 
 **Liens relatifs à cet article**
 
@@ -14598,7 +14570,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Loi n°2004-404 du 10 mai 2004 - art. 12 () JORF 11 mai 2004
+
+_Abrogé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 
 ###### Article LO334-14-1
@@ -14609,11 +14585,8 @@ Les dispositions organiques du Livre II du présent code sont applicables à l'�
 
 **Nota:**
 
-NOTA : Loi 2003-696 du 30 juillet 2003 art. 8 IIII : les dispositions de l'article 8 I prennent effet à compter du prochain
-renouvellement de la série à laquelle Mayotte appartient.
-
-Nota : Les dispositions de la loi 2004-404 du 10 mai 2004 art. 12 V modifiant l'article LO334-14-1 du code électoral prennent
-effet à compter du renouvellement de la série à laquelle Mayotte appartient. Ce dernier a eu lieu le 26 septembre 2004.
+Loi 2004-404 du 10 mai 2004 art. 12 V : Ces dispositions prennent effet à compter du prochain renouvellement de la série à
+laquelle Mayotte appartient. Ce dernier a eu lieu le 26 septembre 2004.
 
 **Liens relatifs à cet article**
 
@@ -14621,9 +14594,13 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2003-696 du 30 juillet 2003 - art. 8 (V) JORF 31 juillet 2003
+  - Loi n°2004-404 du 10 mai 2004 - art. 12 () JORF 11 mai 2004
+
+_Abrogé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
 
 
 #### Chapitre VI : Conditions d'application<a id=99></a>
@@ -18371,9 +18348,9 @@ _Cite_:
 
 ###### Article L439
 
-Les dispositions du titre III et des chapitres Ier à VII du titre IV du livre II, à l'exception de l'article L. 301, ainsi
-que celles des articles L. 385 à L. 387, sont applicables à l'élection des sénateurs en Polynésie française, en Nouvelle-
-Calédonie et dans les îles Wallis et Futuna.
+Les dispositions du titre III, des chapitres Ier à VII du titre IV et du titre VI du livre II, à l'exception de l'article L.
+301, ainsi que celles des articles L. 385 à L. 387, sont applicables à l'élection des sénateurs en Polynésie française, en
+Nouvelle-Calédonie et dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -18381,13 +18358,9 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
-
 _Modifié par_:
 
-  - Loi n°2000-641 du 10 juillet 2000 - art. 20 () JORF 11 juillet 2000
+  - Loi n°2004-404 du 10 mai 2004 - art. 13 () JORF 11 mai 2004
 
 _Cité par_:
 
@@ -18623,7 +18596,7 @@ _Modifié par_:
 ###### Article L447
 
 Pour l'application de l'article L. 318 en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna,
-l'amende de 4,5 Euros est fixée à 545 francs CFP.
+l'amende de 100 euros est fixée à 12 110 francs CFP.
 
 **Liens relatifs à cet article**
 
@@ -18631,13 +18604,13 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
-
-  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
-
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2004-404 du 10 mai 2004 - art. 11 () JORF 11 mai 2004
+
+_Cite_:
+
+  - Code électoral - art. L318 (V)
 
 
 ###### Article L448
@@ -32775,45 +32748,178 @@ _Modifié par_:
 
 ###### Article Annexe tableau n° 5
 
-(1) Répartition à titre transitoire des sièges de sénateurs entre les séries (2).
+I. - A compter du renouvellement partiel de 2004, le tableau n° 5 annexé au code électoral et fixant la répartition des
+sièges de sénateurs entre les séries est ainsi rédigé :
 
-REPRESENTATION DES DEPARTEMENTS :
+Représentation des départements
 
-SERIE A : Ain à Indre, Guyane.
+SÉRIE A :
 
-SERIE B : Indre-et-Loire à Pyrénées-Orientales, Réunion.
+Ain à Indre : 95
 
-SERIE C : Bas-Rhin à Yonne, Essonne à Yvelines, Guadeloupe, Martinique.
+Guyane : 1
 
-REPRESENTATION DE LA NOUVELLE-CALEDONIE, des collectivités d'outre-mer et des Français établis hors de France.
+= 96
 
-SERIE A : Polynésie française, Iles Wallis et Futuna. Français établis hors de France.
+SÉRIE B :
 
-SERIE B : Nouvelle-Calédonie. Français établis hors de France.
+Indre-et-Loire à Pyrénées-Orientales : 94
 
-SERIE C : Mayotte. Saint-Pierre-et-Miquelon. Français établis hors de France.
+La Réunion : 3
 
-(1) Loi n° 2003-697 du 30 juillet 2003, article 2 :
+= 97
 
-I. - La série 1 est composée des sièges de l'ancienne série B et des sièges des sénateurs de l'ancienne série C dont la durée
-du mandat a été fixée pour le renouvellement partiel de 2004 à six ans.
+SÉRIE C :
 
-La série 2 est composée des sièges de l'ancienne série A et des sièges des sénateurs de l'ancienne série C dont la durée du
-mandat a été fixée pour le renouvellement partiel de 2004 à neuf ans.
+Bas-Rhin à Yonne : 68 
 
-II - Une loi votée avant le renouvellement partiel de 2004 mettra à jour le tableau n° 5 annexé au code électoral à la suite
-du découpage des séries 1 et 2 par tirage au sort.
+Essonne à Yvelines : 47 
 
-III - Les dispositions du I entreront en vigueur à compter du renouvellement partiel de 2010.
+Guadeloupe, Martinique : 5
 
-(2) Loi n° 2003-697 du 30 juillet 2003, article 2-IV.
+= 120 
+
+Représentation de la Nouvelle-Calédonie, des collectivités d'outre-mer et des Français établis hors de France
+
+SÉRIE A :
+
+Polynésie française : 1
+
+Iles Wallis et Futuna : 1
+
+Français établis hors de France : 4
+
+= 102
+
+SÉRIE B :
+
+Nouvelle-Calédonie : 1
+
+Français établis hors de France : 4
+
+= 102
+
+SÉRIE C :
+
+Mayotte : 2 
+
+Saint-Pierre-et-Miquelon : 1 
+
+Français établis hors de France : 4
+
+= 127
+
+II. - A compter du renouvellement partiel de 2007, le tableau précité est ainsi rédigé :
+
+Représentation des départements
+
+SÉRIE A :
+
+Ain à Indre : 103
+
+Guyane : 2
+
+= 105
+
+SÉRIE B :
+
+Indre-et-Loire à Pyrénées-Orientales : 94
+
+La Réunion : 3
+
+= 97
+
+SÉRIE C :
+
+Bas-Rhin à Yonne : 68 
+
+Essonne à Yvelines : 47 
+
+Guadeloupe, Martinique : 5
+
+= 120 
+
+Représentation de la Nouvelle-Calédonie, des collectivités d'outre-mer et des Français établis hors de France
+
+SÉRIE A :
+
+Polynésie française : 2
+
+Iles Wallis et Futuna : 1
+
+Français établis hors de France : 4
+
+= 112
+
+SÉRIE B :
+
+Nouvelle-Calédonie : 1
+
+Français établis hors de France : 4
+
+= 102
+
+SÉRIE C :
+
+Mayotte : 2 
+
+Saint-Pierre-et-Miquelon : 1 
+
+Français établis hors de France : 4
+
+= 127
+
+III. - A compter du renouvellement partiel de 2010, le tableau précité est ainsi rédigé :
+
+Représentation des départements
+
+SÉRIE 1 :
+
+Indre-et-Loire à Pyrénées-Orientales : 97
+
+Seine-et-Marne : 6
+
+Essonne à Yvelines : 47 
+
+Guadeloupe, Martinique, La Réunion : 9
+
+= 159
+
+SÉRIE 2 :
+
+Ain à Indre : 103
+
+Bas-Rhin à Yonne à l'exception de la Seine-et-Marne : 62
+
+Guyane : 2
+
+= 167 
+
+Représentation de la Nouvelle-Calédonie, des collectivités d'outre-mer et des Français établis hors de France
+
+SÉRIE 1 :
+
+Mayotte : 2 
+
+Saint-Pierre-et-Miquelon : 1 
+
+Nouvelle-Calédonie : 2
+
+Français établis hors de France : 6
+
+= 170
+
+SÉRIE 2 :
+
+Polynésie française : 2
+
+Iles Wallis et Futuna : 1
+
+Français établis hors de France : 6
+
+= 176
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code électoral annexe
-  - Loi n°2003-697 2003-07-30 art. 2
 
 _Codifié par_:
 
@@ -32821,8 +32927,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°66-504 du 12 juillet 1966, v. init.
-  - Loi n°86-958 1986-08-13 art. 10 JORF 14 août 1986 rectificatif JORF du 1er octobre 1986
+  - Loi n°2004-404 du 10 mai 2004 - art. 1 () JORF 11 mai 2004
 
 
 ### Nombre de sénateurs représentant les départements<a id=254></a>
