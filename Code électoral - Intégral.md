@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1988-07-21
+Version Consolidée au 1989-01-04
 ## Contenu: 
   - [Partie législative (art. L1 à L364)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -14,7 +14,7 @@ Version Consolidée au 1988-07-21
           - [Section 6 : Cartes électorales (art. L43)](#11)
         - [Chapitre III : Conditions d'éligibilité et inéligibilités (art. L44 à L45)](#12)
         - [Chapitre IV : Incompatibilités (art. L46 à L46-1)](#13)
-        - [Chapitre V : Propagande (art. L47 à L52-2)](#14)
+        - [Chapitre V : Propagande (art. L47 à L52-3)](#14)
         - [Chapitre VI : Vote (art. L53 à L85-1)](#15)
           - [Section 1 : Opérations préparatoires au scrutin (art. L53)](#16)
           - [Section 2 : Opérations de vote (art. L54 à L70)](#17)
@@ -1009,9 +1009,11 @@ _Cité par_:
 
 ###### Article L17
 
+A chaque bureau de vote est affecté un périmètre géographique.
+
 Une liste électorale est dressée pour chaque bureau de vote par une commission administrative constituée pour chacun de ces
-bureaux et composée du maire ou de son représentant, du délégué de l'administration désigné par le préfet, ou le sous-préfet,
-et d'un délégué désigné par le président du tribunal de grande instance.
+bureaux et composée du maire ou de son représentant, du délégué de l'administration désigné par le préfet, ou sous-préfet, et
+d'un délégué désigné par le président du tribunal de grande instance.
 
 Dans les villes et communes comprenant plus de 10 000 habitants, le délégué de l'administration est choisi par le préfet en
 dehors des membres du conseil municipal de la collectivité intéressée.
@@ -1058,8 +1060,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°69-419 1969-05-10 art. 2 JORF 11 mai 1969
-  - Loi n°75-1329 1975-12-31 art. 2 JORF 1er janvier 1976
+  - Loi n°88-1262 du 30 décembre 1988 - art. 2 () JORF 4 janvier 1989
 
 _Cite_:
 
@@ -2555,6 +2556,33 @@ _Cité par_:
   - Code électoral - art. L89 (M)
 
 
+###### Article L52-3
+
+Chaque candidat ou liste de candidats peut faire imprimer un emblème sur ses bulletins de vote.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°88-1262 du 30 décembre 1988 - art. 1 () JORF 4 janvier 1989
+
+_Cité par_:
+
+  - Loi n°2003-486 du 10 juin 2003 - art. 4 (V)
+  - Loi organique n°2004-192 du 27 février 2004 - art. 159 (V)
+  - Code général des collectivités territoriales - art. LO1112-9 (V)
+  - Code électoral - art. L558-46 (VT)
+  - Code électoral - art. L562 (VT)
+
+
 #### Chapitre VI : Vote<a id=15></a>
 
 ##### Section 1 : Opérations préparatoires au scrutin<a id=16></a>
@@ -2685,17 +2713,19 @@ _Abrogé par_:
 
 ###### Article L57-1
 
-Des machines à voter peuvent être utilisées dans les bureaux de vote des communes de plus de 30 000 habitants figurant sur
-une liste qui sera fixée par décret en Conseil d'État.
+Des machines à voter peuvent être utilisées dans les bureaux de vote des communes de plus de 3 500 habitants figurant sur une
+liste qui sera fixée par décret en Conseil d'Etat.
 
 Les machines à voter doivent être d'un modèle agréé par arrêté du ministre de l'Intérieur et satisfaire aux conditions
 suivantes :
 
 - comporter un dispositif qui soustrait l'électeur aux regards pendant le vote ;
 
+- permettre plusieurs élections de type différent le même jour à compter du 1er janvier 1991 ;
+
 - permettre l'enregistrement d'un vote blanc ;
 
-- ne pas permettre l'enregistrement de plus d'un seul suffrage par électeur ;
+- ne pas permettre l'enregistrement de plus d'un seul suffrage par électeur et par scrutin ;
 
 - totaliser le nombre des votants sur un compteur qui peut être lu pendant les opérations de vote ;
 
@@ -2712,10 +2742,6 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
-
-  - Loi n°69-419 1969-05-10 art. 6 JORF 11 mai 1969
-
 _Cité par_:
 
   - Loi n°71-1028 du 24 décembre 1971 - art. 22 (Ab)
@@ -2725,6 +2751,12 @@ _Cité par_:
   - Code électoral - art. L313 (V)
   - Code électoral - art. L562 (M)
   - Code électoral - art. R56 (V)
+
+_Modifié par_:
+
+  - Loi n°88-1262 du 30 décembre 1988 - art. 3 () JORF 4 janvier 1989
+  - Loi n°88-1262 du 30 décembre 1988 - art. 4 () JORF 4 janvier 1989
+  - Loi n°88-1262 du 30 décembre 1988 - art. 5 () JORF 4 janvier 1989
 
 **Liens**:
 
@@ -2786,12 +2818,12 @@ _Cité par_:
 
 ###### Article L60
 
-Le vote a lieu sous enveloppes.
+Le vote a lieu sous enveloppe, obligatoirement d'une couleur différente de celle de la précédente consultation générale. 
 
-Le jour du vote, celles-ci sont mises à la disposition des électeurs dans la salle de vote.
+Le jour du vote, celles-ci sont mises à la disposition des électeurs dans la salle de vote. 
 
 Avant l'ouverture du scrutin, le bureau doit constater que le nombre des enveloppes correspond exactement à celui des
-électeurs inscrits.
+électeurs inscrits. 
 
 Si, par suite d'un cas de force majeure, du délit prévu à l'article L. 113 ou pour toute autre cause, ces enveloppes
 réglementaires font défaut, le président du bureau de vote est tenu de les remplacer par d'autres d'un type uniforme,
@@ -2803,11 +2835,6 @@ de ce remplacement au procès-verbal et cinq des enveloppes dont il a été fait
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Loi n°69-419 1969-05-10 art. 8 JORF 11 mai 1969
-  - Loi n°75-1329 1975-12-31 art. 10 JORF 1er janvier 1976
 
 _Cité par_:
 
@@ -2821,9 +2848,13 @@ _Cité par_:
   - Code électoral - art. R176-1-8 (V)
   - Code électoral - art. R56 (V)
 
+_Modifié par_:
+
+  - Loi n°88-1262 du 30 décembre 1988 - art. 6 () JORF 4 janvier 1989
+
 _Cite_:
 
-  - Code électoral - art. L113 (M)
+  - Code électoral - art. L113 (V)
 
 
 ###### Article L61
@@ -2921,6 +2952,48 @@ _Modifié par_:
   - Loi n°69-419 1969-05-10 art. 9 JORF 11 mai 1969
 
 
+###### Article L62-1
+
+Pendant toute la durée des opérations électorales, une copie de la liste électorale certifiée par le maire et comportant les
+mentions prescrites par les articles L. 18 et L. 19 ainsi que le numéro d'ordre attribué à chaque électeur, reste déposée sur
+la table à laquelle siège le bureau. 
+
+Cette copie constitue la liste d'émargement. 
+
+Le vote de chaque électeur est constaté par sa signature apposée à l'encre en face de son nom sur la liste d'émargement.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°62-1292 du 6 novembre 1962 - art. 4 (VD)
+  - Décret n°84-252 du 6 avril 1984 - art. 31 (Ab)
+  - Décret n°92-770 du 6 août 1992 - art. 3 (V)
+  - Loi n°2013-659 du 22 juillet 2013 - art. 15 (VT)
+  - Décret n°2014-290 du 4 mars 2014 - art. 27 (V)
+  - Code électoral - art. L388 (VD)
+  - Code électoral - art. L64 (V)
+  - Code électoral - art. R176-1-9 (V)
+  - Code électoral - art. R176-3-10 (V)
+  - Code électoral - art. R61 (V)
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°88-1262 1988-12-30 art. 38
+
+_Créé par_:
+
+  - Loi n°88-1262 du 30 décembre 1988 - art. 7 () JORF 4 janvier 1989
+
+_Cite_:
+
+  - Code électoral - art. L18 (V)
+
+
 ###### Article L63
 
 L'urne électorale n'ayant qu'une ouverture destinée à laisser passer l'enveloppe contenant le bulletin de vote doit, avant le
@@ -2966,7 +3039,11 @@ _Modifié par_:
 
 Tout électeur atteint d'infirmité certaine et le mettant dans l'impossibilité d'introduire son bulletin dans l'enveloppe et
 de glisser celle-ci dans l'urne ou de faire fonctionner la machine à voter est autorisé à se faire assister par un électeur
-de son choix.
+de son choix. 
+
+Lorsqu'un électeur se trouve dans l'impossibilité de signer, l'émargement prévu par le troisième alinéa de l'article L. 62-1
+est apposé par un électeur de son choix qui fait suivre sa signature de la mention suivante : " l'électeur ne peut signer
+lui-même ".
 
 **Liens relatifs à cet article**
 
@@ -2983,43 +3060,57 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Modifié par_:
-
-  - Loi n°69-419 1969-05-10 art. 11 JORF 11 mai 1969
-
 **Liens**:
 
   - SPEC_APPLI: Loi n°88-1262 1988-12-30 art. 38
 
+_Modifié par_:
+
+  - Loi n°88-1262 du 30 décembre 1988 - art. 9 () JORF 4 janvier 1989
+
+_Cite_:
+
+  - Code électoral - art. L62-1 (V)
+
 
 ###### Article L65
 
-Après la clôture du scrutin, il est procédé au dépouillement de la manière suivante : l'urne est ouverte et le nombre des
-enveloppes est vérifié. Si ce nombre est plus grand ou moindre que celui des émargements, il en est fait mention au procès-
-verbal. Le bureau désigne parmi les électeurs présents un certain nombre de scrutateurs sachant lire et écrire, lesquels se
-divisent par tables de quatre au moins. Si plusieurs candidats ou plusieurs listes sont en présence, il leur est permis de
-désigner respectivement les scrutateurs, lesquels doivent être répartis également autant que possible par chaque table de
-dépouillement.
+Dès la clôture du scrutin, il est procédé au dénombrement des émargements. Ensuite, le dépouillement se déroule de la manière
+suivante : l'urne est ouverte et le nombre des enveloppes est vérifié. Si ce nombre est plus grand ou moindre que celui des
+émargements, il en est fait mention au procès-verbal. Le bureau désigne parmi les électeurs présents un certain nombre de
+scrutateurs sachant lire et écrire, lesquels se divisent par tables de quatre au moins. Si plusieurs candidats ou plusieurs
+listes sont en présence, il leur est permis de désigner respectivement les scrutateurs, lesquels doivent être répartis
+également autant que possible par chaque table de dépouillement. Le nombre de tables ne peut être supérieur au nombre
+d'isoloirs.
 
-A chaque table, l'un des scrutateurs extrait le bulletin de chaque enveloppe et le passe déplié à un autre scrutateur; celui-
-ci le lit à haute voix; les noms portés sur les bulletins sont relevés par deux scrutateurs au moins sur des listes préparées
-à cet effet. Si une enveloppe contient plusieurs bulletins, le vote est nul quand les bulletins portent des listes et des
-noms différents. Les bulletins multiples ne comptent que pour un seul quand ils désignent la même liste ou le même candidat.
+Les enveloppes contenant les bulletins sont regroupées par paquet de cent. Ces paquets sont introduits dans des enveloppes
+spécialement réservées à cet effet. Dès l'introduction d'un paquet de cent bulletins, l'enveloppe est cachetée et y sont
+apposées les signatures du président du bureau de vote et d'au moins deux assesseurs représentant, sauf liste ou candidat
+unique, des listes ou des candidats différents.
+
+A chaque table, l'un des scrutateurs extrait le bulletin de chaque enveloppe et le passe déplié à un autre scrutateur ;
+celui-ci le lit à haute voix ; les noms portés sur les bulletins sont relevés par deux scrutateurs au moins sur des listes
+préparées à cet effet. Si une enveloppe contient plusieurs bulletins, le vote est nul quand les bulletins portent des listes
+et des noms différents. Les bulletins multiples ne comptent que pour un seul quand ils désignent la même liste ou le même
+candidat.
 
 Dans les bureaux de vote dotés d'une machine à voter, le président, à la fin des opérations de vote, rend visibles les
 compteurs totalisant les suffrages obtenus par chaque liste ou chaque candidat ainsi que les votes blancs, de manière à en
 permettre la lecture par les membres du bureau, les délégués des candidats et les électeurs présents. Le président donne
 lecture à haute voix des résultats qui sont aussitôt enregistrés par le secrétaire.
 
+**Nota:**
+
+Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
+départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
+s’appliquera aux élections organisées en mars 2015 à l’occasion du prochain renouvellement général des conseils
+départementaux, y compris aux opérations préparatoires à ce scrutin (date indéterminée).
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Loi n°69-419 1969-05-10 art. 12 JORF 11 mai 1969
 
 _Cité par_:
 
@@ -3053,6 +3144,12 @@ _Cité par_:
   - Code électoral - art. R65 (V)
   - Code électoral - art. R65-1 (V)
   - Code électoral - art. R66-1 (V)
+
+_Modifié par_:
+
+  - Loi n°88-1262 du 30 décembre 1988 - art. 10 () JORF 4 janvier 1989
+  - Loi n°88-1262 du 30 décembre 1988 - art. 11 () JORF 4 janvier 1989
+  - Loi n°88-1262 du 30 décembre 1988 - art. 12 () JORF 4 janvier 1989
 
 
 ###### Article L66
@@ -3456,10 +3553,10 @@ _Cité par_:
 
 ###### Article L73
 
-Chaque mandataire ne peut disposer de plus de deux procurations.
+Chaque mandataire ne peut disposer de plus de deux procurations, dont une seule établie en France.
 
-Si plus de deux procurations ont été établies au nom d'un même mandataire celles qui ont été dressées les premières sont
-seules valables ; la ou les autres sont nulles de plein droit.
+Si ces limites ne sont pas respectées, la ou les procurations qui ont été dressées les premières sont seules valables ; la ou
+les autres sont nulles de plein droit.
 
 **Liens relatifs à cet article**
 
@@ -3480,9 +3577,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°75-1329 1975-12-31 art. 6 JORF 1er janvier 1976
-  - Loi n°77-805 du 19 juillet 1977 - art. 2 () JORF 20 juillet 1977
-  - Loi n°82-974 1982-11-19 art. 8 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
+  - Loi n°88-1262 du 30 décembre 1988 - art. 14 () JORF 4 janvier 1989 rectificatif JORF 14 janvier 1989
 
 
 ###### Article L74
@@ -3492,8 +3587,8 @@ Le ou la mandataire participe au scrutin dans les conditions prévues à l'artic
 A son entrée dans la salle du scrutin et sur présentation de sa carte électorale et de sa procuration, il lui est remis une
 enveloppe électorale.
 
-Son vote est constaté par l'estampillage de la procuration ; un membre du bureau appose son paraphe ou sa signature sur la
-liste d'émargement en marge du nom du mandant.
+Son vote est constaté par l'estampillage de la procuration et par sa signature apposée à l'encre sur la liste d'émargement en
+face du nom du mandant.
 
 **Liens relatifs à cet article**
 
@@ -3509,6 +3604,10 @@ _Codifié par_:
 **Liens**:
 
   - SPEC_APPLI: Loi n°88-1262 1988-12-30 art. 38
+
+_Modifié par_:
+
+  - Loi n°88-1262 du 30 décembre 1988 - art. 15 () JORF 4 janvier 1989
 
 _Cite_:
 
@@ -3597,10 +3696,10 @@ _Cité par_:
 
 ###### Article L85-1
 
-Dans les départements comptant une ou des communes de plus de 30 000 habitants, il est institué une ou plusieurs commissions
-chargées, dans ces communes, de veiller à la régularité de la composition des bureaux de vote ainsi qu'à celle des opérations
-de vote, de dépouillement des bulletins et de dénombrement des suffrages et de garantir aux électeurs ainsi qu'aux candidats
-ou listes en présence le libre exercice de leurs droits.
+Dans toutes les communes de plus de 20 000 habitants, il est institué des commissions de contrôle des opérations de vote qui
+sont chargées de vérifier la régularité de la composition des bureaux de vote ainsi que celle des opérations de vote, de
+dépouillement des bulletins et de dénombrement des suffrages et de garantir aux électeurs ainsi qu'aux candidats ou listes en
+présence le libre exercice de leurs droits.
 
 La commission est obligatoirement présidée par un magistrat de l'ordre judiciaire. Elle peut s'adjoindre des délégués choisis
 parmi les électeurs du département.
@@ -3616,17 +3715,13 @@ A l'issue de chaque tour de scrutin, la commission dresse, s'il y a lieu, un rap
 au procès-verbal des opérations de vote.
 
 La composition ainsi que les conditions de désignation et de fonctionnement des commissions instituées en application du
-présent article sont fixées par décret en Conseil d'État.
+présent article sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Créé par_:
-
-  - Loi n°73-2 1973-01-02 art. 1 JORF 3 janvier 1973
 
 _Cité par_:
 
@@ -3645,6 +3740,10 @@ _Cité par_:
   - Code électoral - art. R93-1 (V)
   - Code électoral - art. R93-3 (V)
 
+_Modifié par_:
+
+  - Loi n°88-1262 du 30 décembre 1988 - art. 16 () JORF 4 janvier 1989
+
 
 #### Chapitre VII : Dispositions pénales<a id=20></a>
 
@@ -3652,7 +3751,7 @@ _Cité par_:
 
 Toute personne qui se sera fait inscrire sur la liste électorale sous de faux noms ou de fausses qualités ou aura, en se
 faisant inscrire, dissimulé une incapacité prévue par la loi, ou aura réclamé et obtenu une inscription sur deux ou plusieurs
-listes, sera punie d'un emprisonnement d'un mois à un an et d'une amende de 360 F à 8 000 F.
+listes, sera punie d'un emprisonnement d'un an et d'une amende de 100 000 F.
 
 **Liens relatifs à cet article**
 
@@ -3695,7 +3794,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 DECEMBRE 1977
+  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
 
 
 ###### Article L87
@@ -3735,22 +3834,14 @@ _Cite_:
 
 Ceux qui, à l'aide de déclarations frauduleuses ou de faux certificats, se seront fait inscrire ou auront tenté de se faire
 inscrire indûment sur une liste électorale, ceux qui, à l'aide des mêmes moyens, auront fait inscrire ou rayer, tenté de
-faire inscrire ou rayer indûment un citoyen, et les complices de ces délits, seront passibles d'un emprisonnement de six
-jours à un an et d'une amende de 180 F à 8000 F.
-
-Les coupables pourront, en outre, être privés de l'exercice de leurs droits civiques pendant deux ans au moins et dix ans au
-plus.
+faire inscrire ou rayer indûment un citoyen, et les complices de ces délits, seront passibles d'un emprisonnement d'un an et
+d'une amende de 100 000 F.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Loi n°75-1329 1975-12-31 art. 13 JORF 3 janvier 1976
-  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 DECEMBRE 1977
 
 _Cité par_:
 
@@ -3767,6 +3858,38 @@ _Cité par_:
   - Code électoral - art. L5 (M)
   - Code électoral - art. R56 (V)
   - Décret n°1947-05-02 du 2 mai 1947 - art. 40 bis (Ab)
+
+_Modifié par_:
+
+  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1985
+  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
+  - Loi n°88-1262 du 30 décembre 1988 - art. 21 () JORF 4 janvier 1989
+
+
+###### Article L88-1
+
+Toute personne qui aura sciemment fait acte de candidature sous de faux noms ou de fausses qualités ou aura sciemment
+dissimulé une incapacité prévue par la loi sera punie d'un emprisonnement d'un an et d'une amende de 100 000 F.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°88-1262 du 30 décembre 1988 - art. 18 () JORF 4 janvier 1989
+
+_Cité par_:
+
+  - Loi n°2003-486 du 10 juin 2003 - art. 4 (V)
+  - Loi organique n°2004-192 du 27 février 2004 - art. 159 (V)
+  - Code de l'environnement - art. L123-30 (V)
+  - Code général des collectivités territoriales - art. LO1112-13 (V)
+  - Code rural et de la pêche maritime - art. L723-24 (VD)
+  - Code électoral - art. L558-46 (VT)
+  - Code électoral - art. L562 (VT)
 
 
 ###### Article L89
@@ -3860,8 +3983,8 @@ _Cite_:
 
 Celui qui, déchu du droit de voter, soit par suite d'une condamnation judiciaire, soit par suite d'une faillite non suivie de
 réhabilitation, aura voté, soit en vertu d'une inscription sur les listes antérieures à sa déchéance, soit en vertu d'une
-inscription postérieure, mais opérée sans sa participation, sera puni d'un emprisonnement de quinze jours à trois mois et
-d'une amende de 72 F à 8 000 F.
+inscription postérieure, mais opérée sans sa participation, sera puni d'un emprisonnement de trois mois et d'une amende de 50
+000 F.
 
 **Liens relatifs à cet article**
 
@@ -3871,7 +3994,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 DECEMBRE 1977
+  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
 
 _Cité par_:
 
@@ -3884,9 +4007,9 @@ _Cité par_:
 
 ###### Article L92
 
-Quiconque aura voté soit en vertu d'une inscription obtenue dans les deux premiers cas prévus par l'article L. 86, soit en
-prenant faussement les nom et qualités d'un électeur inscrit, sera puni d'un emprisonnement de six mois à deux ans, et d'une
-amende de 720 F à 20000 F.
+Quiconque aura substitué ou imité volontairement une signature sur la liste d'émargement ou aura voté soit en vertu d'une
+inscription obtenue dans les deux premiers cas prévus par l'article L. 86, soit en prenant faussement les nom et qualités
+d'un électeur inscrit, sera puni d'un emprisonnement de six mois à deux ans, et d'une amende de 2000 F à 100 000 F.
 
 **Liens relatifs à cet article**
 
@@ -3913,7 +4036,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 DECEMBRE 1977
+  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
+  - Loi n°88-1262 du 30 décembre 1988 - art. 19 () JORF 4 janvier 1989
 
 _Cite_:
 
@@ -3947,22 +4071,22 @@ _Cité par_:
   - Code électoral - art. R56 (V)
   - Décret n°1947-05-02 du 2 mai 1947 - art. 40 bis (Ab)
 
+_Modifié par_:
+
+  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
+
 
 ###### Article L94
 
 Quiconque étant chargé, dans un scrutin, de recevoir, compter ou dépouiller les bulletins contenant les suffrages des
 citoyens, aura soustrait, ajouté ou altéré des bulletins, ou lu un nom autre que celui inscrit, sera puni d'un emprisonnement
-d'un an à cinq ans et d'une amende de 2 000 F à 150 000 F.
+de cinq ans et d'une amende de 2000 F à 150 000 F.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 DECEMBRE 1977
 
 _Cité par_:
 
@@ -3976,6 +4100,10 @@ _Cité par_:
   - Code de la sécurité sociale. - art. R633-8-1 (Ab)
   - Décret n°1947-05-02 du 2 mai 1947 - art. 40 bis (Ab)
 
+_Modifié par_:
+
+  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
+
 
 ###### Article L95
 
@@ -3987,6 +4115,10 @@ un nom autre que celui qui lui était désigné.
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Modifié par_:
+
+  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
 
 _Cité par_:
 
@@ -4002,8 +4134,8 @@ _Cité par_:
 
 ###### Article L96
 
-En cas d'infraction à l'article L. 61 la peine sera d'un emprisonnement de quinze jours à trois mois et d'une amende de 180 F
-à 1 080 F si les armes étaient cachées.
+En cas d'infraction à l'article L. 61 la peine sera d'un emprisonnement de trois mois et d'une amende de 50 000 F si les
+armes étaient cachées.
 
 **Liens relatifs à cet article**
 
@@ -4013,18 +4145,22 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 DECEMBRE 1977
+  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
 
 **Liens**:
 
   - TXT_ASSOCIE: Code électoral - art. L61 (V)
 
+_Cite_:
+
+  - Code électoral - art. L61 (V)
+
 
 ###### Article L97
 
 Ceux qui, à l'aide de fausses nouvelles, bruits calomnieux ou autres manoeuvres frauduleuses, auront surpris ou détourné des
-suffrages, déterminé un ou plusieurs électeurs à s'abstenir de voter, seront punis d'un emprisonnement d'un mois à un an et
-d'une amende de 360 F à 20 000 F.
+suffrages, déterminé un ou plusieurs électeurs à s'abstenir de voter, seront punis d'un emprisonnement d'un an et d'une
+amende de 100 000 F.
 
 **Liens relatifs à cet article**
 
@@ -4051,14 +4187,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 DECEMBRE 1977
+  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
 
 
 ###### Article L98
 
 Lorsque, par attroupements, clameurs ou démonstrations menaçantes, on aura troublé les opérations d'un collège électoral,
 porté atteinte à l'exercice du droit électoral ou à la liberté du vote, les coupables seront punis d'un emprisonnement de
-trois mois à deux ans et d'une amende de 360 F à 20 000 F.
+deux ans et d'une amende de 100 000 F.
 
 **Liens relatifs à cet article**
 
@@ -4068,7 +4204,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 DECEMBRE 1977
+  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
 
 _Cité par_:
 
@@ -4078,7 +4214,7 @@ _Cité par_:
 ###### Article L99
 
 Toute irruption dans un collège électoral consommée ou tentée avec violence en vue d'empêcher un choix sera punie d'un
-emprisonnement d'un an à cinq ans et d'une amende de 3 800 F à 30 000 F.
+emprisonnement de cinq ans et d'une amende de 150 000 F.
 
 **Liens relatifs à cet article**
 
@@ -4088,7 +4224,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 DECEMBRE 1977
+  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
 
 
 ###### Article L100
@@ -4122,8 +4258,8 @@ _Cité par_:
 
 Les membres d'un collège électoral qui, pendant la réunion, se seront rendus coupables d'outrages ou de violences, soit
 envers le bureau, soit envers l'un de ses membres, ou qui, par voies de fait ou menaces, auront retardé ou empêché les
-opérations électorales, seront punis d'un emprisonnement d'un mois à un an et d'une amende de 360 F à 20000 F. Si le scrutin
-a été violé, l'emprisonnement sera d'un an à cinq ans, et l'amende de.
+opérations électorales, seront punis d'un emprisonnement d'un an et d'une amende de 100 000 F. Si le scrutin a été violé,
+l'emprisonnement sera de cinq ans, et l'amende de 150 000 F.
 
 **Liens relatifs à cet article**
 
@@ -4133,7 +4269,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 DECEMBRE 1977
+  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
 
 _Cité par_:
 
@@ -4142,11 +4278,10 @@ _Cité par_:
 
 ###### Article L103
 
-L'enlèvement de l'urne contenant les suffrages émis et non encore dépouillés sera puni d'un emprisonnement d'un an à cinq
-ans, et d'une amende de 3 600 F à 30 000 F.
+L'enlèvement de l'urne contenant les suffrages émis et non encore dépouillés sera puni d'un emprisonnement de cinq ans, et
+d'une amende de 150 000 F.
 
-Si cet enlèvement a été effectué en réunion et avec violence, la peine sera la réclusion criminelle à temps de cinq à dix
-ans.
+Si cet enlèvement a été effectué en réunion et avec violence, la peine sera de dix ans d'emprisonnement.
 
 **Liens relatifs à cet article**
 
@@ -4174,7 +4309,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 DECEMBRE 1977
+  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
 
 
 ###### Article L104
@@ -4220,7 +4355,7 @@ Quiconque, par des dons ou libéralités en argent ou en nature, par des promess
 publics ou privés ou d'autres avantages particuliers, faits en vue d'influencer le vote d'un ou de plusieurs électeurs aura
 obtenu ou tenté d'obtenir leur suffrage, soit directement, soit par l'entremise d'un tiers, quiconque, par les mêmes moyens,
 aura déterminé ou tenté de déterminer un ou plusieurs d'entre eux à s'abstenir, sera puni de trois mois à deux ans
-d'emprisonnement et d'une amende de 1800 F à 30000 F.
+d'emprisonnement et d'une amende de 2000 F à 100000 F.
 
 Seront punis des mêmes peines ceux qui auront agréé ou sollicité les mêmes dons, libéralités ou promesses, ainsi que ceux qui
 auront contrevenu aux dispositions de l'article L.O. 163-3.
@@ -4258,25 +4393,25 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°88-227 du 11 mars 1988 - art. 12
+  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
+
+_Cite_:
+
+  - Code électoral - art. LO163-3 (Ab)
 
 
 ###### Article L107
 
 Ceux qui, soit par voies de fait, violences ou menaces contre un électeur, soit en lui faisant craindre de perdre son emploi
 ou d'exposer à un dommage sa personne, sa famille ou sa fortune, l'auront déterminé ou auront tenté de le déterminer à
-s'abstenir de voter, ou auront influencé ou tenté d'influencer son vote, seront punis d'un emprisonnement d'un mois à deux
-ans et d'une amende de 720 F à 30 000 F.
+s'abstenir de voter, ou auront influencé ou tenté d'influencer son vote, seront punis d'un emprisonnement de deux ans et
+d'une amende de 100 000 F.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 DECEMBRE 1977
 
 _Cité par_:
 
@@ -4293,12 +4428,16 @@ _Cité par_:
   - Code électoral - art. L111 (V)
   - Code électoral - art. L201 (Ab)
 
+_Modifié par_:
+
+  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
+
 
 ###### Article L108
 
 Quiconque, en vue d'influencer le vote d'un collège électoral ou d'une fraction de ce collège, aura fait des dons ou
 libéralités, des promesses de libéralités ou de faveurs administratives, soit à une commune, soit à une collectivité
-quelconque de citoyens, sera puni  d'un emprisonnement de trois mois à deux ans et d'une amende de 1 800 F à 30 000 F.
+quelconque de citoyens, sera puni d'un emprisonnement de deux ans et d'une amende de 100 000 F.
 
 **Liens relatifs à cet article**
 
@@ -4328,7 +4467,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 DECEMBRE 1977
+  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
 
 
 ###### Article L109
@@ -4341,6 +4480,10 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+_Modifié par_:
+
+  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
+
 _Cité par_:
 
   - Code rural et de la pêche maritime - art. L723-24 (VD)
@@ -4348,9 +4491,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code électoral - art. L106 (M)
-  - Code électoral - art. L107 (M)
-  - Code électoral - art. L108 (M)
+  - Code électoral - art. L106 (V)
 
 
 ###### Article L110
@@ -4409,13 +4550,12 @@ commission administrative ou municipale, soit dans un bureau de vote ou dans les
 sous-préfectures, avant, pendant ou après un scrutin, aura, par inobservation volontaire de la loi ou des arrêtés
 préfectoraux, ou par tous autres actes frauduleux, violé ou tenté de violer le secret du vote, porté atteinte ou tenté de
 porter atteinte à sa sincérité, empêché ou tenté d'empêcher les opérations du scrutin, ou qui en aura changé ou tenté de
-changer le résultat, sera puni d'une amende de 360 F à 8 000 F et d'un emprisonnement d'un mois à un an ou de l'une de ces
-deux peines seulement.
-
-Le délinquant pourra, en outre, être privé de ses droits civiques pendant deux ans au moins et dix ans au plus.
+changer le résultat, sera puni d'une amende de 100 000 F et d'un emprisonnement d'un an ou de l'une de ces deux peines
+seulement.
 
 Si le coupable est fonctionnaire de l'ordre administratif ou judiciaire, agent ou préposé du Gouvernement ou d'une
-administration publique, ou chargé d'un ministère de service public, la peine sera portée au double.
+administration publique, ou chargé d'un ministère de service public ou président d'un bureau de vote, la peine sera portée au
+double.
 
 **Liens relatifs à cet article**
 
@@ -4478,8 +4618,9 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°75-1329 1975-12-31 art. 14 JORF 3 janvier 1976
-  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 DECEMBRE 1977
+  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
+  - Loi n°88-1262 du 30 décembre 1988 - art. 20 () JORF 4 janvier 1989
+  - Loi n°88-1262 du 30 décembre 1988 - art. 21 () JORF 4 janvier 1989
 
 
 ###### Article L114
@@ -4551,10 +4692,10 @@ _Cite_:
 Ceux qui, par des manoeuvres frauduleuses quelconques, accomplies même en dehors des locaux ou commissions visés à l'article
 L. 113, auront porté atteinte ou tenté de porter atteinte à la sincérité d'un scrutin, violé ou tenté de violer le secret du
 vote, empêché ou tenté d'empêcher les opérations du scrutin, ou qui, par les mêmes manoeuvres, en auront changé ou tenté de
-changer les résultats, seront punis des peines portées audit article.
+changer les résultats, seront punis des peines portées audit article. 
 
 Les mêmes peines seront appliquées à tout individu qui aura porté atteinte ou tenté de porter atteinte au fonctionnement
-d'une machine à voter en vue d'empêcher les opérations du scrutin ou d'en fausser les résultats.
+d'une machine à voter en vue d'empêcher les opérations du scrutin ou d'en fausser les résultats. 
 
 Les mêmes peines seront appliquées à toute personne qui aura fait expulser sans motif légitime de la salle de vote un
 assesseur ou un délégué ou qui l'aura empêché d'exercer ses prérogatives.
@@ -4600,12 +4741,48 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°69-419 1969-05-10 art. 16 JORF 11 mai 1969
-  - Loi n°75-1329 1975-12-31 art. 11 JORF 1er janvier 1976
+  - Loi n°88-1262 du 30 décembre 1988 - art. 17 () JORF 4 janvier 1989
 
 _Cite_:
 
-  - Code électoral - art. L113 (M)
+  - Code électoral - art. L113 (V)
+
+
+###### Article L116-1
+
+Sans préjudice de l'application de l'article 28 du code pénal, toute personne condamnée en application des articles L. 86 à
+L. 88, L. 91 à L. 104, L. 106 à L. 109, L. 111, L. 113 et L. 116 est, en outre, privée de ses droits civiques pendant deux
+ans au moins et dix ans au plus.
+
+Le tribunal peut ordonner, aux frais du condamné, la publication intégrale ou par extraits de sa décision et, éventuellement,
+la diffusion d'un message, dont il fixe explicitement les termes, informant le public des motifs et du contenu de sa
+décision, dans un ou plusieurs journaux qu'il désigne, ainsi que son affichage dans les conditions et sous les peines
+prévues, suivant les cas, aux articles 51 et 471 du code pénal, sans toutefois que les frais de cette publicité puissent
+excéder le montant maximum de l'amende encourue.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°88-1262 du 30 décembre 1988 - art. 21 () JORF 4 janvier 1988
+
+_Abrogé par_:
+
+  - Loi n°94-89 du 1 février 1994 - art. 14 (V)
+
+_Cité par_:
+
+  - Loi n°94-89 du 1 février 1994 - art. 14 (V)
+
+_Cite_:
+
+  - Code électoral - art. L111 (V)
+  - Code électoral L86 à L88, L91 à L104, L106 à L109, L111, L113 et L116
+  - Code pénal 28, 51 et 471
 
 
 ###### Article L117
@@ -7073,58 +7250,70 @@ _Cité par_:
 
 Ne peuvent être élus membres du conseil général :
 
-1° Les commissaires et commissaires-adjoints de la République, secrétaires généraux et secrétaires en chef de sous-
-préfecture, dans le département où ils exercent leurs fonctions ;
+1° Les préfets dans le département où ils exercent ou ont exercé leurs fonctions depuis moins de trois ans ; les sous-
+préfets, secrétaires généraux, directeurs de cabinet de préfet ou sous-préfets chargés de mission auprès d'un préfet, ainsi
+que les secrétaires en chef de sous-préfecture, dans le département où ils exercent ou ont exercé leurs fonctions depuis
+moins d'une année ;
 
-2° Les magistrats du siège et du parquet des cours d'appel, dans le ressort de leur juridiction ;
+2° Les magistrats du siège et du parquet des cours d'appel, dans le ressort de la juridiction où ils exercent ou ont exercé
+depuis moins de six mois ;
 
 3° Les membres des tribunaux administratifs ainsi que les magistrats et les secrétaires généraux des chambres régionales des
-comptes, dans le ressort de leur juridiction ;
+comptes, dans le ressort de la juridiction où ils exercent ou ont exercé depuis moins de six mois ;
 
-4° Les magistrats des tribunaux de grande instance et d'instance, dans le ressort de leur juridiction ;
+4° Les magistrats des tribunaux de grande instance et d'instance, dans le ressort de la juridiction où ils exercent ou ont
+exercé depuis moins de six mois ;
 
 5° Les officiers des armées de terre, de mer et de l'air dans l'étendue de toute circonscription comprise dans le ressort où,
 dotés d'un commandement territorial, ils ont exercé leur autorité depuis moins de six mois ;
 
-6° Les fonctionnaires des corps actifs de police dans les cantons où ils exercent leurs fonctions ;
+6° Les fonctionnaires des corps actifs de police dans les cantons où ils exercent ou ont exercé leurs fonctions depuis moins
+de six mois ;
 
-7° Dans les départements où ils exercent leurs fonctions : les ingénieurs en chef, ingénieurs en chef adjoints et ingénieurs
-des ponts et chaussées ;
+7° Dans les départements où ils exercent ou ont exercé leurs fonctions depuis moins de six mois: les ingénieurs en chef,
+ingénieurs en chef adjoints et ingénieurs des ponts et chaussées ;
 
-8° Les ingénieurs du service ordinaire des mines, dans les cantons de leur ressort ;
+8° Les ingénieurs du service ordinaire des mines, dans les cantons où ils exercent ou ont exercé leurs fonctions depuis moins
+de six mois ;
 
-9° Les recteurs d'académie, dans le ressort de l'académie ;
+9° Les recteurs d'académie, dans tous les départements compris dans l'académie où ils exercent ou ont exercé depuis moins de
+six mois ;
 
-10° Les inspecteurs d'académie et les inspecteurs de l'enseignement primaire dans le département où ils exercent leurs
-fonctions ;
+10° Les inspecteurs d'académie et les inspecteurs de l'enseignement primaire dans le département où ils exercent ou ont
+exercé leurs fonctions depuis moins de six mois ;
 
 11° Les agents et comptables de tout ordre, employés à l'assiette, à la perception et au recouvrement des contributions
-directes ou indirectes, et au paiement des dépenses publiques de toute nature, dans le département où ils exercent leurs
-fonctions ;
+directes ou indirectes, et au paiement des dépenses publiques de toute nature, dans le département où ils exercent ou ont
+exercé leurs fonctions depuis moins de six mois ;
 
 12° Les directeurs départementaux et inspecteurs principaux des postes et télécommunications, dans le département où ils
-exercent leurs fonctions ;
+exercent ou ont exercé leurs fonctions depuis moins de six mois ;
 
 13° Les ingénieurs en chef chargés de la direction d'un établissement du service des manufactures de tabac, les inspecteurs
 des manufactures de tabac et les directeurs du service de la culture et des magasins de tabac, dans le département où ils
-exercent leurs fonctions ;
+exercent ou ont exercé leurs fonctions depuis moins de six mois ;
 
 14° Les ingénieurs en chef, ingénieurs principaux, ingénieurs des travaux et autres agents du génie rural, des eaux et des
-forêts dans les cantons de leur ressort ;
+forêts dans les cantons où ils exercent ou ont exercé leurs fonctions depuis moins de six mois ;
 
-15° Les inspecteurs des instruments de mesure dans les cantons de leur ressort ;
+15° Les inspecteurs des instruments de mesure dans les cantons où ils exercent ou ont exercé leurs fonctions depuis moins de
+six mois ;
 
-16° Les directeurs départementaux et inspecteurs de l'action sanitaire et sociale dans le département où ils exercent leurs
-fonctions ;
+16° Les directeurs départementaux et inspecteurs de l'action sanitaire et sociale dans le département où ils exercent ou ont
+exercé leurs fonctions depuis moins de six mois ;
 
 17° Les directeurs et chefs de service régionaux des administrations civiles de l'Etat dans les départements où ils exercent
-leurs fonctions ;
+ou ont exercé leurs fonctions depuis moins de six mois ;
 
 18° Les membres du cabinet du président du conseil général et du président du conseil régional, les directeurs généraux, les
 directeurs, les directeurs adjoints, les chefs de service et les chefs de bureau de conseil général et de conseil régional
-dans la circonscription où ils exercent leurs fonctions. Est également inéligible, pendant un an, le président de conseil
-général qui n'a pas déposé l'une des déclarations prévues à l'article 2 de la loi n° 88-227 du 11 mars 1988 relative à la
-transparence financière de la vie politique.
+dans la circonscription où ils exercent ou ont exercé leurs fonctions depuis moins de six mois ;
+
+Les délais mentionnés aux troisième (2°) à dix-neuvième (18°) alinéas ci-dessus ne sont pas opposables aux candidats qui, au
+jour de l'élection, auront été admis à faire valoir leurs droits à la retraite.
+
+Est également inéligible, pendant un an, le président de conseil général qui n'a pas déposé l'une des déclarations prévues à
+l'article 2 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique.
 
 **Liens relatifs à cet article**
 
@@ -7149,11 +7338,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°88-227 1988-03-11 art. 5 JORF 12 mars 1988
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°88-1262 1988-12-30 art. 38
+  - Loi n°88-1262 du 30 décembre 1988 - art. 22 () JORF 4 janvier 1989
 
 _Cite_:
 
@@ -8115,32 +8300,43 @@ _Créé par_:
 
 ###### Article L231
 
-Ne sont pas éligibles dans le ressort où ils exercent leurs fonctions :
+Ne sont pas éligibles dans le ressort où ils exercent ou ont exercé leurs fonctions depuis moins de trois ans les préfets de
+région et les préfets, depuis moins d'un an les sous-préfets, les secrétaires généraux de préfecture, les directeurs de
+cabinet de préfet, les sous-préfets chargés de mission auprès d'un préfet et les secrétaires généraux ou chargés de mission
+pour les affaires régionales.
 
-1° les commissaires et commissaires-adjoints de la République et les secrétaires généraux ;
+Ne peuvent être élus conseillers municipaux dans les communes situées dans le ressort où ils exercent ou ont exercé leurs
+fonctions depuis moins de six mois :
 
-2° les magistrats des cours d'appel ;
+1° Les magistrats des cours d'appel ;
 
-3° les membres des tribunaux administratifs et des chambres régionales des comptes ;
+2° Les membres des tribunaux administratifs et des chambres régionales des comptes ;
 
-4° les magistrats des tribunaux de grande instance et d'instance ;
+3° Les officiers des armées de terre, de mer et de l'air, dans les communes comprises dans le ressort de leur commandement
+territorial ;
 
-5° les fonctionnaires des corps actifs de police ;
+4° Les magistrats des tribunaux de grande instance et d'instance ;
 
-6° les comptables des deniers communaux et les entrepreneurs de services municipaux ;
+5° Les fonctionnaires des corps actifs de la police nationale ;
 
-7° les directeurs et les chefs de bureau de préfecture et les secrétaires en chef de sous-préfecture ;
+6° Les comptables des deniers communaux et les entrepreneurs de services municipaux ;
 
-7° bis les membres du cabinet du président du conseil général et du président du conseil régional, les directeurs généraux,
-les directeurs, directeurs adjoints, chefs de service et chefs de bureau de conseil général et de conseil régional ;
+7° Les directeurs et les chefs de bureau de préfecture et les secrétaires en chef de sous-préfecture ;
 
-8° en tant que chargés d'une circonscription territoriale de voirie : les ingénieurs en chef, ingénieurs en chef adjoints et
-ingénieurs des ponts et chaussées, les ingénieurs divisionnaires et ingénieurs des travaux publics de l'État, les chefs de
-section principaux et chefs de section des travaux publics de l'État ;
+8° Les membres du cabinet du président du conseil général et du président du conseil régional, les directeurs généraux, les
+directeurs, directeurs adjoints, chefs de service et chefs de bureau de conseil général et de conseil régional ;
 
-9° les agents salariés de la commune, parmi lesquels ne sont pas compris ceux qui, étant fonctionnaires publics ou exerçant
-une profession indépendante, ne reçoivent une indemnité de la commune qu'à raison des services qu'ils lui rendent dans
-l'exercice de cette profession.
+9° En tant que chargés d'une circonscription territoriale de voirie : les ingénieurs en chef, ingénieurs divisionnaires et
+ingénieurs des travaux publics de l'Etat, les chefs de section principaux et chefs de section des travaux publics de l'Etat.
+
+Les agents salariés communaux ne peuvent être élus au conseil municipal de la commune qui les emploie. Ne sont pas compris
+dans cette catégorie ceux qui, étant fonctionnaires publics ou exerçant une profession indépendante, ne reçoivent une
+indemnité de la commune qu'à raison des services qu'ils lui rendent dans l'exercice de cette profession, ainsi que, dans les
+communes comptant moins de 1 000 habitants, ceux qui ne sont agents salariés de la commune qu'au titre d'une activité
+saisonnière ou occasionnelle.
+
+Les délais mentionnés aux alinéas ci-dessus ne sont pas opposables aux candidats qui, au jour de l'élection, auront été admis
+à faire valoir leurs droits à la retraite.
 
 **Liens relatifs à cet article**
 
@@ -8167,32 +8363,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°86-16 1986-01-06 art. 33 IV JORF 8 janvier 1986
-
-
-###### Article L232
-
-Ne peuvent être élus conseillers municipaux les officiers des armées de terre, de mer et de l'air, dans les communes
-comprises dans le ressort où, dotés d'un commandement territorial, ils ont exercé leur autorité depuis moins de six mois.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Cité par_:
-
-  - Loi n°71-1028 du 24 décembre 1971 - art. 22 (Ab)
-  - Code électoral - art. L236 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°88-1262 1988-12-30 art. 38
-
-_Abrogé par_:
-
-  - Loi n°88-1262 du 30 décembre 1988 - art. 24 () JORF 4 janvier 1989
+  - Loi n°88-1262 du 30 décembre 1988 - art. 23 () JORF 4 janvier 1989
 
 
 ###### Article L233
@@ -8302,14 +8473,14 @@ _Cite_:
 Nul ne peut être membre de plusieurs conseils municipaux.
 
 Un délai de dix jours, à partir de la proclamation du résultat du scrutin, est accordé au conseiller municipal élu dans
-plusieurs communes pour faire sa déclaration d'option. Cette déclaration est adressée aux commissaires de la République des
-départements intéressés.
+plusieurs communes pour faire sa déclaration d'option. Cette déclaration est adressée aux préfets des départements
+intéressés.
 
 Si, dans ce délai, le conseiller élu n'a pas fait connaître son option, il fait partie de droit du conseil de la commune où
 le nombre des électeurs est le moins élevé.
 
-Dans les communes de plus de 500 habitants, les ascendants et les descendants, les frères et soeurs ne peuvent être
-simultanément membres du même conseil municipal.
+Dans les communes de plus de 500 habitants, le nombre des ascendants et descendants, frères et soeurs, qui peuvent être
+simultanément membres du même conseil municipal est limité à deux.
 
 Toutefois, dans les communes où les membres des conseils municipaux sont élus par secteur, les personnes mentionnées au
 quatrième alinéa ci-dessus peuvent être membres d'un même conseil municipal lorsqu'elles ont été élues dans des secteurs
@@ -8319,7 +8490,10 @@ L'ordre du tableau est applicable aux cas prévus au quatrième alinéa ci-dessu
 
 **Nota:**
 
-
+Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
+départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
+s’appliquera aux élections organisées les 23 et 30 mars 2014 à l’occasion du prochain renouvellement général des conseils
+municipaux et communautaires, y compris aux opérations préparatoires à ce scrutin.
 
 **Liens relatifs à cet article**
 
@@ -8337,10 +8511,12 @@ _Cité par_:
 **Liens**:
 
   - SPEC_APPLI: Ordonnance n°77-122 du 10 février 1977 - art. 6 (Ab)
+  - SPEC_APPLI: Loi n°82-1170 1982-12-31 art. 6
 
 _Modifié par_:
 
-  - Loi n°82-974 1982-11-19 art. 13 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
+  - Loi n°82-1170 1982-12-31 art. 3 JORF 1er janvier 1983
+  - Loi n°88-1262 du 30 décembre 1988 - art. 25 () JORF 4 janvier 1989
 
 
 ###### Article L239
@@ -8419,11 +8595,11 @@ _Cité par_:
 
 ###### Article L242
 
-L'État prend à sa charge les dépenses provenant des opérations effectuées par les commissions instituées par l'article L.
-241, ainsi que celles qui résultent de leur fonctionnement.
+L'Etat prend à sa charge les dépenses provenant des opérations effectuées par les commissions instituées par l'article L.
+241, ainsi que celles qui résultent de leur fonctionnement. 
 
-Dans les communes de 9000 habitants et plus, il est remboursé aux candidats le coût du papier, l'impression des bulletins de
-vote, affiches et circulaires, ainsi que les frais d'affichage.
+Dans les communes visées aux chapitres III et IV du présent titre, il est remboursé aux candidats le coût du papier,
+l'impression des bulletins de vote, affiches et circulaires, ainsi que les frais d'affichage.
 
 **Liens relatifs à cet article**
 
@@ -8431,15 +8607,15 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance n°77-122 du 10 février 1977 - art. 10 (Ab)
-
 _Cité par_:
 
   - Ordonnance n°77-122 du 10 février 1977 - art. 10 (Ab)
   - Arrêté du 17 juin 2014 (V)
   - Code électoral - art. L243 (V)
+
+_Modifié par_:
+
+  - Loi n°88-1262 du 30 décembre 1988 - art. 29 () JORF 4 janvier 1989
 
 _Cite_:
 
@@ -9165,12 +9341,15 @@ fixées aux articles L. 260, L. 263 et L. 264. Il en est délivré récépissé.
 Elle est faite collectivement pour chaque liste par la personne ayant la qualité de responsable de liste. A cet effet, chaque
 candidat établit un mandat signé de lui, confiant au responsable de liste le soin de faire ou de faire faire, par une
 personne déléguée par lui, toutes déclarations et démarches utiles à l'enregistrement de la liste, pour le premier et le
-second tours. Le dépôt de la liste par son responsable doit être assorti de l'ensemble des mandats des candidats qui y
-figurent. La liste déposée indique expressément :
+second tour. La liste déposée indique expressément :
 
-1° Le titre de la liste présentée;
+1° Le titre de la liste présentée ;
 
 2° Les nom, prénoms, date et lieu de naissance de chacun des candidats.
+
+Le dépôt de la liste doit être assorti, pour le premier tour, de l'ensemble des mandats des candidats qui y figurent ainsi
+que des documents officiels qui justifient qu'ils satisfont aux conditions posées par les deux premiers alinéas de l'article
+L. 228.
 
 Pour chaque tour de scrutin, cette déclaration comporte la signature de chaque candidat, sauf le droit pour tout candidat de
 compléter la déclaration collective non signée de lui par une déclaration individuelle faite dans le même délai et portant sa
@@ -9179,7 +9358,14 @@ signature.
 Toutefois, les signatures de chaque candidat ne sont pas exigées pour la déclaration de candidature des listes qui ne
 procèdent à aucune modification de leur composition au second tour.
 
-Récépissé ne peut être délivré que si les conditions énumérées au présent article sont remplies.
+Récépissé ne peut être délivré que si les conditions énumérées au présent article sont remplies et si les documents officiels
+visés au quatrième alinéa établissent que les candidats satisfont aux conditions d'éligibilité posées par les deux premiers
+alinéas de l'article L. 228.
+
+En cas de refus de délivrance du récépissé, tout candidat de la liste intéressée dispose de vingt-quatre heures pour saisir
+le tribunal administratif qui statue, en premier et dernier ressort, dans les trois jours du dépôt de la requête.
+
+Faute par le tribunal administratif d'avoir statué dans ce délai, le récépissé est délivré.
 
 **Liens relatifs à cet article**
 
@@ -9187,13 +9373,14 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Modifié par_:
-
-  - Loi n°82-974 1982-11-19 art. 4 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
-
 **Liens**:
 
   - SPEC_APPLI: Loi n°88-1262 1988-12-30 art. 38
+
+_Modifié par_:
+
+  - Loi n°88-1262 du 30 décembre 1988 - art. 26 () JORF 4 janvier 1989
+  - Loi n°88-1262 du 30 décembre 1988 - art. 27 () JORF 4 janvier 1989
 
 _Cité par_:
 
@@ -9206,9 +9393,9 @@ _Cité par_:
 
 _Cite_:
 
+  - Code électoral - art. L228 (V)
   - Code électoral - art. L260 (V)
-  - Code électoral - art. L263 (V)
-  - Code électoral - art. L264 (M)
+  - Code électoral L228, L260, L263 et L264
 
 
 ###### Article L266
@@ -11325,8 +11512,8 @@ _Cité par_:
 
 Ne sont pas éligibles :
 
-1° Les personnes énumérées aux articles L. 195 et L. 196 lorsque leurs fonctions concernent tout ou partie du territoire de
-la région ;
+1° Les personnes énumérées aux articles L. 195 et L. 196, lorsque leurs fonctions concernent ou ont concerné tout ou partie
+du territoire de la région ;
 
 2° Les fonctionnaires placés auprès du représentant de l'Etat dans la région et affectés au secrétariat général pour les
 affaires régionales en qualité de secrétaire général ou de chargé de mission.
@@ -11346,16 +11533,15 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Modifié par_:
-
-  - Loi n°88-227 1988-03-11 art. 5 III JORF 12 mars 1988
-
 _Cite_:
 
   - Loi n°88-227 du 11 mars 1988 - art. 2 (M)
   - Code électoral - art. L195 (M)
-  - Code électoral - art. L196 (V)
-  - Code électoral L195, L196, L199 à L203
+  - Code électoral L195, 196 et L199 à 203
+
+_Modifié par_:
+
+  - Loi n°88-1262 du 30 décembre 1988 - art. 30 () JORF 4 janvier 1989
 
 _Cité par_:
 
@@ -11548,18 +11734,15 @@ Elle comporte la signature de chaque candidat et indique expressément :
 
 2° Les noms, prénoms, date et lieu de naissance, domicile et profession de chaque candidat.
 
-La déclaration de candidature peut comporter l'indication d'un emblème que les candidats choisissent pour qu'il soit imprimé
-sur leur bulletin de vote.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°85-692 du 10 juillet 1985 - art. 1 () JORF 11 juillet 1985
+  - Loi n°88-1262 du 30 décembre 1988 - art. 1 () JORF 4 janvier 1989
 
 _Cité par_:
 
