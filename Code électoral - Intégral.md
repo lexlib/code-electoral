@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1983-01-01
+Version Consolidée au 1983-01-28
 ## Contenu: 
   - [Partie législative (art. L1 à L330)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L272-6)](#2)
@@ -103,20 +103,21 @@ Version Consolidée au 1983-01-01
           - [Section 7 : Contentieux (art. R119 à R123)](#100)
         - [Chapitre II : Dispositions spéciales aux communes de moins de 3 500 habitants (art. R124)](#101)
           - [Section 1 : Mode de scrutin (art. R124)](#102)
-        - [Chapitre III : Dispositions spéciales aux communes de 3 500 habitants et plus (art. R128)](#103)
-          - [Section 2 : Déclarations de candidatures (art. R128)](#104)
-        - [Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille (art. R129 à R130)](#105)
-          - [Section 2 : Opérations préparatoires au scrutin (art. R129 à R130)](#106)
-    - [Livre II  : Election des sénateurs des départements (art. R*131 à R*171)](#107)
-      - [Titre III : Désignation des délégués des conseils municipaux (art. R*131 à R*148)](#108)
-      - [Titre IV : Election des sénateurs (art. R*149 à R*171)](#109)
-        - [Chapitre IV : Déclarations de candidatures (art. R*149 à R*153)](#110)
-        - [Chapitre V : Propagande (art. R*154 à R*161)](#111)
-        - [Chapitre VI : Opérations préparatoires au scrutin (art. R*162)](#112)
-        - [Chapitre VII : Opérations de vote (art. R*163 à R*171)](#113)
-  - [Annexes (art. Annexe tableau n° 2 à Annexe tableau n° 3)](#114)
-    - [Tableau des secteurs pour l'élection des membres du conseil de Paris (art. Annexe tableau n° 2)](#115)
-    - [Tableau des secteurs pour l'élection des conseillers municipaux de Lyon (art. Annexe tableau n° 3)](#116)
+        - [Chapitre III : Dispositions spéciales aux communes de 3 500 habitants et plus (art. R127-1 à R128)](#103)
+          - [Section 1 : Mode de scrutin (art. R127-1)](#104)
+          - [Section 2 : Déclarations de candidatures (art. R128)](#105)
+        - [Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille (art. R129 à R130)](#106)
+          - [Section 2 : Opérations préparatoires au scrutin (art. R129 à R130)](#107)
+    - [Livre II  : Election des sénateurs des départements (art. R*131 à R*171)](#108)
+      - [Titre III : Désignation des délégués des conseils municipaux (art. R*131 à R*148)](#109)
+      - [Titre IV : Election des sénateurs (art. R*149 à R*171)](#110)
+        - [Chapitre IV : Déclarations de candidatures (art. R*149 à R*153)](#111)
+        - [Chapitre V : Propagande (art. R*154 à R*161)](#112)
+        - [Chapitre VI : Opérations préparatoires au scrutin (art. R*162)](#113)
+        - [Chapitre VII : Opérations de vote (art. R*163 à R*171)](#114)
+  - [Annexes (art. Annexe tableau n° 2 à Annexe tableau n° 3)](#115)
+    - [Tableau des secteurs pour l'élection des membres du conseil de Paris (art. Annexe tableau n° 2)](#116)
+    - [Tableau des secteurs pour l'élection des conseillers municipaux de Lyon (art. Annexe tableau n° 3)](#117)
 # Partie législative<a id=1></a>
 
 ## LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS<a id=2></a>
@@ -13961,16 +13962,17 @@ _Cité par_:
 ###### Article R124
 
 Le tableau des opérations de sectionnement électoral prévu à l'article L. 255 est publié dans les communes intéressées, avant
-la convocation des électeurs, par les soins du commissaire de la République qui détermine, d'après le chiffre des électeurs
-inscrits dans chaque section, le nombre des conseillers que la loi lui attribue.
+la convocation des électeurs, par les soins du préfet qui détermine, d'après le chiffre des électeurs inscrits dans chaque
+section, le nombre des conseillers que la loi lui attribue.
 
 Le sectionnement adopté par le conseil général est représenté par un plan déposé à la préfecture et à la mairie de la commune
 intéressée. Tout électeur peut le consulter et en prendre copie.
 
 Avis de ce dernier dépôt est donné aux intéressés par voie d'affiche à la porte de la mairie.
 
-Les demandes et propositions, délibérations de conseils municipaux et procès-verbaux d'enquête sont remis au conseil général
-à l'ouverture de la session.
+Le nombre des conseillers à élire dans les sections électorales prévues par l'article L. 255-1 qui correspondent à des
+communes associées est déterminé par le chiffre de la population de chaque commune associée et publié comme il est dit au
+premier alinéa.
 
 **Liens relatifs à cet article**
 
@@ -13980,11 +13982,17 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+  - Décret n°83-47 1983-01-27 ART. 2 JORF 28 JANVIER 1983
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°83-47 1983-01-27 ART. 6 : les dispositions du présent décret s'appliqueront lors du prochain renouvellement général des conseils municipaux
+  - SPEC_APPLI: Code électoral R127-1 : champ d'application
 
 _Cite_:
 
   - Code électoral - art. L255 (M)
+  - Code électoral - art. L255-1 (V)
 
 _Cité par_:
 
@@ -13995,7 +14003,47 @@ _Cité par_:
 
 #### Chapitre III : Dispositions spéciales aux communes de 3 500 habitants et plus<a id=103></a>
 
-##### Section 2 : Déclarations de candidatures<a id=104></a>
+##### Section 1 : Mode de scrutin<a id=104></a>
+
+###### Article R127-1
+
+Les dispositions de l'article R. 124 sont applicables dans les communes dont la population est comprise entre 3 500 et 30 000
+habitants.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
+2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées les 23 et 30 mars 2014 à
+l’occasion du prochain renouvellement général des conseils municipaux et communautaires, y compris aux opérations
+préparatoires à ce scrutin.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Décret n°83-47 1983-01-27 ART. 4 JORF 28 JANVIER 1983
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°83-47 1983-01-27 ART. 6 : les dispositions du présent décret s'appliqueront lors du prochain renouvellement général des conseils municipaux
+
+_Cite_:
+
+  - Code électoral - art. R124 (M)
+
+_Cité par_:
+
+  - Code électoral - art. R266 (Ab)
+  - Code électoral - art. R268 (Ab)
+  - Code électoral - art. R269 (V)
+
+
+##### Section 2 : Déclarations de candidatures<a id=105></a>
 
 ###### Article R128
 
@@ -14026,9 +14074,9 @@ _Cité par_:
   - Code électoral - art. R268 (Ab)
 
 
-#### Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille<a id=105></a>
+#### Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille<a id=106></a>
 
-##### Section 2 : Opérations préparatoires au scrutin<a id=106></a>
+##### Section 2 : Opérations préparatoires au scrutin<a id=107></a>
 
 ###### Article R129
 
@@ -14064,9 +14112,9 @@ _Modifié par_:
   - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
 
 
-## Livre II  : Election des sénateurs des départements<a id=107></a>
+## Livre II  : Election des sénateurs des départements<a id=108></a>
 
-### Titre III : Désignation des délégués des conseils municipaux<a id=108></a>
+### Titre III : Désignation des délégués des conseils municipaux<a id=109></a>
 
 ###### Article R*131
 
@@ -14487,9 +14535,9 @@ _Modifié par_:
   - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
 
 
-### Titre IV : Election des sénateurs<a id=109></a>
+### Titre IV : Election des sénateurs<a id=110></a>
 
-#### Chapitre IV : Déclarations de candidatures<a id=110></a>
+#### Chapitre IV : Déclarations de candidatures<a id=111></a>
 
 ###### Article R*149
 
@@ -14614,7 +14662,7 @@ _Cité par_:
   - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
 
 
-#### Chapitre V : Propagande<a id=111></a>
+#### Chapitre V : Propagande<a id=112></a>
 
 ###### Article R*154
 
@@ -14860,7 +14908,7 @@ _Cité par_:
   - Code électoral - art. R160 (V)
 
 
-#### Chapitre VI : Opérations préparatoires au scrutin<a id=112></a>
+#### Chapitre VI : Opérations préparatoires au scrutin<a id=113></a>
 
 ###### Article R*162
 
@@ -14889,7 +14937,7 @@ _Cité par_:
   - Code électoral - art. R278 (V)
 
 
-#### Chapitre VII : Opérations de vote<a id=113></a>
+#### Chapitre VII : Opérations de vote<a id=114></a>
 
 ###### Article R*163
 
@@ -15158,9 +15206,9 @@ _Cité par_:
   - TXT_ASSOCIE: Code électoral - art. L317 (V)
 
 
-# Annexes<a id=114></a>
+# Annexes<a id=115></a>
 
-## Tableau des secteurs pour l'élection des membres du conseil de Paris<a id=115></a>
+## Tableau des secteurs pour l'élection des membres du conseil de Paris<a id=116></a>
 
 ###### Article Annexe tableau n° 2
 
@@ -15233,7 +15281,7 @@ _Modifié par_:
   - Loi n°82-1170 1982-12-31 art. 4 JORF 1er janvier 1983
 
 
-## Tableau des secteurs pour l'élection des conseillers municipaux de Lyon<a id=116></a>
+## Tableau des secteurs pour l'élection des conseillers municipaux de Lyon<a id=117></a>
 
 ###### Article Annexe tableau n° 3
 
