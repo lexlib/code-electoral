@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1998-12-10
+Version Consolidée au 1998-12-30
 ## Contenu: 
   - [Partie législative (art. L1 à L385)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -130,7 +130,7 @@ Version Consolidée au 1998-12-10
     - [Livre Ier  : Election des députés, des conseillers généraux et des conseillers municipaux des départements (art. R*1 à R130)](#127)
       - [Titre Ier  : Dispositions communes à l'élection des députés, des conseillers généraux et des conseillers municipaux (art. R*1 à R97)](#128)
         - [Chapitre II : Listes électorales (art. R*1 à R*25)](#129)
-          - [Section 1 : Conditions d'inscription sur une liste électorale (art. R*1 à R*4)](#130)
+          - [Section 1 : Conditions d'inscription sur une liste électorale (art. R*1 à R*4-1)](#130)
           - [Section 2 : Etablissement et révision des listes électorales (art. R*5 à R15-7)](#131)
           - [Section 3 : Inscription en dehors des périodes de révision (art. R*17-2)](#132)
           - [Section 4 : Contrôle des inscriptions sur les listes électorales (art. R*18 à R*22)](#133)
@@ -15280,7 +15280,7 @@ _Nouveaux textes_:
 ###### Article R*1
 
 Tous les Français et Françaises jouissant de leurs droits civils et politiques et n'ayant jamais figuré sur une liste
-électorale doivent solliciter leur inscription, suivant les dispositions des articles L. 11, L. 12, L. 13, L. 14 ou L. 15,
+électorale doivent solliciter leur inscription, suivant les dispositions des articles L.11, L.12, L.13, L.14, L.15 ou L.15-1,
 lors de la première révision des listes pour laquelle ils remplissent les conditions d'électorat exigées par la loi.
 
 **Liens relatifs à cet article**
@@ -15291,8 +15291,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°74-459 1974-05-15 art. 1 JORF 18 mai 1974
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+  - Décret n°98-1234 du 29 décembre 1998 - art. 1 () JORF 30 décembre 1998
 
 _Cité par_:
 
@@ -15310,6 +15309,7 @@ _Cite_:
   - Code électoral - art. L13 (V)
   - Code électoral - art. L14 (M)
   - Code électoral - art. L15 (V)
+  - Code électoral - art. L15-1 (M)
 
 
 ###### Article R*2
@@ -15389,6 +15389,34 @@ _Cite_:
   - Code électoral - art. R*1 (M)
   - Code électoral - art. R*2 (M)
   - Code électoral - art. R*3 (M)
+
+
+###### Article R*4-1
+
+Les organismes d'accueil prévus à l'article L. 15-1 sont ceux figurant sur la liste établie dans les conditions fixées au
+troisième alinéa de l'article 1er du décret du 22 octobre 1955 modifié instituant la carte nationale d'identité.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°55-1397 du 22 octobre 1955 - art. 1 (M)
+  - Code électoral - art. L15-1 (M)
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Cité par_:
+
+  - Décret n°79-160 du 28 février 1979 - art. 20 (V)
+  - Code électoral - art. R*179 (M)
+  - Code électoral - art. R176 (Ab)
+  - Code électoral - art. R204 (M)
+
+_Créé par_:
+
+  - Décret n°98-1234 du 29 décembre 1998 - art. 2 () JORF 30 décembre 1998
 
 
 ##### Section 2 : Etablissement et révision des listes électorales<a id=131></a>
