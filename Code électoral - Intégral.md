@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1985-07-11
+Version Consolidée au 1985-10-01
 ## Contenu: 
   - [Partie législative (art. L1 à L364)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -50,7 +50,7 @@ Version Consolidée au 1985-07-11
           - [Section 1 : Composition des conseils municipaux et durée du mandat des conseillers (art. L227)](#47)
           - [Section 2 : Conditions d'éligibilité et inéligibilités (art. L228 à L236)](#48)
           - [Section 3 : Incompatibilités (art. L237 à L239)](#49)
-          - [Section 4 : Propagande (art. L240 à L245)](#50)
+          - [Section 4 : Propagande (art. L240 à L246)](#50)
           - [Section 5 : Opérations préparatoires au scrutin (art. L247)](#51)
           - [Section 7 : Contentieux (art. L248 à L251)](#52)
         - [Chapitre II : Dispositions spéciales aux communes de moins de 3 500 habitants (art. L252 à L259)](#53)
@@ -7204,6 +7204,33 @@ _Cite_:
   - Code électoral - art. L213 (Ab)
 
 
+###### Article L215
+
+Sera puni d'une amende de 25 000 F et d'un emprisonnement d'un an, ou de l'une de ces deux peines seulement :
+
+1° Quiconque enfreindra les dispositions de l'article L. 211 ;
+
+2° Quiconque se servira de la franchise pour adresser aux électeurs tous autres documents que ceux envoyés par les
+commissions de propagande.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Modifié par_:
+
+  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977 en vigueur le 1er janvier 1978
+  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1985
+
+_Cité par_:
+
+  - Loi n°82-214 du 2 mars 1982 - art. 21 (Ab)
+  - Code électoral - art. L356 (V)
+  - Code électoral - art. L558-28 (V)
+
+
 ###### Article L216
 
 L'Etat prend à sa charge les dépenses provenant des opérations effectuées par les commissions instituées à l'article L. 212,
@@ -7974,6 +8001,27 @@ _Abrogé par_:
 _Cite_:
 
   - Code électoral - art. L244 (Ab)
+
+
+###### Article L246
+
+Sera puni d'une amende de 25 000 F et d'un emprisonnement de six mois, ou de l'une de ces deux peines seulement, quiconque
+enfreindra les dispositions de l'article L. 240.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Modifié par_:
+
+  - Loi n°77-1468 du 30 décembre 1977 - art. 16 (V) JORF 31 décembre 1977 en vigueur le 1er janvier 1978
+  - Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1985
+
+_Cite_:
+
+  - Code électoral - art. L240 (V)
 
 
 ##### Section 5 : Opérations préparatoires au scrutin<a id=51></a>
