@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1983-03-13
+Version Consolidée au 1983-07-01
 ## Contenu: 
   - [Partie législative (art. L1 à L330)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -9089,8 +9089,11 @@ _Codifié par_:
 
 ###### Article L282
 
-Dans le cas où un conseiller général est député, un remplaçant lui est désigné sur sa présentation par le président du
-conseil général.
+Dans le cas où, dans un même collège, un conseiller général est député ou conseiller régional, un remplaçant lui est désigné,
+sur sa présentation, par le président du conseil général.
+
+Dans le cas où, dans un même collège, un conseiller régional est député, un remplaçant lui est désigné, sur sa présentation
+par le président du conseil régional.
 
 **Liens relatifs à cet article**
 
@@ -9104,6 +9107,10 @@ _Cité par_:
   - Code électoral - art. R*134 (M)
   - Code électoral - art. R*148-2 (Ab)
   - Code électoral - art. R130-1 (VT)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°85-692 1985-07-10art. 11 et art. 10
 
 
 ### Titre III : Désignation des délégués des conseils municipaux<a id=67></a>
