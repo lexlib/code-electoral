@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2003-12-09
+Version Consolidée au 2003-12-19
 ## Contenu: 
   - [Partie législative (art. L1 à L450)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -15736,16 +15736,11 @@ _Créé par_:
 ###### Article L370
 
 Une déclaration de candidature est obligatoire pour chaque liste de candidats et chaque tour de scrutin. Sur chacune des
-listes, l'écart entre le nombre des candidats de chaque sexe ne peut être supérieur à un. Au sein de chaque groupe entier de
-six candidats dans l'ordre de présentation de la liste doit figurer un nombre égal de candidats de chaque sexe.
+listes, l'écart entre le nombre des candidats de chaque sexe ne peut être supérieur à un. Chaque liste est composée
+alternativement d'un candidat de chaque sexe.
 
 La déclaration de candidature est faite collectivement pour chaque liste par le candidat tête de liste ou par un mandataire
 porteur d'un mandat écrit établi par ce candidat à la préfecture de la collectivité territoriale.
-
-**Nota:**
-
-Loi 2000-493 2000-06-06 art. 17 : Les dispositions de cet article entreront en vigueur lors du prochain renouvellement
-intervenant à échéance normale des conseils et assemblées auxquels elles s'appliquent.
 
 **Liens relatifs à cet article**
 
@@ -15753,13 +15748,9 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
 _Modifié par_:
 
-  - Loi n°2000-493 du 6 juin 2000 - art. 6 ()
+  - Loi n°2003-1201 2003-12-18 article unique JORF 19 décembre 2003
 
 _Cité par_:
 
