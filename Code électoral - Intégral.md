@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1982-03-03
+Version Consolidée au 1982-11-20
 ## Contenu: 
   - [Partie législative (art. L1 à L330)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L251)](#2)
@@ -45,9 +45,9 @@ Version Consolidée au 1982-03-03
         - [Chapitre VIII : Remplacement des conseillers généraux (art. L221)](#42)
         - [Chapitre IX : Contentieux (art. L222 à L223-1)](#43)
         - [Chapitre X : Conditions d'application (art. L224)](#44)
-      - [Titre IV : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris (art. L226 à L251)](#45)
-        - [Chapitre Ier : Dispositions applicables à toutes les communes (art. L226 à L251)](#46)
-          - [Section 1 : Composition des conseils municipaux et durée du mandat des conseillers (art. L226 à L227)](#47)
+      - [Titre IV : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris (art. L227 à L251)](#45)
+        - [Chapitre Ier : Dispositions applicables à toutes les communes (art. L227 à L251)](#46)
+          - [Section 1 : Composition des conseils municipaux et durée du mandat des conseillers (art. L227)](#47)
           - [Section 2 : Conditions d'éligibilité et inéligibilités (art. L229 à L236)](#48)
           - [Section 3 : Incompatibilités (art. L239)](#49)
           - [Section 4 : Propagande (art. L240 à L245)](#50)
@@ -7232,19 +7232,6 @@ _Codifié par_:
 #### Chapitre Ier : Dispositions applicables à toutes les communes<a id=46></a>
 
 ##### Section 1 : Composition des conseils municipaux et durée du mandat des conseillers<a id=47></a>
-
-###### Article L226
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 du 27 octobre 1964, v. init.
-
-_Abrogé par_:
-
-  - Loi n°82-974 du 19 novembre 1982, art. 19 v. init.
-
 
 ###### Article L227
 
