@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1969-05-11
+Version Consolidée au 1969-07-26
 ## Contenu: 
   - [Partie législative (art. L1 à L334)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L251)](#2)
@@ -67,13 +67,11 @@ Version Consolidée au 1969-05-11
       - [Titre V : Conditions d'application (art. L326)](#64)
       - [Titre VI : Dispositions pénales (art. L327)](#65)
     - [Livre III  : Dispositions spéciales au département de Saint-Pierre-et-Miquelon (art. L334)](#66)
-  - [Partie réglementaire (art. R*9 à R81 à R93)](#67)
-    - [Livre Ier  : Election des députés, des conseillers généraux et des conseillers municipaux des départements (art. R*9 à R81 à R93)](#68)
-      - [Titre Ier  : Dispositions communes à l'élection des députés, des conseillers généraux et des conseillers municipaux (art. R*9 à R81 à R93)](#69)
-        - [Chapitre II : Listes électorales (art. R*9)](#70)
-          - [Section 2 : Etablissement et révision des listes électorales (art. R*9)](#71)
-        - [Chapitre VI : Vote (art. R81 à R93)](#72)
-          - [Section 4 : Vote par correspondance (art. R81 à R93)](#73)
+  - [Partie réglementaire (art. R81 à R93)](#67)
+    - [Livre Ier  : Election des députés, des conseillers généraux et des conseillers municipaux des départements (art. R81 à R93)](#68)
+      - [Titre Ier  : Dispositions communes à l'élection des députés, des conseillers généraux et des conseillers municipaux (art. R81 à R93)](#69)
+        - [Chapitre VI : Vote (art. R81 à R93)](#70)
+          - [Section 4 : Vote par correspondance (art. R81 à R93)](#71)
 # Partie législative<a id=1></a>
 
 ## LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS<a id=2></a>
@@ -7449,33 +7447,9 @@ _Cité par_:
 
 ### Titre Ier  : Dispositions communes à l'élection des députés, des conseillers généraux et des conseillers municipaux<a id=69></a>
 
-#### Chapitre II : Listes électorales<a id=70></a>
+#### Chapitre VI : Vote<a id=70></a>
 
-##### Section 2 : Etablissement et révision des listes électorales<a id=71></a>
-
-###### Article R*9
-
-La commission administrative mentionne sur le tableau contenant les additions et retranchements faits à la liste électorale,
-dans une colonne spéciale, pour toute inscription nouvelle d'un électeur, la commune où il était précédemment inscrit et la
-date de sa demande de radiation.
-
-Au cas où l'électeur n'a jamais été inscrit, mention en est portée dans la colonne du tableau visé à l'alinéa premier, avec
-indication de la commune où il était domicilié dans sa vingt et unième année.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Abrogé par_:
-
-  - Décret n°69-747 1969-07-24 art. 18 JORF 26 juillet 1969
-
-
-#### Chapitre VI : Vote<a id=72></a>
-
-##### Section 4 : Vote par correspondance<a id=73></a>
+##### Section 4 : Vote par correspondance<a id=71></a>
 
 ###### Article R81 à R93
 
