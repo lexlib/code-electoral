@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2004-12-10
+Version Consolidée au 2005-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L450)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -10829,16 +10829,23 @@ _Cité par_:
 
 ###### Article L255
 
-Le sectionnement est fait par le conseil général, sur l'initiative soit d'un de ses membres, soit du commissaire de la
-République, soit du conseil municipal ou d'électeurs de la commune intéressée.
+Le sectionnement électoral des communes est fait par le préfet, à son initiative, sur celle du conseil municipal ou
+d'électeurs de la commune intéressée.
 
-Aucune décision en matière de sectionnement ne peut être prise dans les six mois qui suivent la date à laquelle le conseil
-général a été saisi. Dans ce délai, une enquête est ouverte à la mairie de la commune intéressée, et le conseil municipal est
-consulté par les soins du président du conseil général.
+Une enquête est ouverte à la mairie de la commune intéressée et le conseil municipal est consulté par les soins du préfet.
+Aucune décision en matière de sectionnement ne peut être prise avant l'expiration d'un délai de six mois à compter de la date
+à laquelle le conseil municipal a été consulté.
 
-Le délai étant écoulé et les formalités observées, le conseil général se prononce sur chaque projet. Les sectionnements ainsi
-opérés subsistent jusqu'à une nouvelle décision. Le tableau de ces opérations est dressé chaque année par le conseil général,
-au cours du dernier trimestre. Ce tableau sert pour les élections intégrales qui doivent avoir lieu dans l'année.
+Le délai étant écoulé et les formalités observées, le préfet se prononce sur chaque projet. Les sectionnements ainsi opérés
+subsistent jusqu'à une nouvelle décision. Le tableau de ces opérations est dressé chaque année par le préfet au cours du
+dernier trimestre. Ce tableau sert pour les élections intégrales qui doivent avoir lieu dans l'année.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
+départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
+s’appliquera aux élections organisées les 23 et 30 mars 2014 à l’occasion du prochain renouvellement général des conseils
+municipaux et communautaires, y compris aux opérations préparatoires à ce scrutin.
 
 **Liens relatifs à cet article**
 
@@ -10848,8 +10855,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°82-213 1982-03-02 art. 58 IX JORF 3 mars 1982
-  - Loi n°82-974 1982-11-19 art. 2 JORF 20 novembre 1982 date d'entrée en vigueur 13 mars 1983
+  - Loi n°2004-809 du 13 août 2004 - art. 136 () JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 _Cité par_:
 
@@ -19457,9 +19463,9 @@ _Cité par_:
 ###### Article R*13
 
 Les recours au tribunal d'instance prévus à l'article L. 25 sont formés par déclaration orale ou écrite, faite, remise ou
-adressée au secrétariat-greffe du tribunal d'instance. La déclaration indique les nom, prénoms et adresse du requérant et la
-qualité en laquelle il agit, ainsi que l'objet du recours; si celui-ci tend à l'inscription ou à la radiation d'un électeur
-omis ou qui serait indûment inscrit, elle précise, en outre, les nom, prénoms et adresse de cet électeur.
+adressée au greffe du tribunal d'instance. La déclaration indique les nom, prénoms et adresse du requérant et la qualité en
+laquelle il agit, ainsi que l'objet du recours; si celui-ci tend à l'inscription ou à la radiation d'un électeur omis ou qui
+serait indûment inscrit, elle précise, en outre, les nom, prénoms et adresse de cet électeur. 
 
 Les recours prévus aux premier et deuxième alinéas de l'article L. 25 doivent être exercés dans les dix jours de la
 publication prévue à l'article L. 21. Les recours ouverts au préfet ou au sous-préfet par le troisième alinéa de l'article L.
@@ -19471,12 +19477,6 @@ faits à la liste électorale.
 _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Décret n°69-747 1969-07-24 art. 6 JORF 26 juillet 1969
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
-  - Décret n°80-1075 1980-12-24 art. 2 JORF 28 décembre 1980
 
 _Cité par_:
 
@@ -19498,6 +19498,10 @@ _Cité par_:
   - Code de la sécurité sociale. - art. R611-66 (M)
   - Code électoral - art. R15-7 (Ab)
 
+_Modifié par_:
+
+  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+
 _Cite_:
 
   - Code électoral - art. L21 (V)
@@ -19508,14 +19512,14 @@ _Cite_:
 
 Le tribunal statue, sans forme et sur simple avertissement donné trois jours à l'avance à toutes les parties intéressées,
 dans les dix jours du recours ou, le cas échéant, de la décision du tribunal administratif saisi en application de l'article
-L. 20. Trois jours également à l'avance, le secrétariat-greffe du tribunal avise du recours le préfet, qui peut présenter des
+L. 20. Trois jours également à l'avance, le greffe du tribunal avise du recours le préfet, qui peut présenter des
 observations. Le tribunal se prononce après avoir vérifié notamment la validité des justifications produites par l'électeur à
-l'appui de sa demande d'inscription devant la commission administrative compétente.
+l'appui de sa demande d'inscription devant la commission administrative compétente. 
 
 Toutefois, si la demande portée devant lui implique la solution préjudicielle d'une question d'état, le tribunal d'instance
 renvoie préalablement les parties à se pourvoir devant le juge compétent et fixe un bref délai dans lequel la partie qui aura
 élevé la question préjudicielle devra justifier de ses diligences. Il est procédé, en ce cas, conformément aux articles 855,
-856 et 858 du code de procédure civile.
+856 et 858 du code de procédure civile. 
 
 En cas d'annulation des opérations de la commission administrative, les recours sont radiés d'office.
 
@@ -19536,7 +19540,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°95-719 du 9 mai 1995 - art. 1 ()
+  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
 
 _Cite_:
 
@@ -19546,9 +19550,9 @@ _Cite_:
 
 ###### Article R*15
 
-La décision prise par le tribunal d'instance est notifiée dans les trois jours par le secrétariat-greffe au requérant et au
-préfet et, s'il y a lieu, à l'électeur intéressé, par lettre recommandée avec demande d'avis de réception. Le secrétariat-
-greffe en donne avis au maire dans le même délai.
+La décision prise par le tribunal d'instance est notifiée dans les trois jours par le greffe au requérant et au préfet et,
+s'il y a lieu, à l'électeur intéressé, par lettre recommandée avec demande d'avis de réception. Le greffe en donne avis au
+maire dans le même délai. 
 
 La décision n'est pas susceptible d'opposition.
 
@@ -19560,8 +19564,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
-  - Décret n°80-1075 1980-12-24 art. 4 JORF 28 décembre 1980
+  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
 
 
 ###### Article R*16
@@ -19793,9 +19796,9 @@ _Abrogé par_:
 ###### Article R15-2
 
 Le pourvoi est formé par une déclaration orale ou écrite que la partie ou tout mandataire muni d'un pouvoir spécial fait,
-remet ou adresse par pli recommandé soit au secrétariat-greffe du tribunal d'instance qui a rendu la décision attaquée, soit
-au secrétariat-greffe de la Cour de cassation. La déclaration indique les nom, prénoms et adresse du demandeur au pourvoi,
-ainsi que, s'il y a lieu, les nom, prénoms et adresse du ou des défendeurs au pourvoi.
+remet ou adresse par pli recommandé soit au greffe du tribunal d'instance qui a rendu la décision attaquée, soit au greffe de
+la Cour de cassation. La déclaration indique les nom, prénoms et adresse du demandeur au pourvoi, ainsi que, s'il y a lieu,
+les nom, prénoms et adresse du ou des défendeurs au pourvoi. 
 
 A peine d'irrecevabilité du pourvoi, prononcée d'office, la déclaration doit contenir un énoncé des moyens de cassation
 invoqués et être accompagnée d'une copie de la décision attaquée.
@@ -19804,11 +19807,7 @@ invoqués et être accompagnée d'une copie de la décision attaquée.
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Créé par_:
-
-  - Décret n°80-1075 1980-12-24 art. 5 JORF 28 décembre 1980
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Cité par_:
 
@@ -19833,6 +19832,14 @@ _Cité par_:
   - Code de procédure civile - art. 996 (VD)
   - Code du travail - art. R513-25 (M)
 
+_Modifié par_:
+
+  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+
+_Abrogé par_:
+
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
+
 **Liens**:
 
   - PILOTE_SUIVEUR: Code de procédure civile - art. 996 (VD)
@@ -19840,20 +19847,16 @@ _Cité par_:
 
 ###### Article R15-3
 
-Le secrétariat-greffe qui reçoit le pourvoi procède à son enregistrement. Il mentionne la date à laquelle le pourvoi est
-formé et délivre ou adresse par lettre simple récépissé de la déclaration. S'il y a un défendeur, le secrétariat-greffe qui a
-reçu le pourvoi lui adresse aussitôt copie de la déclaration par lettre recommandée avec demande d'avis de réception. Cette
-notification reproduit la teneur de l'article R. 15-5.
+Le greffe qui reçoit le pourvoi procède à son enregistrement. Il mentionne la date à laquelle le pourvoi est formé et délivre
+ou adresse par lettre simple récépissé de la déclaration. S'il y a un défendeur, le greffe qui a reçu le pourvoi lui adresse
+aussitôt copie de la déclaration par lettre recommandée avec demande d'avis de réception. Cette notification reproduit la
+teneur de l'article R. 15-5.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Créé par_:
-
-  - Décret n°80-1075 1980-12-24 art. 5 JORF 28 décembre 1980
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Cité par_:
 
@@ -19865,36 +19868,38 @@ _Cité par_:
   - Code de procédure civile - art. 996 (VD)
   - Code du travail - art. R513-25 (M)
 
+_Modifié par_:
+
+  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+
+_Abrogé par_:
+
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
+
 **Liens**:
 
   - PILOTE_SUIVEUR: Code de procédure civile - art. 996 (VD)
 
 _Cite_:
 
-  - Code électoral - art. R15-5 (M)
+  - Code électoral - art. R15-5
 
 
 ###### Article R15-4
 
-Lorsque le pourvoi a été formé au tribunal d'instance, le secrétariat-greffe de ce tribunal transmet immédiatement au
-secrétariat-greffe de la Cour de cassation le dossier de l'affaire avec la déclaration ou sa copie, la copie de la décision
-attaquée ainsi que les documents relatifs à la notification de celle-ci et, s'il y a un défenseur, les documents relatifs à
-la notification du pourvoi à ce dernier. Il transmet au secrétariat-greffe de la Cour de cassation toute pièce qui lui
-parviendrait ultérieurement.
+Lorsque le pourvoi a été formé au tribunal d'instance, le greffe de ce tribunal transmet immédiatement au greffe de la Cour
+de cassation le dossier de l'affaire avec la déclaration ou sa copie, la copie de la décision attaquée ainsi que les
+documents relatifs à la notification de celle-ci et, s'il y a un défenseur, les documents relatifs à la notification du
+pourvoi à ce dernier. Il transmet au greffe de la Cour de cassation toute pièce qui lui parviendrait ultérieurement. 
 
-Lorsque le pourvoi a été formé à la Cour de cassation, le secrétariat-greffe de la Cour de cassation demande immédiatement le
-dossier de l'affaire ainsi que les documents relatifs à la décision attaquée au secrétariat-greffe du tribunal d'instance qui
-a rendu la décision.
+Lorsque le pourvoi a été formé à la Cour de cassation, le greffe de la Cour de cassation demande immédiatement le dossier de
+l'affaire ainsi que les documents relatifs à la décision attaquée au greffe du tribunal d'instance qui a rendu la décision.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Créé par_:
-
-  - Décret n°80-1075 1980-12-24 art. 5 JORF 28 décembre 1980
 
 _Cité par_:
 
@@ -19907,6 +19912,14 @@ _Cité par_:
   - Code de procédure civile - art. 996 (VD)
   - Code du travail - art. R513-25 (M)
 
+_Modifié par_:
+
+  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+
+_Abrogé par_:
+
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
+
 **Liens**:
 
   - PILOTE_SUIVEUR: Code de procédure civile - art. 996 (VD)
@@ -19915,18 +19928,13 @@ _Cité par_:
 ###### Article R15-5
 
 Dès qu'il a reçu la copie de la déclaration du pourvoi, le défendeur au pourvoi remet sans délai contre récépissé ou adresse
-par lettre recommandée au secrétariat-greffe de la Cour de cassation un mémoire en réponse. Il en notifie une copie au
-demandeur.
+par lettre recommandée au greffe de la Cour de cassation un mémoire en réponse. Il en notifie une copie au demandeur.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Créé par_:
-
-  - Décret n°80-1075 1980-12-24 art. 5 JORF 28 décembre 1980
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Cité par_:
 
@@ -19939,6 +19947,14 @@ _Cité par_:
   - Code du travail - art. R513-25 (M)
   - Code électoral - art. R15-3 (VT)
 
+_Modifié par_:
+
+  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+
+_Abrogé par_:
+
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
+
 **Liens**:
 
   - PILOTE_SUIVEUR: Code de procédure civile - art. 996 (VD)
@@ -19946,24 +19962,20 @@ _Cité par_:
 
 ###### Article R15-6
 
-Les parties sont dispensées du ministère d'un avocat au Conseil d'État et à la Cour de cassation. Si les parties ou l'une
-d'elles chargent un avocat au Conseil d'État et à la Cour de cassation de les ou de la représenter, les dispositions des
-articles 974 à 982 du nouveau code de procédure civile ne sont pas applicables.
+Les parties sont dispensées du ministère d'un avocat au Conseil d'Etat et à la Cour de cassation. Si les parties ou l'une
+d'elles chargent un avocat au Conseil d'Etat et à la Cour de cassation de les ou de la représenter, les dispositions des
+articles 974 à 982 du nouveau code de procédure civile ne sont pas applicables. 
 
-Lorsqu'un avocat au Conseil d'État et à la Cour de cassation a déclaré au secrétariat-greffe de la Cour de cassation qu'il
-représentait une partie, la notification de la copie du mémoire peut être faite à cet avocat, le cas échéant par voie de
-notification entre avocats. La remise à l'avocat, contre récépissé, d'une copie du mémoire, portant cachet à date du
-secrétariat-greffe, vaut notification.
+Lorsqu'un avocat au Conseil d'Etat et à la Cour de cassation a déclaré au greffe de la Cour de cassation qu'il représentait
+une partie, la notification de la copie du mémoire peut être faite à cet avocat, le cas échéant par voie de notification
+entre avocats. La remise à l'avocat, contre récépissé, d'une copie du mémoire, portant cachet à date du greffe, vaut
+notification.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Créé par_:
-
-  - Décret n°80-1075 1980-12-24 art. 5 JORF 28 décembre 1980
 
 _Cité par_:
 
@@ -19976,13 +19988,13 @@ _Cité par_:
   - Code de procédure civile - art. 996 (VD)
   - Code du travail - art. R513-25 (M)
 
+_Modifié par_:
+
+  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
+
 **Liens**:
 
   - PILOTE_SUIVEUR: Code de procédure civile - art. 996 (VD)
-
-_Cite_:
-
-  - Nouveau code de procédure civile 974 à 982
 
 
 ###### Article R15-7
