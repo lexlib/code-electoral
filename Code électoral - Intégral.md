@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2005-01-01
+Version Consolidée au 2005-02-12
 ## Contenu: 
   - [Partie législative (art. L1 à L450)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -312,7 +312,8 @@ _Modifié par_:
 
 ###### Article L5
 
-Ne doivent pas être inscrits sur les listes électorales les majeurs sous tutelle.
+Les majeurs placés sous tutelle ne peuvent être inscrits sur les listes électorales à moins qu'ils n'aient été autorisés à
+voter par le juge des tutelles.
 
 **Liens relatifs à cet article**
 
@@ -558,7 +559,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 159 ()
+  - Loi n°2005-102 2005-02-11 art. 71 1° JORF 12 février 2005
+  - Loi n°2005-102 du 11 février 2005 - art. 71
 
 
 ###### Article L6
@@ -4180,7 +4182,9 @@ suivantes :
 
 - comporter un dispositif qui soustrait l'électeur aux regards pendant le vote ;
 
-- permettre plusieurs élections de type différent le même jour à compter du 1er janvier 1991  ;
+- permettre aux électeurs handicapés de voter de façon autonome, quel que soit leur handicap ;
+
+- permettre plusieurs élections de type différent le même jour à compter du 1er janvier 1991 ;
 
 - permettre l'enregistrement d'un vote blanc ;
 
@@ -4194,6 +4198,10 @@ peuvent être lus qu'après la clôture du scrutin ;
 - ne pouvoir être utilisées qu'à l'aide de deux clefs différentes, de telle manière que, pendant la durée du scrutin, l'une
 reste entre les mains du président du bureau de vote et l'autre entre les mains de l'assesseur tiré au sort parmi l'ensemble
 des assesseurs.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -4218,7 +4226,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2004-1343 2004-12-09 art. 14 1° JORF 10 décembre 2004
+  - Loi n°2005-102 du 11 février 2005 - art. 72 () JORF 12 février 2005
 
 
 ###### Article L58
@@ -4447,6 +4455,22 @@ _Créé par_:
 _Cite_:
 
   - Code électoral - art. L18 (V)
+
+
+###### Article L62-2
+
+Les bureaux et les techniques de vote doivent être accessibles aux personnes handicapées, quel que soit le type de ce
+handicap, notamment physique, sensoriel, mental ou psychique, dans des conditions fixées par décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2005-102 du 11 février 2005 - art. 73 () JORF 12 février 2005
 
 
 ###### Article L63
@@ -8860,8 +8884,12 @@ _Cite_:
 
 ###### Article L199
 
-Sont inéligibles les personnes désignées aux articles L. 5, L. 6 et L. 7 et celles privées de leur droit d'éligibilité par
-décision judiciaire en application des lois qui autorisent cette privation.
+Sont inéligibles les personnes désignées aux articles L. 6 et L. 7 et celles privées de leur droit d'éligibilité par décision
+judiciaire en application des lois qui autorisent cette privation.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -8882,16 +8910,19 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+_Modifié par_:
+
+  - Loi n°2005-102 2005-02-11 art. 71 3° JORF 12 février 2005
+  - Loi n°2005-102 du 11 février 2005 - art. 71
+
 _Cite_:
 
-  - Code électoral - art. L5 (M)
-  - Code électoral - art. L6 (M)
-  - Code électoral - art. L7 (Ab)
+  - Code électoral - art. L6 (V)
 
 
 ###### Article L200
 
-Ne peuvent être élus les citoyens qui sont pourvus d'un conseil judiciaire.
+Ne peuvent être élus les majeurs placés sous tutelle ou sous curatelle.
 
 **Liens relatifs à cet article**
 
@@ -8907,6 +8938,11 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Modifié par_:
+
+  - Loi n°2005-102 2005-02-11 art. 71 2° JORF 12 février 2005
+  - Loi n°2005-102 du 11 février 2005 - art. 71
 
 _Anciens textes_:
 
@@ -9939,13 +9975,13 @@ _Cité par_:
 
 ###### Article L230
 
-Ne peuvent être conseillers municipaux :
+Ne peuvent être conseillers municipaux : 
 
-1° Les individus privés du droit électoral ;
+1° Les individus privés du droit électoral ; 
 
-2° Ceux qui sont pourvus d'un conseil judiciaire ;
+2° Les majeurs placés sous tutelle ou sous curatelle ; 
 
-3° (Abrogé) ;
+3° (Abrogé) ; 
 
 4° Pour une durée d'un an, le maire ou l'adjoint au maire visé au deuxième alinéa de l'article 2 de la loi n° 88-227 du 11
 mars 1988 précitée, qui n'a pas déposé l'une des déclarations prévues par ce même article.
@@ -9958,16 +9994,12 @@ _Codifié par_:
 
 _Cite_:
 
-  - Loi n°88-227 du 11 mars 1988 - art. 2 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°95-126 1995-02-08 art. 8 :
-  - SPEC_APPLI: La loi n°95-126 du 8 février 1995 est applicable dans les territoire d'outre-mer et dans la collectivité territoriale de Mayotte
+  - Loi n°88-227 du 11 mars 1988 - art. 2 (VT)
 
 _Modifié par_:
 
-  - Loi n°95-126 du 8 février 1995 - art. 6 ()
+  - Loi n°2005-102 2005-02-11 art. 71 4° JORF 12 février 2005
+  - Loi n°2005-102 du 11 février 2005 - art. 71
 
 _Cité par_:
 
