@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1999-01-20
+Version Consolidée au 1999-03-21
 ## Contenu: 
   - [Partie législative (art. L1 à L385)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -95,7 +95,7 @@ Version Consolidée au 1999-01-20
         - [Chapitre III : Dispositions particulières à l'élection des conseillers généraux de la collectivité territoriale de Saint-Pierre-et-Miquelon (art. L334)](#92)
       - [Titre II : Dispositions particulières à la collectivité territoriale de Mayotte (art. L334-4 à L334-14)](#93)
         - [Chapitre Ier : Dispositions communes à l'élection du député, des conseillers généraux et de conseillers municipaux à Mayotte (art. L334-4 à L334-6)](#94)
-        - [Chapitre II : Dispositions applicables à l'élection du député de la collectivité territoriale de Mayotte (art. L334-7)](#95)
+        - [Chapitre II : Dispositions applicables à l'élection du député de la collectivité territoriale de Mayotte (art. L334-7 à LO334-6-1)](#95)
         - [Chapitre III : Dispositions applicables à l'élection des conseillers généraux de la collectivité territoriale de Mayotte (art. L334-8 à L334-12)](#96)
         - [Chapitre IV : Dispositions applicables à l'élection des conseillers municipaux de la collectivité territoriale de Mayotte (art. L334-13 à L334-14)](#97)
     - [Livre III : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon et à Mayotte (art. L334-15 à L334-16)](#98)
@@ -13240,6 +13240,30 @@ _Créé par_:
 _Cite_:
 
   - Code électoral - art. L125 (M)
+
+
+###### Article LO334-6-1
+
+Un député à l'Assemblée nationale est élu dans la collectivité territoriale de Mayotte.
+
+Les dispositions organiques du titre II du livre Ier du code électoral sont applicables à l'élection du député de la
+collectivité territoriale de Mayotte, à l'exception de l'article LO 119.
+
+Pour l'application de ces dispositions organiques, il y a lieu de lire :
+
+1° "collectivité territoriale" au lieu de : "département" ;
+
+2° "représentant du Gouvernement" au lieu de : "préfet".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+_Créé par_:
+
+  - Loi n°99-209 du 19 mars 1999 - art. 159 (V)
 
 
 #### Chapitre III : Dispositions applicables à l'élection des conseillers généraux de la collectivité territoriale de Mayotte<a id=96></a>
