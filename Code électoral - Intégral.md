@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1980-07-09
+Version Consolidée au 1980-12-24
 ## Contenu: 
   - [Partie législative (art. L1 à L334)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L251)](#2)
@@ -73,7 +73,7 @@ Version Consolidée au 1980-07-09
       - [Titre Ier  : Dispositions communes à l'élection des députés, des conseillers généraux et des conseillers municipaux (art. R*1 à R97)](#70)
         - [Chapitre II : Listes électorales (art. R*1 à R*24)](#71)
           - [Section 1 : Conditions d'inscription sur une liste électorale (art. R*1 à R*4)](#72)
-          - [Section 2 : Etablissement et révision des listes électorales (art. R*5 à R*17)](#73)
+          - [Section 2 : Etablissement et révision des listes électorales (art. R*5 à R*17-1)](#73)
           - [Section 3 : Inscription en dehors des périodes de révision (art. R*17-2)](#74)
           - [Section 4 : Contrôle des inscriptions sur les listes électorales (art. R*18 à R*22)](#75)
           - [Section 6 : Cartes électorales (art. R*23 à R*24)](#76)
@@ -8749,6 +8749,46 @@ _Cité par_:
 _Cite_:
 
   - Code électoral - art. L40 (V)
+
+
+###### Article R*17-1
+
+Les délais prévus aux articles L. 20, R. 8, R. 10 et R. 12 sont calculés et prorogés ainsi qu'il est dit à l'article R. 15-7.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Décret n°69-747 1969-07-24 art. 9 JORF 26 juillet 1969
+
+_Modifié par_:
+
+  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+  - Décret n°80-1075 1980-12-24 art. 6 JORF 24 décembre 1980
+
+_Cité par_:
+
+  - Décret n°76-950 du 14 octobre 1976 - art. 15 (Ab)
+  - Décret n°90-1163 du 24 décembre 1990 - art. 6 (Ab)
+  - Décret n°2000-255 du 20 mars 2000 - art. 13 (Ab)
+  - Code électoral - art. R*17-2 (M)
+  - Code électoral - art. R219 (V)
+
+_Cite_:
+
+  - Code électoral - art. L20 (V)
+  - Code électoral - art. R*10 (M)
+  - Code électoral - art. R*12 (M)
+  - Code électoral - art. R*8 (M)
+  - Code électoral - art. R15-7 (Ab)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Nouveau code de procédure civile 640, 641, 642
 
 
 ##### Section 3 : Inscription en dehors des périodes de révision<a id=74></a>
