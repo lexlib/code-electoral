@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1998-12-30
+Version Consolidée au 1999-01-20
 ## Contenu: 
   - [Partie législative (art. L1 à L385)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -11405,14 +11405,12 @@ Les sénateurs sont élus dans chaque département par un collège électoral co
 
 1° des députés ;
 
-2° des conseillers régionaux élus dans le département ;
+2° Des conseillers régionaux et des conseillers de l'Assemblée de Corse désignés dans les conditions prévues par le titre III
+bis du présent livre ;
 
 3° des conseillers généraux ;
 
 4° des délégués des conseils municipaux ou des suppléants de ces délégués.
-
-Toutefois, dans les deux départements de Corse, des conseillers à l'Assemblée de Corse désignés dans les conditions prévues
-au titre III bis du présent livre sont substitués aux conseillers régionaux.
 
 **Liens relatifs à cet article**
 
@@ -11437,7 +11435,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°91-428 du 13 mai 1991 - art. 10 () JORF 14 mai 1991
+  - Loi n°99-36 du 19 janvier 1999 - art. 20 ()
 
 
 ###### Article L281
@@ -11784,9 +11782,15 @@ _Créé par_:
 
 ###### Article L293-1
 
-Le décret convoquant les électeurs sénatoriaux fixe le jour auquel devront être désignés les délégués de l'Assemblée de
-Corse. Un intervalle de quinze jours au moins doit séparer cette élection de celle des sénateurs. Le jour fixé ne peut être
-celui prévu à l'article L. 283.
+Dans le mois qui suit leur élection, les conseils régionaux et l'Assemblée de Corse procèdent à la répartition de leurs
+membres entre les collèges chargés de l'élection des sénateurs dans les départements compris dans les limites de la région ou
+de la collectivité territoriale de Corse.
+
+Le nombre de membres de chaque conseil régional à désigner pour faire partie de chaque collège électoral sénatorial est fixé
+par le tableau n° 7 annexé au présent code.
+
+Le nombre de membres de l'Assemblée de Corse à désigner pour faire partie des collèges électoraux sénatoriaux de la Corse-du-
+Sud et de la Haute-Corse est respectivement de vingt-quatre et de vingt-sept.
 
 **Liens relatifs à cet article**
 
@@ -11804,21 +11808,32 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 87
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°91-428 du 13 mai 1991 - art. 14 () JORF 14 mai 1991
-
-_Cite_:
-
-  - Code électoral - art. L283 (M)
+  - Loi n°99-36 du 19 janvier 1999 - art. 21 ()
 
 
 ###### Article L293-2
 
-Au jour fixé en application des dispositions de l'article L. 293-1, l'Assemblée de Corse détermine le nombre de ses membres
-appelés à faire partie du collège électoral de chacun des deux départements de Corse. A cet effet, son effectif est réparti
-proportionnellement à la population desdits départements, telle qu'elle résulte du plus récent recensement général de la
-population avec application de la règle du plus fort reste.
+Le conseil régional ou l'Assemblée de Corse désigne d'abord ses membres appelés à représenter la région ou la collectivité
+territoriale au sein du collège électoral du département le moins peuplé.
+
+Chaque conseiller ou groupe de conseillers peut présenter avec l'accord des intéressés une liste de candidats en nombre au
+plus égal à celui des sièges à pourvoir.
+
+L'élection a lieu au scrutin de liste sans rature ni panachage. Les sièges sont répartis à la représentation proportionnelle
+selon la règle de la plus forte moyenne.
+
+Il est ensuite procédé de même pour désigner les conseillers appelés à faire partie du collège électoral des autres
+départements, dans l'ordre croissant de la population de ces derniers ; aucun conseiller déjà désigné pour faire partie du
+collège électoral d'un département ne peut être désigné pour faire partie d'un autre.
+
+Lorsque les opérations prévues aux alinéas précédents ont été achevées pour tous les départements sauf un, il n'y a pas lieu
+de procéder à une dernière élection ; les conseillers non encore désignés font de droit partie du collège électoral
+sénatorial du département le plus peuplé.
+
+Celui qui devient membre du conseil régional ou de l'Assemblée de Corse entre deux renouvellements est réputé être désigné
+pour faire partie du collège électoral sénatorial du même département que le conseiller qu'il remplace.
 
 **Liens relatifs à cet article**
 
@@ -11835,31 +11850,15 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 87
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°91-428 du 13 mai 1991 - art. 14 () JORF 14 mai 1991
-
-_Cite_:
-
-  - Code électoral - art. L293-1 (M)
+  - Loi n°99-36 du 19 janvier 1999 - art. 21 ()
 
 
 ###### Article L293-3
 
-L'Assemblée de Corse procède à la désignation de ceux de ses membres appelés à la représenter au sein du collège électoral du
-département le plus peuplé.
-
-Chaque conseiller ou groupe de conseillers à l'Assemblée peut présenter avec l'accord des intéressés une liste de candidats
-en nombre au plus égal à celui des sièges à pourvoir.
-
-L'élection a lieu au scrutin de liste sans rature ni panachage. Les sièges sont répartis selon la règle de la représentation
-proportionnelle à la plus forte moyenne.
-
-Les conseillers à l'Assemblée non désignés en application des dispositions qui précèdent font partie de plein droit du
-collège électoral du département le moins peuplé.
-
-Le représentant de l'Etat dans la collectivité territoriale de Corse notifie au représentant de l'Etat dans chaque
-département de la collectivité territoriale les noms des conseillers à l'Assemblée de Corse désignés pour son département en
+Le représentant de l'Etat dans la région ou dans la collectivité territoriale de Corse notifie au représentant de l'Etat dans
+chaque département de la région ou de la collectivité territoriale les noms des conseillers désignés pour son département en
 vue de l'établissement du tableau des électeurs sénatoriaux mentionné à l'article L. 292.
 
 **Liens relatifs à cet article**
@@ -11872,9 +11871,9 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 87
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°91-428 du 13 mai 1991 - art. 14 () JORF 14 mai 1991
+  - Loi n°99-36 du 19 janvier 1999 - art. 21 ()
 
 _Cite_:
 
@@ -13510,13 +13509,18 @@ _Modifié par_:
 
 ###### Article L336
 
-Les conseillers régionaux sont élus pour six ans ; ils sont rééligibles.
+Les conseillers régionaux sont élus pour cinq ans ; ils sont rééligibles.
 
 Les conseils régionaux se renouvellent intégralement.
 
 Les élections ont lieu au mois de mars.
 
 Dans toutes les régions, les collèges électoraux sont convoqués le même jour.
+
+**Nota:**
+
+Loi n° 99-36 1999-01-19 art. 27: Les dispositions de cet article entreront en vigueur pour le premier renouvellement général
+des conseils régionaux qui suivra la publication de la loi n° 99-36 du 19 janvier 1999.
 
 **Liens relatifs à cet article**
 
@@ -13530,7 +13534,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°94-44 du 18 janvier 1994 - art. 6 ()
+  - Loi n°99-36 du 19 janvier 1999 - art. 1 ()
 
 _Cité par_:
 
@@ -13541,17 +13545,9 @@ _Cité par_:
 
 ###### Article L337
 
-L'effectif des conseils régionaux et la répartition des sièges à pourvoir entre les départements de chaque région sont fixés
-conformément au tableau n° 7 annexé au présent code.
-
-La révision du nombre des conseillers régionaux a lieu au cours de la session ordinaire du Parlement qui suit la publication
-des résultats du recensement général de la population.
+L'effectif de chaque conseil régional est fixé conformément au tableau n° 7 annexé au présent code.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code électoral annexe tableau n°7
 
 _Codifié par_:
 
@@ -13563,22 +13559,36 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°96-62 du 29 janvier 1996 - art. 4 ()
+  - Loi n°99-36 du 19 janvier 1999 - art. 2 ()
 
 
 #### Chapitre II : Mode de scrutin<a id=104></a>
 
 ###### Article L338
 
-Les conseillers régionaux sont élus dans chaque département au scrutin de liste, à la représentation proportionnelle à la
-plus forte moyenne, sans panachage ni vote préférentiel.
+Les conseillers régionaux sont élus dans chaque région au scrutin de liste à deux tours, avec dépôt de listes comportant
+autant de candidats que de sièges à pourvoir, sans adjonction ni suppression de noms et sans modification de l'ordre de
+présentation.
 
-Les sièges sont attribués aux candidats d'après l'ordre de présentation sur chaque liste. Toutefois, les listes qui n'ont pas
-obtenu un nombre de voix au moins égal à 5 % des suffrages exprimés ne sont pas admises à répartition des sièges.
+Au premier tour de scrutin, il est attribué à la liste qui a recueilli la majorité absolue des suffrages exprimés un nombre
+de sièges égal au quart du nombre des sièges à pourvoir, arrondi à l'entier supérieur. Cette attribution opérée, les autres
+sièges sont répartis entre toutes les listes à la représentation proportionnelle suivant la règle de la plus forte moyenne,
+sous réserve de l'application du quatrième alinéa ci-après.
+
+Si aucune liste n'a recueilli la majorité absolue des suffrages exprimés au premier tour, il est procédé à un second tour. Il
+est attribué à la liste qui a obtenu le plus de voix un nombre de sièges égal au quart du nombre des sièges à pourvoir,
+arrondi à l'entier supérieur. En cas d'égalité de suffrages entre les listes arrivées en tête, ces sièges sont attribués à la
+liste dont les candidats ont la moyenne d'âge la moins élevée. Cette attribution opérée, les autres sièges sont répartis
+entre toutes les listes à la représentation proportionnelle suivant la règle de la plus forte moyenne, sous réserve de
+l'application du quatrième alinéa ci-après.
+
+Les listes qui n'ont pas obtenu au moins 3 % des suffrages exprimés ne sont pas admises à la répartition des sièges.
+
+Les sièges sont attribués aux candidats dans l'ordre de présentation sur chaque liste.
 
 Si plusieurs listes ont la même moyenne pour l'attribution du dernier siège, celui-ci revient à la liste qui a obtenu le plus
-grand nombre de suffrages. En cas d'égalité de suffrages, le siège est attribué au plus âgé des candidats susceptibles d'être
-proclamés élus.
+grand nombre de suffrages. En cas d'égalité de suffrages, le siège est attribué au moins âgé des candidats susceptibles
+d'être proclamés élus.
 
 **Liens relatifs à cet article**
 
@@ -13592,8 +13602,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+  - Loi n°99-36 du 19 janvier 1999 - art. 3 ()
 
 _Cité par_:
 
@@ -13872,13 +13881,20 @@ _Modifié par_:
 
 ###### Article L346
 
-Une déclaration de candidature est obligatoire pour chaque liste de candidats.
+Une déclaration de candidature est obligatoire pour chaque liste de candidats avant chaque tour de scrutin.
 
-Elle résulte du dépôt à la préfecture d'une liste comprenant autant de candidats qu'il y a de sièges à pourvoir dans le
-département.
+[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 98-407 DC du 14 janvier
+1999.]
 
-Toutefois, dans les départements comportant un nombre de sièges à pourvoir égal ou inférieur à cinq, cette liste comprend un
-nombre de candidats égal au nombre de sièges à pourvoir augmenté de deux.
+Seules peuvent se présenter au second tour les listes ayant obtenu au premier tour un nombre de suffrages au moins égal à 5 %
+du total des suffrages exprimés. La composition de ces listes peut être modifiée pour comprendre les candidats ayant figuré
+au premier tour sur d'autres listes, sous réserve que celles-ci aient obtenu au premier tour au moins 3 % des suffrages
+exprimés et ne se présentent pas au second tour. En cas de modification de la composition d'une liste, le titre de la liste
+et l'ordre de présentation des candidats peuvent également être modifiés.
+
+Les candidats ayant figuré sur une même liste au premier tour ne peuvent figurer au second tour que sur une même liste. Le
+choix de la liste sur laquelle ils sont candidats au second tour est notifié à la préfecture de région par le candidat tête
+de la liste sur laquelle ils figuraient au premier tour.
 
 **Liens relatifs à cet article**
 
@@ -13892,8 +13908,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+  - Loi n°99-36 du 19 janvier 1999 - art. 4 ()
 
 _Cité par_:
 
@@ -13903,14 +13918,18 @@ _Cité par_:
 
 ###### Article L347
 
-La déclaration de candidature est faite collectivement pour chaque liste par le candidat tête de liste ou par un mandataire
-porteur d'un mandat écrit établi par ce candidat.
+La déclaration de candidature résulte du dépôt à la préfecture de région d'une liste répondant aux conditions fixées aux
+articles L. 338, L. 346 et L. 348.
 
-Elle comporte la signature de chaque candidat et indique expressément :
+Elle est faite collectivement pour chaque liste par le candidat tête de liste ou par un mandataire porteur d'un mandat écrit
+établi par ce candidat. Elle indique expressément :
 
-1° Le titre de la liste ;
+1° Le titre de la liste présentée ;
 
-2° Les noms, prénoms, date et lieu de naissance, domicile et profession de chaque candidat.
+2° Les nom, prénoms, date et lieu de naissance, domicile et profession de chacun des candidats.
+
+Pour chaque tour de scrutin, la déclaration comporte la signature de chaque candidat, sauf, pour le second tour, lorsque la
+composition d'une liste n'a pas été modifiée.
 
 **Liens relatifs à cet article**
 
@@ -13924,14 +13943,19 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+  - Loi n°99-36 du 19 janvier 1999 - art. 5 ()
 
 _Cité par_:
 
   - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
   - Code électoral - art. L350 (V)
   - Code électoral - art. L372 (M)
+
+_Cite_:
+
+  - Code électoral - art. L338 (M)
+  - Code électoral - art. L346 (M)
+  - Code électoral - art. L348 (M)
 
 
 ###### Article L348
@@ -13965,14 +13989,18 @@ _Cité par_:
 
 ###### Article L350
 
-Les déclarations de candidature sont déposées au plus tard le quatrième lundi qui précède le jour du scrutin, à midi. Il en
-est donné récépissé provisoire.
+Pour le premier tour, les déclarations de candidature sont déposées au plus tard le quatrième lundi qui précède le jour du
+scrutin, à midi. Il en est donné récépissé provisoire.
 
-Elles sont enregistrées si les conditions prévues aux articles L. 339, L. 340 et L. 346 à L. 349 sont remplies. Le refus
-d'enregistrement est motivé.
+Elles sont enregistrées si les conditions prévues aux articles L. 339, L. 340, L. 341-1 et L. 346 à L. 348 sont remplies. Le
+refus d'enregistrement est motivé.
 
-Un récépissé définitif est délivré par le représentant de l'Etat dans le département, après enregistrement, au plus tard le
+Un récépissé définitif est délivré par le représentant de l'Etat dans la région, après enregistrement, au plus tard le
 quatrième vendredi qui précède le jour du scrutin, à midi.
+
+Pour le second tour, les déclarations de candidature sont déposées au plus tard le mardi suivant le premier tour, à dix-huit
+heures. Récépissé définitif est délivré immédiatement aux listes répondant aux conditions fixées aux articles L. 346 et L.
+347. Il vaut enregistrement. Le refus d'enregistrement est motivé.
 
 **Liens relatifs à cet article**
 
@@ -13986,14 +14014,16 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+  - Loi n°99-36 du 19 janvier 1999 - art. 6 ()
 
 _Cite_:
 
   - Code électoral - art. L339 (M)
   - Code électoral - art. L340 (M)
-  - Code électoral L339, L340, L346 à L349
+  - Code électoral - art. L341-1 (M)
+  - Code électoral - art. L346 (M)
+  - Code électoral - art. L347 (M)
+  - Code électoral L339, L340, L341-1, L346 à L348, L346, L347
 
 _Cité par_:
 
@@ -14002,16 +14032,24 @@ _Cité par_:
 
 ###### Article L351
 
-Le candidat placé en tête de liste, ou son mandataire, dispose d'un délai de quarante-huit heures pour contester le refus
-d'enregistrement devant le tribunal administratif, qui statue dans les trois jours. La décision du tribunal administratif ne
-peut être contestée qu'à l'occasion d'un recours contre l'élection.
+Pour les déclarations de candidature avant le premier tour, le candidat placé en tête de liste, ou son mandataire, dispose
+d'un délai de quarante-huit heures pour contester le refus d'enregistrement devant le tribunal administratif dans le ressort
+duquel se trouve le chef-lieu de la région, qui statue dans les trois jours. ;
 
-Lorsque le refus d'enregistrement est motivé par l'inobservation des dispositions des articles L. 339, L. 340 ou L. 348, la
-liste dispose de quarante-huit heures pour se compléter, à compter de ce refus ou de la décision du tribunal administratif
-confirmant le refus.
+Lorsque le refus d'enregistrement est motivé par l'inobservation des dispositions des articles L. 339, L. 340, L. 341-1 ou L.
+348, la liste dispose de quarante-huit heures pour se compléter, à compter de ce refus ou de la décision du tribunal
+administratif confirmant le refus.
 
 Dans le cas prévu à l'alinéa précédent, la candidature est enregistrée si le tribunal administratif, saisi par le candidat
 tête de liste ou son mandataire, n'a pas statué dans le délai prévu au premier alinéa.
+
+Pour les déclarations de candidature avant le second tour, le candidat placé en tête de liste, ou son mandataire, dispose
+d'un délai de vingt-quatre heures pour contester le refus d'enregistrement devant le tribunal administratif dans le ressort
+duquel se trouve le chef-lieu de la région, qui statue dans les vingt-quatre heures de la requête. Faute par le tribunal
+d'avoir statué dans ce délai, la candidature de la liste est enregistrée.
+
+Dans tous les cas, les décisions du tribunal administratif ne peuvent être contestées qu'à l'occasion d'un recours contre
+l'élection.
 
 **Liens relatifs à cet article**
 
@@ -14031,8 +14069,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+  - Loi n°99-36 du 19 janvier 1999 - art. 7 ()
 
 _Cite_:
 
@@ -14043,13 +14080,11 @@ _Cite_:
 
 ###### Article L352
 
-Aucun retrait de candidat n'est accepté après le dépôt de la liste.
+Aucun retrait volontaire ou remplacement de candidat n'est accepté après le dépôt d'une liste.
 
-Il n'est pas pourvu au remplacement d'un candidat décédé après ce dépôt.
-
-Les listes complètes peuvent être retirées au plus tard le quatrième samedi précédant le scrutin à midi. La déclaration de
-retrait est signée par la majorité des candidats de la liste. Le cautionnement est remboursé sur présentation de l'accusé de
-réception de la déclaration de retrait.
+Les listes complètes peuvent être retirées, avant le premier tour, au plus tard le quatrième samedi précédant le scrutin, à
+midi ; avant le second tour, avant l'expiration du délai de dépôt des candidatures. La déclaration de retrait est signée par
+la majorité des candidats de la liste. Il est donné récépissé des déclarations de retrait.
 
 **Liens relatifs à cet article**
 
@@ -14063,8 +14098,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+  - Loi n°99-36 du 19 janvier 1999 - art. 8 ()
 
 _Cité par_:
 
@@ -14075,8 +14109,7 @@ _Cité par_:
 
 ###### Article L353
 
-La campagne électorale est ouverte à partir du deuxième lundi qui précède le jour du scrutin et prend fin le samedi précédant
-le scrutin, à minuit.
+La campagne électorale est ouverte à partir du deuxième lundi qui précède le jour du scrutin.
 
 **Liens relatifs à cet article**
 
@@ -14094,8 +14127,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+  - Loi n°99-36 du 19 janvier 1999 - art. 9 ()
 
 
 ###### Article L354
@@ -14241,9 +14273,11 @@ _Cité par_:
 
 ###### Article L359
 
-Le recensement général des votes est effectué, pour chaque département, au chef-lieu du département, le lundi qui suit le
-scrutin, en présence des représentants des listes, par une commission dont la composition et le fonctionnement sont fixés par
-un décret en Conseil d'Etat.
+Le recensement des votes est fait, pour chaque département, au chef-lieu du département, en présence des représentants des
+listes, par une commission dont la composition et le fonctionnement sont fixés par décret en Conseil d'Etat.
+
+Le recensement général est fait par la commission, prévue par l'alinéa précédent, compétente pour le département où se trouve
+le chef-lieu de la région. Les résultats sont proclamés au plus tard à dix-huit heures, le lundi suivant le jour du scrutin.
 
 **Liens relatifs à cet article**
 
@@ -14265,8 +14299,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+  - Loi n°99-36 du 19 janvier 1999 - art. 10 ()
 
 
 #### Chapitre IX : Remplacement des conseillers régionaux<a id=111></a>
@@ -14282,9 +14315,10 @@ Le mandat de la personne ayant remplacé un conseiller régional dont le siège 
 renouvellement du conseil régional qui suit son entrée en fonction.
 
 Lorsque les dispositions du premier alinéa du présent article ne peuvent être appliquées, le siège demeure vacant jusqu'au
-prochain renouvellement du conseil régional. Toutefois, si le tiers des sièges de conseillers régionaux élus dans un
-département vient à être vacant par suite du décès de leurs titulaires, il est procédé au renouvellement intégral des
-conseillers régionaux élus dans ce département dans les trois mois qui suivent la dernière vacance pour cause de décès.
+prochain renouvellement du conseil régional. Toutefois, si le tiers des sièges d'un conseil régional vient à être vacant par
+suite du décès de leurs titulaires, il est procédé au renouvellement intégral du conseil régional dans les trois mois qui
+suivent la dernière vacance pour cause de décès, sauf le cas où le renouvellement général des conseils régionaux doit
+intervenir dans les trois mois suivant ladite vacance.
 
 **Liens relatifs à cet article**
 
@@ -14298,8 +14332,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+  - Loi n°99-36 du 19 janvier 1999 - art. 11 ()
 
 _Cité par_:
 
@@ -14314,14 +14347,14 @@ _Cité par_:
 ###### Article L361
 
 Les élections au conseil régional peuvent être contestées dans les dix jours suivant la proclamation des résultats par tout
-candidat ou tout électeur du département devant le Conseil d'Etat statuant au contentieux.
+candidat ou tout électeur de la région devant le Conseil d'Etat statuant au contentieux. 
 
-Le même droit est ouvert au représentant de l'Etat dans le département s'il estime que les conditions et les formes
-légalement prescrites n'ont pas été respectées.
+Le même droit est ouvert au représentant de l'Etat dans la région s'il estime que les formes et conditions légalement
+prescrites n'ont pas été respectées. 
 
 L'éligibilité d'un candidat devenu conseiller régional par application des dispositions du premier alinéa de l'article L. 360
 peut être contestée dans le délai de dix jours à compter de la date à laquelle ce candidat a remplacé le conseiller régional
-dont le siège est devenu vacant.
+dont le siège est devenu vacant. 
 
 La constatation par le Conseil d'Etat de l'inéligibilité d'un ou plusieurs candidats n'entraîne l'annulation de l'élection
 que du ou des élus inéligibles. Le Conseil d'Etat proclame en conséquence l'élection du ou des suivants de liste.
@@ -14338,8 +14371,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+  - Loi n°99-36 du 19 janvier 1999 - art. 12 ()
 
 _Cité par_:
 
@@ -14348,7 +14380,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code électoral - art. L360 (M)
+  - Code électoral - art. L360 (V)
 
 
 ###### Article L362
@@ -14374,8 +14406,8 @@ _Modifié par_:
 
 ###### Article L363
 
-En cas d'annulation de l'ensemble des opérations électorales dans un département, il est procédé à de nouvelles élections
-dans ce département dans un délai de trois mois.
+En cas d'annulation de l'ensemble des opérations électorales dans une région, il est procédé à de nouvelles élections dans
+cette région dans un délai de trois mois.
 
 **Liens relatifs à cet article**
 
@@ -14389,8 +14421,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+  - Loi n°99-36 du 19 janvier 1999 - art. 13 ()
 
 
 ### Titre II : Election des conseillers à l'Assemblée de Corse<a id=113></a>
@@ -14399,11 +14430,22 @@ _Modifié par_:
 
 ###### Article L364
 
-L'Assemblée de Corse est composée de cinquante et un membres élus pour six ans. Ils sont rééligibles.
+L'Assemblée de Corse est composée de cinquante et un membres élus pour la même durée que les conseillers régionaux. Ils sont
+rééligibles.
 
 Elle se renouvelle intégralement.
 
 Les élections ont lieu le même jour que les élections des conseils régionaux.
+
+**Nota:**
+
+Loi n° 2010-145 du 16 février 2010 article 2 : Par dérogation aux dispositions de l'article L. 336 du code électoral et du
+troisième alinéa de l'article L. 364 du même code, le mandat des conseillers régionaux et celui des membres de l'Assemblée de
+Corse élus en mars 2010 expireront en mars 2014.
+
+La loi n° 2010-145 du 16 février 2010 a été abrogée par le 1° de l'article 48 de la loi n° 2013-403 du 17 mai 2013. L'article
+47-II de la même loi stipule que par dérogation au code éléctoral le mandat des membres de l'Assemblée de Corse élus en mars
+2010 expirent en mars 2015.
 
 **Liens relatifs à cet article**
 
@@ -14417,8 +14459,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-  - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
+  - Loi n°99-36 du 19 janvier 1999 - art. 15 ()
 
 _Cité par_:
 
@@ -14467,12 +14508,14 @@ sous réserve de l'application des dispositions du troisième alinéa.
 
 Si aucune liste n'a recueilli au premier tour la majorité absolue des suffrages exprimés, il est procédé à un second tour. Il
 est attribué trois sièges à la liste qui a obtenu le plus de suffrages. En cas d'égalité de suffrages entre les listes
-arrivées en tête, ces trois sièges sont attribués à la liste dont les candidats ont la moyenne d'âge la plus élevée. Cette
+arrivées en tête, ces trois sièges sont attribués à la liste dont les candidats ont la moyenne d'âge la moins élevée. Cette
 attribution opérée, les autres sièges sont répartis conformément aux dispositions de la deuxième phrase de l'alinéa
 précédent.
 
-Les dispositions des deuxième et troisième alinéas de l'article L. 338 sont applicables à l'élection des conseillers à
-l'Assemblée de Corse.
+Les listes qui n'ont pas obtenu au moins 5 % des suffrages exprimés ne sont pas admises à la répartition des sièges.
+
+Les dispositions des deux derniers alinéas de l'article L. 338 sont applicables à l'élection des conseillers à l'Assemblée de
+Corse.
 
 **Liens relatifs à cet article**
 
@@ -14484,10 +14527,9 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-  - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
+  - Loi n°99-36 du 19 janvier 1999 - art. 16 ()
 
 _Cite_:
 
@@ -14617,44 +14659,10 @@ _Cité par_:
   - Code électoral - art. L372 (V)
 
 
-###### Article L371
-
-Les dispositions de l'article L. 349 sont applicables.
-
-Toutefois, aucun cautionnement n'est exigé des listes des candidats au second tour de scrutin.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
-_Créé par_:
-
-  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-  - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
-
-_Abrogé par_:
-
-  - Loi n°99-36 du 19 janvier 1999 - art. 18 (V)
-
-_Cité par_:
-
-  - Loi n°99-36 du 19 janvier 1999 - art. 18 (V)
-
-_Cite_:
-
-  - Code électoral - art. L349 (M)
-
-
 ###### Article L372
 
 Les déclarations de candidature sont déposées selon les modalités et dans les délais prévus à l'article L. 350. Elles sont
-enregistrées si elles satisfont aux conditions prévues aux articles L. 339, L. 340, L. 348, L. 349, L. 367 et L. 370.
+enregistrées si elles satisfont aux conditions prévues aux articles L. 339, L. 340, L. 348, L. 367 et L. 370.
 
 Les dispositions des articles L. 351 et L. 352 sont applicables.
 
@@ -14668,10 +14676,9 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-  - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
+  - Loi n°99-36 du 19 janvier 1999 - art. 18 (V)
 
 _Cité par_:
 
@@ -14682,7 +14689,6 @@ _Cite_:
   - Code électoral - art. L339 (M)
   - Code électoral - art. L340 (M)
   - Code électoral - art. L348 (M)
-  - Code électoral - art. L349 (M)
   - Code électoral - art. L350 (M)
   - Code électoral - art. L351 (M)
   - Code électoral - art. L352 (M)
@@ -14911,15 +14917,9 @@ _Cité par_:
 
 ###### Article L380
 
-Les dispositions de l'article L. 360 sont applicables dans les conditions suivantes :
-
-1° Les mots " en Corse ", " de l'Assemblée de Corse " et " conseiller à l'Assemblée de Corse " sont substitués respectivement
-aux mots " dans la région ", " du conseil régional " et " conseiller régional " ;
-
-2° La deuxième phrase du quatrième alinéa est ainsi rédigée :
-
-" Toutefois, si le tiers des sièges de l'Assemblée de Corse vient à être vacant par suite du décès de leur titulaire,
-l'Assemblée est intégralement renouvelée dans les trois mois de la dernière vacance ".
+Les dispositions de l'article L. 360 sont applicables dans les conditions suivantes : les mots : "en Corse", "de l'Assemblée
+de Corse" et "conseiller à l'Assemblée de Corse" sont substitués respectivement aux mots : "dans la région", "du conseil
+régional" ou "des conseils régionaux" et "conseiller régional".
 
 **Liens relatifs à cet article**
 
@@ -14931,17 +14931,16 @@ _Codifié par_:
 
   - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
 
-_Créé par_:
-
-  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-  - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
-
 _Cité par_:
 
   - Loi n°91-428 du 13 mai 1991 - art. 30 (Ab)
   - Code général des collectivités territoriales - art. L4422-14 (T)
   - Code général des collectivités territoriales - art. L4422-18 (VD)
   - Code électoral - art. L381 (VD)
+
+_Modifié par_:
+
+  - Loi n°99-36 du 19 janvier 1999 - art. 19 ()
 
 _Cite_:
 
