@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2002-02-28
+Version Consolidée au 2002-09-01
 ## Contenu: 
   - [Partie législative (art. L1 à L450)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -147,7 +147,7 @@ Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna (
           - [Section 4 : Contrôle des inscriptions sur les listes électorales (art. R*18 à R*22)](#143)
           - [Section 6 : Cartes électorales (art. R*23 à R*25)](#144)
         - [Chapitre V : Propagande (art. R26 à R39)](#145)
-        - [Chapitre V bis : Financement et plafonnement des dépenses électorales (art. R39-1 à R39-3)](#146)
+        - [Chapitre V bis : Financement et plafonnement des dépenses électorales (art. R39-1 à R39-5)](#146)
         - [Chapitre VI : Vote (art. R40 à R*93-3)](#147)
           - [Section 1 : Opérations préparatoires au scrutin (art. R40 à R41)](#148)
           - [Section 2 : Opérations de vote (art. R42 à R71)](#149)
@@ -20726,6 +20726,47 @@ _Modifié par_:
 _Cité par_:
 
   - Code électoral - art. R175-3 (V)
+
+
+###### Article R39-4
+
+Le président de la Commission nationale des comptes de campagne et des financements politiques est ordonnateur principal des
+recettes et des dépenses de la commission.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Cité par_:
+
+  - Décret n°97-673 du 31 mai 1997 - art. 3 (V)
+
+_Créé par_:
+
+  - Décret n°2002-1106 du 30 août 2002 - art. 1 ()
+
+
+###### Article R39-5
+
+Le président de la Commission nationale des comptes de campagne et des financements politiques émet, en qualité d'ordonnateur
+principal, les titres de perception nécessaires au recouvrement des sommes mentionnées au dernier alinéa de l'article L.
+52-15.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Décret n°2002-1106 du 30 août 2002 - art. 1 ()
+
+_Cite_:
+
+  - Code électoral - art. L52-15 (VT)
 
 
 #### Chapitre VI : Vote<a id=147></a>
