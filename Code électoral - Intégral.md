@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2002-09-01
+Version Consolidée au 2003-04-12
 ## Contenu: 
   - [Partie législative (art. L1 à L450)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -102,7 +102,7 @@ Version Consolidée au 2002-09-01
     - [Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse (art. L335 à L384)](#99)
       - [Titre Ier : Election des conseillers régionaux (art. L336 à L363)](#100)
         - [Chapitre Ier : Composition des conseils régionaux et durée du mandat des conseillers (art. L336 à L337)](#101)
-        - [Chapitre II : Mode de scrutin (art. L338)](#102)
+        - [Chapitre II : Mode de scrutin (art. L338 à L338-1)](#102)
         - [Chapitre III : Conditions d'éligibilité et inéligibilités (art. L339 à L341-1)](#103)
         - [Chapitre IV : Incompatibilités (art. L342 à L345)](#104)
         - [Chapitre V : Déclarations de candidature (art. L346 à L352)](#105)
@@ -246,7 +246,7 @@ Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna (
         - [Chapitre IV : Propagande (art. R277)](#242)
         - [Chapitre V : Opérations préparatoires au scrutin (art. R278)](#243)
         - [Chapitre VI : Opérations de vote (art. R279 à R283)](#244)
-  - [Annexes (art. Annexe tableau n° 1 à Annexe tableau n° 5)](#245)
+  - [Annexes (art. Annexe tableau n° 1 à Annexe tableau n° 7)](#245)
     - [Tableau des circonscriptions électorales des départements (élection des députés) (art. Annexe tableau n° 1)](#246)
     - [Tableau des circonscriptions électorales des départements (élection des députés) (1). (art. Annexe tableau n° 1 (suite))](#247)
     - [Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés). (art. Annexe tableau n° 1 bis)](#248)
@@ -254,6 +254,7 @@ Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna (
     - [Tableau des secteurs pour l'élection des conseillers municipaux de Lyon (art. Annexe tableau n° 3)](#250)
     - [Tableau des secteurs pour l'élection des conseillers municipaux de Marseille. (art. Annexe tableau n° 4)](#251)
     - [Election des sénateurs (art. Annexe tableau n° 5)](#252)
+    - [Effectif des conseils régionaux et nombre de candidats par section départementale (art. Annexe tableau n° 7)](#253)
 # Partie législative<a id=1></a>
 
 ## LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS<a id=2></a>
@@ -11745,14 +11746,14 @@ _Codifié par_:
 
 Les sénateurs sont élus dans chaque département par un collège électoral composé :
 
-1° des députés ;
+1° Des députés ;
 
-2° Des conseillers régionaux et des conseillers de l'Assemblée de Corse désignés dans les conditions prévues par le titre III
-bis du présent livre ;
+2° Des conseillers régionaux de la section départementale correspondant au département et des conseillers de l'Assemblée de
+Corse désignés dans les conditions prévues par le titre III bis du présent livre ;
 
-3° des conseillers généraux ;
+3° Des conseillers généraux ;
 
-4° des délégués des conseils municipaux ou des suppléants de ces délégués.
+4° Des délégués des conseils municipaux ou des suppléants de ces délégués.
 
 **Liens relatifs à cet article**
 
@@ -11771,13 +11772,9 @@ _Cité par_:
   - Code électoral - art. L556 (V)
   - Code électoral - art. L557 (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 87
-
 _Modifié par_:
 
-  - Loi n°99-36 du 19 janvier 1999 - art. 20 ()
+  - Loi n°2003-327 du 11 avril 2003 - art. 10 () JORF 12 avril 2003
 
 
 ###### Article L281
@@ -12186,12 +12183,8 @@ _Créé par_:
 
 ###### Article L293-1
 
-Dans le mois qui suit leur élection, les conseils régionaux et l'Assemblée de Corse procèdent à la répartition de leurs
-membres entre les collèges chargés de l'élection des sénateurs dans les départements compris dans les limites de la région ou
-de la collectivité territoriale de Corse.
-
-Le nombre de membres de chaque conseil régional à désigner pour faire partie de chaque collège électoral sénatorial est fixé
-par le tableau n° 7 annexé au présent code.
+Dans le mois qui suit son élection, l'Assemblée de Corse procède à la répartition de ses membres entre les collèges chargés
+de l'élection des sénateurs dans les départements de Corse-du-Sud et de Haute-Corse.
 
 Le nombre de membres de l'Assemblée de Corse à désigner pour faire partie des collèges électoraux sénatoriaux de la Corse-du-
 Sud et de la Haute-Corse est respectivement de vingt-quatre et de vingt-sept.
@@ -12208,19 +12201,15 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 87
-
 _Modifié par_:
 
-  - Loi n°99-36 du 19 janvier 1999 - art. 21 ()
+  - Loi n°2003-327 du 11 avril 2003 - art. 11 () JORF 12 avril 2003
 
 
 ###### Article L293-2
 
-Le conseil régional ou l'Assemblée de Corse désigne d'abord ses membres appelés à représenter la région ou la collectivité
-territoriale au sein du collège électoral du département le moins peuplé.
+L'Assemblée de Corse désigne d'abord ses membres appelés à représenter la collectivité territoriale au sein du collège
+électoral du département de Corse-du-Sud.
 
 Chaque conseiller ou groupe de conseillers peut présenter avec l'accord des intéressés une liste de candidats en nombre au
 plus égal à celui des sièges à pourvoir.
@@ -12228,16 +12217,11 @@ plus égal à celui des sièges à pourvoir.
 L'élection a lieu au scrutin de liste sans rature ni panachage. Les sièges sont répartis à la représentation proportionnelle
 selon la règle de la plus forte moyenne.
 
-Il est ensuite procédé de même pour désigner les conseillers appelés à faire partie du collège électoral des autres
-départements, dans l'ordre croissant de la population de ces derniers ; aucun conseiller déjà désigné pour faire partie du
-collège électoral d'un département ne peut être désigné pour faire partie d'un autre.
+Lorsque les opérations prévues aux alinéas précédents ont été achevées, les conseillers non encore désignés font de droit
+partie du collège électoral sénatorial du département de Haute-Corse.
 
-Lorsque les opérations prévues aux alinéas précédents ont été achevées pour tous les départements sauf un, il n'y a pas lieu
-de procéder à une dernière élection ; les conseillers non encore désignés font de droit partie du collège électoral
-sénatorial du département le plus peuplé.
-
-Celui qui devient membre du conseil régional ou de l'Assemblée de Corse entre deux renouvellements est réputé être désigné
-pour faire partie du collège électoral sénatorial du même département que le conseiller qu'il remplace.
+Celui qui devient membre de l'Assemblée de Corse entre deux renouvellements est réputé être désigné pour faire partie du
+collège électoral sénatorial du même département que le conseiller qu'il remplace.
 
 **Liens relatifs à cet article**
 
@@ -12250,20 +12234,16 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 87
-
 _Modifié par_:
 
-  - Loi n°99-36 du 19 janvier 1999 - art. 21 ()
+  - Loi n°2003-327 du 11 avril 2003 - art. 11 () JORF 12 avril 2003
 
 
 ###### Article L293-3
 
-Le représentant de l'Etat dans la région ou dans la collectivité territoriale de Corse notifie au représentant de l'Etat dans
-chaque département de la région ou de la collectivité territoriale les noms des conseillers désignés pour son département en
-vue de l'établissement du tableau des électeurs sénatoriaux mentionné à l'article L. 292.
+Le représentant de l'Etat dans la collectivité territoriale de Corse notifie au représentant de l'Etat dans chaque
+département de la collectivité territoriale les noms des conseillers désignés pour son département en vue de l'établissement
+du tableau des électeurs sénatoriaux mentionné à l'article L. 292.
 
 **Liens relatifs à cet article**
 
@@ -12271,13 +12251,9 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 87
-
 _Modifié par_:
 
-  - Loi n°99-36 du 19 janvier 1999 - art. 21 ()
+  - Loi n°2003-327 du 11 avril 2003 - art. 11 () JORF 12 avril 2003
 
 _Cite_:
 
@@ -14556,7 +14532,7 @@ _Modifié par_:
 
 ###### Article L336
 
-Les conseillers régionaux sont élus pour cinq ans ; ils sont rééligibles.
+Les conseillers régionaux sont élus pour six ans ; ils sont rééligibles.
 
 Les conseils régionaux se renouvellent intégralement.
 
@@ -14566,8 +14542,9 @@ Dans toutes les régions, les collèges électoraux sont convoqués le même jou
 
 **Nota:**
 
-Loi n° 99-36 1999-01-19 art. 27: Les dispositions de cet article entreront en vigueur pour le premier renouvellement général
-des conseils régionaux qui suivra la publication de la loi n° 99-36 du 19 janvier 1999.
+Loi n° 2010-145 du 16 février 2010 article 2 : Par dérogation aux dispositions de l'article L. 336 du code électoral et du
+troisième alinéa de l'article L. 364 du même code, le mandat des conseillers régionaux et celui des membres de l'Assemblée de
+Corse élus en mars 2010 expireront en mars 2014.
 
 **Liens relatifs à cet article**
 
@@ -14575,13 +14552,9 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
 _Modifié par_:
 
-  - Loi n°99-36 du 19 janvier 1999 - art. 1 ()
+  - Loi n°2003-327 du 11 avril 2003 - art. 1 () JORF 12 avril 2003
 
 _Cité par_:
 
@@ -14613,9 +14586,9 @@ _Modifié par_:
 
 ###### Article L338
 
-Les conseillers régionaux sont élus dans chaque région au scrutin de liste à deux tours, avec dépôt de listes comportant
-autant de candidats que de sièges à pourvoir, sans adjonction ni suppression de noms et sans modification de l'ordre de
-présentation.
+Les conseillers régionaux sont élus dans chaque région au scrutin de liste à deux tours sans adjonction ni suppression de
+noms et sans modification de l'ordre de présentation. Chaque liste est constituée d'autant de sections qu'il y a de
+départements dans la région.
 
 Au premier tour de scrutin, il est attribué à la liste qui a recueilli la majorité absolue des suffrages exprimés un nombre
 de sièges égal au quart du nombre des sièges à pourvoir, arrondi à l'entier supérieur. Cette attribution opérée, les autres
@@ -14625,17 +14598,15 @@ sous réserve de l'application du quatrième alinéa ci-après.
 Si aucune liste n'a recueilli la majorité absolue des suffrages exprimés au premier tour, il est procédé à un second tour. Il
 est attribué à la liste qui a obtenu le plus de voix un nombre de sièges égal au quart du nombre des sièges à pourvoir,
 arrondi à l'entier supérieur. En cas d'égalité de suffrages entre les listes arrivées en tête, ces sièges sont attribués à la
-liste dont les candidats ont la moyenne d'âge la moins élevée. Cette attribution opérée, les autres sièges sont répartis
-entre toutes les listes à la représentation proportionnelle suivant la règle de la plus forte moyenne, sous réserve de
+liste dont les candidats ont la moyenne d'âge la plus élevée. Cette attribution opérée, les autres sièges sont répartis entre
+toutes les listes à la représentation proportionnelle suivant la règle de la plus forte moyenne, sous réserve de
 l'application du quatrième alinéa ci-après.
 
-Les listes qui n'ont pas obtenu au moins 3 % des suffrages exprimés ne sont pas admises à la répartition des sièges.
-
-Les sièges sont attribués aux candidats dans l'ordre de présentation sur chaque liste.
+Les listes qui n'ont pas obtenu au moins 5 % des suffrages exprimés ne sont pas admises à la répartition des sièges.
 
 Si plusieurs listes ont la même moyenne pour l'attribution du dernier siège, celui-ci revient à la liste qui a obtenu le plus
-grand nombre de suffrages. En cas d'égalité de suffrages, le siège est attribué au moins âgé des candidats susceptibles
-d'être proclamés élus.
+grand nombre de suffrages. En cas d'égalité de suffrages, le siège est attribué au plus âgé des candidats susceptibles d'être
+proclamés élus.
 
 **Liens relatifs à cet article**
 
@@ -14643,19 +14614,48 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
 _Modifié par_:
 
-  - Loi n°99-36 du 19 janvier 1999 - art. 3 ()
+  - Loi n°2003-327 du 11 avril 2003 - art. 2 () JORF 12 avril 2003
 
 _Cité par_:
 
   - Code électoral - art. L338-1 (VD)
   - Code électoral - art. L347 (V)
   - Code électoral - art. L366 (V)
+
+
+###### Article L338-1
+
+Les sièges attribués à chaque liste en application de l'article L. 338 sont répartis entre les sections départementales qui
+la composent au prorata des voix obtenues par la liste dans chaque département. Cette attribution opérée, les sièges restant
+à attribuer sont répartis entre les sections départementales selon la règle de la plus forte moyenne. Si plusieurs sections
+départementales ont la même moyenne pour l'attribution du dernier siège, celui-ci revient à la section départementale qui a
+obtenu le plus grand nombre de suffrages. En cas d'égalité de suffrages, le siège est attribué au plus âgé des candidats
+susceptibles d'être proclamés élus. 
+
+Les sièges sont attribués aux candidats dans l'ordre de présentation sur chaque section départementale. 
+
+Lorsque la région est composée d'un seul département, les sièges sont attribués dans le ressort de la circonscription
+régionale selon les mêmes règles.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (VT)
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2003-327 du 11 avril 2003 - art. 3 () JORF 12 avril 2003
+
+_Cite_:
+
+  - Code électoral - art. L338 (V)
 
 
 #### Chapitre III : Conditions d'éligibilité et inéligibilités<a id=103></a>
@@ -14917,27 +14917,22 @@ _Modifié par_:
 
 ###### Article L346
 
-Une déclaration de candidature est obligatoire pour chaque liste de candidats avant chaque tour de scrutin. Sur chacune des
-listes, l'écart entre le nombre des candidats         de chaque sexe ne peut être supérieur à un. Au sein de chaque groupe
-entier de six candidats dans l'ordre de présentation de la liste doit figurer un nombre égal de candidats de chaque sexe.
+Une déclaration de candidature est obligatoire pour chaque liste de candidats avant chaque tour de scrutin. Le nombre de
+candidats figurant sur les sections départementales de chaque liste est fixé conformément au tableau n° 7 annexé au présent
+code. Au sein de chaque section, la liste est composée alternativement d'un candidat de chaque sexe.
 
-[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 98-407 DC du 14 janvier
-1999.]
-
-Seules peuvent se présenter au second tour les listes ayant obtenu au premier tour un nombre de suffrages au moins égal à 5 %
-du total des suffrages exprimés. La composition de ces listes peut être modifiée pour comprendre les candidats ayant figuré
-au premier tour sur d'autres listes, sous réserve que celles-ci aient obtenu au premier tour au moins 3 % des suffrages
-exprimés et ne se présentent pas au second tour. En cas de modification de la composition d'une liste, le titre de la liste
-et l'ordre de présentation des candidats peuvent également être modifiés.
+Seules peuvent se présenter au second tour les listes ayant obtenu au premier tour un nombre de suffrages au moins égal à 10
+% des suffrages exprimés. Dans le cas où une seule liste remplit cette condition, la liste ayant obtenu après celle-ci le
+plus grand nombre de suffrages au premier tour peut se maintenir au second. Dans le cas où aucune liste ne remplit cette
+condition, les deux listes ayant obtenu le plus grand nombre de suffrages au premier tour peuvent se maintenir au second. La
+composition de ces listes peut être modifiée pour comprendre les candidats ayant figuré au premier tour sur d'autres listes,
+sous réserve que celles-ci aient obtenu au premier tour au moins 5 % des suffrages exprimés et ne se présentent pas au second
+tour. En cas de modification de la composition d'une liste, le titre de la liste et l'ordre de présentation des candidats
+peuvent également être modifiés.
 
 Les candidats ayant figuré sur une même liste au premier tour ne peuvent figurer au second tour que sur une même liste. Le
 choix de la liste sur laquelle ils sont candidats au second tour est notifié à la préfecture de région par le candidat tête
 de la liste sur laquelle ils figuraient au premier tour.
-
-**Nota:**
-
-Loi 2000-493 2000-06-06 art. 17 : Les dispositions de cet article entreront en vigueur lors du prochain renouvellement
-intervenant à échéance normale des conseils et assemblées auxquels elles s'appliquent.
 
 **Liens relatifs à cet article**
 
@@ -14945,13 +14940,9 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
 _Modifié par_:
 
-  - Loi n°2000-493 du 6 juin 2000 - art. 5 ()
+  - Loi n°2003-327 du 11 avril 2003 - art. 4 () JORF 12 avril 2003
 
 _Cité par_:
 
@@ -14969,15 +14960,12 @@ Elle est faite collectivement pour chaque liste par le candidat tête de liste o
 
 1° Le titre de la liste présentée ;
 
-2° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chacun des candidats.
+2° Les nom et prénoms du candidat tête de liste ;
+
+3° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chacun des candidats.
 
 Pour chaque tour de scrutin, la déclaration comporte la signature de chaque candidat, sauf, pour le second tour, lorsque la
 composition d'une liste n'a pas été modifiée.
-
-**Nota:**
-
-Loi 2000-493 2000-06-06 art. 17 : Les dispositions de cet article entreront en vigueur lors du prochain renouvellement
-intervenant à échéance normale des conseils et assemblées auxquels elles s'appliquent.
 
 **Liens relatifs à cet article**
 
@@ -14985,13 +14973,9 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
 _Modifié par_:
 
-  - Loi n°2000-493 du 6 juin 2000 - art. 5 ()
+  - Loi n°2003-327 du 11 avril 2003 - art. 6 () JORF 12 avril 2003
 
 _Cité par_:
 
@@ -15080,21 +15064,21 @@ _Cité par_:
 
 ###### Article L351
 
-Pour les déclarations de candidature avant le premier tour, le candidat placé en tête de liste, ou son mandataire, dispose
+Pour les déclarations de candidature avant le premier tour, le candidat désigné tête de liste, ou son mandataire, dispose
 d'un délai de quarante-huit heures pour contester le refus d'enregistrement devant le tribunal administratif dans le ressort
-duquel se trouve le chef-lieu de la région, qui statue dans les trois jours. ;
+duquel se trouve le chef-lieu de la région, qui statue dans les trois jours. 
 
 Lorsque le refus d'enregistrement est motivé par l'inobservation des dispositions des articles L. 339, L. 340, L. 341-1 ou L.
 348, la liste dispose de quarante-huit heures pour se compléter, à compter de ce refus ou de la décision du tribunal
-administratif confirmant le refus.
+administratif confirmant le refus. 
 
 Dans le cas prévu à l'alinéa précédent, la candidature est enregistrée si le tribunal administratif, saisi par le candidat
-tête de liste ou son mandataire, n'a pas statué dans le délai prévu au premier alinéa.
+tête de liste ou son mandataire, n'a pas statué dans le délai prévu au premier alinéa. 
 
-Pour les déclarations de candidature avant le second tour, le candidat placé en tête de liste, ou son mandataire, dispose
-d'un délai de vingt-quatre heures pour contester le refus d'enregistrement devant le tribunal administratif dans le ressort
-duquel se trouve le chef-lieu de la région, qui statue dans les vingt-quatre heures de la requête. Faute par le tribunal
-d'avoir statué dans ce délai, la candidature de la liste est enregistrée.
+Pour les déclarations de candidature avant le second tour, le candidat désigné tête de liste, ou son mandataire, dispose d'un
+délai de vingt-quatre heures pour contester le refus d'enregistrement devant le tribunal administratif dans le ressort duquel
+se trouve le chef-lieu de la région, qui statue dans les vingt-quatre heures de la requête. Faute par le tribunal d'avoir
+statué dans ce délai, la candidature de la liste est enregistrée. 
 
 Dans tous les cas, les décisions du tribunal administratif ne peuvent être contestées qu'à l'occasion d'un recours contre
 l'élection.
@@ -15111,19 +15095,15 @@ _Cité par_:
   - Code électoral - art. L372 (V)
   - Code électoral - art. R184 (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
 _Modifié par_:
 
-  - Loi n°99-36 du 19 janvier 1999 - art. 7 ()
+  - Loi n°2003-327 du 11 avril 2003 - art. 7 () JORF 12 avril 2003
 
 _Cite_:
 
-  - Code électoral - art. L339 (M)
-  - Code électoral - art. L340 (M)
-  - Code électoral - art. L348 (M)
+  - Code électoral - art. L339 (V)
+  - Code électoral - art. L341-1 (V)
+  - Code électoral - art. L348 (V)
 
 
 ###### Article L352
@@ -15354,18 +15334,18 @@ _Modifié par_:
 
 ###### Article L360
 
-Le candidat venant sur une liste immédiatement après le dernier élu est appelé à remplacer le conseiller régional élu sur
-cette liste dont le siège devient vacant pour quelque cause que ce soit.
+Le candidat venant sur une liste immédiatement après le dernier élu dans la même section départementale est appelé à
+remplacer le conseiller régional élu sur cette liste dont le siège devient vacant pour quelque cause que ce soit. 
 
 Si le candidat ainsi appelé à remplacer le conseiller régional se trouve de ce fait dans l'un des cas d'incompatibilité
 mentionnés à l'article L. 46-1, il dispose d'un délai de trente jours à compter de la date de la vacance pour faire cesser
 l'incompatibilité en démissionnant de l'un des mandats visés par ces dispositions. A défaut d'option dans le délai imparti,
-le remplacement est assuré par le candidat suivant dans l'ordre de la liste.
+le remplacement est assuré par le candidat suivant dans l'ordre de la section départementale. 
 
-Le représentant de l'Etat dans la région notifie le nom de ce remplaçant au président du conseil régional.
+Le représentant de l'Etat dans la région notifie le nom de ce remplaçant au président du conseil régional. 
 
 Le mandat de la personne ayant remplacé un conseiller régional dont le siège était devenu vacant expire lors du
-renouvellement du conseil régional qui suit son entrée en fonction.
+renouvellement du conseil régional qui suit son entrée en fonction. 
 
 Lorsque les dispositions des premiers et deuxième alinéas du présent article ne peuvent être appliquées, le siège demeure
 vacant jusqu'au prochain renouvellement du conseil régional. Toutefois, si le tiers des sièges d'un conseil régional vient à
@@ -15379,13 +15359,9 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
 _Modifié par_:
 
-  - Loi n°2002-276 du 27 février 2002 - art. 63 ()
+  - Loi n°2003-327 du 11 avril 2003 - art. 8 () JORF 12 avril 2003
 
 _Cité par_:
 
@@ -15561,14 +15537,17 @@ sous réserve de l'application des dispositions du troisième alinéa.
 
 Si aucune liste n'a recueilli au premier tour la majorité absolue des suffrages exprimés, il est procédé à un second tour. Il
 est attribué trois sièges à la liste qui a obtenu le plus de suffrages. En cas d'égalité de suffrages entre les listes
-arrivées en tête, ces trois sièges sont attribués à la liste dont les candidats ont la moyenne d'âge la moins élevée. Cette
+arrivées en tête, ces trois sièges sont attribués à la liste dont les candidats ont la moyenne d'âge la plus élevée. Cette
 attribution opérée, les autres sièges sont répartis conformément aux dispositions de la deuxième phrase de l'alinéa
 précédent.
 
 Les listes qui n'ont pas obtenu au moins 5 % des suffrages exprimés ne sont pas admises à la répartition des sièges.
 
-Les dispositions des deux derniers alinéas de l'article L. 338 sont applicables à l'élection des conseillers à l'Assemblée de
-Corse.
+Les sièges sont attribués aux candidats dans l'ordre de présentation sur chaque liste.
+
+Si plusieurs listes ont la même moyenne pour l'attribution du dernier siège, celui-ci revient à la liste qui a obtenu le plus
+grand nombre de suffrages. En cas d'égalité de suffrages, le siège est attribué au plus âgé des candidats susceptibles d'être
+proclamés élus.
 
 **Liens relatifs à cet article**
 
@@ -15576,13 +15555,9 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
 _Modifié par_:
 
-  - Loi n°99-36 du 19 janvier 1999 - art. 16 ()
+  - Loi n°2003-327 du 11 avril 2003 - art. 9 () JORF 12 avril 2003
 
 _Cite_:
 
@@ -15978,19 +15953,30 @@ _Cité par_:
 
 ###### Article L380
 
-Les dispositions de l'article L. 360 sont applicables dans les conditions suivantes : les mots : "en Corse", "de l'Assemblée
-de Corse" et "conseiller à l'Assemblée de Corse" sont substitués respectivement aux mots : "dans la région", "du conseil
-régional" ou "des conseils régionaux" et "conseiller régional".
+Le candidat venant sur une liste immédiatement après le dernier élu est appelé à remplacer le conseiller de l'Assemblée de
+Corse élu sur cette liste dont le siège devient vacant pour quelque cause que ce soit. 
+
+Si le candidat ainsi appelé à remplacer le conseiller de l'Assemblée de Corse se trouve de ce fait dans l'un des cas
+d'incompatibilité mentionnés à l'article L. 46-1, il dispose d'un délai de trente jours à compter de la date de la vacance
+pour faire cesser l'incompatibilité en démissionnant de l'un des mandats visés par ces dispositions. A défaut d'option dans
+le délai imparti, le remplacement est assuré par le candidat suivant dans l'ordre de la liste. 
+
+Le représentant de l'Etat en Corse notifie le nom de ce remplaçant au président de l'Assemblée de Corse. 
+
+Le mandat de la personne ayant remplacé un conseiller de l'Assemblée de Corse dont le siège était devenu vacant expire lors
+du renouvellement de l'Assemblée de Corse qui suit son entrée en fonction. 
+
+Lorsque les dispositions des premier et deuxième alinéas ne peuvent être appliquées, le siège demeure vacant jusqu'au
+prochain renouvellement de l'Assemblée de Corse. Toutefois, si le tiers des sièges de l'Assemblée de Corse vient à être
+vacant par suite du décès de leurs titulaires, il est procédé au renouvellement intégral de l'Assemblée de Corse dans les
+trois mois qui suivent la dernière vacance pour cause de décès, sauf le cas où le renouvellement général de l'Assemblée de
+Corse doit intervenir dans les trois mois suivant ladite vacance.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
 
 _Cité par_:
 
@@ -16001,11 +15987,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°99-36 du 19 janvier 1999 - art. 19 ()
+  - Loi n°2003-327 du 11 avril 2003 - art. 9 () JORF 12 avril 2003
 
 _Cite_:
 
-  - Code électoral - art. L360 (M)
+  - Code électoral - art. L46-1 (VT)
 
 
 #### Chapitre X : Contentieux<a id=121></a>
@@ -32104,5 +32090,230 @@ _Modifié par_:
 
   - Loi n°66-504 du 12 juillet 1966, v. init.
   - Loi n°86-958 1986-08-13 art. 10 JORF 14 août 1986 rectificatif JORF du 1er octobre 1986
+
+
+## Effectif des conseils régionaux et nombre de candidats par section départementale<a id=253></a>
+
+###### Article Annexe tableau n° 7
+
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ RÉGION                   │ EFFECTIF global du conseil   │ DÉPARTEMENT            │ NOMBRE de candidats par section dépar- ┃
+┃                          │ régional                     │                        │ tementale                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Alsace                   │ 47                           │ Bas-Rhin               │ 29                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Haut-Rhin              │ 22                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Aquitaine                │ 85                           │ Dordogne               │ 14                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Gironde                │ 38                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Landes                 │ 12                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Lot-et-Garonne         │ 12                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Pyrénées-Atlantiques   │ 19                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Auvergne                 │ 47                           │ Allier                 │ 15                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Cantal                 │ 8                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Haute-Loire            │ 10                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Puy-de-Dôme            │ 22                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Bourgogne                │ 57                           │ Côte d'Or              │ 19                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Nièvre                 │ 11                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Saône-et-Loire         │ 21                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Yonne                  │ 14                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Bretagne                 │ 83                           │ Côte-d'Armor           │ 18                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Finistère              │ 27                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Ille-et-Vilaine        │ 26                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Morbihan               │ 20                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Centre                   │ 77                           │ Cher                   │ 13                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Eure-et-Loir           │ 15                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Indre                  │ 10                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Indre-et-Loire         │ 19                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Loir-et-Cher           │ 12                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Loiret                 │ 20                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Champagne-Ardenne        │ 49                           │ Ardennes               │ 13                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Aube                   │ 13                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Marne                  │ 21                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Haute-Marne            │ 10                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Franche-Comté            │ 43                           │ Territoire de Belfort  │ 8                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Doubs                  │ 20                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Jura                   │ 12                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Haute-Saône            │ 11                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Guadeloupe               │ 41                           │ Guadeloupe             │ 43                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Guyane                   │ 31                           │ Guyane                 │ 33                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Ile-de-France            │ 209                          │ Essonne                │ 23                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Hauts-de-Seine         │ 29                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Ville de Paris         │ 44                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Seine-et-Marne         │ 23                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Seine-Saint-Denis      │ 29                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Val-de-Marne           │ 26                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Val-d'Oise             │ 23                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Yvelines               │ 28                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Languedoc-Roussillon     │ 67                           │ Aude                   │ 12                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Gard                   │ 20                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Hérault                │ 26                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Lozère                 │ 5                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Pyrénées-Orientales    │ 14                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Limousin                 │ 43                           │ Corrèze                │ 16                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Creuse                 │ 10                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Haute-Vienne           │ 23                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Lorraine                 │ 73                           │ Meurthe et Moselle     │ 24                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Meuse                  │ 9                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Moselle                │ 33                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Vosges                 │ 15                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Martinique               │ 41                           │ Martinique             │ 43                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Midi-Pyrénées            │ 91                           │ Ariège                 │ 8                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Aveyron                │ 12                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Haute-Garonne          │ 34                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Gers                   │ 9                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Lot                    │ 8                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Hautes-Pyrénées        │ 11                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Tarn                   │ 15                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Tarn-et-Garonne        │ 10                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Basse-Normandie          │ 47                           │ Calvados               │ 23                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Manche                 │ 18                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Orne                   │ 12                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Haute-Normandie          │ 55                           │ Eure                   │ 19                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Seine-Maritime         │ 40                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Nord - Pas-de-Calais     │ 113                          │ Nord                   │ 74                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Pas-de-Calais          │ 43                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Pays de la Loire         │ 93                           │ Loire-Atlantique       │ 33                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Maine-et-Loire         │ 23                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Mayenne                │ 11                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Sarthe                 │ 18                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Vendée                 │ 18                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Picardie                 │ 57                           │ Aisne                  │ 19                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Oise                   │ 25                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Somme                  │ 19                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Poitou-Charentes         │ 55                           │ Charente               │ 14                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Charente-Maritime      │ 20                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Deux-Sèvres            │ 14                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Vienne                 │ 15                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Provence-Alpes-Côte      │ 123                          │ Alpes-de-Haute-Pro-    │ 7                                      ┃
+┃ d'Azur                   │                              │ vence                  │                                        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Hautes-Alpes           │ 6                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Alpes-Maritimes        │ 30                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Bouches-du-Rhône       │ 51                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Var                    │ 25                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Vaucluse               │ 16                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ La Réunion               │ 45                           │ La Réunion             │ 47                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Rhône-Alpes              │ 157                          │ Ain                    │ 16                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Ardèche                │ 11                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Drôme                  │ 14                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Isère                  │ 31                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Loire                  │ 24                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Rhône                  │ 45                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Savoie                 │ 13                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                          │                              │ Haute-Savoie           │ 19                                     ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964)
+
+_Modifié par_:
+
+  - Loi n°91-428 du 13 mai 1991 - art. 5 () JORF 14 mai 1991
+  - Loi n°91-428 du 13 mai 1991 - art. 86 (V) JORF 14 mai 1991
+  - Loi n°91-1384 du 31 décembre 1991 - art. 1 (P) JORF 1er janvier 1992
+  - Loi n°91-1384 du 31 décembre 1991 - art. 3 (P) JORF 1er janvier 1992
+  - Loi n°99-36 du 19 janvier 1999 - art. 26 () JORF 20 janvier 1999
+  - Loi n°2003-327 du 11 avril 2003 - art. 5 () JORF 12 avril 2003
 
 
