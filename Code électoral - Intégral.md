@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1990-12-13
+Version Consolidée au 1991-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L364)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -3739,9 +3739,10 @@ _Cite_:
 
 ###### Article L63
 
-L'urne électorale n'ayant qu'une ouverture destinée à laisser passer l'enveloppe contenant le bulletin de vote doit, avant le
-commencement du scrutin, avoir été fermée à deux serrures dissemblables, dont les clefs restent, l'une entre les mains du
-président, l'autre entre les mains d'un assesseur tiré au sort parmi l'ensemble des assesseurs.
+L'urne électorale est transparente. Cette urne n'ayant qu'une ouverture destinée à laisser passer l'enveloppe contenant le
+bulletin de vote doit, avant le commencement du scrutin, avoir été fermée à deux serrures dissemblables, dont les clefs
+restent, l'une entre les mains du président, l'autre entre les mains d'un assesseur tiré au sort parmi l'ensemble des
+assesseurs.
 
 Si, au moment de la clôture du scrutin, le président n'a pas les deux clefs à sa disposition, il prend toutes les mesures
 nécessaires pour procéder immédiatement à l'ouverture de l'urne.
@@ -3771,11 +3772,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°69-419 1969-05-10 art. 10 JORF 11 mai 1969
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°88-1262 1988-12-30 art. 38
+  - Loi n°88-1262 du 30 décembre 1988 - art. 8 () JORF 4 janvier 1989 en vigueur le 1er janvier 1991
 
 
 ###### Article L64
