@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1992-12-15
+Version Consolidée au 1993-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L385)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -9135,7 +9135,7 @@ Ne peuvent être conseillers municipaux :
 
 2° Ceux qui sont pourvus d'un conseil judiciaire ;
 
-3° Ceux qui sont dispensés de subvenir aux charges communales ;
+3° (Abrogé) ;
 
 4° Pour une durée d'un an, le maire qui n'a pas déposé l'une des déclarations prévues à l'article 2 de la loi n° 88-227 du 11
 mars 1988 relative à la transparence financière de la vie politique.
@@ -9146,13 +9146,13 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Modifié par_:
-
-  - Loi n°88-227 1988-03-11 art. 5 II JORF 12 mars 1988
-
 _Cite_:
 
   - Loi n°88-227 du 11 mars 1988 - art. 2 (M)
+
+_Modifié par_:
+
+  - Loi n°92-722 du 29 juillet 1992 - art. 22 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
 
 _Cité par_:
 
