@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1973-07-12
+Version Consolidée au 1974-07-07
 ## Contenu: 
   - [Partie législative (art. L1 à L334)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L251)](#2)
@@ -124,19 +124,6 @@ _Modifié par_:
 
   - Loi n°70-596 du 9 juillet 1970 - art. 3 () JORF 10 juillet 1970
   - Loi n°74-631 du 5 juillet 1974 - art. 2 () JORF 7 juillet 1974
-
-
-###### Article L3
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 du 27 octobre 1964, v. init.
-
-_Abrogé par_:
-
-  - Loi n°74-631 du 5 juillet 1974 - art. 3
 
 
 ###### Article L4
