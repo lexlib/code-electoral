@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2003-07-22
+Version Consolidée au 2003-07-31
 ## Contenu: 
   - [Partie législative (art. L1 à L450)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -97,7 +97,7 @@ Version Consolidée au 2003-07-22
         - [Chapitre II : Dispositions applicables à l'élection du député de Mayotte (art. L334-7 à LO334-7-1)](#94)
         - [Chapitre III : Dispositions applicables à l'élection des conseillers généraux de Mayotte (art. L334-8 à L334-12-2)](#95)
         - [Chapitre IV : Dispositions applicables à l'élection des conseillers municipaux de Mayotte (art. L334-13 à L334-14)](#96)
-        - [Chapitre V : Dispositions applicables à l'élection des sénateurs de Mayotte (art. L334-15 à L334-16)](#97)
+        - [Chapitre V : Dispositions applicables à l'élection des sénateurs de Mayotte (art. L334-15 à LO334-14-1)](#97)
         - [Chapitre VI : Conditions d'application (art. L334-17)](#98)
     - [Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse (art. L335 à L384)](#99)
       - [Titre Ier : Election des conseillers régionaux (art. L336 à L363)](#100)
@@ -133,7 +133,7 @@ Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna (
       - [Titre VI : Dispositions applicables à l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française (art. L428 à L438)](#129)
         - [Chapitre Ier : Nouvelle-Calédonie (art. L428 à L436)](#130)
         - [Chapitre II : Polynésie Française (art. L437 à L438)](#131)
-      - [Titre VII : Dispositions applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna (art. L439 à L448)](#132)
+      - [Titre VII : Dispositions applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna (art. L439 à LO438-3)](#132)
       - [Titre VIII : Conditions d'application (art. L449)](#133)
     - [Livre VI : Dispositions finales (art. L450)](#134)
   - [Partie réglementaire (art. R*1 à R283)](#135)
@@ -252,8 +252,9 @@ Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna (
     - [Tableau des secteurs pour l'élection des membres du conseil de Paris (art. Annexe tableau n° 2)](#248)
     - [Tableau des secteurs pour l'élection des conseillers municipaux de Lyon (art. Annexe tableau n° 3)](#249)
     - [Tableau des secteurs pour l'élection des conseillers municipaux de Marseille. (art. Annexe tableau n° 4)](#250)
-    - [Election des sénateurs (art. Annexe tableau n° 5)](#251)
-    - [Effectif des conseils régionaux et nombre de candidats par section départementale (art. Annexe tableau n° 7)](#252)
+    - [Election des sénateurs (art. Annexe tableau n° 5 à Annexe tableau n° 6)](#251)
+      - [Nombre de sénateurs représentant les départements (art. Annexe tableau n° 6)](#252)
+    - [Effectif des conseils régionaux et nombre de candidats par section départementale (art. Annexe tableau n° 7)](#253)
 # Partie législative<a id=1></a>
 
 ## LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS<a id=2></a>
@@ -11660,17 +11661,18 @@ _Cite_:
 
 ###### Article LO274
 
-Le nombre de sénateurs élus dans les départements est de trois cent quatre.
+Le nombre des sénateurs élus dans les départements est de trois cent vingt-six.
+
+**Nota:**
+
+Loi n° 2003-696 du 30 juillet 2003 art. 5 II : A titre transitoire, le nombre des sénateurs élus dans les départements sera
+de 313 en 2004, de 322 en 2007.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-**Liens**:
-
-  - TXT_ASSOCIE: Loi n°64-1084 1964-10-24
 
 _Cité par_:
 
@@ -11680,18 +11682,22 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi organique 86-957 1986-08-13 art. 3 JORF 14 août 1986
+  - Loi organique 2003-696 2003-07-30 art. 5 I JORF 31 juillet 2003
 
 
 ###### Article LO275
 
-Les sénateurs sont élus pour neuf ans.
+Les sénateurs sont élus pour six ans.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Modifié par_:
+
+  - Loi n°2003-696 du 30 juillet 2003 - art. 1 () JORF 31 juillet 2003
 
 _Cité par_:
 
@@ -12295,8 +12301,7 @@ _Cité par_:
 
 ###### Article L294
 
-Dans les départements qui ont droit à deux sièges de sénateurs ou moins, l'élection a lieu au scrutin majoritaire à deux
-tours.
+Dans les départements où sont élus trois sénateurs ou moins, l'élection a lieu au scrutin majoritaire à deux tours.
 
 Nul n'est élu sénateur au premier tour du scrutin s'il n'a réuni :
 
@@ -12312,13 +12317,9 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
-
 _Modifié par_:
 
-  - Loi n°2000-641 du 10 juillet 2000 - art. 9 () JORF 11 juillet 2000
+  - Loi n°2003-697 du 30 juillet 2003 - art. 5 () JORF 31 juillet 2003
 
 _Cité par_:
 
@@ -12327,18 +12328,10 @@ _Cité par_:
 
 ###### Article L295
 
-Dans les départements qui ont droit à trois sièges de sénateurs ou plus, l'élection a lieu à la représentation
-proportionnelle suivant la règle de la plus forte moyenne, sans panachage ni vote préférentiel.
+Dans les départements où sont élus quatre sénateurs ou plus, l'élection a lieu à la représentation proportionnelle suivant la
+règle de la plus forte moyenne, sans panachage ni vote préférentiel.
 
 Sur chaque liste, les sièges sont attribués aux candidats d'après l'ordre de présentation.
-
-**Nota:**
-
-(1) NOTA :
-
-En application de l'article 3 de la loi n° 66-504 du 12 juillet 1966, "par dérogation aux dispositions de l'article L. 294,
-est maintenu pour les départements nouveaux de l'Essonne, du Val-d'Oise et des Yvelines le mode d'attribution de sièges de
-l'ancien département de Seine-et-Oise, tel qu'il est déterminé à l'article L. 295 du code électoral".
 
 **Liens relatifs à cet article**
 
@@ -12350,27 +12343,23 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
 _Modifié par_:
 
-  - Loi n°2000-641 du 10 juillet 2000 - art. 10 () JORF 11 juillet 2000
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
+  - Loi n°2003-697 du 30 juillet 2003 - art. 6 () JORF 31 juillet 2003
 
 
 #### Chapitre II : Conditions d'éligibilité et inéligibilités<a id=74></a>
 
 ###### Article LO296
 
-Nul ne peut être élu au Sénat s'il n'est âgé de trente-cinq ans révolus.
+Nul ne peut être élu au Sénat s'il n'est âgé de trente ans révolus.
 
 Les autres conditions d'éligibilité et les inéligibilités sont les mêmes que pour l'élection à l'Assemblée nationale.
 
 Toutefois, pour l'application de l'alinéa précédent, n'est pas réputée faire acte de candidature contre un sénateur devenu
-membre du Gouvernement la personne qui a été appelée à le remplacer dans les conditions prévues à l'article L.O.319
+membre du Gouvernement la personne qui a été appelée à le remplacer dans les conditions prévues à l'article L. O. 319
 lorsqu'elle se présente sur la même liste que lui.
 
 **Liens relatifs à cet article**
@@ -12379,13 +12368,13 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Modifié par_:
-
-  - Loi n°79-633 1979-07-26 article unique JORF 17 juillet 1979
-
 _Cité par_:
 
   - Loi n°83-499 du 17 juin 1983 - art. 2 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-696 du 30 juillet 2003 - art. 4 () JORF 31 juillet 2003
 
 _Cite_:
 
@@ -14506,6 +14495,31 @@ _Cité par_:
 _Modifié par_:
 
   - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+
+
+###### Article LO334-14-1
+
+Deux sénateurs sont élus à Mayotte.
+
+Les dispositions organiques du Livre II du présent code sont applicables à l'élection des sénateurs de Mayotte.
+
+**Nota:**
+
+NOTA : Loi 2003-696 du 30 juillet 2003 art. 8 IIII : les dispositions de l'article 8 I prennent effet à compter du prochain
+renouvellement de la série à laquelle Mayotte appartient.
+
+Nota : Les dispositions de la loi 2004-404 du 10 mai 2004 art. 12 V modifiant l'article LO334-14-1 du code électoral prennent
+effet à compter du renouvellement de la série à laquelle Mayotte appartient. Ce dernier a eu lieu le 26 septembre 2004.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+
+_Créé par_:
+
+  - Loi n°2003-696 du 30 juillet 2003 - art. 8 (V) JORF 31 juillet 2003
 
 
 #### Chapitre VI : Conditions d'application<a id=98></a>
@@ -17977,36 +17991,6 @@ _Cite_:
   - Code électoral - art. L290 (V)
 
 
-###### Article L440
-
-La répartition des sièges de sénateurs s'effectue comme suit :
-
-Nouvelle-Calédonie : 1 ;
-
-Polynésie française : 1 ;
-
-Iles Wallis-et-Futuna : 1.
-
-**Nota:**
-
-Loi 2003-697 du 30 juillet 2003 art. 3 III : Cet article sera abrogé à compter du prochain renouvellement de la série à
-laquelle la Nouvelle-Calédonie et la Polynésie française appartiennent.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-_Créé par_:
-
-  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
-
-_Abrogé par_:
-
-  - Loi n°2003-697 2003-07-30 art. 3 I JORF 31 juillet 2003
-
-
 ###### Article L441
 
 Les sénateurs sont élus par un collège électoral composé :
@@ -18050,23 +18034,14 @@ _Cité par_:
 
 ###### Article L442
 
-Le renouvellement du sénateur de la Polynésie française et du sénateur des îles Wallis et Futuna a lieu à la même date que
-celui des sénateurs de la série A prévue à l'article LO 276 ; le renouvellement du sénateur de la Nouvelle-Calédonie a lieu à
-la même date que celui des sénateurs de la série B prévue au même article.
+Le renouvellement des sénateurs de la Polynésie française et du sénateur des îles Wallis et Futuna a lieu à la même date que
+celui des sénateurs de la série 2 prévue à l'article LO. 276 ; le renouvellement des sénateurs de la Nouvelle-Calédonie a
+lieu à la même date que celui des sénateurs de la série 1 prévue au même article.
 
 **Nota:**
 
-Loi 2003-697 du 30 juillet 2003 art. 3 II : L'article L. 442 du code électoral est ainsi modifié :
-
-1° Les mots : du sénateur de la Polynésie française et du sénateur de la Nouvelle-Calédonie sont remplacés respectivement par
-les mots :
-
-des sénateurs de la Polynésie française et des sénateurs de la Nouvelle-Calédonie ;
-
-2° Les mots : série A et série B sont remplacés respectivement par les mots : série 2 et série 1.
-
-Les dispositions du 1° prennent effet à compter du prochain renouvellement de la série à laquelle la Nouvelle-Calédonie et la
-Polynésie française appartiennent.
+Loi 2003-697 du 30 juillet 2003 art. 3 III : Les dispositions du 1° du II prennent effet à compter du prochain renouvellement
+de la série à laquelle la Nouvelle-Calédonie et la Polynésie française appartiennent. 
 
 Les dispositions du 2° prennent effet à compter du renouvellement partiel de 2010.
 
@@ -18076,9 +18051,13 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
+  - Loi n°2003-697 2003-07-30 art. 3 II JORF 31 juillet 2003
+
+_Cite_:
+
+  - Code électoral - art. LO276 (V)
 
 
 ###### Article L443
@@ -18212,6 +18191,113 @@ _Créé par_:
 _Cité par_:
 
   - Code électoral - art. R282 (V)
+
+
+###### Article LO438-1
+
+Deux sénateurs sont élus en Nouvelle-Calédonie. 
+
+Deux sénateurs sont élus en Polynésie française. 
+
+Un sénateur est élu dans les îles Wallis et Futuna.
+
+**Nota:**
+
+Loi 2003-696 du 30 juillet 2003 art. 6 III : Ces dispositions prennent effet pour la Nouvelle-Calédonie et la Polynésie
+française à compter du prochain renouvellement de la série à laquelle elles appartiennent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2003-696 du 30 juillet 2003 - art. 6 (V) JORF 31 juillet 2003
+
+
+###### Article LO438-2
+
+Les dispositions organiques du livre II, à l'exception de l'article LO 274, sont applicables à l'élection des sénateurs en
+Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna sous réserve des dispositions suivantes :
+
+1° Pour la Nouvelle-Calédonie, il y a lieu de lire :
+
+a) "Nouvelle-Calédonie" au lieu de : "département" ;
+
+b) "haut-commissaire de la République" et "services du haut-commissaire de la République" au lieu de : "préfecture" ;
+
+c) "commissaire délégué de la République" au lieu de :
+
+"sous-préfet".
+
+2° Pour la Polynésie française, il y a lieu de lire :
+
+a) "Polynésie française" au lieu de : "département" ;
+
+b) "haut-commissaire de la République" et "services du haut-commissaire de la République" au lieu de : "préfet" et
+"préfecture" ;
+
+c) "chef de subdivision administrative" au lieu de :
+
+"sous-préfet".
+
+3° Pour les îles Wallis et Futuna, il y a lieu de lire :
+
+a) "Wallis et Futuna" au lieu de : "département" ;
+
+b) "administrateur supérieur" et "services de l'administrateur supérieur" au lieu de : "préfet" et "préfecture" ;
+
+c) "chef de circonscription territoriale" au lieu de :
+
+"sous-préfet".
+
+**Nota:**
+
+NOTA : Loi 2003-696 du 30 juillet 2003 art. 6 III : Ces dispositions prennent effet pour la Nouvelle-Calédonie et la
+Polynésie française à compter du prochain renouvellement de la série à laquelle elles appartiennent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2003-696 du 30 juillet 2003 - art. 6 (V) JORF 31 juillet 2003
+
+_Cite_:
+
+  - Code électoral - art. LO274 (M)
+
+
+###### Article LO438-3
+
+Pour l'application des articles LO 131 et LO 133, un décret pris après avis conforme du Conseil d'Etat déterminera celles des
+fonctions exercées en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna qui sont assimilées,
+quelle que soit la collectivité dont elles relèvent, aux fonctions énumérées auxdits articles.
+
+**Nota:**
+
+Loi 2003-696 du 30 juillet 2003 art. 6 III : Ces dispositions prennent effet pour la Nouvelle-Calédonie et la Polynésie
+française à compter du prochain renouvellement de la série à laquelle elles appartiennent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2003-696 du 30 juillet 2003 - art. 6 (V) JORF 31 juillet 2003
+
+_Cite_:
+
+  - Code électoral - art. LO131 (V)
+  - Code électoral - art. LO133 (V)
 
 
 ### Titre VIII : Conditions d'application<a id=133></a>
@@ -32140,7 +32226,236 @@ _Modifié par_:
   - Loi n°86-958 1986-08-13 art. 10 JORF 14 août 1986 rectificatif JORF du 1er octobre 1986
 
 
-## Effectif des conseils régionaux et nombre de candidats par section départementale<a id=252></a>
+### Nombre de sénateurs représentant les départements<a id=252></a>
+
+###### Article Annexe tableau n° 6
+
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━┓
+┃ DÉPARTEMENTS            │ NOMBRE DE SÉNATEURS ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Ain                     │ 3                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Aisne                   │ 3                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Allier                  │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Alpes-de-Haute-Provence │ 1                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Alpes (Hautes-)         │ 1                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Alpes-Maritimes         │ 5                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Ardèche                 │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Ardennes                │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Ariège                  │ 1                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Aube                    │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Aude                    │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Aveyron                 │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Belfort (Territoire de) │ 1                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Bouches-du-Rhône        │ 8                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Calvados                │ 3                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cantal                  │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Charente                │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Charente-Maritime       │ 3                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cher                    │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Corrèze                 │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Corse-du-Sud            │ 1                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Haute-Corse             │ 1                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Côte d'Or               │ 3                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Côtes-d'Armor           │ 3                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Creuse                  │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Dordogne                │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Doubs                   │ 3                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Drôme                   │ 3                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Eure                    │ 3                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Eure-et-Loir            │ 3                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Finistère               │ 4                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Gard                    │ 3                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Garonne (Haute-)        │ 5                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Gers                    │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Gironde                 │ 6                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Hérault                 │ 4                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Ille-et-Vilaine         │ 4                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Indre                   │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Indre-et-Loire          │ 3                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Isère                   │ 5                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Jura                    │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Landes                  │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Loir-et-Cher            │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Loire                   │ 4                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Loire (Haute-)          │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Loire-Atlantique        │ 5                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Loiret                  │ 3                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Lot                     │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Lot-et-Garonne          │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Lozère                  │ 1                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Maine-et-Loire          │ 4                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Manche                  │ 3                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Marne                   │ 3                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Marne (Haute-)          │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Mayenne                 │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Meurthe-et-Moselle      │ 4                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Meuse                   │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Morbihan                │ 3                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Moselle                 │ 5                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Nièvre                  │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Nord                    │ 11                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Oise                    │ 4                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Orne                    │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Pas-de-Calais           │ 7                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Puy-de-Dôme             │ 3                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Pyrénées-Atlantiques    │ 3                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Pyrénées (Hautes-)      │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Pyrénées-Orientales     │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Rhin (Bas-)             │ 5                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Rhin (Haut-)            │ 4                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Rhône                   │ 7                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Saône (Haute-)          │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Saône-et-Loire          │ 3                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Sarthe                  │ 3                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Savoie                  │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Savoie (Haute-)         │ 3                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Seine-Maritime          │ 6                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Seine-et-Marne          │ 6                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Sèvres (Deux-)          │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Somme                   │ 3                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Tarn                    │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Tarn-et-Garonne         │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Var                     │ 4                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Vaucluse                │ 3                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Vendée                  │ 3                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Vienne                  │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Vienne (Haute-)         │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Vosges                  │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Yonne                   │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Guadeloupe              │ 3                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Guyane                  │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Martinique              │ 2                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Réunion                 │ 4                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Essonne                 │ 5                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Paris                   │ 12                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Hauts-de-Seine          │ 7                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Seine-Saint-Denis       │ 6                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Val-de-Marne            │ 6                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Val-d'Oise              │ 5                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Yvelines                │ 6                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Total                   │ 326                 ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
+
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964)
+
+_Modifié par_:
+
+  - Loi n°66-504 du 12 juillet 1966, v. init.
+  - Loi n°75-359 1975-05-15 art. 1 JORF 16 mai 1975
+  - Loi n°76-645 1976-07-16 art. 1 JORF 17 juillet 1976
+  - Loi n°76-1219 1976-12-28 art. 2 JORF 29 décembre 1976
+  - Loi n°86-958 1986-08-13 art. 11 JORF 14 août 1986
+  - Loi n°2003-697 du 30 juillet 2003 - art. 1 () JORF 31 juillet 2003
+
+
+## Effectif des conseils régionaux et nombre de candidats par section départementale<a id=253></a>
 
 ###### Article Annexe tableau n° 7
 
