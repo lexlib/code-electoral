@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1986-08-14
+Version Consolidée au 1986-10-01
 ## Contenu: 
   - [Partie législative (art. L1 à L364)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -147,10 +147,11 @@ Version Consolidée au 1986-08-14
       - [Chapitre V : Déclarations de candidatures (art. R183 à R184)](#144)
       - [Chapitre VI : Propagande (art. R185 à R186)](#145)
       - [Chapitre VI : Opérations de vote (art. R187 à R189)](#146)
-  - [Annexes (art. Annexe tableau n° 1 bis à Annexe tableau n° 3)](#147)
+  - [Annexes (art. Annexe tableau n° 1 bis à Annexe tableau n° 5)](#147)
     - [Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés). (art. Annexe tableau n° 1 bis)](#148)
     - [Tableau des secteurs pour l'élection des membres du conseil de Paris (art. Annexe tableau n° 2)](#149)
     - [Tableau des secteurs pour l'élection des conseillers municipaux de Lyon (art. Annexe tableau n° 3)](#150)
+    - [Election des sénateurs (art. Annexe tableau n° 5)](#151)
 # Partie législative<a id=1></a>
 
 ## LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS<a id=2></a>
@@ -18016,5 +18017,59 @@ _Modifié par_:
 
   - Loi n°75-1333 du 31 décembre 1975, art. 3 v. init.
   - Loi n°82-1170 1982-12-31 art. 4 JORF 1er janvier 1983
+
+
+## Election des sénateurs<a id=151></a>
+
+###### Article Annexe tableau n° 5
+
+(1) Répartition à titre transitoire des sièges de sénateurs entre les séries (2).
+
+REPRESENTATION DES DEPARTEMENTS :
+
+SERIE A : Ain à Indre, Guyane.
+
+SERIE B : Indre-et-Loire à Pyrénées-Orientales, Réunion.
+
+SERIE C : Bas-Rhin à Yonne, Essonne à Yvelines, Guadeloupe, Martinique.
+
+REPRESENTATION DE LA NOUVELLE-CALEDONIE, des collectivités d'outre-mer et des Français établis hors de France.
+
+SERIE A : Polynésie française, Iles Wallis et Futuna. Français établis hors de France.
+
+SERIE B : Nouvelle-Calédonie. Français établis hors de France.
+
+SERIE C : Mayotte. Saint-Pierre-et-Miquelon. Français établis hors de France.
+
+(1) Loi n° 2003-697 du 30 juillet 2003, article 2 :
+
+I. - La série 1 est composée des sièges de l'ancienne série B et des sièges des sénateurs de l'ancienne série C dont la durée
+du mandat a été fixée pour le renouvellement partiel de 2004 à six ans.
+
+La série 2 est composée des sièges de l'ancienne série A et des sièges des sénateurs de l'ancienne série C dont la durée du
+mandat a été fixée pour le renouvellement partiel de 2004 à neuf ans.
+
+II - Une loi votée avant le renouvellement partiel de 2004 mettra à jour le tableau n° 5 annexé au code électoral à la suite
+du découpage des séries 1 et 2 par tirage au sort.
+
+III - Les dispositions du I entreront en vigueur à compter du renouvellement partiel de 2010.
+
+(2) Loi n° 2003-697 du 30 juillet 2003, article 2-IV.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code électoral annexe
+  - Loi n°2003-697 2003-07-30 art. 2
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964)
+
+_Modifié par_:
+
+  - Loi n°66-504 du 12 juillet 1966, v. init.
+  - Loi n°86-958 1986-08-13 art. 10 JORF 14 août 1986 rectificatif JORF du 1er octobre 1986
 
 
