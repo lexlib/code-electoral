@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1985-10-01
+Version Consolidée au 1985-11-26
 ## Contenu: 
   - [Partie législative (art. L1 à L364)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -93,7 +93,7 @@ Version Consolidée au 1985-10-01
       - [Chapitre IX : Remplacement des conseillers régionaux (art. L360)](#90)
       - [Chapitre X : Contentieux (art. L361 à L363)](#91)
       - [Chapitre XI : Conditions d'applications (art. L364)](#92)
-  - [Partie réglementaire (art. R*1 à R*171)](#93)
+  - [Partie réglementaire (art. R*1 à R189)](#93)
     - [Livre Ier  : Election des députés, des conseillers généraux et des conseillers municipaux des départements (art. R*1 à R130)](#94)
       - [Titre Ier  : Dispositions communes à l'élection des députés, des conseillers généraux et des conseillers municipaux (art. R*1 à R97)](#95)
         - [Chapitre II : Listes électorales (art. R*1 à R*25)](#96)
@@ -138,10 +138,14 @@ Version Consolidée au 1985-10-01
         - [Chapitre V : Propagande (art. R*154 à R*161)](#135)
         - [Chapitre VI : Opérations préparatoires au scrutin (art. R*162)](#136)
         - [Chapitre VII : Opérations de vote (art. R*163 à R*171)](#137)
-  - [Annexes (art. Annexe tableau n° 1 bis à Annexe tableau n° 3)](#138)
-    - [Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés). (art. Annexe tableau n° 1 bis)](#139)
-    - [Tableau des secteurs pour l'élection des membres du conseil de Paris (art. Annexe tableau n° 2)](#140)
-    - [Tableau des secteurs pour l'élection des conseillers municipaux de Lyon (art. Annexe tableau n° 3)](#141)
+    - [Livre IV : Election des conseillers régionaux (art. R182 à R189)](#138)
+      - [Chapitre V : Déclarations de candidatures (art. R183 à R184)](#139)
+      - [Chapitre VI : Propagande (art. R185 à R186)](#140)
+      - [Chapitre VI : Opérations de vote (art. R187 à R189)](#141)
+  - [Annexes (art. Annexe tableau n° 1 bis à Annexe tableau n° 3)](#142)
+    - [Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés). (art. Annexe tableau n° 1 bis)](#143)
+    - [Tableau des secteurs pour l'élection des membres du conseil de Paris (art. Annexe tableau n° 2)](#144)
+    - [Tableau des secteurs pour l'élection des conseillers municipaux de Lyon (art. Annexe tableau n° 3)](#145)
 # Partie législative<a id=1></a>
 
 ## LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS<a id=2></a>
@@ -12779,7 +12783,7 @@ _Cite_:
 ###### Article R29
 
 Chaque candidat ou liste de candidats ne peut faire imprimer ou envoyer aux électeurs, avant chaque tour de scrutin, qu'une
-seule circulaire sur un feuillet de format 210 x 297 mm.
+seule circulaire sur un feuillet qui ne peut dépasser le format 210 x 297 mm.
 
 **Liens relatifs à cet article**
 
@@ -12820,8 +12824,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°72-1251 1972-12-29 art. 2 JORF 31 décembre 1972
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+  - Décret n°85-1235 1985-11-22 art. 5 JORF 26 novembre 1985
 
 
 ###### Article R30
@@ -13494,29 +13497,15 @@ _Modifié par_:
 Les bureaux de vote sont présidés par les maire, adjoints et conseillers municipaux dans l'ordre du tableau. A leur défaut,
 les présidents sont désignés par le maire parmi les électeurs de la commune.
 
-A Paris, les bureaux de vote sont présidés, dans chaque arrondissement : le bureau centralisateur par le maire, les autres
-successivement par les adjoints dans l'ordre de leur nomination et, à défaut, par des électeurs de l'arrondissement désignés
-par le maire (1).
-
 En cas d'absence, le président est remplacé par un suppléant désigné par lui parmi les conseillers municipaux ou les
 électeurs de la commune, ou, à défaut, par le plus âgé des assesseurs. Le suppléant exerce toutes les attributions du
 président. Le secrétaire est remplacé en cas d'absence par l'assesseur le plus jeune.
-
-**Nota:**
-
-Alinéa implicitement abrogé par l'article 33 de la loi n° 75-1331 du 31 décembre 1975 portant réforme du régime administratif
-de la ville de Paris (J.O. 3 janvier 1976).
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Décret n°67-1 1967-01-01 art. 2 JORF 3 janvier 1967
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
 
 _Cité par_:
 
@@ -13529,6 +13518,10 @@ _Cité par_:
   - CODE DES COMMUNES. - art. R*125-6 (Ab)
   - Code général des collectivités territoriales - art. R1112-6 (V)
   - Code électoral - art. R204 (VD)
+
+_Modifié par_:
+
+  - Décret n°85-1235 1985-11-22 art. 7 JORF 26 novembre 1985
 
 
 ###### Article R44
@@ -13543,11 +13536,7 @@ sont pris, jusqu'à concurrence de ce chiffre, parmi les conseillers municipaux 
 les électeurs présents sachant lire et écrire, selon l'ordre de priorité suivant :
 
 l'électeur le plus âgé s'il manque un assesseur, le plus âgé et le plus jeune s'il en manque deux, les deux plus âgés et le
-plus jeune s'il en manque trois, les deux plus âgés et les deux plus jeunes s'il en manque quatre;
-
-- à Paris, lorsque le nombre des assesseurs désignés par les candidats ou listes en présence est inférieur à quatre, les
-fonctions d'assesseurs sont remplies par les électeurs présents, sachant lire et écrire, désignés suivant l'ordre de priorité
-énoncé à l'alinéa précédent.
+plus jeune s'il en manque trois, les deux plus âgés et les deux plus jeunes s'il en manque quatre.
 
 **Liens relatifs à cet article**
 
@@ -13576,8 +13565,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°67-1 1967-01-01 art. 3 JORF 3 janvier 1967
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+  - Décret n°85-1235 1985-11-22 art. 7 JORF 26 novembre 1985
 
 
 ###### Article R45
@@ -14675,9 +14663,10 @@ _Cite_:
 ###### Article R*72
 
 Pour les personnes résidant en France, les procurations sont établies par acte dressé devant le juge du tribunal d'instance
-de leur résidence ou le juge qui en exerce les fonctions, ainsi que devant tout officier de police judiciaire, autre que les
-maires et leurs adjoints, que ce juge aura désigné. A la demande de ce magistrat, le premier président de la cour d'appel ou
-le président du tribunal supérieur d'appel peut désigner en outre d'autres magistrats en activité ou à la retraite.
+de leur résidence ou le juge qui en exerce les fonctions ou le greffier en chef de ce tribunal, ainsi que devant tout
+officier de police judiciaire, autre que les maires et leurs adjoints, que ce juge aura désigné. A la demande de ce
+magistrat, le premier président de la cour d'appel ou le président du tribunal supérieur d'appel peut désigner en outre,
+d'autres magistrats ou d'autres greffier en chef, en activité ou à la retraite.
 
 Les officiers de police judiciaire compétents pour établir les procurations, ou leurs délégués, se déplacent à la demande des
 personnes qui, en raison de maladies ou d'infirmités graves, ne peuvent manifestement comparaître devant eux.
@@ -14690,12 +14679,6 @@ du magistrat qui l'a désigné.
 _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Décret n°76-128 1976-02-06 art. 2 JORF 8 février 1976
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
-  - Décret n°77-134 1977-02-11 art. 3 JORF 13 février 1977
 
 _Cité par_:
 
@@ -14721,6 +14704,10 @@ _Cité par_:
   - Code électoral - art. R72-2 (V)
   - Code électoral - art. R73 (V)
   - Code électoral - art. R78 (V)
+
+_Créé par_:
+
+  - Décret n°85-1235 1985-11-22 art. 6 JORF 26 novembre 1985
 
 
 ###### Article R*72-1
@@ -15257,19 +15244,18 @@ _Cité par_:
 
 ###### Article R*98
 
-Les déclarations de candidatures à l'Assemblée nationale sont reçues dans les préfectures, pour le premier tour de scrutin, à
-partir du quatrième lundi qui précède le jour de l'élection et, pour le second tour, à partir de la proclamation des
-résultats par la commission de recensement général des votes.
+Les déclarations de candidatures à l'Assemblée nationale sont reçues dans les préfectures à partir du quatrième lundi qui
+précède le jour de l'élection.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+  - Décret n°85-1235 1985-11-22 art. 1 JORF 26 novembre 1985
 
 _Cité par_:
 
@@ -15292,22 +15278,14 @@ _Cité par_:
 
 ###### Article R*99
 
-Les déclarations de candidatures peuvent être rédigées sur papier libre. Elles doivent comporter, outre les mentions prévues
-aux articles L. 154 et L. 155, l'indication des listes électorales sur lesquelles le candidat et son remplaçant sont
-inscrits.
-
-S'ils sont naturalisés Français, les candidats et leurs remplaçants doivent préciser la date à laquelle ils ont acquis la
-nationalité française.
+La déclaration de candidature est rédigée sur papier libre. Elle comporte, outre les mentions prévues à l'article L. 155,
+l'indication de la liste électorale sur laquelle chacun des candidats est inscrit.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
 
 _Cité par_:
 
@@ -15323,16 +15301,19 @@ _Cité par_:
   - Code électoral - art. R191 (V)
   - Code électoral - art. R351 (V)
 
+_Modifié par_:
+
+  - Décret n°85-1235 1985-11-22 art. 1 JORF 26 novembre 1985
+
 _Cite_:
 
-  - Code électoral - art. L154 (M)
   - Code électoral - art. L155 (M)
 
 
 ###### Article R*100
 
-Les retraits de candidatures ne peuvent être présentés que jusqu'à la date limite fixée pour le dépôt des candidatures. Ils
-sont enregistrés comme les déclarations elles-mêmes.
+Tout retrait de liste, opéré dans les formes et délais prévus aux articles L. 157 et L. 162, est enregistrée commes les
+déclarations elles-mêmes.
 
 Le cautionnement est remboursé au candidat qui se retire, sur présentation de l'accusé de réception de la déclaration de
 retrait délivré par le commissaire de la République.
@@ -15341,30 +15322,35 @@ retrait délivré par le commissaire de la République.
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+  - Décret n°85-1235 1985-11-22 art. 1 JORF 26 novembre 1985
+
+_Cite_:
+
+  - Code électoral - art. L157 (M)
+  - Code électoral - art. L162 (M)
 
 
 ###### Article R*101
 
-La liste des candidats dont la déclaration de candidature a été définitivement enregistrée et de leurs remplaçants est
-arrêtée et publiée par le commissaire de la République.
+L'Etat des listes des candidats dont la déclaration a été définitivement enregistrée est arrêtée, dans l'ordre du dépôt des
+listes, par le commissaire de la République et publié deux semaines avant la date du scrutin.
 
-La publication doit intervenir, pour le premier tour, deux semaines avant la date du scrutin et, pour le second tour, le
-lendemain de la date limite fixée pour le dépôt des candidatures.
+Cet état indique pour chaque liste son titre ainsi que les noms et prénoms des candidats, énumérés dans l'ordre de leur
+présentation sur la liste, tel qu'il résulte de la déclaration.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+  - Décret n°85-1235 1985-11-22 art. 1 JORF 26 novembre 1985
 
 _Cité par_:
 
@@ -15374,49 +15360,41 @@ _Cité par_:
 
 ###### Article R*102
 
-Lorsqu'il y a lieu à application de l'article L. 163 la désignation du remplaçant doit être notifiée au commissaire de la
-République au plus tard le cinquième jour précédant le scrutin.
-
-Il est immédiatement procédé, dès enregistrement, à la publication du changement intervenu.
+Lorsqu'il y a lieu à application du premier alinéa de l'article L. 163, il est immédiatement procédé à la publication par le
+commissaire de la République de la modification intervenue.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
-
-_Cite_:
-
-  - Code électoral - art. L163 (M)
+  - Décret n°85-1235 1985-11-22 art. 1 JORF 26 novembre 1985
 
 _Cité par_:
 
   - Code électoral - art. R173-5 (V)
+
+_Cite_:
+
+  - Code électoral L163al. 1
 
 
 #### Chapitre VI : Propagande<a id=111></a>
 
 ###### Article R*103
 
-Tout bulletin de vote imprimé à l'occasion de l'élection des députés à l'Assemblée nationale doit comporter le nom du
-candidat et l'une des mentions suivantes : " remplaçant éventuel ", " remplaçant", " suppléant éventuel " ou personne appelée
-à remplacer le candidat élu dans les cas de vacance prévus par l'article L.O 176.
-
-Le nom du remplaçant doit être imprimé en caractères de moindres dimensions que celui du candidat.
+Sur tout bulletin de vote imprimé à l'occasion de l'élection des députés à l'Assemblée nationale, le nom des candidats
+figurant aux deux derniers rangs doit être imprimé en caractères de moindres dimensions que le nom des autres candidats de la
+liste.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
 
 _Cité par_:
 
@@ -15425,6 +15403,10 @@ _Cité par_:
   - Code électoral - art. R*104 (M)
   - Code électoral - art. R*105 (Ab)
   - Code électoral - art. R174 (M)
+
+_Modifié par_:
+
+  - Décret n°85-1235 1985-11-22 art. 2 JORF 26 novembre 1985
 
 _Cite_:
 
@@ -15435,24 +15417,41 @@ _Cite_:
 
 ###### Article R*104
 
-Les bulletins manuscrits sont valables s'ils comportent le nom du candidat pour lequel l'électeur désire voter, suivi du nom
-du remplaçant désigné par ce candidat sur sa déclaration de candidature.
+N'entrent pas en compte dans le résultat de dépouillement :
+
+- les bulletins établis au nom d'une liste qui n'a pas fait l'objet de la publication prévue à l'article R. 101 ;
+
+- les bulletins non conformes aux dispositions des articles L. 165 et R. 103 ;
+
+- les bulletins comportant adjonction ou suppression de nom ou modification de l'ordre de présentation des candidats ;
+
+- les bulletins manuscrits ;
+
+- les circulaires utilisées comme bulletins ;
+
+- les bulletins qui ne sont pas imprimés en caractères noirs.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
 
 _Cité par_:
 
   - Décret n°77-123 du 10 février 1977 - art. 6 (Ab)
   - Décret n°86-170 du 6 février 1986 - art. 9 (M)
   - Code électoral - art. R177 (V)
+
+_Modifié par_:
+
+  - Décret n°85-1235 1985-11-22 art. 3 JORF 26 novembre 1985
+
+_Cite_:
+
+  - Code électoral - art. L165 (M)
+  - Code électoral - art. R*101 (M)
+  - Code électoral - art. R*103 (M)
 
 **Liens**:
 
@@ -15461,50 +15460,50 @@ _Cité par_:
 
 ###### Article R*105
 
-N'entrent pas en compte dans le résultat du dépouillement :
-
-- les bulletins imprimés ne répondant pas aux conditions visées à l'article R.* 103;
-
-- les bulletins imprimés différents de ceux qui ont été produits par le candidat;
-
-- les bulletins établis au nom d'un candidat dont la déclaration de candidature n'a pas été définitivement enregistrée à la
-préfecture;
-
-- les bulletins manuscrits ne comportant qu'un seul nom, ou comportant l'indication d'un remplaçant autre que celui désigné
-par le candidat, ou sur lesquels le nom du remplaçant a été inscrit avant celui du candidat; les bulletins sur lesquels le
-nom du candidat ou du remplaçant a été rayé; les bulletins comportant un ou plusieurs noms autres que ceux du candidat et du
-remplaçant.
+Dès que le dépouillement est terminé, un exemplaire des procès-verbaux des opérations électorales de chaque commune,
+accompagné des pièces qui y sont réglementairement annexées, est scellé et transmis au président de la commission de
+recensement instituée par l'article L. 175 soit par porteur, soit sous pli postal recommandé.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+  - Décret n°85-1235 1985-11-22 art. 3 JORF 26 novembre 1985
 
 _Cite_:
 
-  - Code électoral - art. R*103 (M)
+  - Code électoral - art. L175 (M)
 
 
 ###### Article R*106
 
-Le deuxième exemplaire des procès-verbaux des opérations électorales de chaque commune est immédiatement scellé et transmis
-au commissaire de la République soit par porteur, soit sous pli postal recommandé pour être remis à la commission de
-recensement.
+Le recensement général des votes est effectué dès la fermeture du scrutin et au fur et à mesure de l'arrivée des procès-
+verbaux Il est achevé au plus tard le lundi qui suit le scrutin à minuit. Il est opéré, pour chaque département, par une
+commission instituée par arrêté du commissaire de la République.
+
+Cette commission comprend :
+
+- un magistrat désigné par le premier président de la cour d'appel, président ;
+
+- deux juges désignés par la même autorité :
+
+- un conseiller général et un fonctionnaire de préfecture désigné par le commissaire de la République.
+
+Un représentant de chacune des listes des candidats peut assister aux opérations de la commission.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+  - Décret n°85-1235 1985-11-22 art. 3 JORF 26 novembre 1985
 
 _Cité par_:
 
@@ -15517,31 +15516,13 @@ _Cité par_:
 
 ###### Article R*107
 
-Le recensement général des votes est effectué dès la fermeture du scrutin et au fur et à mesure de l'arrivée des procès-
-verbaux. Il est achevé au plus tard le lundi qui suit le scrutin à minuit. Il est opéré, pour chaque circonscription
-électorale, par une commission instituée par arrêté préfectoral.
-
-Cette commission comprend :
-
-- un magistrat désigné par le premier président de la cour d'appel, président;
-
-- deux juges désignés par la même autorité;
-
-- un conseiller général et un fonctionnaire de préfecture désignés par le commissaire de la République.
-
-Un représentant de chacun des candidats peut assister aux opérations de la commission.
-
-Une même commission peut effectuer le recensement des votes de deux ou de plusieurs circonscriptions.
+L'opération du recensement général des votes est constatée par un procès-verbal.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
 
 _Cité par_:
 
@@ -15557,20 +15538,25 @@ _Cité par_:
   - Code électoral - art. R292 (VT)
   - Code électoral - art. R357 (V)
 
+_Modifié par_:
+
+  - Décret n°85-1235 1985-11-22 art. 3 JORF 26 novembre 1985
+
 
 ###### Article R*108
 
-L'opération du recensement général des votes est constatée par un procès-verbal.
+La commission, après avoir procédé, s'il y a lieu, au redressement des chiffres portés sur les procès-verbaux, proclame les
+résultats en public.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+  - Décret n°85-1235 1985-11-22 art. 3 JORF 26 novembre 1985
 
 _Cité par_:
 
@@ -15581,18 +15567,24 @@ _Cité par_:
 
 ###### Article R*109
 
-La commission, après avoir procédé, s'il y a lieu, au redressement des chiffres portés sur les procès-verbaux, proclame les
-résultats en public.
+Dans le cas où l'élection a lieu au scrutin uninominal, elle est régie par les dispositions des articles R. 98 à R. 109 du
+présent code dans leur rédaction antérieure au décret n° 85-1235 du 22 novembre 1985 qui sont maintenues en vigueur à ce seul
+effet et annexées au présent code.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+
+_Cite_:
+
+  - Décret n°85-1235 1985-11-22
+  - Code électoral - art. R*98 (M)
 
 _Modifié par_:
 
-  - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
+  - Décret n°85-1235 1985-11-22 art. 4 JORF 26 novembre 1985
 
 _Cité par_:
 
@@ -16399,18 +16391,22 @@ _Cité par_:
 
 ###### Article R*134
 
-Les personnes appelées à remplacer les députés ou conseillers généraux dans les conditions prévues par les articles L. 282 et
-L. 287 doivent être désignées préalablement à l'élection des délégués ou suppléants.
+Les personnes appelées à remplacer les députés, les conseillers régionaux ou les conseillers généraux dans les conditions
+prévues par les articles L. 282 et L. 287 doivent être désignées préalablement à l'élection des délégués ou suppléants.
 
-Le maire désigne les remplaçants présentés par les députés ou les conseillers généraux en tant que délégués de droit du
-conseil municipal. Ces remplaçants doivent être inscrits sur la liste électorale de la commune intéressée.
+Le maire désigne les remplaçants présentés par les députés, les conseillers régionaux ou les conseillers généraux en tant que
+délégués de droit du conseil municipal. Ces remplaçants doivent être inscrits sur la liste électorale de la commune
+intéressée.
 
-Le président du conseil général désigne les remplaçants présentés par les conseillers généraux qui sont en même temps
+Le président du conseil général désigne les remplaçants présentés par les conseillers généraux qui sont en même temps députés
+ou conseillers généraux.
+
+Le président du conseil régional désigne les remplaçants présentés par les conseillers régionaux qui sont en même temps
 députés.
 
-Les désignations faites en vertu du présent article sont de droit. Le maire ou le président du conseil général en accuse
-réception aux députés ou aux conseillers généraux remplacés et les notifie au commissaire de la République dans les vingt-
-quatre heures.
+Les désignations faites en vertu du présent article sont de droit. Le maire, ou le président du conseil général ou le
+président du conseil régional en accuse réception aux députés, aux conseillers régionaux ou aux conseillers généraux
+remplacés et les notifie au commissaire de la République dans les vingt-quatre heures.
 
 **Liens relatifs à cet article**
 
@@ -16420,7 +16416,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+  - Décret n°85-1236 du 22 novembre 1985 - art. 2 () JORF 26 novembre 1985
 
 _Cite_:
 
@@ -16530,9 +16526,10 @@ _Modifié par_:
 
 ###### Article R*139
 
-Les députés et conseillers généraux peuvent voter par procuration, dans les conditions prévues par l'article L. 121-12 du
-code des communes : soit en cas de maladie récemment constatée, soit lorsqu'ils sont retenus hors de la commune par des
-obligations découlant de l'exercice de leur mandat ou de missions qui leur ont été confiées par le gouvernement.
+Les députés, conseillers régionaux et conseillers généraux peuvent voter par procuration, dans les conditions prévues par
+l'article L. 121-12 du code des communes : soit en cas de maladie récemment constatée, soit lorsqu'ils sont retenus hors de
+la commune par des obligations découlant de l'exercice de leur mandat ou de missions qui leur ont été confiées par le
+gouvernement.
 
 **Liens relatifs à cet article**
 
@@ -16542,7 +16539,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+  - Décret n°85-1236 du 22 novembre 1985 - art. 3 () JORF 26 novembre 1985
 
 _Cite_:
 
@@ -17132,15 +17129,15 @@ _Cité par_:
 
 ###### Article R*162
 
-Quatre jours francs au plus tard avant l'élection des sénateurs, le commissaire de la République dresse par ordre
-alphabétique la liste des électeurs du département.
+Quatre jours francs au plus tard avant l'élection des sénateurs, le préfet dresse par ordre alphabétique la liste des
+électeurs du département.
 
-Cette liste comprend les députés, les conseillers généraux et le délégués des communes ou, le cas échéant, leurs suppléants
-désignés dans les conditions prévues au titre III du présent livre.
+Cette liste comprend les députés, les conseillers régionaux, conseillers généraux et le délégués des communes ou, le cas
+échéant, leurs suppléants désignés dans les conditions prévues au titre III du présent livre.
 
 La liste est communiquée à tout requérant. Elle peut être copiée et publiée.
 
-Une carte d'un modèle spécial est adressée à chaque électeur par les soins du commissaire de la République.
+Une carte d'un modèle spécial est adressée à chaque électeur par les soins du préfet.
 
 **Liens relatifs à cet article**
 
@@ -17150,7 +17147,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°76-281 1976-03-18 art. 7 JORF 30 mars 1976
+  - Décret n°85-1236 du 22 novembre 1985 - art. 4 () JORF 26 novembre 1985
 
 _Cité par_:
 
@@ -17426,9 +17423,201 @@ _Cité par_:
   - TXT_ASSOCIE: Code électoral - art. L317 (V)
 
 
-# Annexes<a id=138></a>
+## Livre IV : Election des conseillers régionaux<a id=138></a>
 
-## Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés).<a id=139></a>
+###### Article R182
+
+Les conseillers régionaux et les membres de l'assemblée de Corse sont élus dans les conditions fixées par les dispositions du
+titre Ier (partie Réglementaire) du présent code et par les dispositions du présent livre.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code électoral Tivre Ier titre Ier
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Décret n°85-1236 du 22 novembre 1985 - art. 1 () JORF 26 novembre 1985
+
+
+### Chapitre V : Déclarations de candidatures<a id=139></a>
+
+###### Article R183
+
+Les déclarations de candidature sont reçues à la préfecture à compter du cinquième lundi qui précède le jour du scrutin.
+
+Elles sont rédigées sur papier libre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Décret n°85-1236 du 22 novembre 1985 - art. 1 () JORF 26 novembre 1985
+
+_Cité par_:
+
+  - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
+
+
+###### Article R184
+
+L'état des listes de candidats est arrêté, dans l'ordre du dépot des listes, par le commissaire de la République du
+département et publié au plus tard le troisième samedi qui précède le jour du scrutin.
+
+cet état indique pour chaque liste son titre ainsi que les noms et prénoms des candidats, énumérés dans l'ordre de leur
+présentation sur la liste, tel qu'il résulte de la déclaration.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Décret n°85-1236 du 22 novembre 1985 - art. 4 () JORF 26 novembre 1985
+
+_Cité par_:
+
+  - Code électoral - art. R186 (V)
+  - Code électoral - art. R187 (Ab)
+
+
+### Chapitre VI : Propagande<a id=140></a>
+
+###### Article R185
+
+Par dérogation aux dispositions de l'article R. 31, les commissions de propagande instituées par l'article L. 354 sont
+installées à compter du quatrième vendredi qui précède le jour du scrutin.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Décret n°85-1236 du 22 novembre 1985 - art. 1 () JORF 26 novembre 1985
+
+_Cite_:
+
+  - Code électoral - art. L354 (M)
+  - Code électoral - art. R31 (M)
+
+
+###### Article R186
+
+Les bulletins de vote comporte le titre de la liste ainsi que les noms et prénoms de chacun des candidats dans l'ordre de
+leur présentation sur la liste tel qu'il résulte de la publication prévue à l'article R. 184.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Décret n°85-1236 du 22 novembre 1985 - art. 1 () JORF 26 novembre 1985
+
+_Cite_:
+
+  - Code électoral - art. R184 (M)
+
+_Cité par_:
+
+  - Code électoral - art. R187 (Ab)
+
+
+### Chapitre VI : Opérations de vote<a id=141></a>
+
+###### Article R187
+
+N'entrent pas en compte dans le résultat du dépouillement :
+
+- les bulletins établis au nom d'une liste qui n'a pas fait l'objet de la publication prévue à l'article R. 184 ;
+
+- les bulletins non conformes aux dispositions de l'article R. 186 ;
+
+- les bulletins comportant adjonction ou suppression de nom ou modification de l'ordre de présentation des candidats ;
+
+- les bulletins manuscrits ;
+
+- les circulaires utilisées comme bulletin ;
+
+- les bulletins qui ne sont pas imprimés en caractère noirs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Décret n°85-1236 du 22 novembre 1985 - art. 1 () JORF 26 novembre 1985
+
+_Cite_:
+
+  - Code électoral - art. R184 (M)
+  - Code électoral - art. R186 (M)
+
+
+###### Article R188
+
+Dès que le dépouillement est terminé, un exemplaire des procès-verbaux des opérations électorales de chaque commune,
+accompagné des pièces qui y sont réglementairement annexées, est scellé et transmis au président de la commission de
+recensement instituée par l'article L. 359, soit par porteur, soit sous pli postal recommandé.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code électoral annexe, L359
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Décret n°85-1236 du 22 novembre 1985 - art. 1 () JORF 26 novembre 1985
+
+
+###### Article R189
+
+Les dispositions des articles R. 106 à R. 108 sont applicables à la composition et au fonctionnement de la commission
+instituée par l'article L. 359.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Décret n°85-1236 du 22 novembre 1985 - art. 1 () JORF 26 novembre 1985
+
+_Cite_:
+
+  - Code électoral - art. L359 (M)
+  - Code électoral L359, R106 à R108
+
+
+# Annexes<a id=142></a>
+
+## Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés).<a id=143></a>
 
 ###### Article Annexe tableau n° 1 bis
 
@@ -17472,7 +17661,7 @@ _Modifié par_:
   - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 () JORF 22 avril 2000
 
 
-## Tableau des secteurs pour l'élection des membres du conseil de Paris<a id=140></a>
+## Tableau des secteurs pour l'élection des membres du conseil de Paris<a id=144></a>
 
 ###### Article Annexe tableau n° 2
 
@@ -17545,7 +17734,7 @@ _Modifié par_:
   - Loi n°82-1170 1982-12-31 art. 4 JORF 1er janvier 1983
 
 
-## Tableau des secteurs pour l'élection des conseillers municipaux de Lyon<a id=141></a>
+## Tableau des secteurs pour l'élection des conseillers municipaux de Lyon<a id=145></a>
 
 ###### Article Annexe tableau n° 3
 
