@@ -1,12 +1,12 @@
 # Code électoral  
-Version Consolidée au 1998-05-26
+Version Consolidée au 1998-07-31
 ## Contenu: 
   - [Partie législative (art. L1 à L385)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
       - [Titre Ier : Dispositions communes à l'élection des députés, des conseillers généraux et des  conseillers municipaux (art. L1 à L118-3)](#3)
         - [Chapitre Ier : Conditions requises pour être électeur (art. L1 à L7)](#4)
         - [Chapitre II : Listes électorales (art. L9 à L43)](#5)
-          - [Section 1 : Conditions d'inscription sur une liste électorale (art. L9 à L15)](#6)
+          - [Section 1 : Conditions d'inscription sur une liste électorale (art. L9 à L15-1)](#6)
           - [Section 2 : Etablissement et révision des listes électorales (art. L16 à L29)](#7)
           - [Section 3 : Inscription en dehors des périodes de révision (art. L30 à L35)](#8)
           - [Section 4 : Contrôle des inscriptions sur les listes électorales (art. L36 à L40)](#9)
@@ -1113,6 +1113,37 @@ _Cité par_:
   - Code électoral - art. R5 (VD)
 
 
+###### Article L15-1
+
+Les citoyens qui ne peuvent fournir la preuve d'un domicile ou d'une résidence et auxquels la loi n'a pas fixé une commune de
+rattachement sont, sur leur demande, inscrits sur la liste électorale de la commune où est situé l'organisme d'accueil
+agréé :
+
+- dont l'adresse figure depuis au moins six mois sur leur carte nationale d'identité ;
+
+- ou qui leur a fourni une attestation établissant leur lien avec lui depuis au moins six mois.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°98-657 du 29 juillet 1998 - art. 81 ()
+
+_Cité par_:
+
+  - Arrêté du 16 octobre 2006 - art. 6 (V)
+  - Code électoral - art. L16 (VD)
+  - Code électoral - art. L18 (V)
+  - Code électoral - art. L388 (V)
+  - Code électoral - art. R1 (VD)
+  - Code électoral - art. R4-1 (Ab)
+  - Code électoral - art. R5 (VD)
+
+
 ##### Section 2 : Etablissement et révision des listes électorales<a id=7></a>
 
 ###### Article L16
@@ -1302,17 +1333,16 @@ _Abrogé par_:
 
 La commission administrative chargée de la révision de la liste électorale doit faire figurer sur cette dernière les nom,
 prénoms, domicile ou résidence de tous les électeurs. L'indication de domicile ou de résidence comporte obligatoirement
-l'indication de la rue et du numéro là où il en existe.
+l'indication de la rue et du numéro là où il en existe. 
+
+Toutefois, pour les électeurs mentionnés à l'article L. 15-1, l'indication du domicile ou de la résidence est remplacée par
+celle de l'adresse de l'organisme d'accueil au titre duquel ils ont été inscrits sur la liste électorale.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Loi n°69-419 1969-05-10 art. 3 JORF 11 mai 1969
 
 _Cité par_:
 
@@ -1340,6 +1370,14 @@ _Cité par_:
   - Code électoral - art. R53 (Ab)
   - Code électoral - art. R9 (VD)
   - Code électoral - art. R99 (V)
+
+_Modifié par_:
+
+  - Loi n°98-657 du 29 juillet 1998 - art. 81 ()
+
+_Cite_:
+
+  - Code électoral - art. L15-1 (V)
 
 
 ###### Article L19
