@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1996-04-11
+Version Consolidée au 1996-07-23
 ## Contenu: 
   - [Partie législative (art. L1 à L385)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -9422,16 +9422,15 @@ _Cite_:
 
 ###### Article L237
 
-Les fonctions de conseiller municipal sont incompatibles avec celles :
+Les fonctions de conseiller municipal sont incompatibles avec celles : 
 
-1° De commissaire ou commissaire-adjoint de la République et de secrétaire général de préfecture;
+1° De préfet ou sous-préfet et de secrétaire général de préfecture ; 
 
-2° De fonctionnaire des corps actifs de police appartenant aux corps des commandants et officiers de paix, des inspecteurs de
-police et des commissaires de police.
+2° De fonctionnaire des corps de conception et de direction et de commandement et d'encadrement de la police nationale ; 
 
 3° De représentant légal des établissements communaux ou intercommunaux mentionnés aux 1°, 2° et 3° de l'article 2 de la loi
 n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière dans la ou les
-communes de rattachement de l'établissement où il est affecté.
+communes de rattachement de l'établissement où il est affecté. 
 
 Les personnes désignées à l'article L. 46 et au présent article qui seraient élues membres d'un conseil municipal auront, à
 partir de la proclamation du résultat du scrutin, un délai de dix jours pour opter entre l'acceptation du mandat et la
@@ -9446,7 +9445,7 @@ _Codifié par_:
 
 _Cite_:
 
-  - Loi n°86-33 1986-01-09 art. 2
+  - Loi n°86-33 du 9 janvier 1986 - art. 2 (V)
   - Code électoral - art. L46 (V)
 
 **Liens**:
@@ -9455,7 +9454,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°91-748 du 31 juillet 1991 - art. 21 (V) JORF 2 août 1991
+  - Loi n°96-647 du 22 juillet 1996 - art. 24 () JORF 23 juillet 1996
 
 _Cité par_:
 
