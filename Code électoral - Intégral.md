@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 1993-01-05
+Version Consolidée au 1993-01-30
 ## Contenu: 
   - [Partie législative (art. L1 à L385)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -2659,12 +2659,12 @@ compte de campagne du candidat tête de liste lorsque le candidat qu'elle a sout
 L'association ne peut recueillir de fonds que pendant la période prévue à l'article L. 52-4.
 
 Elle est dissoute de plein droit trois mois après le dépôt du compte de campagne du candidat qu'elle soutient. Avant
-l'expiration de ce délai, elle est tenue de se prononcer sur la dévolution de son actif net. Celui-ci doit être attribué soit
-à une autre association de financement électorale, soit à une association de financement d'un parti politique, soit à un ou
-plusieurs établissements reconnus d'utilité publique. A défaut de décision de dévolution dans les conditions et délais prévus
-ci-dessus, à la demande du préfet du département dans lequel est situé le siège de l'association de financement électorale,
-le procureur de la République saisit le président du tribunal de grande instance, qui détermine le ou les établissements
-reconnus d'utilité publique attributaires de l'actif net. Il en va de même dans le cas où la dévolution n'est pas acceptée.
+l'expiration de ce délai, elle est tenue de se prononcer sur la dévolution de son actif net. Celui-ci doit être attribué,
+soit à une association de financement d'un parti politique, soit à un ou plusieurs établissements reconnus d'utilité
+publique. A défaut de décision de dévolution dans les conditions et délais prévus ci-dessus, à la demande du préfet du
+département dans lequel est situé le siège de l'association de financement électorale, le procureur de la République saisit
+le président du tribunal de grande instance, qui détermine le ou les établissements reconnus d'utilité publique attributaires
+de l'actif net. Il en va de même dans le cas où la dévolution n'est pas acceptée.
 
 Si le candidat soutenu par l'association de financement électorale n'a pas déposé sa candidature, l'association est dissoute
 de plein droit à l'expiration du délai de dépôt des candidatures. La dévolution de l'actif net, sur laquelle l'association
@@ -2700,9 +2700,9 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°90-55 du 15 janvier 1990 - art. 1 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+  - Loi n°93-122 du 29 janvier 1993 - art. 7 () JORF 30 janvier 1993
 
 _Cite_:
 
@@ -2726,12 +2726,11 @@ l'a mandaté, ou bien, si le candidat n'a pas déposé sa candidature dans les d
 des candidatures.
 
 Au terme de son mandat, le mandataire remet au candidat un bilan comptable de son activité. Lorsqu'un solde positif apparaît,
-il est dévolu, sur décision du candidat, soit à une association de financement électorale, soit à une association de
-financement d'un parti politique, soit à un ou plusieurs établissements reconnus d'utilité publique. A défaut de décision de
-dévolution dans les conditions et délais prévus ci-dessus, à la demande du préfet du département dans lequel est domicilié le
-candidat, le procureur de la République saisit le président du tribunal de grande instance qui détermine le ou les
-établissements reconnus d'utilité publique attributaires de l'actif net. Il en va de même lorsque la dévolution n'est pas
-acceptée.
+il est dévolu, sur décision du candidat, soit à une association de financement d'un parti politique, soit à un ou plusieurs
+établissements reconnus d'utilité publique. A défaut de décision de dévolution dans les conditions et délais prévus ci-
+dessus, à la demande du préfet du département dans lequel est domicilié le candidat, le procureur de la République saisit le
+président du tribunal de grande instance qui détermine le ou les établissements reconnus d'utilité publique attributaires de
+l'actif net. Il en va de même lorsque la dévolution n'est pas acceptée.
 
 **Liens relatifs à cet article**
 
@@ -2752,9 +2751,9 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°90-55 du 15 janvier 1990 - art. 1 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+  - Loi n°93-122 du 29 janvier 1993 - art. 7 ()
 
 _Cite_:
 
@@ -2798,14 +2797,16 @@ _Créé par_:
 ###### Article L52-8
 
 Les dons consentis par des personnes dûment identifiées pour le financement de la campagne d'un candidat ou de plusieurs
-candidats lors d'une même élection ne peuvent excéder [*montant*] 30 000 F s'ils émanent d'une personne physique et 10 p. 100
-du plafond des dépenses électorales dans la limite de 500 000 F s'ils émanent d'une personne morale autre qu'un parti ou
-groupement politique.
+candidats lors d'une même élection ne peuvent excéder 30 000 F s'ils émanent d'une personne physique et 10 % du plafond des
+dépenses électorales dans la limite de 500 000 F s'ils émanent d'une personne morale autre qu'un parti ou groupement
+politique. La liste exhaustive des personnes morales, à l'exception des partis ou groupements politiques, qui ont consenti
+des dons à un candidat est jointe au compte de campagne du candidat prévu par l'article L. 52-12, avec l'indication du
+montant de chacun de ces dons. "
 
 Tout don de plus de 1 000 F consenti à un candidat en vue de sa campagne doit être versé par chèque.
 
-Le montant global des dons en espèces faits au candidat ne peut excéder 20 p. 100 du montant des dépenses autorisées lorsque
-ce montant est égal ou supérieur à 100 000 F en application de l'article L. 52-11.
+Le montant global des dons en espèces faits au candidat ne peut excéder 20 % du montant des dépenses autorisées lorsque ce
+montant est égal ou supérieur à 100 000 F en application de l'article L. 52-11.
 
 Les personnes morales de droit public, les personnes morales de droit privé dont la majorité du capital appartient à une ou
 plusieurs personnes morales de droit public ou les casinos, cercles et maisons de jeux ne peuvent effectuer, directement ou
@@ -2836,9 +2837,9 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°90-55 du 15 janvier 1990 - art. 1 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+  - Loi n°93-122 du 29 janvier 1993 - art. 9 ()
 
 _Cite_:
 
@@ -2991,8 +2992,8 @@ Election des conseillers :
 
 - régionaux : 2.
 
-Le plafond des dépenses pour l'élection des députés est de 500 000 F par candidat. Il est ramené à 400 000 F dans les
-circonscriptions dont la population est inférieure à 80 000 habitants.
+" Le plafond des dépenses pour l'élection des députés est de 250 000 F par candidat. Il est majoré de 1 F par habitant de la
+circonscription. "
 
 Les plafonds définis pour l'élection des conseillers régionaux sont applicables à l'élection des conseillers à l'Assemblée de
 Corse.
@@ -3049,7 +3050,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°91-428 du 13 mai 1991 - art. 9 () JORF 14 mai 1991
+  - Loi n°93-122 du 29 janvier 1993 - art. 10 ()
 
 _Cite_:
 
@@ -3079,7 +3080,9 @@ période mentionnée à l'article L. 52-4 doit être déduite des charges retrac
 Le compte de campagne et ses annexes sont transmis à la Commission nationale des comptes de campagne et des financements
 politiques.
 
-La commission assure la publication des comptes de campagne dans une forme simplifiée.
+La commission assure la publication des comptes de campagne dans une forme simplifiée. Pour chaque candidat, la publication
+comporte la liste exhaustive des personnes morales qui lui ont consenti des dons, avec l'indication du montant de chacun de
+ces dons. "
 
 **Liens relatifs à cet article**
 
@@ -3119,9 +3122,9 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°90-55 du 15 janvier 1990 - art. 1 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+  - Loi n°93-122 du 29 janvier 1993 - art. 9 ()
 
 _Cite_:
 
@@ -7211,8 +7214,8 @@ ainsi que celles qui résultent de leur fonctionnement.
 En outre, il est remboursé aux candidats ayant obtenu au moins 5 % des suffrages exprimés le coût du papier, l'impression des
 bulletins de vote, affiches, circulaires ainsi que les frais d'affichage.
 
-Les autres dépenses électorales des candidats ayant obtenu au moins 5 % des suffrages exprimés au premier tour font l'objet
-d'un remboursement forfaitaire de la part de l'Etat égal au dixième du plafond prévu à l'article L. 52-11.
+Les autres dépenses électorales des candidats ayant obtenu au moins 5 p. 100 des suffrages exprimés au premier tour font
+l'objet d'un remboursement forfaitaire de la part de l'Etat égal au cinquième du plafond prévu à l'article L. 52-11.
 
 Ce remboursement ne peut excéder le montant des dépenses du candidat, retracées dans son compte de campagne.
 
@@ -7228,7 +7231,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°90-55 du 15 janvier 1990 - art. 8 (V) JORF 16 janvier 1990 en vigueur le 1er septembre 1990
+  - Loi n°93-122 du 29 janvier 1993 - art. 12 ()
 
 _Cité par_:
 
