@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2005-02-12
+Version Consolidée au 2005-05-07
 ## Contenu: 
   - [Partie législative (art. L1 à L450)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -13944,10 +13944,6 @@ _Cite_:
 
 ###### Article L334-3-1
 
-Pour l'application à Saint-Pierre-et-Miquelon de l'article L. 290, il y a lieu de lire : " de l'article L. 121-5 du code des
-communes applicable localement " au lieu de : " des articles L. 2121-35 et L. 2121-36 du code général des collectivités
-territoriales ".
-
 Le dernier alinéa de l'article L. 284 du présent code n'est pas applicable à Saint-Pierre-et-Miquelon.
 
 **Liens relatifs à cet article**
@@ -13958,18 +13954,19 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Ordonnance n°2005-432 du 6 mai 2005 - art. 30 (V) JORF 7 mai 2005
 
 _Cité par_:
 
   - Ordonnance n°2005-432 du 6 mai 2005 - art. 30 (V)
 
+_Abrogé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
+
 _Cite_:
 
   - Code électoral - art. L284 (M)
-  - Code électoral - art. L290 (M)
-  - Code général des collectivités territoriales - art. L2121-35 (V)
-  - Code général des collectivités territoriales - art. L2121-36 (V)
 
 
 ###### Article LO334-2
