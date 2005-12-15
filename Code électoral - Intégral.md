@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2005-05-14
+Version Consolidée au 2005-12-16
 ## Contenu: 
   - [Partie législative (art. L1 à L450)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -254,9 +254,10 @@ Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna (
     - [Tableau des secteurs pour l'élection des membres du conseil de Paris (art. Annexe tableau n° 2)](#250)
     - [Tableau des secteurs pour l'élection des conseillers municipaux de Lyon (art. Annexe tableau n° 3)](#251)
     - [Tableau des secteurs pour l'élection des conseillers municipaux de Marseille. (art. Annexe tableau n° 4)](#252)
-    - [Election des sénateurs (art. Annexe tableau n° 5 à Annexe tableau n° 6)](#253)
-      - [Nombre de sénateurs représentant les départements (art. Annexe tableau n° 6)](#254)
-    - [Effectif des conseils régionaux et nombre de candidats par section départementale (art. Annexe tableau n° 7)](#255)
+    - [Répartition des sièges de sénateurs entre les séries (art. Annexe tableau n° 5)](#253)
+    - [Election des sénateurs (art. Annexe tableau n° 6)](#254)
+      - [Nombre de sénateurs représentant les départements (art. Annexe tableau n° 6)](#255)
+    - [Effectif des conseils régionaux et nombre de candidats par section départementale (art. Annexe tableau n° 7)](#256)
 # Partie législative<a id=1></a>
 
 ## LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS<a id=2></a>
@@ -13638,12 +13639,11 @@ _Abrogé par_:
 Les dispositions du livre II du présent code sont applicables à l'élection du sénateur de Saint-Pierre-et-Miquelon.
 
 Le renouvellement du mandat du sénateur de Saint-Pierre-et-Miquelon a lieu à la même date que celui du mandat des sénateurs
-de la série C mentionnée à l'article L.O. 276 du présent code.
+de la série 1 mentionnée à l'article L.O. 276 du présent code.
 
 **Nota:**
 
-NOTA : Les dispositions de la loi 2005-1563 du 15 décembre 2005 art. 5, prennent effet à compter du renouvellement partiel de
-2011.
+Les dispositions de la loi 2005-1563 du 15 décembre 2005 art. 5, prennent effet à compter du renouvellement partiel de 2011.
 
 **Liens relatifs à cet article**
 
@@ -13651,9 +13651,13 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
 
+**Liens**:
+
+  - SPEC_APPLI: Entrée en vigueur indéterminée, renouvellement partiel de 2011
+
 _Modifié par_:
 
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
+  - Loi n°2005-1563 du 15 décembre 2005 - art. 5 () JORF 16 décembre 2005
 
 _Abrogé par_:
 
@@ -14294,16 +14298,12 @@ _Abrogé par_:
 Les dispositions du livre II du présent code sont applicables à l'élection des sénateurs de Mayotte, à l'exclusion de
 l'article L. 280.
 
-Le renouvellement du mandat des sénateurs de Mayotte a lieu à la même date que celui des sénateurs de la série C prévue à
+Le renouvellement du mandat des sénateurs de Mayotte a lieu à la même date que celui des sénateurs de la série 1 prévue à
 l'article LO 276 du code électoral.
 
 **Nota:**
 
-Nota : Les dispositions de la loi 2004-404 du 10 mai 2004 art. 12 V modifiant l'article L334-15 du code électoral, prennent
-effet à compter du renouvellement de la série à laquelle Mayotte appartient. Ce dernier a eu lieu le 26 septembre 2004.
-
-Nota : Loi 2005-1563 du 15 décembre 2005 art. 5 : Ces dispositions prennent effet à compter du renouvellement partiel de
-2011.
+Loi 2005-1563 du 15 décembre 2005 art. 5 : Ces dispositions prennent effet à compter du renouvellement partiel de 2011.
 
 **Liens relatifs à cet article**
 
@@ -14313,7 +14313,7 @@ _Codifié par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Fin d'application, renouvellement partiel de 2011
+  - SPEC_APPLI: Entrée en vigueur, renouvellement partiel de 2011
 
 _Cité par_:
 
@@ -14321,7 +14321,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2004-404 du 10 mai 2004 - art. 12 () JORF 11 mai 2004
+  - Loi n°2005-1563 du 15 décembre 2005 - art. 5 () JORF 16 décembre 2005
 
 _Abrogé par_:
 
@@ -32445,7 +32445,7 @@ _Modifié par_:
   - Loi n°87-509 1987-07-09 art. 1 JORF 11 juillet 1987
 
 
-## Election des sénateurs<a id=253></a>
+## Répartition des sièges de sénateurs entre les séries<a id=253></a>
 
 ###### Article Annexe tableau n° 5
 
@@ -32510,7 +32510,7 @@ Français établis hors de France : 4
 
 = 127
 
-II. - A compter du renouvellement partiel de 2007, le tableau précité est ainsi rédigé :
+II. - A compter du renouvellement partiel de 2008, le tableau précité est ainsi rédigé :
 
 Représentation des départements
 
@@ -32570,7 +32570,7 @@ Français établis hors de France : 4
 
 = 127
 
-III. - A compter du renouvellement partiel de 2010, le tableau précité est ainsi rédigé :
+III. - A compter du renouvellement partiel de 2011, le tableau précité est ainsi rédigé :
 
 Représentation des départements
 
@@ -32628,10 +32628,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-404 du 10 mai 2004 - art. 1 () JORF 11 mai 2004
+  - Loi n°2005-1563 du 15 décembre 2005 - art. 6 () JORF 16 décembre 2005
 
 
-### Nombre de sénateurs représentant les départements<a id=254></a>
+## Election des sénateurs<a id=254></a>
+
+### Nombre de sénateurs représentant les départements<a id=255></a>
 
 ###### Article Annexe tableau n° 6
 
@@ -32860,7 +32862,7 @@ _Modifié par_:
   - Loi n°2003-697 du 30 juillet 2003 - art. 1 () JORF 31 juillet 2003
 
 
-## Effectif des conseils régionaux et nombre de candidats par section départementale<a id=255></a>
+## Effectif des conseils régionaux et nombre de candidats par section départementale<a id=256></a>
 
 ###### Article Annexe tableau n° 7
 
