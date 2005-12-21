@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2005-12-16
+Version Consolidée au 2005-12-22
 ## Contenu: 
   - [Partie législative (art. L1 à L450)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -229,7 +229,7 @@ Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna (
         - [Chapitre IV : Opérations de vote et recensement (art. R238 à R241)](#225)
       - [Titre IV : Dispositions applicables à l'élection des représentants à l'assemblée de la Polynésie française (art. R242 à R253)](#226)
         - [Chapitre Ier : Candidatures et bulletins de vote (art. R242 à R246)](#227)
-        - [Chapitre II : Propagande (art. R247 à R249)](#228)
+        - [Chapitre II : Propagande (art. R247 à R249-1)](#228)
         - [Chapitre III : Opérations de vote et recensement (art. R250 à R253)](#229)
       - [Titre V : Dispositions applicables à l'élection des membres de l'assemblée territoriale des îles  Wallis et Futuna (art. R254 à R264)](#230)
         - [Chapitre Ier : Candidatures et bulletins de vote (art. R254 à R258)](#231)
@@ -28904,6 +28904,26 @@ _Modifié par_:
 _Cité par_:
 
   - Code électoral - art. R250 (V)
+
+
+###### Article R249-1
+
+Les déclarations individuelles de rattachement des représentants à l'assemblée de la Polynésie française prévues à l'article
+L. 414 sont recueillies par le haut-commissaire, qui les adresse au Conseil supérieur de l'audiovisuel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Décret n°2005-1611 du 20 décembre 2005 - art. 32 () JORF 22 décembre 2005
+
+_Cite_:
+
+  - Code électoral - art. L414 (V)
 
 
 #### Chapitre III : Opérations de vote et recensement<a id=229></a>
