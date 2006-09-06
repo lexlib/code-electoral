@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2006-06-02
+Version Consolidée au 2006-09-07
 ## Contenu: 
   - [Partie législative (art. L1 à L450)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -21176,18 +21176,17 @@ _Modifié par_:
 Le mandataire prévu par le premier alinéa de l'article L. 52-4 délivre à chaque donateur, quel que soit le montant du don
 consenti, un reçu détaché d'une formule numérotée, éditée par la Commission nationale des comptes de campagne et des
 financements politiques. Le reçu est produit à l'appui de toute déclaration qui ouvre droit à une réduction de l'impôt sur le
-revenu, au titre du 2 bis de l'article 200 du code général des impôts.
+revenu, au titre du 2 bis de l'article 200 du code général des impôts. 
 
 Les souches des reçus utilisés sont jointes aux comptes de campagne soumis au contrôle de la commission nationale ; elles
-sont accompagnées d'un relevé du compte bancaire ou postal unique ouvert par le mandataire, attestant la réalité de
-l'encaissement des fonds correspondants ; les reçus non utilisés sont retournés à la commission, avec les souches
-correspondantes.
+sont accompagnées d'un relevé du compte bancaire unique ouvert par le mandataire, attestant la réalité de l'encaissement des
+fonds correspondants ; les reçus non utilisés sont retournés à la commission, avec les souches correspondantes. 
 
 La souche et le reçu mentionnent le montant et la date du versement ainsi que l'identité et l'adresse du domicile fiscal du
-donateur. Le reçu est signé par le donateur.
+donateur. Le reçu est signé par le donateur. 
 
 Le reçu ne comporte le nom et l'adresse du mandataire prévu au premier alinéa de l'article L. 52-4 que lorsque le montant du
-don excède 3 000 euros.
+don excède 3 000 euros. 
 
 La Commission nationale des comptes de campagne et des financements politiques peut mettre en cause la validité du reçu
 délivré par le mandataire et enregistré par elle si elle constate, lors du contrôle du compte de campagne, une irrégularité
@@ -21195,20 +21194,19 @@ au regard des dispositions des articles L. 52-4 à L. 52-13 et L. 52-16.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 200
-  - Code électoral - art. L52-16 (V)
-  - Code électoral - art. L52-4 (M)
-  - Code électoral L52-4, L52-4 à L52-13, L52-16
-
 _Codifié par_:
 
   - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
 _Modifié par_:
 
-  - Décret n°2001-183 du 22 février 2001 - art. 1 ()
+  - Décret n°2006-1115 du 5 septembre 2006 - art. 2 () JORF 7 septembre 2006
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 200 (VT)
+  - Code électoral - art. L52-16 (V)
+  - Code électoral - art. L52-4 (VT)
 
 _Cité par_:
 
