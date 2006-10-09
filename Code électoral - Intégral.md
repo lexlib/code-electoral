@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2006-09-07
+Version Consolidée au 2006-10-10
 ## Contenu: 
   - [Partie législative (art. L1 à L450)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -829,7 +829,7 @@ _Cite_:
 
 L'inscription sur les listes électorales est obligatoire.
 
-Des décrets pris en conseil des ministres règlent les conditions d'application du présent article.
+Des décrets en Conseil d'Etat règlent les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -841,6 +841,10 @@ _Cité par_:
 
   - Loi n°82-471 du 7 juin 1982 - art. 2 (M)
   - Décret n°2018-286 du 19 avril 2018 - art. 2 (V)
+
+_Modifié par_:
+
+  - Décret n°2006-1231 du 9 octobre 2006 - art. 1 () JORF 10 octobre 2006
 
 
 ###### Article L10
