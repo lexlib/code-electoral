@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2007-01-24
+Version Consolidée au 2007-01-26
 ## Contenu: 
   - [Partie législative (art. L1 à L450)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -27283,9 +27283,8 @@ _Modifié par_:
 
 ###### Article R204
 
-I. - Les dispositions du titre Ier du livre Ier du présent code (partie Réglementaire), à l'exception de l'article R. 4-1 et
-des chapitres III et IV, sont applicables, dans leur rédaction en vigueur à la date du décret n° 2004-191 du 27 février
-2004 :
+I. - Les dispositions du titre Ier du livre Ier du présent code (partie Réglementaire), à l'exception des articles R. 4-1 et
+des chapitres III et IV, sont applicables, dans leur rédaction en vigueur à la date du décret n° 2007-99 du 25 janvier 2007 :
 
 1° A l'élection des députés en Nouvelle-Calédonie et en Polynésie française ;
 
@@ -27296,7 +27295,7 @@ des chapitres III et IV, sont applicables, dans leur rédaction en vigueur à la
 4° A l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française.
 
 II. - Les dispositions du titre Ier du livre Ier du présent code (partie Réglementaire) sont applicables, dans leur rédaction
-en vigueur à la date du décret n° 2004-191 du 27 février 2004, dans les îles Wallis et Futuna :
+en vigueur à la date du décret n° 2007-99 du 25 janvier 2007, dans les îles Wallis et Futuna :
 
 1° A l'exception des articles R. 20 à R. 22, R. 43 et R. 60, à l'élection du député ;
 
@@ -27310,7 +27309,7 @@ _Codifié par_:
 
 _Cite_:
 
-  - Décret n°2004-191 2004-02-27
+  - Décret n°2007-99 2007-01-25
   - Code électoral - art. R*4-1 (M)
   - Code électoral - art. R43 (M)
   - Code électoral - art. R60 (M)
@@ -27318,7 +27317,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2004-327 2004-04-14 art. 1 2° JORF 16 avril 2004
+  - Décret n°2007-99 du 25 janvier 2007 - art. 1 () JORF 26 janvier 2007
 
 _Cité par_:
 
@@ -27662,8 +27661,8 @@ _Créé par_:
 ###### Article R214
 
 Les dispositions du titre II du livre Ier du présent code (partie réglementaire), à l'exception des articles R. 98, R. 106 et
-du premier alinéa de l'article R. 107, sont applicables, dans leur rédaction en vigueur à la date du décret n° 2004-191 du 27
-février 2004, à l'élection des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
+du premier alinéa de l'article R. 107, sont applicables, dans leur rédaction en vigueur à la date du décret n° 2007-99 du 25
+janvier 2007, à l'élection des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -27673,14 +27672,14 @@ _Codifié par_:
 
 _Cite_:
 
-  - Décret n°2004-191 2004-02-27
+  - Décret n°2007-99 2007-01-25
   - Code électoral - art. R*106 (M)
   - Code électoral - art. R*107 (M)
   - Code électoral - art. R*98 (M)
 
 _Modifié par_:
 
-  - Décret n°2004-191 du 27 février 2004 - art. 1 () JORF 28 février 2004
+  - Décret n°2007-99 du 25 janvier 2007 - art. 2 () JORF 26 janvier 2007
 
 
 #### Chapitre II : Régime des inéligibilités<a id=213></a>
@@ -27842,7 +27841,7 @@ _Créé par_:
 ###### Article R219
 
 Les dispositions des articles R. 6, R. 7, R. 12 à R. 15-7, R. 17-1, R. 18, R. 19 à R. 22 sont applicables, dans leur
-rédaction en vigueur à la date du décret n° 2004-191 du 27 février 2004, à l'établissement de la liste électorale spéciale
+rédaction en vigueur à la date du décret n° 2007-99 du 25 janvier 2007, à l'établissement de la liste électorale spéciale
 pour les élections au congrès et aux assemblées de province de la Nouvelle-Calédonie.
 
 **Liens relatifs à cet article**
@@ -27853,7 +27852,7 @@ _Codifié par_:
 
 _Cite_:
 
-  - Décret n°2004-191 2004-02-27
+  - Décret n°2007-99 2007-01-25
   - Code électoral - art. R*17-1 (M)
   - Code électoral - art. R*18 (M)
   - Code électoral - art. R*6 (M)
@@ -27862,7 +27861,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2004-191 du 27 février 2004 - art. 1 () JORF 28 février 2004
+  - Décret n°2007-99 du 25 janvier 2007 - art. 2 () JORF 26 janvier 2007
 
 
 ###### Article R220
@@ -29146,7 +29145,7 @@ _Créé par_:
 ###### Article R265
 
 Les dispositions des chapitres Ier et II du titre IV du livre Ier du présent code (partie réglementaire), dans leur rédaction
-en vigueur à la date du décret n° 2004-191 du 27 février 2004, sont applicables à l'élection des membres des conseils
+en vigueur à la date du décret n° 2007-99 du 25 janvier 2007, sont applicables à l'élection des membres des conseils
 municipaux en Nouvelle-Calédonie et en Polynésie française, sous réserve des adaptations suivantes :
 
 1° (Abrogé) ;
@@ -29162,12 +29161,12 @@ _Codifié par_:
 
 _Cite_:
 
-  - Décret n°2004-191 2004-02-27
+  - Décret n°2007-99 2007-01-25
   - Code électoral - art. R119 (M)
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 12 () JORF 13 octobre 2006
+  - Décret n°2007-99 du 25 janvier 2007 - art. 2 () JORF 26 janvier 2007
 
 
 #### Chapitre II : Dispositions particulières à la Nouvelle-Calédonie<a id=234></a>
@@ -29263,7 +29262,7 @@ _Créé par_:
 ###### Article R271
 
 Sont applicables à l'élection des sénateurs en Nouvelle-Calédonie et en Polynésie française, dans leur rédaction en vigueur à
-la date du décret n° 2004-900 du 30 août 2004, les dispositions suivantes du livre II du code électoral (partie
+la date du décret n° 2007-99 du 25 janvier 2007, les dispositions suivantes du livre II du code électoral (partie
 Réglementaire) :
 
 1° Titre III, à l'exception des articles R. 130-1, R. 150, R. 151, R. 164, R. 164-1 et R. 169 ;
@@ -29280,7 +29279,7 @@ _Codifié par_:
 
 _Cite_:
 
-  - Décret n°2004-900 2004-08-30
+  - Décret n°2007-99 2007-01-25
   - Code électoral - art. R*130-1 (M)
   - Code électoral - art. R*150 (M)
   - Code électoral - art. R*151 (M)
@@ -29290,8 +29289,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2004-900 2004-08-30 art. 8 I, II JORF 1er septembre 2004
-  - Décret n°2004-900 du 30 août 2004 - art. 8 () JORF 1er septembre 2004
+  - Décret n°2007-99 du 25 janvier 2007 - art. 2 () JORF 26 janvier 2007
 
 _Cité par_:
 
@@ -29302,7 +29300,7 @@ _Cité par_:
 ###### Article R272
 
 Sont applicables à l'élection des sénateurs dans les îles Wallis et Futuna, dans leur rédaction en vigueur à la date du
-décret n° 2004-900 du 30 août 2004, les dispositions suivantes du livre II du code électoral (partie réglementaire) :
+décret n° 2007-99 du 25 janvier 2007, les dispositions suivantes du livre II du code électoral (partie réglementaire) :
 
 1° Chapitres Ier et IV à VII du titre IV, à l'exception de l'article R. 154 ;
 
@@ -29316,12 +29314,12 @@ _Codifié par_:
 
 _Cite_:
 
-  - Décret n°2004-900 2004-08-30
+  - Décret n°2007-99 2007-01-25
   - Code électoral - art. R*154 (M)
 
 _Modifié par_:
 
-  - Décret n°2004-900 du 30 août 2004 - art. 8 () JORF 1er septembre 2004
+  - Décret n°2007-99 du 25 janvier 2007 - art. 2 () JORF 26 janvier 2007
 
 _Cité par_:
 
