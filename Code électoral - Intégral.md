@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2007-01-26
+Version Consolidée au 2007-02-01
 ## Contenu: 
   - [Partie législative (art. L1 à L450)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -11133,9 +11133,8 @@ _Cité par_:
 
 ###### Article L264
 
-Une déclaration de candidature est obligatoire pour chaque tour de scrutin. Sur chacune des listes, l'écart entre le nombre
-des candidats de chaque sexe ne peut être supérieur à un. Au sein de chaque groupe entier de six candidats dans l'ordre de
-présentation de la liste doit figurer un nombre égal de candidats de chaque sexe.
+Une déclaration de candidature est obligatoire pour chaque tour de scrutin. La liste est composée alternativement d'un
+candidat de chaque sexe.
 
 Seules peuvent se présenter au second tour les listes ayant obtenu au premier tour un nombre de suffrages au moins égal à 10
 % du total des suffrages exprimés. Ces listes peuvent être modifiées dans leur composition pour comprendre des candidats
@@ -11147,11 +11146,6 @@ Les candidats ayant figuré sur une même liste au premier tour ne peuvent figur
 de la liste sur laquelle ils sont candidats au second tour est notifié à la préfecture ou à la sous-préfecture par la
 personne ayant eu la qualité de responsable de la liste constituée par ces candidats au premier tour.
 
-**Nota:**
-
-NOTA : Loi 2000-493 2000-06-06 art. 17 : Les dispositions de cet article entreront en vigueur lors du prochain renouvellement
-intervenant à échéance normale des conseils et assemblées auxquels elles s'appliquent
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -11160,7 +11154,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2000-493 du 6 juin 2000 - art. 2 ()
+  - Loi n°2007-128 du 31 janvier 2007 - art. 2 () JORF 1er février 2007
 
 _Cité par_:
 
