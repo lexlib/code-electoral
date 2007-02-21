@@ -1,7 +1,7 @@
 # Code électoral  
-Version Consolidée au 2007-02-09
+Version Consolidée au 2007-02-22
 ## Contenu: 
-  - [Partie législative (art. L1 à L450)](#1)
+  - [Partie législative (art. L1 à L568)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
       - [Titre Ier : Dispositions communes à l'élection des députés, des conseillers généraux et des  conseillers municipaux (art. L1 à L118-3)](#3)
         - [Chapitre Ier : Conditions requises pour être électeur (art. L1 à L7)](#4)
@@ -84,177 +84,188 @@ Version Consolidée au 2007-02-09
         - [Chapitre IX : Contentieux (art. LO325)](#81)
       - [Titre V : Conditions d'application (art. L326)](#82)
       - [Titre VI : Dispositions pénales (art. L327)](#83)
-    - [Livre III : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon et à Mayotte (art. L328 à L334-17)](#84)
-      - [Titre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. L328 à L334-3-2)](#85)
-        - [Chapitre Ier : Dispositions communes à l'élection du député, des conseillers généraux et des conseillers municipaux à Saint-Pierre-et-Miquelon (art. L328 à LO328-1)](#86)
-        - [Chapitre II : Dispositions applicables à l'élection du député de la collectivité territoriale de Saint-Pierre-et-Miquelon (art. L328-3 à LO328-2)](#87)
-        - [Chapitre III : Dispositions applicables à l'élection des conseillers généraux de la collectivité territoriale de Saint-Pierre-et-Miquelon (art. L328-4 à L334)](#88)
-        - [Chapitre IV : Dispositions applicables à l'élection des conseillers municipaux dans la collectivité territoriale de Saint-Pierre-et-Miquelon (art. L334-1 à LO334-1-1)](#89)
-        - [Chapitre V : Dispositions applicables à l'élection du sénateur de la collectivité territoriale de Saint-Pierre-et-Miquelon (art. L334-3 à LO334-2)](#90)
-        - [Chapitre VI : Conditions d'application (art. L334-3-2)](#91)
-      - [Titre II : Dispositions particulières à Mayotte (art. L334-4 à L334-17)](#92)
-        - [Chapitre Ier : Dispositions communes à l'élection du député, des conseillers généraux et de conseillers municipaux à Mayotte (art. L334-4 à L334-6)](#93)
-        - [Chapitre II : Dispositions applicables à l'élection du député de Mayotte (art. L334-7 à LO334-7-1)](#94)
-        - [Chapitre Ier : Dispositions applicables à l'élection du député, des conseillers généraux et de conseillers municipaux à Mayotte (art. L334-7)](#95)
-        - [Chapitre III : Dispositions applicables à l'élection des conseillers généraux de Mayotte (art. L334-8 à L334-12-2)](#96)
-        - [Chapitre IV : Dispositions applicables à l'élection des conseillers municipaux de Mayotte (art. L334-13 à L334-14)](#97)
-        - [Chapitre V : Dispositions applicables à l'élection des sénateurs de Mayotte (art. L334-15 à LO334-14-1)](#98)
-        - [Chapitre VI : Conditions d'application (art. L334-17)](#99)
-    - [Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse (art. L335 à L384)](#100)
-      - [Titre Ier : Election des conseillers régionaux (art. L336 à L363)](#101)
-        - [Chapitre Ier : Composition des conseils régionaux et durée du mandat des conseillers (art. L336 à L337)](#102)
-        - [Chapitre II : Mode de scrutin (art. L338 à L338-1)](#103)
-        - [Chapitre III : Conditions d'éligibilité et inéligibilités (art. L339 à L341-1)](#104)
-        - [Chapitre IV : Incompatibilités (art. L342 à L345)](#105)
-        - [Chapitre V : Déclarations de candidature (art. L346 à L352)](#106)
-        - [Chapitre VI : Propagande (art. L353 à L356)](#107)
-        - [Chapitre VII : Opérations préparatoires au scrutin (art. L357)](#108)
-        - [Chapitre VIII : Opérations de vote (art. L358 à L359)](#109)
-        - [Chapitre IX : Remplacement des conseillers régionaux (art. L360)](#110)
-        - [Chapitre X : Contentieux (art. L361 à L363)](#111)
-      - [Titre II : Election des conseillers à l'Assemblée de Corse (art. L364 à L383)](#112)
-        - [Chapitre Ier : Composition de l'assemblée et durée du mandat de ses membres (art. L364)](#113)
-        - [Chapitre II : Mode de scrutin (art. L365 à L366)](#114)
-        - [Chapitre III : Conditions d'éligibilité et inéligibilités (art. L367)](#115)
-        - [Chapitre IV : Incompatibilités (art. L368 à L369)](#116)
-        - [Chapitre V : Déclarations de candidature (art. L370 à L374)](#117)
-        - [Chapitre VI : Propagande (art. L375 à L377)](#118)
-        - [Chapitre VII : Opérations préparatoires au scrutin (art. L378)](#119)
-        - [Chapitre VIII : Opérations de vote (art. L379)](#120)
-        - [Chapitre IX : Remplacement des conseillers à l'Assemblée de Corse (art. L380)](#121)
-        - [Chapitre X : Contentieux (art. L381 à L383)](#122)
-      - [Titre III : Conditions  d'application des titre Ier et II (art. L384)](#123)
+    - [Livre III : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon et à Mayotte (art. L328)](#84)
+      - [Titre Ier : Dispositions particulières à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. L328)](#85)
+        - [Chapitre Ier : Dispositions communes à l'élection du député, des conseillers généraux et des conseillers municipaux à Saint-Pierre-et-Miquelon (art. L328)](#86)
+    - [Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse (art. L335 à L384)](#87)
+      - [Titre Ier : Election des conseillers régionaux (art. L336 à L363)](#88)
+        - [Chapitre Ier : Composition des conseils régionaux et durée du mandat des conseillers (art. L336 à L337)](#89)
+        - [Chapitre II : Mode de scrutin (art. L338 à L338-1)](#90)
+        - [Chapitre III : Conditions d'éligibilité et inéligibilités (art. L339 à L341-1)](#91)
+        - [Chapitre IV : Incompatibilités (art. L342 à L345)](#92)
+        - [Chapitre V : Déclarations de candidature (art. L346 à L352)](#93)
+        - [Chapitre VI : Propagande (art. L353 à L356)](#94)
+        - [Chapitre VII : Opérations préparatoires au scrutin (art. L357)](#95)
+        - [Chapitre VIII : Opérations de vote (art. L358 à L359)](#96)
+        - [Chapitre IX : Remplacement des conseillers régionaux (art. L360)](#97)
+        - [Chapitre X : Contentieux (art. L361 à L363)](#98)
+      - [Titre II : Election des conseillers à l'Assemblée de Corse (art. L364 à L383)](#99)
+        - [Chapitre Ier : Composition de l'assemblée et durée du mandat de ses membres (art. L364)](#100)
+        - [Chapitre II : Mode de scrutin (art. L365 à L366)](#101)
+        - [Chapitre III : Conditions d'éligibilité et inéligibilités (art. L367)](#102)
+        - [Chapitre IV : Incompatibilités (art. L368 à L369)](#103)
+        - [Chapitre V : Déclarations de candidature (art. L370 à L374)](#104)
+        - [Chapitre VI : Propagande (art. L375 à L377)](#105)
+        - [Chapitre VII : Opérations préparatoires au scrutin (art. L378)](#106)
+        - [Chapitre VIII : Opérations de vote (art. L379)](#107)
+        - [Chapitre IX : Remplacement des conseillers à l'Assemblée de Corse (art. L380)](#108)
+        - [Chapitre X : Contentieux (art. L381 à L383)](#109)
+      - [Titre III : Conditions  d'application des titre Ier et II (art. L384)](#110)
     - [Livre V : Dispositions applicables à la 
-Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna (art. L385 à L449)](#124)
-      - [Titre Ier : Dispositions générales (art. L385 à LO392-1)](#125)
-      - [Titre II : Election des députés (art. L394 à LO394-2)](#126)
-      - [Titre III : Dispositions applicables à l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie (art. L398 à L406)](#127)
-      - [Titre IV : Dispositions applicables à l'élection des membres de l'assemblée de la Polynésie française (art. L407 à LO406-1)](#128)
-      - [Titre V : Dispositions applicables à l'élection des membres de l'assemblée territoriale des îles Wallis et Futuna (art. L418 à L427-1)](#129)
-      - [Titre VI : Dispositions applicables à l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française (art. L428 à L438)](#130)
-        - [Chapitre Ier : Nouvelle-Calédonie (art. L428 à L436)](#131)
-        - [Chapitre II : Polynésie Française (art. L437 à L438)](#132)
-      - [Titre VII : Dispositions applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna (art. L439 à LO438-3)](#133)
-      - [Titre VIII : Conditions d'application (art. L449)](#134)
-    - [Livre VI : Dispositions finales (art. L450)](#135)
-  - [Partie réglementaire (art. R1 à R283)](#136)
-    - [Livre Ier  : Election des députés, des conseillers généraux et des conseillers municipaux des départements (art. R1 à R130)](#137)
-      - [Titre Ier  : Dispositions communes à l'élection des députés, des conseillers généraux et des conseillers municipaux (art. R1 à R97)](#138)
-        - [Chapitre II : Listes électorales (art. R1 à R25)](#139)
-          - [Section 1 : Conditions d'inscription sur une liste électorale (art. R1 à R4-1)](#140)
-          - [Section 2 : Etablissement et révision des listes électorales (art. R3 à R17-1)](#141)
-          - [Section 3 : Inscription en dehors des périodes de révision (art. R17-2)](#142)
-          - [Section 4 : Contrôle des inscriptions sur les listes électorales (art. R17 à R22)](#143)
-          - [Section 6 : Cartes électorales (art. R23 à R25)](#144)
-        - [Chapitre V : Propagande (art. R26 à R39)](#145)
-        - [Chapitre V bis : Financement et plafonnement des dépenses électorales (art. R39-1 à R39-5)](#146)
-        - [Chapitre VI : Vote (art. R40 à R93-3)](#147)
-          - [Section 1 : Opérations préparatoires au scrutin (art. R40 à R41)](#148)
-          - [Section 2 : Opérations de vote (art. D56-1 à R71)](#149)
-          - [Section 3 : Vote par procuration (art. R72 à R80)](#150)
-          - [Section 5  : Commissions de contrôle des opérations de vote (art. R93-1 à R93-3)](#151)
-        - [Chapitre VII : Dispositions pénales (art. R94 à R96)](#152)
-        - [Chapitre VIII : Contentieux (art. R97)](#153)
-      - [Titre II : Dispositions spéciales à l'élection des députés (art. R98 à R109)](#154)
-        - [Chapitre V : Déclarations de candidatures (art. R98 à R102)](#155)
-        - [Chapitre VI : Propagande (art. R103)](#156)
-        - [Chapitre VIII : Opérations de vote (art. R104 à R109)](#157)
-      - [Titre III : Dispositions spéciales à l'élection des conseillers généraux (art. R109-1 à R117-1)](#158)
-        - [Chapitre IV bis : Déclarations de candidatures (art. R109-1 à R109-2)](#159)
-        - [Chapitre VII : Opérations de vote (art. R112)](#160)
-        - [Chapitre IX : Contentieux (art. R113 à R117-1)](#161)
-      - [Titre IV  : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris (art. R117-2 à R130)](#162)
-        - [Chapitre Ier : Dispositions applicables à toutes les communes (art. R117-2 à R123)](#163)
-          - [Section 1 bis : Dispositions spéciales à l'exercice par les ressortissants d'un Etat membre de l'Union européenne autre que la France du droit de vote pour l'élection des conseillers municipaux et des membres du Conseil de Paris (art. R117-2 à R117-3)](#164)
-          - [Section 6 : Opérations de vote (art. R118)](#165)
-          - [Section 7 : Contentieux (art. R119 à R123)](#166)
-        - [Chapitre II : Dispositions spéciales aux communes de moins de 3 500 habitants (art. R124 à R126)](#167)
-          - [Section 1 : Mode de scrutin (art. R124)](#168)
-          - [Section 2 : Propagande (art. R125 à R126)](#169)
-        - [Chapitre III : Dispositions spéciales aux communes de 3 500 habitants et plus (art. R127-1 à R128-1)](#170)
-          - [Section 1 : Mode de scrutin (art. R127-1)](#171)
-          - [Section 2 : Déclarations de candidature (art. R127-2 à R128-1)](#172)
-        - [Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille (art. R129 à R130)](#173)
-          - [Section 2 : Opérations préparatoires au scrutin (art. R129 à R130)](#174)
-    - [Livre II  : Election des sénateurs des départements (art. R130-1 à R171)](#175)
-      - [Titre II : Composition du collège électoral (art. R130-1)](#176)
-      - [Titre III : Désignation des délégués des conseils municipaux (art. R131 à R148)](#177)
-      - [Titre III bis : Désignation des délégués à l'Assemblée de Corse (art. R148-1 à R148-3)](#178)
-      - [Titre IV : Election des sénateurs (art. R149 à R171)](#179)
-        - [Chapitre IV : Déclarations de candidatures (art. R149 à R153)](#180)
-        - [Chapitre V : Propagande (art. R154 à R161)](#181)
-        - [Chapitre VI : Opérations préparatoires au scrutin (art. R162)](#182)
-        - [Chapitre VII : Opérations de vote (art. R163 à R171)](#183)
-    - [Livre III : Dispositions particulières à Saint-Pierre-et-Miquelon et à Mayotte (art. R172 à R179-1)](#184)
-      - [Titre Ier : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R172 à R175)](#185)
-        - [Chapitre Ier : Dispositions générales (art. R172 à R172-3)](#186)
-        - [Chapitre II : Dispositions particulières à l'élection du député de Saint-Pierre-et-Miquelon (art. R173)](#187)
-        - [Chapitre III : Dispositions particulières à l'élection des conseillers généraux de Saint-Pierre-et-Miquelon (art. R174 à R174-1)](#188)
-        - [Chapitre V : Dispositions particulières à l'élection du sénateur de Saint-Pierre-et-Miquelon (art. R175)](#189)
-      - [Titre II : Dispositions particulières à Mayotte (art. R176 à R179-1)](#190)
-        - [Chapitre Ier : Dispositions générales (art. R176 à R176-6)](#191)
-        - [Chapitre II : Dispositions applicables à l'élection du député de Mayotte (art. R177 à R177-1)](#192)
-        - [Chapitre III : Dispositions applicables à l'élection des conseillers généraux de Mayotte (art. R178)](#193)
-        - [Chapitre V : Dispositions applicables à l'élection des sénateurs de Mayotte (art. R179 à R179-1)](#194)
-    - [Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse (art. R182 à R200)](#195)
-      - [Titre Ier : Election des conseillers régionaux (art. R183 à R190)](#196)
-        - [Chapitre V : Déclarations de candidatures (art. R183 à R184)](#197)
-        - [Chapitre VI : Propagande (art. R185 à R186)](#198)
-        - [Chapitre VIII : Opérations de vote (art. R188 à R189-2)](#199)
-        - [Chapitre X : Contentieux (art. R190)](#200)
-      - [Titre  II : Election des conseillers à l'Assemblée de Corse (art. R191 à R200)](#201)
-        - [Chapitre V : Déclarations de candidature (art. R191 à R192)](#202)
-        - [Chapitre VI : Propagande (art. R193 à R196)](#203)
-        - [Chapitre VII : Opérations de vote (art. R198 à R199)](#204)
-        - [Chapitre X : Contentieux (art. R200)](#205)
-    - [Livre V : Dispositions applicables à la Nouvelle-Calédonie, à la Polynésie française et aux îles  Wallis et Futuna (art. R201 à R283)](#206)
-      - [Titre Ier : Dispositions générales (art. R201 à R213-1)](#207)
-        - [Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna (art. R201 à R212)](#208)
-        - [Chapitre II : Dispositions propres à la Nouvelle-Calédonie (art. R213)](#209)
-        - [Chapitre III : Dispositions propres aux îles Wallis et Futuna (art. R213-1)](#210)
-      - [Titre II : Election des députés (art. R214 à R218)](#211)
-        - [Chapitre Ier : Dispositions générales (art. R214)](#212)
-        - [Chapitre II : Régime des inéligibilités (art. R**215)](#213)
-        - [Chapitre III : Candidatures (art. R216)](#214)
-        - [Chapitre IV : Recensement des votes (art. R217 à R218)](#215)
-      - [Titre III : Dispositions applicables à l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie (art. R219 à R241)](#216)
-        - [Chapitre Ier : Liste électorale spéciale (art. R219 à R231)](#217)
-          - [Section 1 : Etablissement de la liste électorale spéciale (art. R219 à R228)](#218)
-          - [Section 2 : Inscription en dehors des périodes de révision (art. R229 à R230)](#219)
-          - [Section 3 : Carte électorale spéciale (art. R231)](#220)
-        - [Chapitre II : Candidatures et bulletins de vote (art. R232 à R236)](#221)
-        - [Chapitre III : Propagande (art. R237)](#222)
-        - [Chapitre IV : Opérations de vote et recensement (art. R238 à R241)](#223)
-      - [Titre IV : Dispositions applicables à l'élection des représentants à l'assemblée de la Polynésie française (art. R242 à R253)](#224)
-        - [Chapitre Ier : Candidatures et bulletins de vote (art. R242 à R246)](#225)
-        - [Chapitre II : Propagande (art. R247 à R249-1)](#226)
-        - [Chapitre III : Opérations de vote et recensement (art. R250 à R253)](#227)
-      - [Titre V : Dispositions applicables à l'élection des membres de l'assemblée territoriale des îles  Wallis et Futuna (art. R254 à R264)](#228)
-        - [Chapitre Ier : Candidatures et bulletins de vote (art. R254 à R258)](#229)
-        - [Chapitre II : Propagande (art. R259 à R260)](#230)
-        - [Chapitre III : Opérations de vote et recensement (art. R261 à R264)](#231)
-      - [Titre VI : Dispositions applicables à l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française (art. R265 à R270)](#232)
-        - [Chapitre Ier : Dispositions communes (art. R265)](#233)
-        - [Chapitre II : Dispositions particulières à la Nouvelle-Calédonie (art. R266 à R267)](#234)
-        - [Chapitre III : Dispositions particulières à la Polynésie française (art. R268 à R270)](#235)
-      - [Titre VII : Dispositions applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et  Futuna (art. R271 à R283)](#236)
-        - [Chapitre Ier : Dispositions générales (art. R271 à R272)](#237)
-        - [Chapitre II : Régime des inéligibilités (art. R**273)](#238)
-        - [Chapitre III : Election des délégués des conseils municipaux en Nouvelle-Calédonie et en Polynésie française (art. R274 à R276)](#239)
-        - [Chapitre IV : Propagande (art. R277)](#240)
-        - [Chapitre V : Opérations préparatoires au scrutin (art. R278)](#241)
-        - [Chapitre VI : Opérations de vote (art. R279 à R283)](#242)
-  - [Annexes (art. Annexe tableau n° 1 à Annexe tableau n° 7)](#243)
-    - [Tableau des circonscriptions électorales des départements (élection des députés) (art. Annexe tableau n° 1)](#244)
-    - [Tableau des circonscriptions électorales des départements (élection des députés) (1). (art. Annexe tableau n° 1 (suite))](#245)
-    - [Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés). (art. Annexe tableau n° 1 bis)](#246)
-    - [Tableau des secteurs pour l'élection des membres du conseil de Paris (art. Annexe tableau n° 2)](#247)
-    - [Tableau des secteurs pour l'élection des conseillers municipaux de Lyon (art. Annexe tableau n° 3)](#248)
-    - [Tableau des secteurs pour l'élection des conseillers municipaux de Marseille. (art. Annexe tableau n° 4)](#249)
-    - [Répartition des sièges de sénateurs entre les séries (art. Annexe tableau n° 5)](#250)
-    - [Election des sénateurs (art. Annexe tableau n° 6)](#251)
-      - [Nombre de sénateurs représentant les départements (art. Annexe tableau n° 6)](#252)
-    - [Effectif des conseils régionaux et nombre de candidats par section départementale (art. Annexe tableau n° 7)](#253)
+Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna (art. L385 à L449)](#111)
+      - [Titre Ier : Dispositions générales (art. L385 à LO392-1)](#112)
+      - [Titre II : Election des députés (art. L394 à LO394-2)](#113)
+      - [Titre III : Dispositions applicables à l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie (art. L398 à L406)](#114)
+      - [Titre IV : Dispositions applicables à l'élection des membres de l'assemblée de la Polynésie française (art. L407 à LO406-1)](#115)
+      - [Titre V : Dispositions applicables à l'élection des membres de l'assemblée territoriale des îles Wallis et Futuna (art. L418 à L427-1)](#116)
+      - [Titre VI : Dispositions applicables à l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française (art. L428 à L438)](#117)
+        - [Chapitre Ier : Nouvelle-Calédonie (art. L428 à L436)](#118)
+        - [Chapitre II : Polynésie Française (art. L437 à L438)](#119)
+      - [Titre VII : Dispositions applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna (art. L439 à LO438-3)](#120)
+      - [Titre VIII : Conditions d'application (art. L449)](#121)
+    - [Livre VI : Dispositions particulières à Mayotte, à Saint-Barthélemy, à Saint-Martin  et à Saint-Pierre-et-Miquelon (art. L451 à L558)](#122)
+      - [Titre Ier : Mayotte (art. L451 à LO473)](#123)
+        - [Chapitre Ier : Dispositions communes à l'élection du député, des conseillers généraux et des conseillers municipaux (art. L451 à LO450)](#124)
+        - [Chapitre II : Dispositions applicables à l'élection du député (art. LO455)](#125)
+        - [Chapitre III : Dispositions applicables à l'élection des conseillers généraux (art. L460 à LO470)](#126)
+        - [Chapitre IV : Dispositions applicables à l'élection des conseillers municipaux (art. L471 à L472)](#127)
+        - [Chapitre V : Dispositions applicables à l'élection des sénateurs de Mayotte (art. L474 à LO473)](#128)
+      - [Titre II : Saint-Barthélemy (art. L477 à LO500)](#129)
+        - [Chapitre Ier : Dispositions communes à l'élection du député, des conseillers territoriaux et du sénateur (art. L477 à LO476)](#130)
+        - [Chapitre II : Dispositions applicables à l'élection du député (art. L478 à LO479)](#131)
+        - [Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux (art. L487 à LO499)](#132)
+        - [Chapitre IV : Dispositions applicables à l'élection du sénateur de Saint-Barthélemy (art. L501 à LO500)](#133)
+      - [Titre III : Saint-Martin (art. L504 à LO527)](#134)
+        - [Chapitre Ier : Dispositions communes à l'élection du député, des conseillers territoriaux et du sénateur (art. L504 à LO503)](#135)
+        - [Chapitre II : Dispositions applicables à l'élection du député (art. L505 à LO506)](#136)
+        - [Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux (art. L514 à LO526)](#137)
+        - [Chapitre IV : Dispositions applicables à l'élection du sénateur de Saint-Martin (art. L528 à LO527)](#138)
+      - [Titre IV : Saint-Pierre-et-Miquelon (art. L531 à LO555)](#139)
+        - [Chapitre Ier : Dispositions communes à l'élection du député, des conseillers territoriaux et des conseillers municipaux (art. L531 à LO530)](#140)
+        - [Chapitre II : Dispositions applicables à l'élection du député (art. L534 à LO533)](#141)
+        - [Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux (art. L542 à LO554)](#142)
+        - [Chapitre V : Dispositions applicables à l'élection du sénateur de Saint-Pierre-et-Miquelon (art. L556 à LO555)](#143)
+      - [Titre V : Conditions d'application (art. L558)](#144)
+    - [Livre VII : Dispositions applicables aux consultations organisées en application des articles 72-4 et 73 de la Constitution (art. L559 à L567)](#145)
+    - [LIVRE VIII : DISPOSITIONS FINALES (art. L568)](#146)
+  - [Partie réglementaire (art. R1 à R283)](#147)
+    - [Livre Ier  : Election des députés, des conseillers généraux et des conseillers municipaux des départements (art. R1 à R130)](#148)
+      - [Titre Ier  : Dispositions communes à l'élection des députés, des conseillers généraux et des conseillers municipaux (art. R1 à R97)](#149)
+        - [Chapitre II : Listes électorales (art. R1 à R25)](#150)
+          - [Section 1 : Conditions d'inscription sur une liste électorale (art. R1 à R4-1)](#151)
+          - [Section 2 : Etablissement et révision des listes électorales (art. R3 à R17-1)](#152)
+          - [Section 3 : Inscription en dehors des périodes de révision (art. R17-2)](#153)
+          - [Section 4 : Contrôle des inscriptions sur les listes électorales (art. R17 à R22)](#154)
+          - [Section 6 : Cartes électorales (art. R23 à R25)](#155)
+        - [Chapitre V : Propagande (art. R26 à R39)](#156)
+        - [Chapitre V bis : Financement et plafonnement des dépenses électorales (art. R39-1 à R39-5)](#157)
+        - [Chapitre VI : Vote (art. R40 à R93-3)](#158)
+          - [Section 1 : Opérations préparatoires au scrutin (art. R40 à R41)](#159)
+          - [Section 2 : Opérations de vote (art. D56-1 à R71)](#160)
+          - [Section 3 : Vote par procuration (art. R72 à R80)](#161)
+          - [Section 5  : Commissions de contrôle des opérations de vote (art. R93-1 à R93-3)](#162)
+        - [Chapitre VII : Dispositions pénales (art. R94 à R96)](#163)
+        - [Chapitre VIII : Contentieux (art. R97)](#164)
+      - [Titre II : Dispositions spéciales à l'élection des députés (art. R98 à R109)](#165)
+        - [Chapitre V : Déclarations de candidatures (art. R98 à R102)](#166)
+        - [Chapitre VI : Propagande (art. R103)](#167)
+        - [Chapitre VIII : Opérations de vote (art. R104 à R109)](#168)
+      - [Titre III : Dispositions spéciales à l'élection des conseillers généraux (art. R109-1 à R117-1)](#169)
+        - [Chapitre IV bis : Déclarations de candidatures (art. R109-1 à R109-2)](#170)
+        - [Chapitre VII : Opérations de vote (art. R112)](#171)
+        - [Chapitre IX : Contentieux (art. R113 à R117-1)](#172)
+      - [Titre IV  : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris (art. R117-2 à R130)](#173)
+        - [Chapitre Ier : Dispositions applicables à toutes les communes (art. R117-2 à R123)](#174)
+          - [Section 1 bis : Dispositions spéciales à l'exercice par les ressortissants d'un Etat membre de l'Union européenne autre que la France du droit de vote pour l'élection des conseillers municipaux et des membres du Conseil de Paris (art. R117-2 à R117-3)](#175)
+          - [Section 6 : Opérations de vote (art. R118)](#176)
+          - [Section 7 : Contentieux (art. R119 à R123)](#177)
+        - [Chapitre II : Dispositions spéciales aux communes de moins de 3 500 habitants (art. R124 à R126)](#178)
+          - [Section 1 : Mode de scrutin (art. R124)](#179)
+          - [Section 2 : Propagande (art. R125 à R126)](#180)
+        - [Chapitre III : Dispositions spéciales aux communes de 3 500 habitants et plus (art. R127-1 à R128-1)](#181)
+          - [Section 1 : Mode de scrutin (art. R127-1)](#182)
+          - [Section 2 : Déclarations de candidature (art. R127-2 à R128-1)](#183)
+        - [Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille (art. R129 à R130)](#184)
+          - [Section 2 : Opérations préparatoires au scrutin (art. R129 à R130)](#185)
+    - [Livre II  : Election des sénateurs des départements (art. R130-1 à R171)](#186)
+      - [Titre II : Composition du collège électoral (art. R130-1)](#187)
+      - [Titre III : Désignation des délégués des conseils municipaux (art. R131 à R148)](#188)
+      - [Titre III bis : Désignation des délégués à l'Assemblée de Corse (art. R148-1 à R148-3)](#189)
+      - [Titre IV : Election des sénateurs (art. R149 à R171)](#190)
+        - [Chapitre IV : Déclarations de candidatures (art. R149 à R153)](#191)
+        - [Chapitre V : Propagande (art. R154 à R161)](#192)
+        - [Chapitre VI : Opérations préparatoires au scrutin (art. R162)](#193)
+        - [Chapitre VII : Opérations de vote (art. R163 à R171)](#194)
+    - [Livre III : Dispositions particulières à Saint-Pierre-et-Miquelon et à Mayotte (art. R172 à R179-1)](#195)
+      - [Titre Ier : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R172 à R175)](#196)
+        - [Chapitre Ier : Dispositions générales (art. R172 à R172-3)](#197)
+        - [Chapitre II : Dispositions particulières à l'élection du député de Saint-Pierre-et-Miquelon (art. R173)](#198)
+        - [Chapitre III : Dispositions particulières à l'élection des conseillers généraux de Saint-Pierre-et-Miquelon (art. R174 à R174-1)](#199)
+        - [Chapitre V : Dispositions particulières à l'élection du sénateur de Saint-Pierre-et-Miquelon (art. R175)](#200)
+      - [Titre II : Dispositions particulières à Mayotte (art. R176 à R179-1)](#201)
+        - [Chapitre Ier : Dispositions générales (art. R176 à R176-6)](#202)
+        - [Chapitre II : Dispositions applicables à l'élection du député de Mayotte (art. R177 à R177-1)](#203)
+        - [Chapitre III : Dispositions applicables à l'élection des conseillers généraux de Mayotte (art. R178)](#204)
+        - [Chapitre V : Dispositions applicables à l'élection des sénateurs de Mayotte (art. R179 à R179-1)](#205)
+    - [Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse (art. R182 à R200)](#206)
+      - [Titre Ier : Election des conseillers régionaux (art. R183 à R190)](#207)
+        - [Chapitre V : Déclarations de candidatures (art. R183 à R184)](#208)
+        - [Chapitre VI : Propagande (art. R185 à R186)](#209)
+        - [Chapitre VIII : Opérations de vote (art. R188 à R189-2)](#210)
+        - [Chapitre X : Contentieux (art. R190)](#211)
+      - [Titre  II : Election des conseillers à l'Assemblée de Corse (art. R191 à R200)](#212)
+        - [Chapitre V : Déclarations de candidature (art. R191 à R192)](#213)
+        - [Chapitre VI : Propagande (art. R193 à R196)](#214)
+        - [Chapitre VII : Opérations de vote (art. R198 à R199)](#215)
+        - [Chapitre X : Contentieux (art. R200)](#216)
+    - [Livre V : Dispositions applicables à la Nouvelle-Calédonie, à la Polynésie française et aux îles  Wallis et Futuna (art. R201 à R283)](#217)
+      - [Titre Ier : Dispositions générales (art. R201 à R213-1)](#218)
+        - [Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna (art. R201 à R212)](#219)
+        - [Chapitre II : Dispositions propres à la Nouvelle-Calédonie (art. R213)](#220)
+        - [Chapitre III : Dispositions propres aux îles Wallis et Futuna (art. R213-1)](#221)
+      - [Titre II : Election des députés (art. R214 à R218)](#222)
+        - [Chapitre Ier : Dispositions générales (art. R214)](#223)
+        - [Chapitre II : Régime des inéligibilités (art. R**215)](#224)
+        - [Chapitre III : Candidatures (art. R216)](#225)
+        - [Chapitre IV : Recensement des votes (art. R217 à R218)](#226)
+      - [Titre III : Dispositions applicables à l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie (art. R219 à R241)](#227)
+        - [Chapitre Ier : Liste électorale spéciale (art. R219 à R231)](#228)
+          - [Section 1 : Etablissement de la liste électorale spéciale (art. R219 à R228)](#229)
+          - [Section 2 : Inscription en dehors des périodes de révision (art. R229 à R230)](#230)
+          - [Section 3 : Carte électorale spéciale (art. R231)](#231)
+        - [Chapitre II : Candidatures et bulletins de vote (art. R232 à R236)](#232)
+        - [Chapitre III : Propagande (art. R237)](#233)
+        - [Chapitre IV : Opérations de vote et recensement (art. R238 à R241)](#234)
+      - [Titre IV : Dispositions applicables à l'élection des représentants à l'assemblée de la Polynésie française (art. R242 à R253)](#235)
+        - [Chapitre Ier : Candidatures et bulletins de vote (art. R242 à R246)](#236)
+        - [Chapitre II : Propagande (art. R247 à R249-1)](#237)
+        - [Chapitre III : Opérations de vote et recensement (art. R250 à R253)](#238)
+      - [Titre V : Dispositions applicables à l'élection des membres de l'assemblée territoriale des îles  Wallis et Futuna (art. R254 à R264)](#239)
+        - [Chapitre Ier : Candidatures et bulletins de vote (art. R254 à R258)](#240)
+        - [Chapitre II : Propagande (art. R259 à R260)](#241)
+        - [Chapitre III : Opérations de vote et recensement (art. R261 à R264)](#242)
+      - [Titre VI : Dispositions applicables à l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française (art. R265 à R270)](#243)
+        - [Chapitre Ier : Dispositions communes (art. R265)](#244)
+        - [Chapitre II : Dispositions particulières à la Nouvelle-Calédonie (art. R266 à R267)](#245)
+        - [Chapitre III : Dispositions particulières à la Polynésie française (art. R268 à R270)](#246)
+      - [Titre VII : Dispositions applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et  Futuna (art. R271 à R283)](#247)
+        - [Chapitre Ier : Dispositions générales (art. R271 à R272)](#248)
+        - [Chapitre II : Régime des inéligibilités (art. R**273)](#249)
+        - [Chapitre III : Election des délégués des conseils municipaux en Nouvelle-Calédonie et en Polynésie française (art. R274 à R276)](#250)
+        - [Chapitre IV : Propagande (art. R277)](#251)
+        - [Chapitre V : Opérations préparatoires au scrutin (art. R278)](#252)
+        - [Chapitre VI : Opérations de vote (art. R279 à R283)](#253)
+  - [Annexes (art. Annexe tableau n° 1 à Annexe tableau n° 7)](#254)
+    - [Tableau des circonscriptions électorales des départements (élection des députés) (art. Annexe tableau n° 1)](#255)
+    - [Tableau des circonscriptions électorales des départements (élection des députés) (1). (art. Annexe tableau n° 1 (suite))](#256)
+    - [Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés). (art. Annexe tableau n° 1 bis)](#257)
+    - [Tableau des secteurs pour l'élection des membres du conseil de Paris (art. Annexe tableau n° 2)](#258)
+    - [Tableau des secteurs pour l'élection des conseillers municipaux de Lyon (art. Annexe tableau n° 3)](#259)
+    - [Tableau des secteurs pour l'élection des conseillers municipaux de Marseille. (art. Annexe tableau n° 4)](#260)
+    - [Répartition des sièges de sénateurs entre les séries (art. Annexe tableau n° 5)](#261)
+    - [Election des sénateurs (art. Annexe tableau n° 6)](#262)
+      - [Nombre de sénateurs représentant les départements (art. Annexe tableau n° 6)](#263)
+    - [Effectif des conseils régionaux et nombre de candidats par section départementale (art. Annexe tableau n° 7)](#264)
 # Partie législative<a id=1></a>
 
 ## LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS<a id=2></a>
@@ -8057,7 +8068,15 @@ _Codifié par_:
 
 ###### Article L173
 
-Les élections ont lieu le septième dimanche qui suit la publication du décret convoquant les électeurs.
+Les élections ont lieu le septième dimanche qui suit la publication du décret convoquant les électeurs. 
+
+A l'occasion du renouvellement général de l'Assemblée nationale et par dérogation à l'article L. 55, le scrutin est organisé
+le samedi en Guadeloupe, en Guyane et en Martinique.
+
+**Nota:**
+
+Loi 2007-224 du 21 février 2007 art. 26 I : pour le renouvellement général de l'Assemblée nationale de juin 2007, les
+présentes dispositions sont applicables aux collectivités de Saint-Barthélemy et de Saint-Martin.
 
 **Liens relatifs à cet article**
 
@@ -8074,7 +8093,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 17 () JORF 9 décembre 2003
+  - Loi n°2007-224 du 21 février 2007 - art. 7 () JORF 22 février 2007
+
+_Cite_:
+
+  - Code électoral - art. L55 (V)
 
 
 #### Chapitre VIII : Opérations de vote<a id=31></a>
@@ -8258,21 +8281,23 @@ _Cite_:
 
 ###### Article LO179
 
-Ainsi qu'il est dit à l'article 32 de l'ordonnance n° 58-1067 du 7 novembre 1958, le ministre de l'Intérieur communique sans
-délai à l'Assemblée nationale les noms des personnes proclamées élues.
+Conformément à l'article 32 de l'ordonnance n° 58-1067 du 7 novembre 1958 portant loi organique sur le Conseil
+constitutionnel, le ministre de l'intérieur ou le ministre chargé de l'outre-mer communique sans délai à l'Assemblée
+nationale les noms des personnes proclamées élues.
 
-Les procès-verbaux des commissions chargées du recensement, auxquels le préfet joint l'expédition de l'acte de naissance et
-le bulletin n° 2 du casier judiciaire des élus et de leurs remplaçants, sont tenus à la disposition des personnes inscrites
-sur les listes électorales et des personnes ayant fait une déclaration de candidature, pendant un délai de dix jours.
+Les procès-verbaux des commissions chargées du recensement, auxquels le représentant de l'Etat joint l'expédition de l'acte
+de naissance et le bulletin n° 2 du casier judiciaire des élus et de leurs remplaçants, sont tenus à la disposition des
+personnes inscrites sur les listes électorales et des personnes ayant fait une déclaration de candidature, pendant un délai
+de dix jours.
 
-Passé ce délai, les procès-verbaux et leurs annexes sont déposés aux archives départementales. Ils ne peuvent être
-communiqués qu'au Conseil constitutionnel, sur demande de ce Conseil.
+Passé ce délai, les procès-verbaux et leurs annexes sont déposés aux archives départementales ou à celles de la collectivité.
+Ils ne peuvent être communiqués qu'au Conseil constitutionnel, à sa demande.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance 58-1067 1958-11-07
+  - Ordonnance 58-1067 1958-11-07 art. 32
 
 _Codifié par_:
 
@@ -8283,6 +8308,10 @@ _Cité par_:
   - Loi n°78-753 du 17 juillet 1978 - art. 21 (VT)
   - Code des relations entre le public et l'adminis... - art. L342-2 (VT)
   - Code électoral - art. L68 (VD)
+
+_Modifié par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 12 () JORF 22 février 2007
 
 
 ###### Article LO180
@@ -8309,7 +8338,8 @@ _Codifié par_:
 Ainsi qu'il est dit à l'article 34 de l'ordonnance n° 58-1067 du 7 novembre 1958, le Conseil constitutionnel ne peut être
 saisi que par une requête écrite adressée au secrétariat général du Conseil ou au préfet.
 
-Le préfet avise, par télégramme, le secrétaire général et assure la transmission de la requête dont il a été saisi.
+Le représentant de l'Etat avise, par voie électronique, le secrétaire général et assure la transmission de la requête dont il
+a été saisi.
 
 Le secrétaire général du Conseil donne sans délai avis à l'Assemblée nationale des requêtes dont il a été saisi ou avisé.
 
@@ -8322,6 +8352,10 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Modifié par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 12 () JORF 22 février 2007
 
 
 ###### Article LO182
@@ -13181,1417 +13215,7 @@ _Nouveaux textes_:
   - Code électoral - art. L328-4 (Ab)
 
 
-###### Article L328-1-1
-
-Pour l'application des dispositions du présent code à Saint-Pierre-et-Miquelon, il y a lieu de lire :
-
-1° "Collectivité territoriale" ou "de la collectivité territoriale" au lieu de : "département", "arrondissement" ou :
-
-"départemental" ;
-
-2° "Représentant de l'Etat" ou "services du représentant de l'Etat" au lieu de : "préfet" et "sous-préfet" ou de :
-"préfecture" et "sous-préfecture" ;
-
-3° "Tribunal supérieur d'appel" au lieu de : "cour d'appel" ;
-
-4° "Tribunal de première instance" au lieu de : "tribunal de grande instance" ou de : "tribunal d'instance" ;
-
-5° "Circonscription électorale" au lieu de : "canton".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Cité par_:
-
-  - Loi n°77-729 du 7 juillet 1977 - art. 26 (V)
-  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 38 (V)
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-
-###### Article L328-1-2
-
-Par dérogation aux dispositions du deuxième alinéa de l'article L. 52-12, à Saint-Pierre-et-Miquelon, le compte de campagne
-peut également être déposé à la préfecture.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Créé par_:
-
-  - Loi n°2004-193 du 27 février 2004 - art. 27 () JORF 2 mars 2004
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-_Cite_:
-
-  - Code électoral - art. L52-12 (M)
-
-
-###### Article LO328-1
-
-Pour l'application du présent code à la collectivité territoriale de Saint-Pierre-et-Miquelon, il y a lieu de lire :
-
-1° "collectivité territoriale" au lieu de "département" ;
-
-2° "représentant de l'Etat" et : "services du représentant de l'Etat", au lieu de : "préfet" et "préfecture" ;
-
-3° "tribunal de première instance", au lieu de : "tribunal d'instance" et de : "tribunal de grande instance".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-
-#### Chapitre II : Dispositions applicables à l'élection du député de la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=87></a>
-
-###### Article L328-3
-
-Les dispositions du titre II du Livre Ier du présent code sont applicables à l'élection du député de Saint-Pierre-et-
-Miquelon.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-
-###### Article L328-3-1
-
-Pour l'application de l'article L. 52-11, les frais de transport aérien et maritime dûment justifiés, exposés par les
-candidats à l'élection législative à l'intérieur de la collectivité territoriale de Saint-Pierre-et-Miquelon, ne sont pas
-inclus dans le plafond des dépenses.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-_Cite_:
-
-  - Code électoral - art. L52-11 (M)
-
-
-###### Article LO328-2
-
-La collectivité territoriale de Saint-Pierre-et-Miquelon est représentée à l'Assemblée nationale par un député.
-
-Les dispositions organiques du titre II du livre Ier du présent code, à l'exception de l'article L.O. 119, sont applicables
-au député de Saint-Pierre-et-Miquelon.
-
-Pour l'application de l'article LO 141, le mandat de conseiller général de Saint-Pierre-et-Miquelon est assimilé au mandat de
-conseiller général d'un département.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-_Cite_:
-
-  - Code électoral - art. L141 (Ab)
-  - Code électoral - art. LO119 (M)
-
-
-#### Chapitre III : Dispositions applicables à l'élection des conseillers généraux de la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=88></a>
-
-###### Article L328-4
-
-Les dispositions du titre III du livre Ier, à l'exception des chapitres Ier, II, IV bis, VIII et X et des articles L. 205 du
-chapitre III, L. 209 et L. 210 du chapitre IV et L. 222 du chapitre IX, sont applicables à l'élection des conseillers
-généraux de la collectivité territoriale de Saint-Pierre-et-Miquelon. Toutefois les chapitres II et IV bis sont applicables
-dans les cas prévus à l'article L. 334.
-
-Pour l'application de l'article L. 46-1 du présent code, ainsi que de l'article 6-3 de la loi n° 77-729 du 7 juillet 1977
-relative à l'élection des représentants au Parlement européen, le mandat de conseiller général de Saint-Pierre-et-Miquelon
-est assimilé au mandat de conseiller général d'un département.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Cite_:
-
-  - Loi n°77-729 du 7 juillet 1977 - art. 6-3 (M)
-  - Code électoral - art. L333 (M)
-  - Code électoral - art. L334 (M)
-  - Code électoral - art. L46-1 (M)
-  - Code électoral L334, L333, L331-1 à L333-4, L46-1
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-_Anciens textes_:
-
-  - Code électoral - art. L328 (M)
-  - Code électoral - art. L328 (T)
-
-
-###### Article L329
-
-Le conseil général de Saint-Pierre-et-Miquelon est composé de dix-neuf membres. La collectivité territoriale est divisée en
-deux circonscriptions électorales et les sièges sont répartis de la manière suivante : Saint-Pierre : quinze sièges ;
-Miquelon-Langlade :quatre sièges.
-
-Les conseillers généraux sont élus pour six ans ; ils sont rééligibles.
-
-Les élections ont lieu au mois de mars.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-
-###### Article L330
-
-A Saint-Pierre-et-Miquelon, le conseil général est renouvelé intégralement tous les six ans.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-
-###### Article L331
-
-Les conseillers généraux sont élus au scrutin de liste à deux tours, avec dépôt de listes comportant autant de candidats que
-de sièges à pourvoir, augmentés de trois pour la circonscription de Saint-Pierre et d'un pour la circonscription de Miquelon-
-Langlade sans adjonction ni suppression de noms et sans modification de l'ordre de présentation, sous réserve de
-l'application des dispositions prévues au troisième alinéa de l'article L. 331-2.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-_Cite_:
-
-  - Code électoral - art. L331-2 (M)
-
-_Cité par_:
-
-  - Code électoral - art. L332 (Ab)
-  - Code électoral - art. L332-1 (M)
-
-
-###### Article L331-1
-
-Au premier tour de scrutin, il est attribué à la liste qui a recueilli la majorité absolue des suffrages exprimés un nombre
-de sièges égal à la moitié du nombre des sièges à pourvoir, arrondi, le cas échéant, à l'entier supérieur lorsqu'il y a plus
-de quatre sièges à pourvoir et à l'entier inférieur lorsqu'il y a moins de quatre sièges à pourvoir. Cette attribution
-opérée, les autres sièges sont répartis entre toutes les listes à la représentation proportionnelle suivant la règle de la
-plus forte moyenne, sous réserve de l'application des dispositions du troisième alinéa ci-après.
-
-Si aucune liste n'a recueilli la majorité absolue des suffrages exprimés au premier tour, il est procédé à un deuxième tour.
-Il est attribué à la liste qui a obtenu le plus de voix un nombre de sièges égal à la moitié du nombre des sièges à pourvoir,
-arrondi, le cas échéant, à l'entier supérieur lorsqu'il y a plus de quatre sièges à pourvoir et à l'entier inférieur
-lorsqu'il y a moins de quatre sièges à pourvoir. En cas d'égalité de suffrages entre les listes arrivées en tête, ces sièges
-sont attribués à la liste dont les candidats ont la moyenne d'âge la plus élevée. Cette attribution opérée, les autres sièges
-sont répartis entre toutes les listes à la représentation proportionnelle suivant la règle de la plus forte moyenne, sous
-réserve de l'application des dispositions du troisième alinéa ci-après.
-
-Les listes qui n'ont pas obtenu au moins cinq pour cent de suffrages exprimés ne sont pas admises à répartition des sièges.
-
-Les sièges sont attribués aux candidats dans l'ordre de présentation sur chaque liste.
-
-Si plusieurs listes ont la même moyenne pour l'attribution du dernier siège, celui-ci revient à la liste qui a obtenu le plus
-grand nombre de suffrages. En cas d'égalité de suffrages, le siège est attribué au plus âgé des candidats susceptibles d'être
-proclamés élus.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-_Cite_:
-
-  - Code électoral - art. L331-2 (M)
-
-
-###### Article L331-2
-
-Nul ne peut être candidat dans plus d'une circonscription électorale, ni sur plus d'une liste.
-
-Une déclaration de candidature est obligatoire pour chaque tour de scrutin. Sur chacune des listes, l'écart entre le nombre
-des candidats de chaque sexe ne peut être supérieur à un. Au sein de chaque groupe entier de six candidats dans l'ordre de
-présentation de la liste doit figurer un nombre égal de candidats de chaque sexe.
-
-Seules peuvent se présenter au second tour les listes ayant obtenu au premier tour un nombre de suffrages au moins égal à dix
-pour cent du total des suffrages exprimés. Ces listes peuvent être modifiées dans leur composition pour comprendre des
-candidats ayant figuré au premier tour sur d'autres listes, sous réserve que celles-ci ne se présentent pas au second tour et
-qu'elles aient obtenu au premier tour au moins cinq pour cent des suffrages exprimés. En cas de modification de la
-composition d'une liste, l'ordre de présentation des candidats peut également être modifié.
-
-Les candidats ayant figuré sur une même liste au premier tour ne peuvent figurer au second tour que sur une liste. Le choix
-de la liste sur laquelle ils sont candidats au second tour est notifié à la préfecture par la personne ayant eu la qualité de
-responsable de la liste constituée par ces candidats au premier tour.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-_Cité par_:
-
-  - Code électoral - art. L331 (Ab)
-  - Code électoral - art. L331-1 (Ab)
-  - Code électoral - art. L331-2 (Ab)
-  - Code électoral - art. L332 (Ab)
-  - Code électoral - art. L332-1 (M)
-
-
-###### Article L332
-
-La déclaration de candidature résulte du dépôt à la préfecture d'une liste répondant aux conditions fixées aux articles L.
-331 et L. 331-2. Il en est délivré récépissé.
-
-Elle est faite collectivement pour chaque liste par la personne ayant la qualité de responsable de liste. A cet effet, chaque
-candidat établit un mandat signé de lui, confiant au responsable de liste le soin de faire ou de faire faire, par une
-personne déléguée par lui, toutes déclarations et démarches utiles à l'enregistrement de la liste, pour le premier et le
-second tour. Le dépôt de la liste par son responsable doit être assorti de l'ensemble des mandats des candidats qui y
-figurent. La liste déposée indique expressément :
-
-1° Le titre de la liste présentée ;
-
-2° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chacun des candidats.
-
-Pour chaque tour de scrutin, cette déclaration comporte la signature de chaque candidat, sauf le droit pour tout candidat de
-compléter la déclaration collective non signée de lui par une déclaration individuelle faite dans le même délai et portant sa
-signature.
-
-Toutefois, les signatures de chaque candidat ne sont pas exigées pour la déclaration de candidature des listes qui ne
-procèdent à aucune modification de leur composition au second tour.
-
-Est interdit l'enregistrement de la déclaration de candidature d'une liste constituée en violation des dispositions des
-articles L. 331, L. 331-2 et du présent article.
-
-Récépissé ne peut être délivré que si les conditions énumérées au présent article sont remplies.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-_Cite_:
-
-  - Code électoral - art. L331 (M)
-  - Code électoral - art. L331-2 (M)
-
-
-###### Article L332-1
-
-Les déclarations de candidatures doivent être déposées au plus tard :
-
-- pour le premier tour, le deuxième vendredi qui précède le jour du scrutin, à vingt-quatre heures ;
-
-- pour le second tour, le mardi qui suit le premier tour, à vingt-quatre heures.
-
-Aucun retrait volontaire ou remplacement de candidat n'est accepté après le dépôt de la liste.
-
-Les retraits des listes complètes qui interviennent avant l'expiration des délais prévus à l'alinéa premier du présent
-article pour le dépôt des déclarations de candidatures sont enregistrés ; ils comportent la signature de la majorité des
-candidats de la liste.
-
-Est nul tout bulletin établi au nom d'une liste dont la déclaration de candidature n'a pas été régulièrement enregistrée.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-
-###### Article L333-1
-
-Tout conseiller général dont l'inéligibilité se révélera après l'expiration du délai pendant lequel son élection peut être
-contestée ou qui, pendant la durée de son mandat, se trouvera frappé de l'une des incapacités qui fait perdre la qualité
-d'électeur est déclaré démissionnaire par arrêté du préfet soit d'office, soit sur réclamation de tout électeur. Lorsqu'un
-conseiller général est déclaré démissionnaire d'office à la suite d'une condamnation pénale devenue définitive prononcée à
-son encontre et entraînant de ce fait la perte de ses droits civiques et électoraux, le recours éventuel contre l'acte de
-notification du préfet n'est pas suspensif.
-
-La procédure prévue à l'alinéa précédent n'est mise en oeuvre à l'égard d'un conseiller général déclaré comptable de fait par
-un jugement du juge des comptes statuant définitivement que si quitus ne lui a pas été délivré de sa gestion dans les six
-mois de l'expiration du délai de production des comptes imparti par ledit jugement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Créé par_:
-
-  - Ordonnance n°2000-350 du 19 avril 2000 - art. 2 () JORF 22 avril 2000
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-
-###### Article L333-2
-
-Tout conseiller général qui, au moment de son élection, se trouve dans l'un des cas d'incompatibilité prévu au présent titre
-dispose d'un délai d'un mois à partir de la date à laquelle son élection est devenue définitive pour démissionner de son
-mandat ou mettre fin à la situation incompatible avec l'exercice de celui-ci. Il fait connaître son option par écrit au
-préfet qui en informe le président du conseil général. A défaut d'option dans le délai imparti, il est réputé démissionnaire
-de son mandat ; cette démission est constatée par arrêté du préfet.
-
-Si la cause d'incompatibilité survient postérieurement à l'élection, le droit d'option est ouvert dans les mêmes conditions.
-A défaut d'option dans le délai d'un mois à compter de la date à laquelle est survenue la cause d'incompatibilité, le
-conseiller général est déclaré démissionnaire de son mandat par le préfet.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-
-###### Article L333-3
-
-Tout conseiller déjà élu dans l'une des deux circonscriptions de l'archipel et qui est élu dans l'autre cesse, de ce fait
-même, de représenter la première de ces circonscriptions. Toutefois, en cas de contestation de l'élection, la vacance du
-siège n'est proclamée qu'à compter de la décision statuant sur le recours.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-
-###### Article L333-4
-
-Les élections au conseil général peuvent être contestées par tout candidat ou tout électeur de la collectivité territoriale.
-
-Le même droit est ouvert au représentant de l'Etat dans l'archipel s'il estime que les conditions et les formes légalement
-prescrites n'ont pas été respectées.
-
-L'éligibilité d'un candidat devenu conseiller général par application des dispositions du premier alinéa de l'article L. 334
-peut être contestée à compter de la date à laquelle ce candidat a remplacé le conseiller général dont le siège est devenu
-vacant.
-
-La constatation par la juridiction administrative de l'inéligibilité d'un ou plusieurs candidats n'entraîne l'annulation de
-l'élection que du ou des élus inéligibles. Le juge proclame en conséquence l'élection du ou des suivants de la liste.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-_Cite_:
-
-  - Code électoral - art. L334 (M)
-
-
-###### Article L334
-
-Le candidat venant sur une liste immédiatement après le dernier élu est appelé à remplacer le conseiller général élu sur
-cette liste dont le siège devient vacant pour quelque cause que ce soit.
-
-Lorsque les dispositions de l'alinéa précédent ne peuvent plus être appliquées, il est procédé dans les deux mois à des
-élections partielles, selon le mode de scrutin prévu aux chapitres II et IV bis du titre III du livre Ier, lorsque la vacance
-porte sur moins de quatre sièges, et dans les conditions prévues au présent chapitre lorsque la vacance porte sur quatre
-sièges ou plus.
-
-Il n'est procédé à aucune élection partielle dans les trois mois précédant le renouvellement intégral du conseil général.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-_Cité par_:
-
-  - Code électoral - art. L328-4 (Ab)
-  - Code électoral - art. L333-4 (Ab)
-  - Code électoral - art. R174-1 (Ab)
-
-
-#### Chapitre IV : Dispositions applicables à l'élection des conseillers municipaux dans la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=89></a>
-
-###### Article L334-1
-
-Les dispositions du titre IV du livre Ier du présent code, à l'exception de son chapitre IV, sont applicables à l'élection
-des conseillers municipaux des communes de la collectivité territoriale de Saint-Pierre-et-Miquelon.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-
-###### Article LO334-1-1
-
-Les dispositions organiques du titre IV du livre Ier sont applicables à l'élection des conseillers municipaux des communes de
-la collectivité territoriale de Saint-Pierre-et-Miquelon.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-
-#### Chapitre V : Dispositions applicables à l'élection du sénateur de la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=90></a>
-
-###### Article L334-3
-
-Les dispositions du livre II du présent code sont applicables à l'élection du sénateur de Saint-Pierre-et-Miquelon.
-
-Le renouvellement du mandat du sénateur de Saint-Pierre-et-Miquelon a lieu à la même date que celui du mandat des sénateurs
-de la série 1 mentionnée à l'article L.O. 276 du présent code.
-
-**Nota:**
-
-Les dispositions de la loi 2005-1563 du 15 décembre 2005 art. 5, prennent effet à compter du renouvellement partiel de 2011.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-**Liens**:
-
-  - SPEC_APPLI: Entrée en vigueur indéterminée, renouvellement partiel de 2011
-
-_Modifié par_:
-
-  - Loi n°2005-1563 du 15 décembre 2005 - art. 5 () JORF 16 décembre 2005
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-_Cite_:
-
-  - Code électoral - art. LO276 (V)
-
-
-###### Article L334-3-1
-
-Le dernier alinéa de l'article L. 284 du présent code n'est pas applicable à Saint-Pierre-et-Miquelon.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Ordonnance n°2005-432 du 6 mai 2005 - art. 30 (V) JORF 7 mai 2005
-
-_Cité par_:
-
-  - Ordonnance n°2005-432 du 6 mai 2005 - art. 30 (V)
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-_Cite_:
-
-  - Code électoral - art. L284 (M)
-
-
-###### Article LO334-2
-
-La collectivité territoriale de Saint-Pierre-et-Miquelon est représentée au Sénat par un sénateur.
-
-Les dispositions organiques du livre II du présent code, à l'exception de l'article LO. 274, sont applicables à l'élection du
-sénateur de Saint-Pierre-et-Miquelon.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-_Cite_:
-
-  - Code électoral - art. LO274 (M)
-
-
-#### Chapitre VI : Conditions d'application<a id=91></a>
-
-###### Article L334-3-2
-
-Les modalités d'application du présent titre sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-
-### Titre II : Dispositions particulières à Mayotte<a id=92></a>
-
-#### Chapitre Ier : Dispositions communes à l'élection du député, des conseillers généraux et de conseillers municipaux à Mayotte<a id=93></a>
-
-###### Article L334-4
-
-Les dispositions du titre Ier du livre Ier du présent code sont applicables dans la collectivité territoriale de Mayotte, à
-l'exception du premier alinéa de l'article L. 66.
-
-Pour l'application de ces dispositions à Mayotte, il y a lieu de lire :
-
-1° "collectivité territoriale de Mayotte", au lieu de :
-
-"département" ou "arrondissement" ;
-
-2° "représentant du gouvernement" et "services du représentant du gouvernement", au lieu respectivement de : "Préfet" ou
-"sous-préfet" ou "Institut national de la statistique et des études économiques" et "préfecture" ;
-
-3° "tribunal de première instance", au lieu de : "tribunal d'instance" et "tribunal de grande instance" ;
-
-4° "tribunal supérieur d'appel", au lieu de : "cour d'appel" ;
-
-5° "secrétaire général", au lieu de : "secrétaire général de préfecture" ;
-
-6° "receveur particulier des finances", au lieu de :
-
-"trésorier-payeur général" ;
-
-7° "budget du service de la poste", au lieu de : "budget annexe des postes et télécommunications" ;
-
-8° "archives de la collectivité territoriale", au lieu de :
-
-"archives départementales" ;
-
-9° "code des communes applicable à Mayotte", au lieu de : "code général des collectivités territoriales" ;
-
-10° "code du travail applicable à Mayotte", au lieu de : "code du travail" ;
-
-11° "décisions des autorités compétentes", au lieu de :
-
-"arrêté du ministre de la santé".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-_Cité par_:
-
-  - Loi n°77-729 du 7 juillet 1977 - art. 26 (V)
-  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 38 (V)
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-_Cite_:
-
-  - Code électoral - art. L66 (V)
-
-
-###### Article L334-4-1
-
-Le contrôle des inscriptions sur les listes électorales est assuré par le représentant du Gouvernement. Par dérogation à
-l'article L. 37, il est créé, à cette fin, un fichier général des électrices et des électeurs de Mayotte.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-_Cite_:
-
-  - Code électoral - art. L37 (V)
-
-_Cité par_:
-
-  - Code électoral - art. R176-2 (Ab)
-
-
-###### Article L334-4-2
-
-Pour l'application du dernier alinéa de l'article L. 52-11, la référence à l'indice du coût de la vie de l'Institut national
-de la statistique et des études économiques est remplacée par la référence à l'indice local du coût de la vie de l'Institut
-national de la statistique et des études économiques.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-_Cite_:
-
-  - Code électoral - art. L52-11 (M)
-
-
-###### Article L334-5
-
-Pour l'élection du député, des conseillers généraux et des conseillers municipaux de Mayotte, les bulletins de divers
-candidats ou listes de candidats sont imprimés sur des papiers de couleurs différentes.
-
-Une liste de couleurs est établie par la commission de propagande compétente dans un ordre fixé par tirage au sort en
-présence de candidats ou de leurs délégués.
-
-Une couleur choisie sur cette liste est attribuée à chaque candidat ou chaque liste de candidats suivant l'ordre dans lequel
-les intéressés en ont fait la demande. Le papier est fourni par l'administration. Aucun autre papier ne peut être utilisé.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-_Cité par_:
-
-  - Décret n°87-797 du 25 septembre 1987 - art. 10 (V)
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-
-###### Article L334-6
-
-Les bulletins ne portant aucune désignation, ceux ne contenant pas une désignation suffisante ou dans lesquels les votants se
-sont fait connaître, les bulletins trouvés dans l'urne sans enveloppe ou dans des enveloppes non réglementaires, les
-bulletins ou enveloppes portant des signes intérieurs ou extérieurs de reconnaissance, les bulletins ou enveloppes portant
-des mentions injurieuses pour les candidats ou des tiers, les bulletins des candidats imprimés sur un papier de couleur
-différente de celle qui leur a été attribuée par la commission de propagande n'entrent pas en compte dans le résultat du
-dépouillement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-_Cité par_:
-
-  - Décret n°87-797 du 25 septembre 1987 - art. 10 (V)
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-
-#### Chapitre II : Dispositions applicables à l'élection du député de Mayotte<a id=94></a>
-
-###### Article L334-7
-
-Les dispositions du titre II du livre Ier du présent code sont applicables à l'élection du député de Mayotte, à l'exception
-du deuxième alinéa de l'article L. 125.
-
-**Nota:**
-
-Deux versions de l'article L334-7 coexistent :
-
-- la version découlant de l'ordonnance 98-730 art. 18. - la version découlant de la loi 2004-193 art. 27 IV.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-_Cite_:
-
-  - Code électoral - art. L125 (M)
-
-
-###### Article LO334-6-1
-
-Un député à l'Assemblée nationale est élu dans la collectivité territoriale de Mayotte.
-
-Les dispositions organiques du titre II du livre Ier du code électoral sont applicables à l'élection du député de la
-collectivité territoriale de Mayotte, à l'exception de l'article LO 119.
-
-Pour l'application de ces dispositions organiques, il y a lieu de lire :
-
-1° "collectivité territoriale" au lieu de : "département" ;
-
-2° "représentant du Gouvernement" au lieu de : "préfet".
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-_Cite_:
-
-  - Code électoral - art. LO119 (M)
-
-
-###### Article LO334-7-1
-
-Pour l'application de l'article LO 141, le mandat de conseiller général de Mayotte est assimilé au mandat de conseiller d'un
-département.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-_Cite_:
-
-  - Code électoral - art. L141 (Ab)
-
-
-#### Chapitre Ier : Dispositions applicables à l'élection du député, des conseillers généraux et de conseillers municipaux à Mayotte<a id=95></a>
-
-###### Article L334-7
-
-Par dérogation aux dispositions du deuxième alinéa de l'article L. 52-12, à Mayotte, le compte de campagne peut également
-être déposé à la préfecture.
-
-**Nota:**
-
-La numérotation du présent article résulte d'une erreur purement matérielle ; elle n'affecte pas le contenu de l'article L.
-334-7, issu de l'ordonnance n° 2000-350 du 19 avril 2000, qui figure dans le chapitre suivant.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-_Créé par_:
-
-  - Loi n°2004-193 du 27 février 2004 - art. 27 () JORF 2 mars 2004
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-_Cite_:
-
-  - Code électoral - art. L52-12 (M)
-
-
-#### Chapitre III : Dispositions applicables à l'élection des conseillers généraux de Mayotte<a id=96></a>
-
-###### Article L334-8
-
-Les dispositions du titre III du livre Ier du présent code sont applicables à Mayotte, à l'exception du troisième alinéa de
-l'article L. 192, des articles L. 207 et L. 212 et sous réserve des dispositions suivantes.
-
-Le conseil général de Mayotte est renouvelé en même temps que les conseils généraux des départements.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-_Cite_:
-
-  - Code électoral - art. L192 (M)
-  - Code électoral - art. L207 (M)
-  - Code électoral - art. L212 (M)
-
-
-###### Article L334-9
-
-Le mandat de conseiller général est incompatible avec les fonctions suivantes exercées à Mayotte :
-
-1° Représentant du Gouvernement, secrétaire général, secrétaire général adjoint et directeur de cabinet ;
-
-2° Militaire de carrière ou assimilé, en activité de service ou servant au-delà de la durée légale ;
-
-3° Membre du tribunal administratif ou de la chambre régionale des comptes ; secrétaire général de la chambre régionale des
-comptes ;
-
-4° Directeur de l'établissement public de santé territorial de Mayotte ;
-
-5° Fonctionnaire des corps actifs de police ;
-
-6° Architecte de la collectivité territoriale, ingénieur des travaux publics de l'Etat, chef de section principal ou chef de
-section des travaux publics de l'Etat chargé d'une circonscription territoriale de voirie, directeur, directeur adjoint et
-chef de bureau dans les services du représentant du Gouvernement.
-
-7° Membres des corps d'inspection de l'Etat ;
-
-8° Vice-recteur.
-
-9° Membres du conseil économique et social de Mayotte ou du conseil pour la culture, l'éducation et l'environnement de
-Mayotte.
-
-Les conseillers généraux de Mayotte ne peuvent, pendant la durée de leur mandat, être nommés dans un emploi salarié de la
-collectivité territoriale de Mayotte ou subventionné sur ses fonds, s'ils ne possédaient pas la qualité d'agent de ladite
-collectivité avant leur élection.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance n°98-730 du 20 août 1998 - art. 21 (M)
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 69 ()
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V)
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-
-###### Article L334-10
-
-Une commission de propagande unique, dont la composition et le fonctionnement sont fixés par décret, est chargée de l'envoi
-et de la distribution des documents de propagande électorale pour tous les cantons de Mayotte.
-
-L'Etat prend à sa charge les dépenses provenant des opération s faites par la commission de propagande, ainsi que celles
-résultant de son fonctionnement. Il est remboursé aux candidats l'impression des bulletins de vote et le coût du papier et de
-l'impression des affiches et des circulaires ainsi que les frais d'affichage.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-
-###### Article L334-12
-
-Pour l'application de l'article L. 46-1 du présent code, ainsi que de l'article 6-3 de la loi n° 77-729 du 7 juillet 1977
-relative à l'élection des représentants au Parlement européen, le mandat de conseiller général de Mayotte est assimilé au
-mandat de conseiller général d'un département.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-_Cite_:
-
-  - Loi n°77-729 du 7 juillet 1977 - art. 6-3 (M)
-  - Code électoral - art. L46-1 (M)
-
-_Cité par_:
-
-  - Ordonnance n°98-730 du 20 août 1998 - art. 21 (M)
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-
-###### Article L334-12-1
-
-Tout conseiller général dont l'inéligibilité se révélera après l'expiration du délai pendant lequel son élection peut être
-contestée ou qui, pendant la durée de son mandat, se trouvera frappé de l'une des incapacités qui fait perdre la qualité
-d'électeur est déclaré démissionnaire par arrêté du représentant du Gouvernement, soit d'office, soit sur réclamation de tout
-électeur. Lorsqu'un conseiller général est déclaré démissionnaire d'office à la suite d'une condamnation pénale devenue
-définitive prononcée à son encontre et entraînant de ce fait la perte de ses droits civiques et électoraux, le recours
-éventuel contre l'acte de notification du représentant du Gouvernement n'est pas suspensif.
-
-La procédure prévue à l'alinéa précédent n'est mise en oeuvre à l'égard d'un conseiller général déclaré comptable de fait par
-un jugement du juge des comptes statuant définitivement que si quitus ne lui a pas été délivré de sa gestion dans les six
-mois de l'expiration du délai de production des comptes imparti par ledit jugement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-
-###### Article L334-12-2
-
-Tout conseiller général qui, au moment de son élection, se trouve dans l'un des cas d'incompatibilité prévu au présent titre
-dispose d'un délai d'un mois à partir de la date à laquelle son élection est devenue définitive pour démissionner de son
-mandat ou mettre fin à la situation incompatible avec l'exercice de celui-ci. Il fait connaître son option par écrit au
-représentant du Gouvernement qui en informe le président du conseil général. A défaut d'option dans le délai imparti, il est
-réputé démissionnaire de son mandat ; cette démission est constatée par arrêté du représentant du Gouvernement.
-
-Si la cause d'incompatibilité survient postérieurement à l'élection, le droit d'option est ouvert dans les mêmes conditions.
-A défaut d'option dans le délai d'un mois à compter de la date à laquelle est survenue la cause d'incompatibilité, le
-conseiller général est déclaré démissionnaire de son mandat par le représentant du Gouvernement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-
-#### Chapitre IV : Dispositions applicables à l'élection des conseillers municipaux de Mayotte<a id=97></a>
-
-###### Article L334-13
-
-Les dispositions du titre IV du livre Ier du présent code sont applicables à Mayotte, à l'exception des quatrième, cinquième
-et sixième alinéas de l'article L. 238 et du premier alinéa de l'article L. 256.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-_Cité par_:
-
-  - Ordonnance n°98-730 du 20 août 1998 - art. 21 (Ab)
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-_Cite_:
-
-  - Code électoral - art. L238 (M)
-  - Code électoral - art. L256 (V)
-
-
-###### Article L334-14
-
-Les fonctions de conseiller municipal sont incompatibles avec celles de :
-
-1° Représentant du Gouvernement, secrétaire général, secrétaire général adjoint et directeur de cabinet ;
-
-2° Fonctionnaire des corps actifs de police ;
-
-3° Militaire de carrière ou assimilé, en activité de service ou servant au-delà de la durée légale.
-
-Ceux qui seraient élus membres d'un conseil municipal auront, à partir de la proclamation du résultat du scrutin, un délai de
-dix jours pour opter entre l'acceptation du mandat et la conservation de leur emploi. A défaut de déclaration adressée dans
-ce délai à leurs supérieurs hiérarchiques, ils seront réputés avoir opté pour la conservation dudit emploi.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-_Cité par_:
-
-  - Ordonnance n°98-730 du 20 août 1998 - art. 21 (Ab)
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-
-#### Chapitre V : Dispositions applicables à l'élection des sénateurs de Mayotte<a id=98></a>
-
-###### Article L334-15
-
-Les dispositions du livre II du présent code sont applicables à l'élection des sénateurs de Mayotte, à l'exclusion de
-l'article L. 280.
-
-Le renouvellement du mandat des sénateurs de Mayotte a lieu à la même date que celui des sénateurs de la série 1 prévue à
-l'article LO 276 du code électoral.
-
-**Nota:**
-
-Loi 2005-1563 du 15 décembre 2005 art. 5 : Ces dispositions prennent effet à compter du renouvellement partiel de 2011.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-**Liens**:
-
-  - SPEC_APPLI: Entrée en vigueur, renouvellement partiel de 2011
-
-_Cité par_:
-
-  - Ordonnance n°98-730 du 20 août 1998 - art. 21 (M)
-
-_Modifié par_:
-
-  - Loi n°2005-1563 du 15 décembre 2005 - art. 5 () JORF 16 décembre 2005
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-_Cite_:
-
-  - Code électoral - art. L280 (M)
-
-
-###### Article L334-16
-
-Les sénateurs sont élus par un collège électoral composé :
-
-1° Du député ;
-
-2° Des conseillers généraux ;
-
-3° Des délégués des conseils municipaux ou des suppléants de ces délégués.
-
-**Nota:**
-
-Loi n° 2004-404 du 10 mai 2004 art. 12 V : Ces dispositions prennent effet à compter du renouvellement de la série à laquelle
-Mayotte appartient. Ce dernier a eu lieu le 26 septembre 2004.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-_Cité par_:
-
-  - Ordonnance n°98-730 du 20 août 1998 - art. 21 (Ab)
-
-_Modifié par_:
-
-  - Loi n°2004-404 du 10 mai 2004 - art. 12 () JORF 11 mai 2004
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-
-###### Article LO334-14-1
-
-Deux sénateurs sont élus à Mayotte.
-
-Les dispositions organiques du Livre II du présent code sont applicables à l'élection des sénateurs de Mayotte.
-
-**Nota:**
-
-Loi 2004-404 du 10 mai 2004 art. 12 V : Ces dispositions prennent effet à compter du prochain renouvellement de la série à
-laquelle Mayotte appartient. Ce dernier a eu lieu le 26 septembre 2004.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-_Modifié par_:
-
-  - Loi n°2004-404 du 10 mai 2004 - art. 12 () JORF 11 mai 2004
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-
-#### Chapitre VI : Conditions d'application<a id=99></a>
-
-###### Article L334-17
-
-Les modalités d'application du présent titre sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-_Modifié par_:
-
-  - Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2007-223 du 21 février 2007 - art. 17 (V) JORF 22 février 2007
-
-
-## Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse<a id=100></a>
+## Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse<a id=87></a>
 
 ###### Article L335
 
@@ -14613,9 +13237,9 @@ _Modifié par_:
   - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
 
 
-### Titre Ier : Election des conseillers régionaux<a id=101></a>
+### Titre Ier : Election des conseillers régionaux<a id=88></a>
 
-#### Chapitre Ier : Composition des conseils régionaux et durée du mandat des conseillers<a id=102></a>
+#### Chapitre Ier : Composition des conseils régionaux et durée du mandat des conseillers<a id=89></a>
 
 ###### Article L336
 
@@ -14669,7 +13293,7 @@ _Modifié par_:
   - Loi n°99-36 du 19 janvier 1999 - art. 2 ()
 
 
-#### Chapitre II : Mode de scrutin<a id=103></a>
+#### Chapitre II : Mode de scrutin<a id=90></a>
 
 ###### Article L338
 
@@ -14745,7 +13369,7 @@ _Cite_:
   - Code électoral - art. L338 (V)
 
 
-#### Chapitre III : Conditions d'éligibilité et inéligibilités<a id=104></a>
+#### Chapitre III : Conditions d'éligibilité et inéligibilités<a id=91></a>
 
 ###### Article L339
 
@@ -14870,7 +13494,7 @@ _Cite_:
   - Code électoral - art. L52-12 (VT)
 
 
-#### Chapitre IV : Incompatibilités<a id=105></a>
+#### Chapitre IV : Incompatibilités<a id=92></a>
 
 ###### Article L342
 
@@ -14984,7 +13608,7 @@ _Modifié par_:
   - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 31 () JORF 9 décembre 2003
 
 
-#### Chapitre V : Déclarations de candidature<a id=106></a>
+#### Chapitre V : Déclarations de candidature<a id=93></a>
 
 ###### Article L346
 
@@ -15198,7 +13822,7 @@ _Cité par_:
   - Code électoral - art. L372 (M)
 
 
-#### Chapitre VI : Propagande<a id=107></a>
+#### Chapitre VI : Propagande<a id=94></a>
 
 ###### Article L353
 
@@ -15311,7 +13935,7 @@ _Cite_:
   - Code électoral - art. L215 (V)
 
 
-#### Chapitre VII : Opérations préparatoires au scrutin<a id=108></a>
+#### Chapitre VII : Opérations préparatoires au scrutin<a id=95></a>
 
 ###### Article L357
 
@@ -15337,7 +13961,7 @@ _Cité par_:
   - Décret n°2015-939 du 30 juillet 2015 (V)
 
 
-#### Chapitre VIII : Opérations de vote<a id=109></a>
+#### Chapitre VIII : Opérations de vote<a id=96></a>
 
 ###### Article L358
 
@@ -15395,7 +14019,7 @@ _Modifié par_:
   - Loi n°99-36 du 19 janvier 1999 - art. 10 ()
 
 
-#### Chapitre IX : Remplacement des conseillers régionaux<a id=110></a>
+#### Chapitre IX : Remplacement des conseillers régionaux<a id=97></a>
 
 ###### Article L360
 
@@ -15436,7 +14060,7 @@ _Cité par_:
   - Code électoral - art. L46-1 (MMN)
 
 
-#### Chapitre X : Contentieux<a id=111></a>
+#### Chapitre X : Contentieux<a id=98></a>
 
 ###### Article L361
 
@@ -15518,9 +14142,9 @@ _Modifié par_:
   - Loi n°99-36 du 19 janvier 1999 - art. 13 ()
 
 
-### Titre II : Election des conseillers à l'Assemblée de Corse<a id=112></a>
+### Titre II : Election des conseillers à l'Assemblée de Corse<a id=99></a>
 
-#### Chapitre Ier : Composition de l'assemblée et durée du mandat de ses membres<a id=113></a>
+#### Chapitre Ier : Composition de l'assemblée et durée du mandat de ses membres<a id=100></a>
 
 ###### Article L364
 
@@ -15564,7 +14188,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L4422-2 (V)
 
 
-#### Chapitre II : Mode de scrutin<a id=114></a>
+#### Chapitre II : Mode de scrutin<a id=101></a>
 
 ###### Article L365
 
@@ -15629,7 +14253,7 @@ _Cite_:
   - Code électoral - art. L338 (M)
 
 
-#### Chapitre III : Conditions d'éligibilité et inéligibilités<a id=115></a>
+#### Chapitre III : Conditions d'éligibilité et inéligibilités<a id=102></a>
 
 ###### Article L367
 
@@ -15669,7 +14293,7 @@ _Cité par_:
   - Code électoral - art. L372 (V)
 
 
-#### Chapitre IV : Incompatibilités<a id=116></a>
+#### Chapitre IV : Incompatibilités<a id=103></a>
 
 ###### Article L368
 
@@ -15723,7 +14347,7 @@ _Créé par_:
   - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
 
 
-#### Chapitre V : Déclarations de candidature<a id=117></a>
+#### Chapitre V : Déclarations de candidature<a id=104></a>
 
 ###### Article L370
 
@@ -15857,7 +14481,7 @@ _Cité par_:
   - Code électoral - art. R192 (V)
 
 
-#### Chapitre VI : Propagande<a id=118></a>
+#### Chapitre VI : Propagande<a id=105></a>
 
 ###### Article L375
 
@@ -15948,7 +14572,7 @@ _Cite_:
   - Code électoral - art. L355 (V)
 
 
-#### Chapitre VII : Opérations préparatoires au scrutin<a id=119></a>
+#### Chapitre VII : Opérations préparatoires au scrutin<a id=106></a>
 
 ###### Article L378
 
@@ -15970,7 +14594,7 @@ _Créé par_:
   - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
 
 
-#### Chapitre VIII : Opérations de vote<a id=120></a>
+#### Chapitre VIII : Opérations de vote<a id=107></a>
 
 ###### Article L379
 
@@ -16005,7 +14629,7 @@ _Cité par_:
   - Code électoral - art. R199 (V)
 
 
-#### Chapitre IX : Remplacement des conseillers à l'Assemblée de Corse<a id=121></a>
+#### Chapitre IX : Remplacement des conseillers à l'Assemblée de Corse<a id=108></a>
 
 ###### Article L380
 
@@ -16050,7 +14674,7 @@ _Cite_:
   - Code électoral - art. L46-1 (VT)
 
 
-#### Chapitre X : Contentieux<a id=122></a>
+#### Chapitre X : Contentieux<a id=109></a>
 
 ###### Article L381
 
@@ -16133,7 +14757,7 @@ _Créé par_:
   - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
 
 
-### Titre III : Conditions  d'application des titre Ier et II<a id=123></a>
+### Titre III : Conditions  d'application des titre Ier et II<a id=110></a>
 
 ###### Article L384
 
@@ -16155,9 +14779,9 @@ _Créé par_:
 
 
 ## Livre V : Dispositions applicables à la 
-Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna<a id=124></a>
+Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna<a id=111></a>
 
-### Titre Ier : Dispositions générales<a id=125></a>
+### Titre Ier : Dispositions générales<a id=112></a>
 
 ###### Article L385
 
@@ -16317,8 +14941,9 @@ _Modifié par_:
 
 ###### Article L388
 
-Les dispositions du titre Ier du livre Ier du présent code, à l'exception des articles L. 15, L. 15-1, L. 46-1 et L. 66, sont
-applicables à l'élection :
+Les dispositions du titre Ier du livre Ier du présent code, dans leur rédaction en vigueur à la date de promulgation de la
+loi n° 2007-224 du 21 février 2007 portant dispositions statutaires et institutionnelles relatives à l'outre-mer, à
+l'exception des articles L. 15, L. 15-1, L. 46-1 et L. 66, sont applicables à l'élection :
 
 1° Des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna ;
 
@@ -16340,6 +14965,7 @@ _Cite_:
   - Loi n°61-814 1961-07-29
   - Loi n°99-209 1999-03-19
   - Loi n°2004-192 2004-02-27
+  - Loi n°2007-224 2007-02-21
   - Code électoral - art. L15 (V)
   - Code électoral - art. L15-1 (M)
   - Code électoral - art. L46-1 (M)
@@ -16357,7 +14983,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2004-193 2004-02-27 art. 14 2° JORF 2 mars 2004
+  - Loi n°2007-224 2007-02-21 art. 9 1° JORF 22 février 2007
 
 
 ###### Article L389
@@ -16857,7 +15483,7 @@ _Créé par_:
   - Loi n°2004-192 du 27 février 2004 - art. 193 () JORF 2 mars 2004
 
 
-### Titre II : Election des députés<a id=126></a>
+### Titre II : Election des députés<a id=113></a>
 
 ###### Article L394
 
@@ -16889,9 +15515,10 @@ _Abrogé par_:
 
 ###### Article L395
 
-Les dispositions du titre II du livre Ier du présent code sont applicables à l'élection des députés en Nouvelle-Calédonie, en
-Polynésie française et dans les îles Wallis et Futuna, à l'exception du deuxième alinéa de l'article L. 125 et de l'article
-L. 175.
+Les dispositions du titre II du livre Ier du présent code, dans leur rédaction en vigueur à la date de promulgation de la loi
+n° 2007-224 du 21 février 2007 portant dispositions statutaires et institutionnelles relatives à l'outre-mer, sont
+applicables à l'élection des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, à
+l'exception du deuxième alinéa de l'article L. 125 et de l'article L. 175.
 
 **Liens relatifs à cet article**
 
@@ -16899,14 +15526,15 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
-
-  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
-
 _Cite_:
 
+  - Loi n°2007-224 2007-02-21
   - Code électoral - art. L125 (M)
   - Code électoral - art. L175 (M)
+
+_Modifié par_:
+
+  - Loi n°2007-224 2007-02-21 art. 9 1° JORF 22 février 2007
 
 
 ###### Article L396
@@ -17026,7 +15654,7 @@ _Cité par_:
   - Code électoral - art. LO438-3 (V)
 
 
-### Titre III : Dispositions applicables à l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie<a id=127></a>
+### Titre III : Dispositions applicables à l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie<a id=114></a>
 
 ###### Article L398
 
@@ -17252,7 +15880,7 @@ _Cité par_:
   - Code électoral - art. R239 (V)
 
 
-### Titre IV : Dispositions applicables à l'élection des membres de l'assemblée de la Polynésie française<a id=128></a>
+### Titre IV : Dispositions applicables à l'élection des membres de l'assemblée de la Polynésie française<a id=115></a>
 
 ###### Article L407
 
@@ -17778,7 +16406,7 @@ _Créé par_:
   - Loi n°2004-192 du 27 février 2004 - art. 193 () JORF 2 mars 2004
 
 
-### Titre V : Dispositions applicables à l'élection des membres de l'assemblée territoriale des îles Wallis et Futuna<a id=129></a>
+### Titre V : Dispositions applicables à l'élection des membres de l'assemblée territoriale des îles Wallis et Futuna<a id=116></a>
 
 ###### Article L418
 
@@ -18031,14 +16659,15 @@ _Créé par_:
   - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
 
 
-### Titre VI : Dispositions applicables à l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française<a id=130></a>
+### Titre VI : Dispositions applicables à l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française<a id=117></a>
 
-#### Chapitre Ier : Nouvelle-Calédonie<a id=131></a>
+#### Chapitre Ier : Nouvelle-Calédonie<a id=118></a>
 
 ###### Article L428
 
 Pour l'élection des conseillers municipaux en Nouvelle-Calédonie, les dispositions du titre IV du livre Ier sont applicables,
-sous réserve des dispositions prévues au présent chapitre.
+dans leur rédaction en vigueur à la date de promulgation de la loi n° 2007-224 du 21 février 2007 portant dispositions
+statutaires et institutionnelles relatives à l'outre-mer, sous réserve des dispositions prévues au présent chapitre.
 
 Pour son application en Nouvelle-Calédonie, le 8° du deuxième alinéa de l'article L. 231 est ainsi rédigé :
 
@@ -18054,13 +16683,14 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
-
-  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
-
 _Cite_:
 
+  - Loi n°2007-224 2007-02-21
   - Code électoral - art. L231 (M)
+
+_Modifié par_:
+
+  - Loi n°2007-224 2007-02-21 art. 9 2° JORF 22 février 2007
 
 
 ###### Article L429
@@ -18237,46 +16867,27 @@ _Créé par_:
   - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
 
 
-#### Chapitre II : Polynésie Française<a id=132></a>
+#### Chapitre II : Polynésie Française<a id=119></a>
 
 ###### Article L437
 
 Pour l'élection des conseillers municipaux en Polynésie française, les dispositions du chapitre Ier du titre IV du livre Ier
-sont applicables, sous réserve des dispositions prévues au présent chapitre.
+sont applicables, dans leur rédaction en vigueur à la date de promulgation de la loi n° 2007-224 du 21 février 2007 portant
+dispositions statutaires et institutionnelles relatives à l'outre-mer, sous réserve des dispositions prévues au présent
+chapitre. 
 
-Pour son application en Polynésie française, le 8° du deuxième alinéa de l'article L. 231 est ainsi rédigé :
+Pour son application en Polynésie française, le 8° du deuxième alinéa de l'article L. 231 est ainsi rédigé : 
 
 " 8° Directeurs du cabinet du président et des membres du gouvernement et du président de l'assemblée de la Polynésie
 française, secrétaire général et secrétaire général adjoint du gouvernement, directeurs généraux, inspecteurs généraux,
 directeurs, inspecteurs et chefs de service de la Polynésie française. "
 
-**Liens relatifs à cet article**
+**Nota:**
 
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Créé par_:
-
-  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
-
-_Cité par_:
-
-  - Code général des collectivités territoriales - art. L2573-5 (VD)
-
-_Cite_:
-
-  - Code électoral - art. L231 (M)
-
-
-###### Article L438
-
-Les dispositions du chapitre II du titre IV du livre Ier du présent code sont applicables dans les communes du territoire de
-la Polynésie française de moins de 3 500 habitants et de 3 500 habitants et plus composées de communes associées.
-
-Les dispositions du chapitre III du titre IV du livre Ier du présent code, à l'exception des trois derniers alinéas de
-l'article L. 261, sont applicables aux communes du territoire de la Polynésie française de 3 500 habitants et plus qui ne
-sont pas composées de communes associées.
+Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
+départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
+s’appliquera aux élections organisées les 23 et 30 mars 2014 à l’occasion du prochain renouvellement général des conseils
+municipaux et communautaires, y compris aux opérations préparatoires à ce scrutin.
 
 **Liens relatifs à cet article**
 
@@ -18286,7 +16897,34 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-193 2004-02-27 art. 33 1° JORF 2 mars 2004
+  - Loi n°2007-224 2007-02-21 art. 9 2° JORF 22 février 2007
+
+_Cité par_:
+
+  - Code général des collectivités territoriales - art. L2573-5 (VD)
+
+_Cite_:
+
+  - Code électoral - art. L231 (VT)
+
+
+###### Article L438
+
+Les dispositions du chapitre II du titre IV du livre Ier du présent code, dans leur rédaction en vigueur à la date de
+promulgation de la loi n° 2007-224 du 21 février 2007 portant dispositions statutaires et institutionnelles relatives à
+l'outre-mer, sont applicables dans les communes du territoire de la Polynésie française de moins de 3 500 habitants et de 3
+500 habitants et plus composées de communes associées.
+
+Les dispositions du chapitre III du titre IV du livre Ier du présent code, dans leur rédaction en vigueur à la date de
+promulgation de la loi n° 2007-224 du 21 février 2007 portant dispositions statutaires et institutionnelles relatives à
+l'outre-mer, à l'exception des trois derniers alinéas de l'article L. 261, sont applicables aux communes du territoire de la
+Polynésie française de 3 500 habitants et plus qui ne sont pas composées de communes associées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 _Cité par_:
 
@@ -18297,16 +16935,22 @@ _Cité par_:
 
 _Cite_:
 
+  - Loi n°2007-224 2007-02-21
   - Code électoral - art. L261 (V)
 
+_Modifié par_:
 
-### Titre VII : Dispositions applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna<a id=133></a>
+  - Loi n°2007-224 2007-02-21 art. 9 1° JORF 22 février 2007
+
+
+### Titre VII : Dispositions applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna<a id=120></a>
 
 ###### Article L439
 
 Les dispositions du titre III, des chapitres Ier à VII du titre IV et du titre VI du livre II, à l'exception de l'article L.
-301, ainsi que celles des articles L. 385 à L. 387, sont applicables à l'élection des sénateurs en Polynésie française, en
-Nouvelle-Calédonie et dans les îles Wallis et Futuna.
+301, ainsi que celles des articles L. 385 à L. 387, sont applicables, dans leur rédaction en vigueur à la date de
+promulgation de la loi n° 2007-224 du 21 février 2007 portant dispositions statutaires et institutionnelles relatives à
+l'outre-mer, à l'élection des sénateurs en Polynésie française, en Nouvelle-Calédonie et dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -18314,19 +16958,20 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
+_Cite_:
+
+  - Loi n°2007-224 2007-02-21
+  - Code électoral - art. L301 (M)
+  - Code électoral L301, L385 à L387
+
 _Modifié par_:
 
-  - Loi n°2004-404 du 10 mai 2004 - art. 13 () JORF 11 mai 2004
+  - Loi n°2007-224 2007-02-21 art. 9 2° JORF 22 février 2007
 
 _Cité par_:
 
   - Arrêté du 3 septembre 2014 (V)
   - Arrêté du 26 septembre 2014 (V)
-
-_Cite_:
-
-  - Code électoral - art. L301 (M)
-  - Code électoral L301, L385 à L387
 
 
 ###### Article L439-1
@@ -18617,44 +17262,34 @@ _Créé par_:
 
 ###### Article LO438-2
 
-Les dispositions organiques du livre II, à l'exception de l'article LO 274, sont applicables à l'élection des sénateurs en
-Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna sous réserve des dispositions suivantes :
+Les dispositions organiques du livre II, à l'exception de l'article LO. 274, sont applicables à l'élection des sénateurs en
+Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna sous réserve des dispositions suivantes : 
 
-1° Pour la Nouvelle-Calédonie, il y a lieu de lire :
+1° Pour la Nouvelle-Calédonie, il y a lieu de lire : 
 
-a) "Nouvelle-Calédonie" au lieu de : "département" ;
+a) " Nouvelle-Calédonie " au lieu de : " département " ; 
 
-b) "haut-commissaire de la République" et "services du haut-commissaire de la République" au lieu de : "préfecture" ;
+b) " haut-commissaire de la République " et " services du haut-commissaire de la République " au lieu respectivement de : "
+préfet " et " préfecture " ; 
 
-c) "commissaire délégué de la République" au lieu de :
+c) " commissaire délégué de la République " au lieu de : " sous-préfet ". 
 
-"sous-préfet".
+2° Pour la Polynésie française, il y a lieu de lire : 
 
-2° Pour la Polynésie française, il y a lieu de lire :
+a) " Polynésie française " au lieu de : " département " ; 
 
-a) "Polynésie française" au lieu de : "département" ;
+b) " haut-commissaire de la République " et " services du haut-commissaire de la République " au lieu de : " préfet " et "
+préfecture " ; 
 
-b) "haut-commissaire de la République" et "services du haut-commissaire de la République" au lieu de : "préfet" et
-"préfecture" ;
+c) " chef de subdivision administrative " au lieu de : " sous-préfet ". 
 
-c) "chef de subdivision administrative" au lieu de :
+3° Pour les îles Wallis et Futuna, il y a lieu de lire : 
 
-"sous-préfet".
+a) " Wallis et Futuna " au lieu de : " département " ; 
 
-3° Pour les îles Wallis et Futuna, il y a lieu de lire :
+b) " administrateur supérieur " et " services de l'administrateur supérieur " au lieu de : " préfet " et " préfecture " ; 
 
-a) "Wallis et Futuna" au lieu de : "département" ;
-
-b) "administrateur supérieur" et "services de l'administrateur supérieur" au lieu de : "préfet" et "préfecture" ;
-
-c) "chef de circonscription territoriale" au lieu de :
-
-"sous-préfet".
-
-**Nota:**
-
-NOTA : Loi 2003-696 du 30 juillet 2003 art. 6 III : Ces dispositions prennent effet pour la Nouvelle-Calédonie et la
-Polynésie française à compter du prochain renouvellement de la série à laquelle elles appartiennent.
+c) " chef de circonscription territoriale " au lieu de : " sous-préfet ".
 
 **Liens relatifs à cet article**
 
@@ -18662,13 +17297,13 @@ _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2003-696 du 30 juillet 2003 - art. 6 (V) JORF 31 juillet 2003
+  - Loi n°2007-223 du 21 février 2007 - art. 13 () JORF 22 février 2007
 
 _Cite_:
 
-  - Code électoral - art. LO274 (M)
+  - Code électoral - art. LO274 (V)
 
 
 ###### Article LO438-3
@@ -18698,7 +17333,7 @@ _Cite_:
   - Code électoral - art. LO133 (V)
 
 
-### Titre VIII : Conditions d'application<a id=134></a>
+### Titre VIII : Conditions d'application<a id=121></a>
 
 ###### Article L449
 
@@ -18715,9 +17350,3792 @@ _Créé par_:
   - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
 
 
-## Livre VI : Dispositions finales<a id=135></a>
+## Livre VI : Dispositions particulières à Mayotte, à Saint-Barthélemy, à Saint-Martin  et à Saint-Pierre-et-Miquelon<a id=122></a>
 
-###### Article L450
+### Titre Ier : Mayotte<a id=123></a>
+
+#### Chapitre Ier : Dispositions communes à l'élection du député, des conseillers généraux et des conseillers municipaux<a id=124></a>
+
+###### Article L451
+
+Pour l'application du présent code à Mayotte, il y a lieu de lire :
+
+1° "collectivité départementale de Mayotte" au lieu de :
+
+"département" ou "arrondissement" ;
+
+2° "représentant de l'Etat" et "services du représentant de l'Etat" au lieu respectivement de : "préfet" ou "sous-préfet" et
+de :
+
+"Institut national de la statistique et des études économiques" ou "préfecture" ;
+
+3° "tribunal de première instance" au lieu de : "tribunal d'instance" et "tribunal de grande instance" ;
+
+4° "tribunal supérieur d'appel" au lieu de : "cour d'appel" ;
+
+5° "secrétaire général" au lieu de : "secrétaire général de préfecture" ;
+
+6° "budget du service de la poste" au lieu de : "budget annexe des postes et télécommunications" ;
+
+7° "archives de la collectivité départementale" au lieu de :
+
+"archives départementales".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Cité par_:
+
+  - Loi n°77-729 du 7 juillet 1977 - art. 26 (VT)
+  - Code général des collectivités territoriales - art. LO1112-14-1 (VD)
+  - Code électoral - art. L558-46 (VT)
+  - Code électoral - art. L562 (VT)
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+
+###### Article L452
+
+Le contrôle des inscriptions sur les listes électorales est assuré par le représentant de l'Etat. Par dérogation à l'article
+L. 37, il est créé à cette fin un fichier général des électrices et des électeurs de Mayotte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 du 27 octobre 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+_Abrogé par_:
+
+  - Loi n°2010-1487 du 7 décembre 2010 - art. 8
+
+_Cité par_:
+
+  - Code électoral - art. D287 (Ab)
+  - Code électoral - art. R286 (Ab)
+
+_Cite_:
+
+  - Code électoral - art. L37
+
+
+###### Article L453
+
+Pour l'application du dernier alinéa de l'article L. 52-11, la référence à l'indice du coût de la vie de l'Institut national
+de la statistique et des études économiques est remplacée par la référence à l'indice local du coût de la vie de l'Institut
+national de la statistique et des études économiques.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+_Cite_:
+
+  - Code électoral - art. L52-11 (V)
+
+
+###### Article L454
+
+Par dérogation aux dispositions du deuxième alinéa de l'article L. 52-12, à Mayotte, le compte de campagne peut également
+être déposé par le candidat auprès des services du représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+_Cite_:
+
+  - Code électoral - art. L52-12 (V)
+
+
+###### Article LO450
+
+Pour l'application du présent code à Mayotte, il y a lieu de lire :
+
+1° "collectivité départementale"  au lieu de : "département" ;
+
+2° "représentant de l'Etat" et "services du représentant de l'Etat" au lieu respectivement de : "préfet" et "préfecture".
+
+**Nota:**
+
+En application du décret n° 2010-1399 du 12 novembre 2010, les collèges électoraux sont convoqués le dimanche 20 mars 2011,
+et le 27 mars en cas de deuxième tour.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 du 27 octobre 1964
+
+_Modifié par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Abrogé par_:
+
+  - Loi organique n°2010-1486 du 7 décembre 2010 - art. 3 (M)
+
+_Cité par_:
+
+  - Code général des collectivités territoriales - art. LO1112-14-1 (V)
+
+_Anciens textes_:
+
+  - Code électoral - art. L385 (M)
+
+_Nouveaux textes_:
+
+  - Code électoral - art. L568 (V)
+
+
+#### Chapitre II : Dispositions applicables à l'élection du député<a id=125></a>
+
+###### Article LO455
+
+Un député à l'Assemblée nationale est élu à Mayotte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Abrogé par_:
+
+  - Loi organique n°2009-38 du 13 janvier 2009 - art. 8
+
+
+#### Chapitre III : Dispositions applicables à l'élection des conseillers généraux<a id=126></a>
+
+###### Article L460
+
+Tout candidat à l'élection au conseil général doit obligatoirement, avant chaque tour de scrutin, souscrire une déclaration
+de candidature. Cette déclaration, revêtue de la signature du candidat, énonce les nom, prénoms, sexe, date et lieu de
+naissance, domicile et profession. Elle mentionne également la personne appelée à remplacer le candidat comme conseiller
+général dans le cas prévu à l'article LO 469. Les articles L. 155 et L. 163 sont applicables à la désignation du remplaçant.
+Le candidat et son remplaçant sont de sexe différent. 
+
+A cette déclaration sont jointes les pièces propres à prouver que le candidat et son remplaçant répondent aux conditions
+d'éligibilité. 
+
+Si la déclaration de candidature n'est pas conforme au premier alinéa, si elle n'est pas accompagnée des pièces mentionnées
+au deuxième alinéa ou si ces pièces n'établissent pas que le candidat et son remplaçant répondent aux conditions
+d'éligibilité, elle n'est pas enregistrée. 
+
+Si le candidat fait, contrairement aux dispositions de l'article LO 458, acte de candidature dans plusieurs cantons, sa
+candidature n'est pas enregistrée. 
+
+Le refus d'enregistrement est motivé. 
+
+Le candidat qui s'est vu opposer un refus d'enregistrement dispose de vingt-quatre heures pour saisir le tribunal
+administratif qui statue sous trois jours. 
+
+Faute pour le tribunal administratif d'avoir statué dans ce délai, la candidature doit être enregistrée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+_Abrogé par_:
+
+  - Loi n°2010-1487 du 7 décembre 2010 - art. 8
+
+_Cite_:
+
+  - Code électoral - art. L155
+  - Code électoral - art. L163
+  - Code électoral - art. LO458
+  - Code électoral - art. LO469
+
+_Cité par_:
+
+  - Code électoral - art. R293 (VT)
+
+
+###### Article L462
+
+I. - La campagne électorale pour le premier tour de scrutin est ouverte à partir du deuxième lundi qui précède celui-ci. Elle
+prend fin le samedi précédant le scrutin, à minuit.
+
+La campagne électorale pour le second tour commence le lundi suivant le premier tour à midi et s'achève le samedi précédant
+le scrutin, à minuit.
+
+II. - A Mayotte, les antennes de la société nationale chargée du service public de la communication audiovisuelle outre-mer
+sont mises à la disposition des partis et groupements politiques représentant des candidats dont la candidature a été
+régulièrement enregistrée.
+
+III. - Une durée d'émission de trois heures à la télévision et de trois heures à la radio est mise à la disposition des
+candidats présentés par les partis et groupements politiques représentés au conseil général.
+
+Le Conseil supérieur de l'audiovisuel détermine le temps attribué à chaque parti ou groupement en fonction de la
+représentation des partis et groupements politiques au conseil général. Cette représentation est constatée au vu de la
+déclaration individuelle de rattachement faite par chaque élu sortant au plus tard deux mois avant la date d'expiration du
+mandat du conseil général ou, en cas de dissolution, dans les huit jours de la publication du décret qui la décide.
+
+En cas de vacance de l'ensemble des sièges du conseil général consécutive à la démission globale de ses membres, la
+déclaration individuelle de rattachement est faite dans les huit jours qui suivent la date de la réception de la dernière
+démission par le représentant de l'Etat.
+
+Les partis et groupements peuvent décider d'utiliser en commun leur temps de parole.
+
+Chaque parti ou groupement dispose d'une durée minimale de cinq minutes à la télévision et de cinq minutes à la radio.
+
+IV. - Une durée maximale d'émission de trente minutes à la télévision et de trente minutes à la radio est mise à la
+disposition des autres partis ou groupements.
+
+Cette durée est répartie également entre ces partis ou groupements par le Conseil supérieur de l'audiovisuel, sans qu'un
+parti ou groupement ne puisse bénéficier de plus de cinq minutes à la télévision et de cinq minutes à la radio.
+
+V. - Les conditions de production, de programmation et de diffusion des émissions sont fixées par le Conseil supérieur de
+l'audiovisuel. Celui-ci adresse des recommandations aux exploitants des autres services de communication audiovisuelle
+autorisés dans la collectivité. Il désigne un représentant à Mayotte pendant toute la durée de la campagne.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+
+###### Article L463
+
+Une commission de propagande est chargée d'assurer l'envoi et la distribution des documents de propagande électorale.
+
+L'Etat prend à sa charge les dépenses provenant des opérations faites par la commission de propagande, celles résultant de
+son fonctionnement, ainsi que le coût du papier et l'impression des bulletins de vote, circulaires et frais d'affichage pour
+les candidats ayant obtenu au moins 5 % des suffrages exprimés à l'un des deux tours de scrutin.
+
+Les dépenses liées à la campagne audiovisuelle officielle sont également à sa charge.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+_Cité par_:
+
+  - Code électoral - art. D299 (Ab)
+  - Code électoral - art. R297 (VT)
+
+
+###### Article L464
+
+Les électeurs sont convoqués par décret, au plus tard le quatrième lundi précédant la date du scrutin.
+
+Toutefois, pour les élections partielles, les électeurs sont convoqués par arrêté du représentant de l'Etat, au plus tard le
+quatrième lundi précédant la date du scrutin.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 du 27 octobre 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+_Abrogé par_:
+
+  - Loi n°2010-1487 du 7 décembre 2010 - art. 8
+
+
+###### Article LO456
+
+Chaque canton de Mayotte élit un membre du conseil général.
+
+**Nota:**
+
+En application du décret n° 2010-1399 du 12 novembre 2010, les collèges électoraux sont convoqués le dimanche 20 mars 2011,
+et le 27 mars en cas de deuxième tour.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Abrogé par_:
+
+  - Loi organique n°2010-1486 du 7 décembre 2010 - art. 3 (M)
+
+
+###### Article LO457
+
+Les conseillers généraux sont élus pour six ans ; ils sont renouvelés par moitié tous les trois ans.
+
+Le conseil général de Mayotte est renouvelé en même temps que les conseils généraux des départements.
+
+En cas de renouvellement intégral, à la réunion qui suit ce renouvellement, le conseil général divise les cantons de la
+collectivité en deux séries et il procède ensuite à un tirage au sort pour régler l'ordre du renouvellement des séries.
+
+Lorsqu'un nouveau canton est créé par la fusion de deux cantons qui n'appartiennent pas à la même série de renouvellement, il
+est procédé à une élection à la date du renouvellement le plus proche afin de pourvoir le siège de ce nouveau canton. Dans ce
+cas, et malgré la suppression du canton où il a été élu, le conseiller général de celui des deux anciens cantons qui
+appartient à la série renouvelée à la date la plus lointaine peut exercer son mandat jusqu'à son terme.
+
+**Nota:**
+
+En application du décret n° 2010-1399 du 12 novembre 2010, les collèges électoraux sont convoqués le dimanche 20 mars 2011,
+et le 27 mars en cas de deuxième tour.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Abrogé par_:
+
+  - Loi organique n°2010-1486 du 7 décembre 2010 - art. 3 (M)
+
+
+###### Article LO458
+
+Nul n'est élu membre du conseil général au premier tour de scrutin s'il n'a réuni :
+
+1° La majorité absolue des suffrages exprimés ;
+
+2° Un nombre de suffrages égal au quart de celui des électeurs inscrits.
+
+Au second tour de scrutin, l'élection a lieu à la majorité relative, quel que soit le nombre des votants. Si plusieurs
+candidats obtiennent le même nombre de suffrages, l'élection est acquise au plus âgé.
+
+Nul ne peut être candidat dans plus d'un canton.
+
+Nul ne peut être candidat au second tour s'il ne s'est présenté au premier tour et s'il n'a obtenu un nombre de suffrages au
+moins égal à 10 % du nombre des électeurs inscrits.
+
+Dans le cas où un seul candidat remplit ces conditions, le candidat ayant obtenu après celui-ci le plus grand nombre de
+suffrages au premier tour peut se maintenir au second.
+
+Dans le cas où aucun candidat ne remplit ces conditions, les deux candidats ayant obtenu le plus grand nombre de suffrages au
+premier tour peuvent se maintenir au second.
+
+**Nota:**
+
+En application du décret n° 2010-1399 du 12 novembre 2010, les collèges électoraux sont convoqués le dimanche 20 mars 2011,
+et le 27 mars en cas de deuxième tour.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Abrogé par_:
+
+  - Loi organique n°2010-1486 du 7 décembre 2010 - art. 3 (M)
+
+_Cité par_:
+
+  - Code électoral - art. L460 (VT)
+
+
+###### Article LO459
+
+Nul ne peut être élu conseiller général s'il n'est âgé de dix-huit ans révolus et ne jouit de ses droits civils et
+politiques. Les majeurs en tutelle ou en curatelle ne peuvent être élus.
+
+Sont éligibles au conseil général tous les citoyens inscrits sur une liste électorale d'une commune de Mayotte ou justifiant
+qu'ils devaient y être inscrits avant le jour de l'élection, qui sont domiciliés à Mayotte, et ceux qui, sans y être
+domiciliés, y sont inscrits au rôle d'une des contributions directes au 1er janvier de l'année dans laquelle se fait
+l'élection ou justifient qu'ils devaient y être inscrits à ce jour ou ont hérité depuis la même époque d'une propriété
+foncière à Mayotte.
+
+**Nota:**
+
+En application du décret n° 2010-1399 du 12 novembre 2010, les collèges électoraux sont convoqués le dimanche 20 mars 2011,
+et le 27 mars en cas de deuxième tour.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Abrogé par_:
+
+  - Loi organique n°2010-1486 du 7 décembre 2010 - art. 3 (M)
+
+
+###### Article LO461
+
+I. - Sont inéligibles au conseil général :
+
+1° Pendant un an à compter de la décision juridictionnelle constatant l'inéligibilité, le président du conseil général et les
+membres de celui-ci qui n'ont pas déposé l'une des déclarations prévues par le titre Ier de la loi n° 88-227 du 11 mars 1988
+relative à la transparence financière de la vie politique ;
+
+2° Les personnes privées, par décision juridictionnelle passée en force de chose jugée, de leur droit d'éligibilité en
+application des lois qui autorisent cette privation ;
+
+3° Les représentants de l'Etat, les secrétaires généraux, les secrétaires généraux adjoints et les sous-préfets chargés de
+mission auprès du représentant de l'Etat, les directeurs du cabinet du représentant de l'Etat en exercice ou qui ont exercé
+leurs fonctions à Mayotte depuis moins de trois ans ;
+
+4° Les personnes déclarées inéligibles en application de l'article L. 118-3 ;
+
+5° Pendant un an à compter de la décision devenue définitive du juge administratif prononçant sa démission d'office, le
+membre du conseil général qui a refusé, sans excuse valable, d'exercer les fonctions qui lui sont dévolues par la loi,
+conformément à l'article LO 6131-4 du code général des collectivités territoriales ;
+
+6° Le Médiateur de la République et le Défenseur des enfants, sauf s'ils exerçaient le même mandat antérieurement à leur
+nomination.
+
+II. - En outre, ne peuvent être élus membres du conseil général s'ils exercent leurs fonctions à Mayotte ou s'ils les ont
+exercées depuis moins de six mois :
+
+1° Les magistrats des juridictions administratives et des juridictions judiciaires ; les juges de proximité ; le secrétaire
+général de la chambre territoriale des comptes ;
+
+2° Les membres des corps d'inspection et de contrôle de l'Etat ;
+
+3° Le vice-recteur, les directeurs, chefs de service, chefs de bureau des services du représentant de l'Etat et des autres
+administrations civiles de l'Etat ;
+
+4° Le directeur général des services de la collectivité et les directeurs généraux adjoints, les directeurs, les chefs de
+service et chefs de bureau de la collectivité ou de l'un de ses établissements publics ; les membres du cabinet du président
+du conseil général ;
+
+5° Les officiers des armées de terre, de mer et de l'air et les personnels de la gendarmerie ;
+
+6° Les fonctionnaires des corps actifs de police ;
+
+7° Les agents et comptables de la collectivité agissant en qualité de fonctionnaire employés à l'assiette, à la perception et
+au recouvrement des contributions directes ou indirectes et au paiement des dépenses publiques de toute nature ;
+
+8° Le directeur de l'établissement public de santé territorial de Mayotte ; le directeur, les directeurs adjoints et le
+secrétaire général de l'agence régionale de l'hospitalisation.
+
+**Nota:**
+
+En application du décret n° 2010-1399 du 12 novembre 2010, les collèges électoraux sont convoqués le dimanche 20 mars 2011,
+et le 27 mars en cas de deuxième tour.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Cite_:
+
+  - Loi n°88-227 du 11 mars 1988
+  - Code électoral - art. L118-3
+  - Code général des collectivités territoriales - art. LO6131-4
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Abrogé par_:
+
+  - Loi organique n°2010-1486 du 7 décembre 2010 - art. 3 (M)
+
+_Cité par_:
+
+  - Code électoral - art. LO465 (V)
+
+
+###### Article LO465
+
+I. - Le mandat de conseiller général est incompatible :
+
+1° Avec les fonctions de représentant de l'Etat, directeur de cabinet, secrétaire général, secrétaire général adjoint et
+directeur de préfecture ;
+
+2° Avec la qualité de membre du conseil économique et social ou du conseil de la culture, de l'éducation et de
+l'environnement de Mayotte ;
+
+3° Avec la qualité de membre d'une assemblée ou d'un exécutif d'une collectivité à statut particulier régie par le premier
+alinéa de l'article 72 de la Constitution, d'une collectivité mentionnée au dernier alinéa de l'article 73 de la
+Constitution, d'une autre collectivité d'outre-mer régie par l'article 74 de la Constitution ou de la collectivité régie par
+le titre XIII de la Constitution, ainsi qu'avec celle de conseiller général d'un département, de conseiller régional, de
+conseiller de Paris ou de membre de l'Assemblée de Corse ;
+
+4° Avec les fonctions de militaire en activité ;
+
+5° Avec les fonctions de magistrat des juridictions administratives ou des juridictions judiciaires, de juge de proximité ou
+de secrétaire général de la chambre territoriale des comptes ;
+
+6° Avec les fonctions de directeur ou de président d'établissement public, lorsqu'elles sont rémunérées ;
+
+7° Avec les fonctions mentionnées aux 3° à 8° du II de l'article LO 461 ;
+
+8° Avec les fonctions d'architecte de la collectivité, d'ingénieur des travaux publics de l'Etat, de chef de section
+principal ou de chef de section des travaux publics de l'Etat chargé d'une circonscription territoriale de voirie ;
+
+9° Avec les fonctions d'agent salarié ou subventionné sur les fonds de la collectivité ou des établissements publics et
+agences créés par elle ;
+
+10° Avec les fonctions d'agent salarié des établissements publics de coopération dont la collectivité fait partie ;
+
+11° Avec la qualité d'entrepreneur des services de la collectivité départementale.
+
+II. - Un conseiller général ne peut cumuler son mandat avec plus d'un des mandats suivants : conseiller municipal, député ou
+sénateur, représentant au Parlement européen.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Cité par_:
+
+  - Code de justice administrative - art. L231-7 (VD)
+  - Code électoral - art. LO467 (VT)
+  - Code électoral - art. LO469 (VT)
+
+_Cite_:
+
+  - Code électoral - art. LO461 (V)
+
+
+###### Article LO466
+
+Tout conseiller général dont l'inéligibilité se révèle après l'expiration du délai pendant lequel son élection peut être
+contestée ou qui, pendant la durée de son mandat, se trouve frappé de l'une des incapacités qui fait perdre la qualité
+d'électeur est déclaré démissionnaire par arrêté du représentant de l'Etat, soit d'office, soit sur réclamation de tout
+électeur.
+
+Les recours contre les arrêtés mentionnés au premier alinéa sont portés devant le tribunal administratif, qui statue dans un
+délai de trois mois. En cas d'appel, le Conseil d'Etat rend sa décision dans les trois mois de l'enregistrement du recours.
+Le recours devant le tribunal administratif et le recours en appel devant le Conseil d'Etat sont suspensifs. Toutefois, le
+recours n'est pas suspensif lorsqu'un conseiller territorial est déclaré démissionnaire d'office à la suite d'une
+condamnation pénale devenue définitive prononcée à son encontre et entraînant de ce fait la perte de ses droits civiques,
+civils et de famille.
+
+**Nota:**
+
+En application du décret n° 2010-1399 du 12 novembre 2010, les collèges électoraux sont convoqués le dimanche 20 mars 2011,
+et le 27 mars en cas de deuxième tour.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 du 27 octobre 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Abrogé par_:
+
+  - Loi organique n°2010-1486 du 7 décembre 2010 - art. 3 (M)
+
+
+###### Article LO467
+
+Le conseiller général qui, lors de son élection, se trouve dans l'un des cas d'incompatibilité visés à l'article LO 465 doit,
+dans les trente jours qui suivent son entrée en fonction ou, en cas de contestation de l'élection, la décision du juge
+administratif, démissionner de son mandat de conseiller général ou mettre fin à la situation incompatible avec l'exercice de
+celui-ci. Si la cause d'incompatibilité survient postérieurement à l'élection, le droit d'option est ouvert dans les mêmes
+conditions.
+
+A l'expiration du délai prévu au premier alinéa, le conseiller général qui se trouve dans un des cas d'incompatibilité visés
+à l'article LO 465 est déclaré démissionnaire d'office par le juge administratif à la requête du représentant de l'Etat ou de
+tout électeur.
+
+Dans le délai prévu au premier alinéa, tout conseiller général est tenu d'adresser au représentant de l'Etat une déclaration
+certifiée sur l'honneur exacte et sincère comportant la liste des activités professionnelles ou d'intérêt général, même non
+rémunérées, qu'il envisage de conserver ou attestant qu'il n'en exerce aucune. En cours de mandat, il doit déclarer dans les
+mêmes formes tout élément de nature à modifier sa déclaration initiale. Ces déclarations sont publiées au bulletin officiel
+de la collectivité.
+
+Le représentant de l'Etat examine si les activités ainsi déclarées sont compatibles avec le mandat de conseiller général.
+S'il y a doute sur la compatibilité des fonctions ou activités exercées ou en cas de contestation à ce sujet, le représentant
+de l'Etat, le conseiller général lui-même ou tout électeur saisit le tribunal administratif qui apprécie si le conseiller
+général intéressé se trouve dans un cas d'incompatibilité. En cas d'appel, le Conseil d'Etat rend sa décision dans les trois
+mois de l'enregistrement du recours.
+
+Si une incompatibilité est constatée, le conseiller général doit régulariser sa situation dans un délai de trente jours à
+compter de la date à laquelle la décision du juge administratif est devenue définitive. A défaut, le juge administratif le
+déclare démissionnaire d'office de son mandat.
+
+Le conseiller général qui n'a pas procédé à la déclaration prévue au premier alinéa est déclaré démissionnaire d'office sans
+délai par le juge administratif à la requête du représentant de l'Etat ou de tout électeur.
+
+La démission d'office est aussitôt notifiée au représentant de l'Etat, au président du conseil général et à l'intéressé. Elle
+n'entraîne pas d'inéligibilité.
+
+**Nota:**
+
+En application du décret n° 2010-1399 du 12 novembre 2010, les collèges électoraux sont convoqués le dimanche 20 mars 2011,
+et le 27 mars en cas de deuxième tour.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Abrogé par_:
+
+  - Loi organique n°2010-1486 du 7 décembre 2010 - art. 3 (M)
+
+_Cite_:
+
+  - Code électoral - art. LO465
+
+
+###### Article LO468
+
+Lorsque le nombre de conseillers non domiciliés dans la collectivité dépasse le quart de l'effectif du conseil général, ce
+dernier détermine, en séance publique et par la voie du sort, celui ou ceux dont l'élection doit être annulée. Si une
+question préjudicielle concernant le domicile est soulevée, la procédure de tirage au sort est suspendue. Lorsqu'il apparaît
+que le nombre de conseillers non domiciliés dans la collectivité est toujours supérieur au quart de l'effectif du conseil
+général, le tirage au sort est fait par le bureau du conseil général réuni à cet effet.
+
+**Nota:**
+
+En application du décret n° 2010-1399 du 12 novembre 2010, les collèges électoraux sont convoqués le dimanche 20 mars 2011,
+et le 27 mars en cas de deuxième tour.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Abrogé par_:
+
+  - Loi organique n°2010-1486 du 7 décembre 2010 - art. 3 (M)
+
+_Cité par_:
+
+  - Code électoral - art. R295 (VT)
+
+
+###### Article LO469
+
+Le conseiller général dont le siège devient vacant pour cause de décès, de démission intervenue en application du II de
+l'article LO 465, de présomption d'absence au sens de l'article 112 du code civil ou d'acceptation de la fonction de membre
+du Conseil constitutionnel est remplacé jusqu'au renouvellement de la série dont il est issu par la personne élue en même
+temps que lui à cet effet.
+
+En cas de vacance pour toute autre cause ou lorsque le premier alinéa du présent article ne peut plus être appliqué, il est
+procédé à une élection partielle dans le délai de trois mois.
+
+Toutefois, si le renouvellement d'une série sortante doit avoir lieu dans les trois mois de la vacance, l'élection partielle
+se fait à la même époque.
+
+**Nota:**
+
+En application du décret n° 2010-1399 du 12 novembre 2010, les collèges électoraux sont convoqués le dimanche 20 mars 2011,
+et le 27 mars en cas de deuxième tour.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Abrogé par_:
+
+  - Loi organique n°2010-1486 du 7 décembre 2010 - art. 3 (M)
+
+_Cité par_:
+
+  - Code électoral - art. L460 (VT)
+
+_Cite_:
+
+  - Code électoral - art. LO465
+  - Code civil - art. 112
+
+
+###### Article LO470
+
+Les élections peuvent être contestées dans les quinze jours suivant la proclamation des résultats par tout candidat ou tout
+électeur du canton et par le représentant de l'Etat devant le tribunal administratif.
+
+Le recours du représentant de l'Etat ne peut être fondé que sur l'inobservation des conditions et formalités prescrites par
+les lois.
+
+Le conseiller général proclamé élu reste en fonction jusqu'à ce qu'il ait été définitivement statué sur la réclamation.
+Toutefois, l'appel au Conseil d'Etat contre la décision du tribunal administratif n'a pas d'effet suspensif lorsque
+l'élection du même conseiller a déjà été annulée sur un précédent pourvoi dirigé contre des opérations électorales
+antérieures, pour la même cause d'inéligibilité, par une décision du tribunal administratif devenue définitive ou confirmée
+en appel par le Conseil d'Etat. Dans les cas de cette espèce, le tribunal administratif est tenu de spécifier que l'appel
+éventuel n'a pas d'effet suspensif.
+
+Le tribunal administratif peut, en cas d'annulation d'une élection pour manoeuvres dans l'établissement de la liste
+électorale ou irrégularité dans le déroulement du scrutin, décider, nonobstant appel, la suspension du mandat de celui dont
+l'élection est annulée. En ce cas, le Conseil d'Etat rend sa décision dans les trois mois de l'enregistrement du recours. A
+défaut de décision définitive dans ce délai, il est mis fin à la suspension. Dans les autres cas, le Conseil d'Etat rend sa
+décision dans les six mois qui suivent l'enregistrement du recours.
+
+**Nota:**
+
+En application du décret n° 2010-1399 du 12 novembre 2010, les collèges électoraux sont convoqués le dimanche 20 mars 2011,
+et le 27 mars en cas de deuxième tour.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 du 27 octobre 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Abrogé par_:
+
+  - Loi organique n°2010-1486 du 7 décembre 2010 - art. 3 (M)
+
+_Cité par_:
+
+  - Code électoral - art. R301 (VT)
+
+
+#### Chapitre IV : Dispositions applicables à l'élection des conseillers municipaux<a id=127></a>
+
+###### Article L471
+
+Les quatrième à sixième alinéas de l'article L. 238 et le premier alinéa de l'article L. 256 ne sont pas applicables à
+Mayotte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+_Abrogé par_:
+
+  - Loi n°2010-1487 du 7 décembre 2010 - art. 8
+
+_Cite_:
+
+  - Code électoral - art. L238
+  - Code électoral - art. L256
+
+
+###### Article L472
+
+Les fonctions de conseiller municipal sont incompatibles avec celles de :
+
+1° Représentant de l'Etat, secrétaire général, secrétaire général adjoint et directeur de cabinet ;
+
+2° Fonctionnaire des corps actifs de police ;
+
+3° Militaire en activité.
+
+Tout conseiller municipal placé, au moment de son élection, dans l'une des situations précitées dispose d'un délai d'un mois
+à partir de la date à laquelle son élection est devenue définitive pour démissionner de son mandat ou mettre fin à la
+situation incompatible avec l'exercice de celui-ci. Il fait connaître son option par écrit au représentant de l'Etat, qui en
+informe le maire. A défaut d'option dans le délai imparti, il est réputé démissionnaire de son mandat ; cette démission est
+constatée par arrêté du représentant de l'Etat.
+
+Si la cause d'incompatibilité survient postérieurement à l'élection, le droit d'option est ouvert dans les mêmes conditions.
+
+A défaut d'option dans le délai d'un mois à compter de la date à laquelle est survenue la cause d'incompatibilité, le
+conseiller municipal est déclaré démissionnaire de son mandat par arrêté du représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 du 27 octobre 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+_Abrogé par_:
+
+  - Loi n°2010-1487 du 7 décembre 2010 - art. 8
+
+
+#### Chapitre V : Dispositions applicables à l'élection des sénateurs de Mayotte<a id=128></a>
+
+###### Article L474
+
+Les dispositions du livre II sont applicables à l'élection des sénateurs de Mayotte, à l'exclusion de l'article L. 280. 
+
+Le renouvellement du mandat des sénateurs de Mayotte a lieu à la même date que celui des sénateurs de la série 1 prévue à
+l'article LO. 276, dans sa rédaction issue de la loi organique n° 2003-696 du 30 juillet 2003 portant réforme de la durée du
+mandat et de l'âge d'éligibilité des sénateurs ainsi que de la composition du Sénat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+_Cite_:
+
+  - Code électoral - art. L280 (VT)
+  - Code électoral - art. LO276 (V)
+
+
+###### Article L475
+
+Par dérogation à l'article L. 280, les sénateurs sont élus par un collège électoral composé : 
+
+1° Du député ; 
+
+2° Des conseillers généraux ; 
+
+3° Des délégués des conseils municipaux ou de leurs suppléants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+_Cite_:
+
+  - Code électoral - art. L280 (VT)
+
+
+###### Article LO473
+
+Deux sénateurs sont élus à Mayotte.
+
+Les dispositions organiques du livre II du présent code sont applicables à l'élection des sénateurs de Mayotte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+
+### Titre II : Saint-Barthélemy<a id=129></a>
+
+#### Chapitre Ier : Dispositions communes à l'élection du député, des conseillers territoriaux et du sénateur<a id=130></a>
+
+###### Article L477
+
+Pour l'application des dispositions du présent code à Saint-Barthélemy, il y a lieu de lire :
+
+1° "collectivité" et "de la collectivité" au lieu respectivement de : "département" ou "arrondissement" et de :
+"départemental" ;
+
+2° "représentant de l'Etat" et "services du représentant de l'Etat" au lieu respectivement de : "préfet" ou "sous-préfet" et
+de :
+
+"préfecture" ou "sous-préfecture" ;
+
+3° "tribunal de première instance" au lieu de : "tribunal de grande instance" ou "tribunal d'instance" ;
+
+4° "circonscription électorale" au lieu de : "canton".
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (V)
+  - Loi n°77-729 du 7 juillet 1977 - art. 26 (VT)
+  - Code électoral - art. L558-46 (VT)
+  - Code électoral - art. L562 (VT)
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+
+###### Article LO476
+
+Pour l'application du présent code à Saint-Barthélemy, il y a lieu de lire :
+
+1° " collectivité " au lieu de : " département " ;
+
+2° " représentant de l'Etat " et " services du représentant de l'Etat ", au lieu respectivement de : " préfet " et de : "
+préfecture ".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+
+#### Chapitre II : Dispositions applicables à l'élection du député<a id=131></a>
+
+###### Article L478
+
+Par dérogation aux dispositions du deuxième alinéa de l'article L. 52-12, à Saint-Barthélemy, le compte de campagne peut
+également être déposé par le candidat placé en tête de la liste auprès des services du représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+_Cite_:
+
+  - Code électoral - art. L52-12 (V)
+
+
+###### Article L480
+
+A l'occasion du renouvellement général de l'Assemblée nationale, à Saint-Barthélemy, par dérogation à l'article L. 55, le
+scrutin est organisé le samedi.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+_Cite_:
+
+  - Code électoral - art. L55 (V)
+
+
+###### Article LO479
+
+Un député à l'Assemblée nationale est élu à Saint-Barthélemy.
+
+**Nota:**
+
+Loi organique 2007-223 du 21 février 2007 art. 18 I : les dispositions du présent chapitre entrent en vigueur à compter du
+renouvellement général de l'Assemblée nationale suivant le renouvellement de juin 2007.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Abrogé par_:
+
+  - Loi organique n°2009-38 du 13 janvier 2009 - art. 8
+
+
+#### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux<a id=132></a>
+
+###### Article L487
+
+I. - La déclaration de candidature résulte du dépôt auprès des services du représentant de l'Etat d'une liste répondant aux
+conditions fixées aux articles LO. 484 et LO. 486. Il en est délivré récépissé. 
+
+Elle est faite collectivement pour chaque liste par le candidat placé en tête de liste. A cet effet, chaque candidat établit
+un mandat signé de lui, confiant au responsable de liste le soin de faire ou de faire faire, par une personne déléguée par
+lui, toutes déclarations et démarches utiles à l'enregistrement de la liste, pour le premier et le second tour. Le dépôt de
+la liste par son responsable doit être assorti de l'ensemble des mandats des candidats qui y figurent. 
+
+La liste déposée indique expressément : 
+
+1° Le titre de la liste présentée ; 
+
+2° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chacun des candidats. 
+
+A cette déclaration sont jointes les pièces propres à prouver que les candidats répondent aux conditions d'éligibilité. 
+
+Pour chaque tour de scrutin, cette déclaration comporte la signature de chaque candidat, sauf le droit pour tout candidat de
+compléter la déclaration collective non signée de lui par une déclaration individuelle faite dans le même délai et portant sa
+signature. 
+
+Toutefois, les signatures de chaque candidat ne sont pas exigées pour la déclaration de candidature des listes qui ne
+procèdent à aucune modification de leur composition au second tour. 
+
+II. - La déclaration est enregistrée si les conditions prévues au présent chapitre sont remplies. Le refus d'enregistrement
+est motivé. 
+
+Le candidat placé en tête de liste ou son mandataire dispose d'un délai de quarante-huit heures pour contester le refus
+d'enregistrement devant le tribunal administratif, qui statue dans les trois jours. La décision du tribunal administratif ne
+peut être contestée qu'à l'occasion d'un recours contre l'élection. 
+
+Lorsque le refus d'enregistrement est motivé par l'inobservation des dispositions relatives aux inéligibilités prévues à
+l'article LO. 489 ou par la présence d'un candidat sur plusieurs listes, un délai de quarante-huit heures est accordé pour
+compléter la liste, à compter de ce refus ou de la décision du tribunal administratif confirmant le refus. 
+
+Dans le cas prévu à l'alinéa précédent, la candidature est enregistrée si le tribunal administratif, saisi par le candidat
+tête de liste ou son mandataire, n'a pas statué dans le délai prévu au deuxième alinéa. 
+
+Récépissé ne peut être délivré que si les conditions énumérées au présent article sont remplies.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+_Cite_:
+
+  - Code électoral - art. LO484 (V)
+  - Code électoral - art. LO486 (V)
+  - Code électoral - art. LO489 (V)
+
+
+###### Article L488
+
+Les déclarations de candidature doivent être déposées au plus tard :
+
+1° Pour le premier tour, le troisième vendredi qui précède le jour du scrutin, à dix-huit heures ;
+
+2° Pour le second tour, le mardi qui suit le premier tour, à dix-huit heures.
+
+Aucun retrait volontaire ou remplacement de candidat n'est accepté après le dépôt de la liste.
+
+Les déclarations de retrait des listes complètes qui interviennent avant l'expiration des délais prévus aux alinéas
+précédents pour le dépôt des déclarations de candidature sont enregistrées ; elles comportent la signature de la majorité des
+candidats de la liste. Il en est donné récépissé.
+
+Est nul tout bulletin établi au nom d'une liste dont la déclaration de candidature n'a pas été régulièrement enregistrée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+
+###### Article L490
+
+La campagne électorale pour le premier tour de scrutin est ouverte à partir du deuxième lundi qui précède celui-ci. Elle
+prend fin le samedi précédant le scrutin, à minuit.
+
+La campagne électorale pour le second tour commence le mercredi suivant le premier tour et s'achève le samedi précédant le
+scrutin, à minuit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+
+###### Article L491
+
+Une commission de propagande est chargée de l'envoi et de la distribution des documents de propagande électorale.
+
+L'Etat prend à sa charge les dépenses provenant des opérations faites par la commission de propagande, celles résultant de
+son fonctionnement, ainsi que le coût du papier et l'impression des bulletins de vote, circulaires et frais d'affichage pour
+les candidats ou listes de candidats ayant obtenu au moins 5 % des suffrages exprimés à l'un des deux tours de scrutin.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+_Cité par_:
+
+  - Code électoral - art. D323 (Ab)
+  - Code électoral - art. R315 (V)
+
+
+###### Article L492
+
+Les électeurs sont convoqués par décret, au plus tard le quatrième lundi précédant la date du scrutin.
+
+Toutefois, pour les élections partielles, les électeurs sont convoqués par arrêté du représentant de l'Etat, au plus tard le
+quatrième lundi précédant la date du scrutin.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+
+###### Article LO481
+
+Nul ne peut être élu conseiller territorial s'il n'est âgé de dix-huit ans révolus et ne jouit de ses droits civils et
+politiques. Les majeurs en tutelle ou en curatelle ne peuvent être élus.
+
+Sont éligibles au conseil territorial tous les citoyens inscrits sur une liste électorale de la collectivité ou justifiant
+qu'ils devaient y être inscrits avant le jour de l'élection, qui sont domiciliés à Saint-Barthélemy, et ceux qui, sans y être
+domiciliés, y sont inscrits au rôle d'une des contributions directes au 1er janvier de l'année dans laquelle se fait
+l'élection ou justifient qu'ils devaient y être inscrits à ce jour ou ont hérité depuis la même époque d'une propriété
+foncière à Saint-Barthélemy.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+
+###### Article LO482
+
+Le conseil territorial de Saint-Barthélemy est composé de dix-neuf membres.
+
+Les conseillers territoriaux sont élus pour cinq ans. Lors même qu'ils ont été élus dans l'intervalle, ils sont renouvelés
+intégralement au mois de mars.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+
+###### Article LO483
+
+La collectivité forme une circonscription électorale unique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+
+###### Article LO484
+
+Les conseillers territoriaux sont élus au scrutin de liste à deux tours, avec dépôt de listes comportant autant de candidats
+que de sièges à pourvoir, augmentés de trois sans adjonction ni suppression de noms et sans modification de l'ordre de
+présentation, sous réserve de l'application du quatrième alinéa de l'article LO. 486.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Cité par_:
+
+  - Code électoral - art. L487 (V)
+
+_Cite_:
+
+  - Code électoral - art. LO486 (V)
+
+
+###### Article LO485
+
+Au premier tour de scrutin, il est attribué à la liste qui a recueilli la majorité absolue des suffrages exprimés et un
+nombre de suffrages au moins égal au quart des électeurs inscrits, un nombre de sièges égal au tiers du nombre des sièges à
+pourvoir arrondi, le cas échéant, à l'entier supérieur. Cette attribution opérée, les autres sièges sont répartis entre
+toutes les listes à la représentation proportionnelle suivant la règle de la plus forte moyenne, sous réserve de
+l'application des dispositions du troisième alinéa.
+
+Si aucune liste n'a recueilli la majorité absolue des suffrages exprimés au premier tour, il est procédé à un second tour. Il
+est attribué à la liste qui a obtenu le plus de voix un nombre de sièges égal au tiers du nombre des sièges à pourvoir
+arrondi, le cas échéant, à l'entier supérieur. En cas d'égalité de suffrages entre les listes arrivées en tête, ces sièges
+sont attribués à la liste dont les candidats ont la moyenne d'âge la plus élevée. Cette attribution opérée, les autres sièges
+sont répartis entre toutes les listes à la représentation proportionnelle suivant la règle de la plus forte moyenne, au
+prorata des voix obtenues par chaque liste dans l'ensemble de la circonscription, sous réserve de l'application des
+dispositions du troisième alinéa.
+
+Si plusieurs listes ont la même moyenne pour l'attribution du dernier siège, celui-ci revient à la liste qui a obtenu le plus
+grand nombre de suffrages dans l'ensemble de la circonscription. En cas d'égalité de suffrages, le siège est attribué au plus
+âgé des candidats susceptibles d'être proclamés élus.
+
+Les sièges sont attribués aux candidats dans l'ordre de présentation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+
+###### Article LO486
+
+Nul ne peut être candidat sur plus d'une liste.
+
+Une déclaration de candidature est obligatoire pour chaque liste avant chaque tour de scrutin. Chaque liste est composée
+alternativement d'un candidat de chaque sexe.
+
+Seules peuvent se présenter au second tour les listes ayant obtenu au premier tour un nombre de suffrages au moins égal à 10
+% du total des suffrages exprimés ; si une seule liste obtient ce nombre de suffrages, la liste arrivée en deuxième au
+premier tour peut se présenter au second tour ; si aucune liste n'obtient un tel nombre de suffrages, les deux listes
+arrivées en tête au premier tour peuvent se maintenir au second tour.
+
+Ces listes peuvent être modifiées dans leur composition pour comprendre des candidats ayant figuré au premier tour sur
+d'autres listes, sous réserve que celles-ci ne se présentent pas au second tour et qu'elles aient obtenu au premier tour au
+moins 5 % des suffrages exprimés. En cas de modification de la composition d'une liste, l'ordre de présentation des candidats
+peut également être modifié.
+
+Les candidats ayant figuré sur une même liste au premier tour ne peuvent figurer au second tour que sur une même liste. Le
+choix de la liste sur laquelle ils sont candidats au second tour est notifié aux services du représentant de l'Etat par le
+candidat placé en tête de la liste sur laquelle ils figuraient au premier tour.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Cité par_:
+
+  - Code électoral - art. L487 (V)
+  - Code électoral - art. LO484 (V)
+
+
+###### Article LO489
+
+I. - Sont inéligibles au conseil territorial :
+
+1° Pendant un an à compter de la décision juridictionnelle constatant l'inéligibilité, le président du conseil territorial et
+les membres de celui-ci qui n'ont pas déposé l'une des déclarations prévues par le titre Ier de la loi n° 88-227 du 11 mars
+1988 relative à la transparence financière de la vie politique ;
+
+2° Les personnes privées, par décision juridictionnelle passée en force de chose jugée, de leur droit d'éligibilité en
+application des lois qui autorisent cette privation ;
+
+3° Les représentants de l'Etat, les secrétaires généraux, les secrétaires généraux adjoints et les sous-préfets chargés de
+mission auprès du représentant de l'Etat, les directeurs du cabinet du représentant de l'Etat en exercice ou qui ont exercé
+leurs fonctions à Saint-Barthélemy depuis moins de trois ans ;
+
+4° Les personnes déclarées inéligibles en application de l'article L. 118-3 ;
+
+5° Pendant un an à compter de la décision devenue définitive du juge administratif prononçant sa démission d'office, le
+membre du conseil territorial qui a refusé, sans excuse valable, d'exercer les fonctions qui lui sont dévolues par la loi,
+conformément à l'article LO 6221-3 du code général des collectivités territoriales ;
+
+6° Le Médiateur de la République et le défenseur des enfants, sauf s'ils exerçaient le même mandat antérieurement à leur
+nomination.
+
+II. - En outre, ne peuvent être élus membres du conseil territorial s'ils exercent leurs fonctions à Saint-Barthélemy ou
+s'ils les ont exercées depuis moins de six mois :
+
+1° Les magistrats des juridictions administratives et des juridictions judiciaires ; les juges de proximité ; le secrétaire
+général de la chambre territoriale des comptes ;
+
+2° Les membres des corps d'inspection et de contrôle de l'Etat ;
+
+3° Les directeurs, chefs de service, chefs de bureau des services du représentant de l'Etat et des autres administrations
+civiles de l'Etat ;
+
+4° Le directeur général des services de la collectivité et les directeurs généraux adjoints, les directeurs, les chefs de
+service de la collectivité ou de l'un de ses établissements publics ; les membres du cabinet du président du conseil
+territorial ;
+
+5° Les officiers des armées de terre, de mer et de l'air et les personnels de la gendarmerie ;
+
+6° Les fonctionnaires des corps actifs de police ;
+
+7° Les agents et comptables de la collectivité agissant en qualité de fonctionnaire employés à l'assiette, à la perception et
+au recouvrement des contributions directes ou indirectes et au paiement des dépenses publiques de toute nature ;
+
+8° Les directeurs et directeurs généraux des hôpitaux publics ; le directeur, les directeurs adjoints et le secrétaire
+général de l'agence régionale de l'hospitalisation ; les directeurs des organismes régionaux et locaux de la sécurité
+sociale ; les directeurs des caisses primaires et des caisses régionales de sécurité sociale.
+
+III. - Les agents salariés de la collectivité ne peuvent être élus au conseil territorial. Ne sont pas compris dans cette
+catégorie ceux qui, étant fonctionnaires ou exerçant une profession indépendante, ne reçoivent une indemnité de la
+collectivité qu'à raison des services qu'ils lui rendent dans l'exercice de cette profession et ceux qui ne sont agents
+salariés de la collectivité qu'au titre d'une activité saisonnière ou occasionnelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Cite_:
+
+  - Loi n°88-227 1988-03-11
+  - Code électoral - art. L118-3 (M)
+  - Code général des collectivités territoriales - art. LO6221-3 (V)
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Cité par_:
+
+  - Loi organique n°2011-333 du 29 mars 2011 - art. 44 (V)
+  - Code électoral - art. L487 (V)
+  - Code électoral - art. LO493 (V)
+
+
+###### Article LO493
+
+I.-Le mandat de conseiller territorial est incompatible : 
+
+1° Avec les fonctions de représentant de l'Etat, secrétaire général, secrétaire général adjoint, directeur de cabinet et
+directeur de préfecture ; 
+
+2° Avec la qualité de membre du conseil économique, social et culturel de Saint-Barthélemy ; 
+
+3° Avec la qualité de membre d'une assemblée ou d'un exécutif d'une collectivité à statut particulier régie par le premier
+alinéa de l'article 72 de la Constitution, d'une collectivité mentionnée au dernier alinéa de l'article 73 de la
+Constitution, d'une autre collectivité d'outre-mer régie par l'article 74 de la Constitution ou de la collectivité régie par
+le titre XIII de la Constitution, ainsi qu'avec celle de conseiller général, de conseiller régional, de conseiller de Paris,
+de membre de l'Assemblée de Corse ou de conseiller municipal ; 
+
+4° Avec les fonctions de militaire en activité ; 
+
+5° Avec les fonctions de magistrat des juridictions administratives ou des juridictions judiciaires, de juge de proximité ou
+de secrétaire général de la chambre territoriale des comptes ; 
+
+6° Avec les fonctions de directeur ou de président d'établissement public, lorsqu'elles sont rémunérées ; 
+
+7° Avec les fonctions mentionnées aux 3° à 8° du II de l'article LO 489 et celles d'agent salarié ou subventionné sur les
+fonds de la collectivité ou des établissements publics et agences créées par elle, ou d'agent salarié des établissements
+publics de coopération dont la collectivité fait partie ; 
+
+8° Avec la qualité d'entrepreneur des services de la collectivité. 
+
+II.-Un conseiller territorial ne peut cumuler son mandat avec plus d'un des mandats suivants : député ou sénateur,
+représentant au Parlement européen. 
+
+Si le candidat appelé à remplacer un conseiller territorial se trouve dans l'un des cas d'incompatibilité mentionnés au
+premier alinéa du présent II, il dispose d'un délai de trente jours à compter de la vacance pour faire cesser
+l'incompatibilité en démissionnant du mandat de son choix. A défaut d'option dans le délai imparti, le représentant de l'Etat
+constate l'incompatibilité et le remplacement est assuré par le candidat suivant dans l'ordre de la liste.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Constitution du 4 octobre 1958 - art. 72 (V)
+  - Constitution du 4 octobre 1958 - art. 73 (V)
+  - Constitution du 4 octobre 1958 - art. 74 (V)
+  - Code électoral - art. LO489 (V)
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Cité par_:
+
+  - Code de justice administrative - art. L231-7 (V)
+  - Code électoral - art. LO495 (V)
+
+
+###### Article LO494
+
+Tout conseiller territorial dont l'inéligibilité se révèle après l'expiration du délai pendant lequel son élection peut être
+contestée ou qui, pendant la durée de son mandat, se trouve frappé de l'une des incapacités qui fait perdre la qualité
+d'électeur est déclaré démissionnaire par arrêté du représentant de l'Etat, soit d'office, soit sur réclamation de tout
+électeur.
+
+Les recours contre les arrêtés mentionnés au premier alinéa sont portés devant le Conseil d'Etat statuant au contentieux. Ils
+sont suspensifs. Toutefois, le recours n'est pas suspensif lorsqu'un conseiller territorial est déclaré démissionnaire
+d'office à la suite d'une condamnation pénale devenue définitive prononcée à son encontre et entraînant de ce fait la perte
+de ses droits civiques, civils et de famille.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+
+###### Article LO495
+
+Le conseiller territorial qui, lors de son élection, se trouve dans l'un des cas d'incompatibilité visés à l'article LO 493
+doit, dans les trente jours qui suivent son entrée en fonction ou, en cas de contestation de l'élection, la décision du
+Conseil d'Etat, démissionner de son mandat de conseiller territorial ou mettre fin à la situation incompatible avec
+l'exercice de celui-ci. Si la cause d'incompatibilité survient postérieurement à l'élection, le droit d'option est ouvert
+dans les mêmes conditions.
+
+A l'expiration du délai prévu au premier alinéa, le conseiller territorial qui se trouve dans un des cas d'incompatibilité
+visés à l'article LO 493 est déclaré démissionnaire d'office par le Conseil d'Etat à la requête du représentant de l'Etat ou
+de tout électeur.
+
+Dans le délai prévu au premier alinéa, tout conseiller territorial est tenu d'adresser au représentant de l'Etat une
+déclaration certifiée sur l'honneur exacte et sincère comportant la liste des activités professionnelles ou d'intérêt
+général, même non rémunérées, qu'il envisage de conserver ou attestant qu'il n'en exerce aucune. En cours de mandat, il doit
+déclarer dans les mêmes formes tout élément de nature à modifier sa déclaration initiale. Ces déclarations sont publiées au
+bulletin officiel de la collectivité.
+
+Le représentant de l'Etat examine si les activités ainsi déclarées sont compatibles avec le mandat de conseiller territorial.
+S'il y a doute sur la compatibilité des fonctions ou activités exercées ou en cas de contestation à ce sujet, le représentant
+de l'Etat, le conseiller territorial lui-même ou tout électeur saisit le Conseil d'Etat qui apprécie si le conseiller
+territorial intéressé se trouve dans un cas d'incompatibilité.
+
+Si une incompatibilité est constatée, le conseiller territorial doit régulariser sa situation dans un délai de trente jours à
+compter de la notification qui lui est faite de la décision du Conseil d'Etat. A défaut, le Conseil d'Etat le déclare
+démissionnaire d'office de son mandat.
+
+Le conseiller territorial qui n'a pas procédé à la déclaration prévue au premier alinéa est déclaré démissionnaire d'office
+sans délai par le Conseil d'Etat à la requête du représentant de l'Etat ou de tout électeur.
+
+La démission d'office est aussitôt notifiée au représentant de l'Etat, au président du conseil territorial et à l'intéressé.
+Elle n'entraîne pas d'inéligibilité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Cité par_:
+
+  - Code de justice administrative - art. L311-3 (V)
+
+_Cite_:
+
+  - Code électoral - art. LO493 (V)
+
+
+###### Article LO496
+
+Lorsque le nombre de conseillers non domiciliés dans la collectivité dépasse le quart de l'effectif du conseil territorial,
+ce dernier détermine, en séance publique et par la voie du sort, celui ou ceux dont l'élection doit être annulée. Si une
+question préjudicielle concernant le domicile est soulevée, la procédure de tirage au sort est suspendue. Lorsqu'il apparaît
+que le nombre de conseillers non domiciliés dans la collectivité est toujours supérieur au quart de l'effectif du conseil
+territorial, le tirage au sort est fait par le conseil exécutif réuni à cet effet.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+
+###### Article LO497
+
+Les élections au conseil territorial peuvent être contestées dans les quinze jours suivant la proclamation des résultats par
+tout candidat ou tout électeur de la collectivité devant le Conseil d'Etat statuant au contentieux.
+
+Le même droit est ouvert au représentant de l'Etat s'il estime que les conditions et les formes légalement prescrites n'ont
+pas été respectées.
+
+La proclamation du candidat devenu conseiller territorial par application de l'article LO 498 peut être contestée dans le
+délai de quinze jours à compter de la date à laquelle ce candidat a remplacé le conseiller territorial dont le siège est
+devenu vacant.
+
+La constatation par le Conseil d'Etat de l'inéligibilité d'un ou de plusieurs candidats n'entraîne l'annulation de l'élection
+que du ou des élus déclarés inéligibles. Le Conseil d'Etat proclame en conséquence l'élection du ou des suivants de liste.
+
+Le conseiller territorial proclamé élu reste en fonction jusqu'à ce qu'il ait été définitivement statué sur la réclamation.
+
+Saisi dans les conditions fixées au troisième alinéa de l'article L. 52-15, le Conseil d'Etat peut déclarer inéligible
+pendant un an le candidat dont le compte de campagne, le cas échéant après réformation, fait apparaître un dépassement du
+plafond des dépenses électorales. Dans les autres cas, le Conseil d'Etat peut ne pas prononcer l'inéligibilité du candidat
+dont la bonne foi est établie. Si le Conseil d'Etat a déclaré inéligible un candidat proclamé élu, il annule son élection ou,
+si l'élection n'a pas été contestée, le déclare démissionnaire d'office.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Cité par_:
+
+  - Code de justice administrative - art. L311-3 (V)
+
+_Cite_:
+
+  - Code électoral - art. L52-15 (M)
+  - Code électoral - art. LO498 (V)
+
+
+###### Article LO498
+
+Le candidat venant sur une liste immédiatement après le dernier élu est appelé à remplacer le conseiller territorial élu sur
+cette liste dont le siège devient vacant pour quelque cause que ce soit.
+
+Lorsque les dispositions du premier alinéa ne peuvent plus être appliquées, il est procédé dans les trois mois de la vacance
+à des élections partielles.
+
+Lorsque la vacance porte sur un seul siège, l'élection a lieu au scrutin uninominal majoritaire à deux tours. La déclaration
+de candidature comporte l'indication de la personne appelée à remplacer le candidat élu en cas de vacance du siège. Celle-ci
+doit remplir les conditions d'éligibilité exigées des candidats. Nul ne peut figurer en qualité de remplaçant sur plusieurs
+déclarations de candidature. Nul ne peut être à la fois candidat et remplaçant d'un autre candidat.
+
+Lorsque la vacance porte sur deux sièges, l'élection a lieu au scrutin de liste majoritaire à deux tours, avec dépôt de
+listes comportant autant de candidats que de sièges à pourvoir, augmentés de un sans adjonction ni suppression de noms et
+sans modification de l'ordre de présentation.
+
+Dans les cas prévus aux troisième et quatrième alinéas, est élu au premier tour le candidat ou la liste qui a obtenu la
+majorité absolue des suffrages exprimés et un nombre de suffrages au moins égal au quart des électeurs inscrits. Au second
+tour de scrutin, est élu le candidat ou la liste qui a obtenu le plus de voix.
+
+Seuls peuvent se présenter au second tour les candidats ou listes ayant obtenu au premier tour un nombre de suffrages au
+moins égal à 10 % du total des suffrages exprimés ; si un seul candidat ou une seule liste obtient ce nombre de suffrages, le
+candidat ou la liste arrivé en deuxième au premier tour peut se présenter au second tour ; si aucun candidat ou aucune liste
+n'obtient un tel nombre de suffrages, les deux candidats ou listes arrivés en tête au premier tour peuvent se maintenir au
+second tour.
+
+Lorsque la vacance porte sur trois sièges ou plus, l'élection a lieu dans les conditions prévues au présent chapitre pour le
+renouvellement intégral du conseil territorial.
+
+Il n'est procédé à aucune élection partielle dans les six mois précédant le renouvellement intégral du conseil territorial.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Cité par_:
+
+  - Code électoral - art. LO497 (V)
+
+
+###### Article LO499
+
+Le conseiller territorial présumé absent au sens de l'article 112 du code civil est remplacé provisoirement au conseil
+territorial, dès l'intervention du jugement constatant la présomption d'absence, par le candidat venant immédiatement après
+le dernier élu sur la liste dont le présumé absent est issu.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Cite_:
+
+  - Code civil - art. 112 (V)
+
+
+#### Chapitre IV : Dispositions applicables à l'élection du sénateur de Saint-Barthélemy<a id=133></a>
+
+###### Article L501
+
+Les dispositions du livre II sont applicables à l'élection du sénateur de Saint-Barthélemy, à l'exclusion de l'article L.
+280. 
+
+Le renouvellement du mandat du sénateur de Saint-Barthélemy a lieu à la même date que celui des sénateurs de la série 2
+prévue à l'article LO. 276, dans sa rédaction issue de la loi organique n° 2003-696 du 30 juillet 2003 portant réforme de la
+durée du mandat et de l'âge d'éligibilité des sénateurs ainsi que de la composition du Sénat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Cite_:
+
+  - Loi n°2003-696 du 30 juillet 2003 (V)
+  - Code électoral - art. L280 (V)
+  - Code électoral - art. LO276 (V)
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+
+###### Article L502
+
+Le sénateur est élu par un collège électoral composé :
+
+1° Du député ;
+
+2° Des conseillers territoriaux de la collectivité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+
+###### Article LO500
+
+Un sénateur est élu à Saint-Barthélemy.
+
+Les dispositions organiques du livre II sont applicables à l'élection du sénateur de Saint-Barthélemy.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+
+### Titre III : Saint-Martin<a id=134></a>
+
+#### Chapitre Ier : Dispositions communes à l'élection du député, des conseillers territoriaux et du sénateur<a id=135></a>
+
+###### Article L504
+
+Pour l'application des dispositions du présent code à Saint-Martin, il y a lieu de lire :
+
+1° "collectivité" et "de la collectivité" au lieu respectivement de : "département" ou "arrondissement" et de :
+"départemental" ;
+
+2° "représentant de l'Etat" et "services du représentant de l'Etat" au lieu respectivement de : "préfet" ou "sous-préfet" et
+de :
+
+"préfecture" ou "sous-préfecture" ;
+
+3° "tribunal de première instance" au lieu de : "tribunal de grande instance" ou "tribunal d'instance" ;
+
+4° "circonscription électorale" au lieu de : "canton".
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (V)
+  - Loi n°77-729 du 7 juillet 1977 - art. 26 (VT)
+  - Code électoral - art. L558-46 (VT)
+  - Code électoral - art. L562 (VT)
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+
+###### Article LO503
+
+Pour l'application du présent code à Saint-Martin, il y a lieu de lire :
+
+1° " collectivité " au lieu de : " département " ;
+
+2° " représentant de l'Etat " et " services du représentant de l'Etat " au lieu respectivement de : " préfet " et "
+préfecture ".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+
+#### Chapitre II : Dispositions applicables à l'élection du député<a id=136></a>
+
+###### Article L505
+
+Par dérogation aux dispositions du deuxième alinéa de l'article L. 52-12, à Saint-Martin, le compte de campagne peut
+également être déposé par le candidat placé en tête de la liste auprès des services du représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+_Cite_:
+
+  - Code électoral - art. L52-12 (VT)
+
+
+###### Article L507
+
+A l'occasion du renouvellement général de l'Assemblée nationale, à Saint-Martin, par dérogation à l'article L. 55, le scrutin
+est organisé le samedi.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+_Cite_:
+
+  - Code électoral - art. L55 (V)
+
+
+###### Article LO506
+
+Un député à l'Assemblée nationale est élu à Saint-Martin.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Abrogé par_:
+
+  - Loi organique n°2009-38 du 13 janvier 2009 - art. 8
+
+
+#### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux<a id=137></a>
+
+###### Article L514
+
+I. - La déclaration de candidature résulte du dépôt auprès des services du représentant de l'Etat d'une liste répondant aux
+conditions fixées aux articles LO. 511 et LO. 513. Il en est délivré récépissé. 
+
+Elle est faite collectivement pour chaque liste par le candidat placé en tête de liste. A cet effet, chaque candidat établit
+un mandat signé de lui, confiant au responsable de liste le soin de faire ou de faire faire, par une personne déléguée par
+lui, toutes déclarations et démarches utiles à l'enregistrement de la liste, pour le premier et le second tour. Le dépôt de
+la liste par son responsable doit être assorti de l'ensemble des mandats des candidats qui y figurent. 
+
+La liste déposée indique expressément : 
+
+1° Le titre de la liste présentée ; 
+
+2° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chacun des candidats. 
+
+A cette déclaration sont jointes les pièces propres à prouver que les candidats répondent aux conditions d'éligibilité. 
+
+Pour chaque tour de scrutin, cette déclaration comporte la signature de chaque candidat, sauf le droit pour tout candidat de
+compléter la déclaration collective non signée de lui par une déclaration individuelle faite dans le même délai et portant sa
+signature. 
+
+Toutefois, les signatures de chaque candidat ne sont pas exigées pour la déclaration de candidature des listes qui ne
+procèdent à aucune modification de leur composition au second tour. 
+
+II. - La déclaration est enregistrée si les conditions prévues au présent chapitre sont remplies. Le refus d'enregistrement
+est motivé. 
+
+Le candidat placé en tête de liste ou son mandataire dispose d'un délai de quarante-huit heures pour contester le refus
+d'enregistrement devant le tribunal administratif, qui statue dans les trois jours. La décision du tribunal administratif ne
+peut être contestée qu'à l'occasion d'un recours contre l'élection. 
+
+Lorsque le refus d'enregistrement est motivé par l'inobservation des dispositions relatives aux inéligibilités prévues à
+l'article LO. 516 ou par la présence d'un candidat sur plusieurs listes, un délai de quarante-huit heures est accordé pour
+compléter la liste, à compter de ce refus ou de la décision du tribunal administratif confirmant le refus. 
+
+Dans le cas prévu à l'alinéa précédent, la candidature est enregistrée si le tribunal administratif, saisi par le candidat
+tête de liste ou son mandataire, n'a pas statué dans le délai prévu au deuxième alinéa. 
+
+Récépissé ne peut être délivré que si les conditions énumérées au présent article sont remplies.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+_Cite_:
+
+  - Code électoral - art. LO511 (V)
+  - Code électoral - art. LO513 (V)
+  - Code électoral - art. LO516 (V)
+
+
+###### Article L515
+
+Les déclarations de candidature doivent être déposées au plus tard :
+
+1° Pour le premier tour, le troisième vendredi qui précède le jour du scrutin, à dix-huit heures ;
+
+2° Pour le second tour, le mardi qui suit le premier tour, à dix-huit heures.
+
+Aucun retrait volontaire ou remplacement de candidat n'est accepté après le dépôt de la liste.
+
+Les déclarations de retrait des listes complètes qui interviennent avant l'expiration des délais prévus aux alinéas
+précédents pour le dépôt des déclarations de candidature sont enregistrées ; elles comportent la signature de la majorité des
+candidats de la liste. Il en est donné récépissé.
+
+Est nul tout bulletin établi au nom d'une liste dont la déclaration de candidature n'a pas été régulièrement enregistrée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+
+###### Article L517
+
+I. - La campagne électorale pour le premier tour de scrutin est ouverte à partir du deuxième lundi qui précède celui-ci. Elle
+prend fin le samedi précédant le scrutin, à minuit.
+
+La campagne électorale pour le second tour commence le mercredi suivant le premier tour et s'achève le samedi précédant le
+scrutin, à minuit.
+
+II. - A Saint-Martin, les antennes de la société nationale chargée du service public de la communication audiovisuelle outre-
+mer sont mises à la disposition des listes dont la candidature a été régulièrement enregistrée.
+
+III. - Une durée d'émission de trois heures à la télévision et de trois heures à la radio est mise à la disposition des
+listes présentées par les partis et groupements politiques représentés au conseil territorial.
+
+Le Conseil supérieur de l'audiovisuel détermine le temps attribué à chaque liste en fonction de la représentation des partis
+et groupements politiques au conseil territorial. Cette représentation est constatée au vu de la déclaration individuelle de
+rattachement faite par chaque élu sortant, au plus tard deux mois avant la date d'expiration du mandat du conseil
+territorial.
+
+En cas de dissolution du conseil territorial, d'annulation de l'élection de l'ensemble de ses membres ou de vacance des
+sièges consécutive à la démission de tous ses membres, la déclaration individuelle de rattachement est faite dans les huit
+jours qui suivent respectivement la publication du décret de dissolution au Journal officiel de la République française, la
+lecture de la décision du Conseil d'Etat ou la date de réception de la dernière démission par le représentant de l'Etat.
+
+Les listes peuvent décider d'utiliser en commun leur temps de parole.
+
+Chaque liste dispose d'une durée minimale de cinq minutes à la télévision et de cinq minutes à la radio.
+
+IV. - Une durée maximale d'émission de trente minutes à la télévision et de trente minutes à la radio est mise à la
+disposition des autres listes.
+
+Cette durée est répartie également entre ces listes par le Conseil supérieur de l'audiovisuel, sans qu'une liste ne puisse
+bénéficier de plus de cinq minutes à la télévision et de cinq minutes à la radio.
+
+V. - Les conditions de production, de programmation et de diffusion des émissions sont fixées par le Conseil supérieur de
+l'audiovisuel. Celui-ci adresse des recommandations aux exploitants des autres services de communication audiovisuelle
+autorisés dans la collectivité. Il désigne un représentant à Saint-Martin pendant toute la durée de la campagne.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+_Cité par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 26 (V)
+
+
+###### Article L518
+
+Une commission de propagande est chargée de l'envoi et de la distribution des documents de propagande électorale.
+
+L'Etat prend à sa charge les dépenses provenant des opérations faites par la commission de propagande, celles résultant de
+son fonctionnement, ainsi que le coût du papier et l'impression des bulletins de vote, circulaires et frais d'affichage pour
+les candidats ou listes de candidats ayant obtenu au moins 5 % des suffrages exprimés à l'un des deux tours de scrutin.
+
+Les dépenses liées à la campagne audiovisuelle officielle sont également à sa charge.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+_Cité par_:
+
+  - Code électoral - art. D339 (Ab)
+  - Code électoral - art. R330 (V)
+
+
+###### Article L519
+
+Les électeurs sont convoqués par décret, au plus tard le quatrième lundi précédant la date du scrutin.
+
+Toutefois, pour les élections partielles, les électeurs sont convoqués par arrêté du représentant de l'Etat, au plus tard le
+quatrième lundi précédant la date du scrutin.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+
+###### Article LO508
+
+Nul ne peut être élu conseiller territorial s'il n'est âgé de dix-huit ans révolus et ne jouit de ses droits civils et
+politiques. Les majeurs en tutelle ou en curatelle ne peuvent être élus.
+
+Sont éligibles au conseil territorial tous les citoyens inscrits sur une liste électorale de la collectivité ou justifiant
+qu'ils devaient y être inscrits avant le jour de l'élection, qui sont domiciliés à Saint-Martin, et ceux qui, sans y être
+domiciliés, y sont inscrits au rôle d'une des contributions directes au 1er janvier de l'année dans laquelle se fait
+l'élection ou justifient qu'ils devaient y être inscrits à ce jour ou ont hérité depuis la même époque d'une propriété
+foncière à Saint-Martin.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+
+###### Article LO509
+
+Le conseil territorial de Saint-Martin est composé de vingt-trois membres.
+
+Les conseillers territoriaux sont élus pour cinq ans. Lors même qu'ils ont été élus dans l'intervalle, ils sont renouvelés
+intégralement au mois de mars.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+
+###### Article LO510
+
+La collectivité forme une circonscription électorale unique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+
+###### Article LO511
+
+Les conseillers territoriaux sont élus au scrutin de liste à deux tours, avec dépôt de listes comportant autant de candidats
+que de sièges à pourvoir, augmentés de trois sans adjonction ni suppression de noms et sans modification de l'ordre de
+présentation, sous réserve de l'application du quatrième alinéa de l'article LO. 513.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Cité par_:
+
+  - Code électoral - art. L514 (V)
+
+_Cite_:
+
+  - Code électoral - art. LO513 (V)
+
+
+###### Article LO512
+
+Au premier tour de scrutin, il est attribué à la liste qui a recueilli la majorité absolue des suffrages exprimés et un
+nombre de suffrages au moins égal au quart des électeurs inscrits, un nombre de sièges égal au tiers du nombre des sièges à
+pourvoir arrondi, le cas échéant, à l'entier supérieur. Cette attribution opérée, les autres sièges sont répartis entre
+toutes les listes à la représentation proportionnelle suivant la règle de la plus forte moyenne, sous réserve de
+l'application du troisième alinéa.
+
+Si aucune liste n'a recueilli la majorité absolue des suffrages exprimés au premier tour, il est procédé à un second tour. Il
+est attribué à la liste qui a obtenu le plus de voix un nombre de sièges égal au tiers du nombre des sièges à pourvoir
+arrondi, le cas échéant, à l'entier supérieur. En cas d'égalité de suffrages entre les listes arrivées en tête, ces sièges
+sont attribués à la liste dont les candidats ont la moyenne d'âge la plus élevée. Cette attribution opérée, les autres sièges
+sont répartis entre toutes les listes à la représentation proportionnelle suivant la règle de la plus forte moyenne, au
+prorata des voix obtenues par chaque liste dans l'ensemble de la circonscription, sous réserve de l'application des
+dispositions du troisième alinéa.
+
+Si plusieurs listes ont la même moyenne pour l'attribution du dernier siège, celui-ci revient à la liste qui a obtenu le plus
+grand nombre de suffrages dans l'ensemble de la circonscription. En cas d'égalité de suffrages, le siège est attribué au plus
+âgé des candidats susceptibles d'être proclamés élus.
+
+Les sièges sont attribués aux candidats dans l'ordre de présentation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+
+###### Article LO513
+
+Nul ne peut être candidat sur plus d'une liste.
+
+Une déclaration de candidature est obligatoire pour chaque liste avant chaque tour de scrutin. Chaque liste est composée
+alternativement d'un candidat de chaque sexe.
+
+Seules peuvent se présenter au second tour les listes ayant obtenu au premier tour un nombre de suffrages au moins égal à 10
+% du total des suffrages exprimés ; si une seule liste obtient ce nombre de suffrages, la liste arrivée en deuxième au
+premier tour peut se présenter au second tour ; si aucune liste n'obtient un tel nombre de suffrages, les deux listes
+arrivées en tête au premier tour peuvent se maintenir au second tour.
+
+Ces listes peuvent être modifiées dans leur composition pour comprendre des candidats ayant figuré au premier tour sur
+d'autres listes, sous réserve que celles-ci ne se présentent pas au second tour et qu'elles aient obtenu au premier tour au
+moins 5 % des suffrages exprimés. En cas de modification de la composition d'une liste, l'ordre de présentation des candidats
+peut également être modifié.
+
+Les candidats ayant figuré sur une même liste au premier tour ne peuvent figurer au second tour que sur une même liste. Le
+choix de la liste sur laquelle ils sont candidats au second tour est notifié aux services du représentant de l'Etat par le
+candidat placé en tête de la liste sur laquelle ils figuraient au premier tour.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Cité par_:
+
+  - Code électoral - art. L514 (V)
+  - Code électoral - art. LO511 (V)
+
+
+###### Article LO516
+
+I. - Sont inéligibles au conseil territorial :
+
+1° Pendant un an à compter de la décision juridictionnelle constatant l'inéligibilité, le président du conseil territorial et
+les membres de celui-ci qui n'ont pas déposé l'une des déclarations prévues par le titre Ier de la loi n° 88-227 du 11 mars
+1988 relative à la transparence financière de la vie politique ;
+
+2° Les personnes privées, par décision juridictionnelle passée en force de chose jugée, de leur droit d'éligibilité en
+application des lois qui autorisent cette privation ;
+
+3° Les représentants de l'Etat, les secrétaires généraux, les secrétaires généraux adjoints et les sous-préfets chargés de
+mission auprès du représentant de l'Etat, les directeurs du cabinet du représentant de l'Etat en exercice ou qui ont exercé
+leurs fonctions à Saint-Martin depuis moins de trois ans ;
+
+4° Les personnes déclarées inéligibles en application de l'article L. 118-3 ;
+
+5° Pendant un an à compter de la décision devenue définitive du juge administratif prononçant sa démission d'office, le
+membre du conseil territorial qui a refusé, sans excuse valable, d'exercer les fonctions qui lui sont dévolues par la loi,
+conformément à l'article LO 6321-3 du code général des collectivités territoriales ;
+
+6° Le Médiateur de la République et le Défenseur des enfants, sauf s'ils exerçaient le même mandat antérieurement à leur
+nomination.
+
+II. - En outre, ne peuvent être élus membres du conseil territorial s'ils exercent leurs fonctions à Saint-Martin ou s'ils
+les ont exercées depuis moins de six mois :
+
+1° Les magistrats des juridictions administratives et des juridictions judiciaires ; les juges de proximité ; le secrétaire
+général de la chambre territoriale des comptes ;
+
+2° Les membres des corps d'inspection et de contrôle de l'Etat ;
+
+3° Les directeurs, chefs de service, chefs de bureau des services du représentant de l'Etat et des autres administrations
+civiles de l'Etat ;
+
+4° Le directeur général des services de la collectivité et les directeurs généraux adjoints, les directeurs, les chefs de
+service de la collectivité ou de l'un de ses établissements publics ; les membres du cabinet du président du conseil
+territorial ;
+
+5° Les officiers des armées de terre, de mer et de l'air et les personnels de la gendarmerie ;
+
+6° Les fonctionnaires des corps actifs de police ;
+
+7° Les agents et comptables de la collectivité agissant en qualité de fonctionnaire employés à l'assiette, à la perception et
+au recouvrement des contributions directes ou indirectes et au paiement des dépenses publiques de toute nature ;
+
+8° Les directeurs et directeurs généraux des hôpitaux publics ; le directeur, les directeurs adjoints et le secrétaire
+général de l'agence régionale de l'hospitalisation ; les directeurs des organismes régionaux et locaux de la sécurité
+sociale ; les directeurs des caisses primaires et des caisses régionales de sécurité sociale.
+
+III. - Les agents salariés de la collectivité ne peuvent être élus au conseil territorial. Ne sont pas compris dans cette
+catégorie ceux qui, étant fonctionnaires ou exerçant une profession indépendante, ne reçoivent une indemnité de la
+collectivité qu'à raison des services qu'ils lui rendent dans l'exercice de cette profession et ceux qui ne sont agents
+salariés de la collectivité qu'au titre d'une activité saisonnière ou occasionnelle.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Cite_:
+
+  - Loi n°88-227 1988-03-11
+  - Code électoral - art. L118-3 (M)
+  - Code général des collectivités territoriales - art. LO6321-3 (V)
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Cité par_:
+
+  - Code électoral - art. L514 (V)
+  - Code électoral - art. LO520 (VD)
+
+
+###### Article LO520
+
+I.-Le mandat de conseiller territorial est incompatible : 
+
+1° Avec les fonctions de représentant de l'Etat, secrétaire général, secrétaire général adjoint, directeur de cabinet et
+directeur de préfecture ; 
+
+2° Avec la qualité de membre du conseil économique, social et culturel de Saint-Martin ; 
+
+3° Avec la qualité de membre d'une assemblée ou d'un exécutif d'une collectivité à statut particulier régie par le premier
+alinéa de l'article 72 de la Constitution, d'une collectivité mentionnée au dernier alinéa de l'article 73 de la
+Constitution, d'une autre collectivité d'outre-mer régie par l'article 74 de la Constitution ou de la collectivité régie par
+le titre XIII de la Constitution, ainsi qu'avec celle de conseiller général, de conseiller régional, de conseiller de Paris,
+de membre de l'Assemblée de Corse ou de conseiller municipal ; 
+
+4° Avec les fonctions de militaire en activité ; 
+
+5° Avec les fonctions de magistrat des juridictions administratives ou des juridictions judiciaires, de juge de proximité ou
+de secrétaire général de la chambre territoriale des comptes ; 
+
+6° Avec les fonctions de directeur ou de président d'établissement public, lorsqu'elles sont rémunérées ; 
+
+7° Avec les fonctions mentionnées aux 3° à 8° du II de l'article LO. 516 et celles d'agent salarié ou subventionné sur les
+fonds de la collectivité ou des établissements publics et agences créées par elle, ou d'agent salarié des établissements
+publics de coopération dont la collectivité fait partie ; 
+
+8° Avec la qualité d'entrepreneur des services de la collectivité. 
+
+II.-Un conseiller territorial ne peut cumuler son mandat avec plus d'un des mandats suivants : député ou sénateur,
+représentant au Parlement européen. 
+
+Si le candidat appelé à remplacer un conseiller territorial se trouve dans l'un des cas d'incompatibilité mentionnés au
+premier alinéa du présent II, il dispose d'un délai de trente jours à compter de la vacance pour faire cesser
+l'incompatibilité en démissionnant du mandat de son choix. A défaut d'option dans le délai imparti, le représentant de l'Etat
+constate l'incompatibilité et le remplacement est assuré par le candidat suivant dans l'ordre de la liste.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Constitution du 4 octobre 1958 - art. 72 (V)
+  - Constitution du 4 octobre 1958 - art. 73 (V)
+  - Constitution du 4 octobre 1958 - art. 74 (V)
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Cité par_:
+
+  - Code de justice administrative - art. L231-7 (V)
+  - Code électoral - art. LO522 (V)
+
+
+###### Article LO521
+
+Tout conseiller territorial dont l'inéligibilité se révèle après l'expiration du délai pendant lequel son élection peut être
+contestée ou qui, pendant la durée de son mandat, se trouve frappé de l'une des incapacités qui fait perdre la qualité
+d'électeur est déclaré démissionnaire par arrêté du représentant de l'Etat, soit d'office, soit sur réclamation de tout
+électeur.
+
+Les recours contre les arrêtés mentionnés au premier alinéa sont portés devant le Conseil d'Etat statuant au contentieux. Ils
+sont suspensifs. Toutefois, le recours n'est pas suspensif lorsqu'un conseiller territorial est déclaré démissionnaire
+d'office à la suite d'une condamnation pénale devenue définitive prononcée à son encontre et entraînant de ce fait la perte
+de ses droits civiques, civils et de famille.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+
+###### Article LO522
+
+Le conseiller territorial qui, lors de son élection, se trouve dans l'un des cas d'incompatibilité visés à l'article LO 520
+doit, dans les trente jours qui suivent son entrée en fonction ou, en cas de contestation de l'élection, la décision du
+Conseil d'Etat, démissionner de son mandat de conseiller territorial ou mettre fin à la situation incompatible avec
+l'exercice de celui-ci. Si la cause d'incompatibilité survient postérieurement à l'élection, le droit d'option est ouvert
+dans les mêmes conditions.
+
+A l'expiration du délai prévu au premier alinéa, le conseiller territorial qui se trouve dans un des cas d'incompatibilité
+visés à l'article LO 520 est déclaré démissionnaire d'office par le Conseil d'Etat à la requête du représentant de l'Etat ou
+de tout électeur.
+
+Dans le délai prévu au premier alinéa, tout conseiller territorial est tenu d'adresser au représentant de l'Etat une
+déclaration certifiée sur l'honneur exacte et sincère comportant la liste des activités professionnelles ou d'intérêt
+général, même non rémunérées, qu'il envisage de conserver ou attestant qu'il n'en exerce aucune. En cours de mandat, il doit
+déclarer dans les mêmes formes tout élément de nature à modifier sa déclaration initiale. Ces déclarations sont publiées au
+Bulletin officiel de la collectivité.
+
+Le représentant de l'Etat examine si les activités ainsi déclarées sont compatibles avec le mandat de conseiller territorial.
+S'il y a doute sur la compatibilité des fonctions ou activités exercées ou en cas de contestation à ce sujet, le représentant
+de l'Etat, le conseiller territorial lui-même ou tout électeur saisit le Conseil d'Etat qui apprécie si le conseiller
+territorial intéressé se trouve dans un cas d'incompatibilité.
+
+Si une incompatibilité est constatée, le conseiller territorial doit régulariser sa situation dans un délai de trente jours à
+compter de la notification qui lui est faite de la décision du Conseil d'Etat. A défaut, le Conseil d'Etat le déclare
+démissionnaire d'office de son mandat.
+
+Le conseiller territorial qui n'a pas procédé à la déclaration prévue au premier alinéa est déclaré démissionnaire d'office
+sans délai par le Conseil d'Etat à la requête du représentant de l'Etat ou de tout électeur.
+
+La démission d'office est aussitôt notifiée au représentant de l'Etat, au président du conseil territorial et à l'intéressé.
+Elle n'entraîne pas d'inéligibilité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Cité par_:
+
+  - Code de justice administrative - art. L311-3 (V)
+
+_Cite_:
+
+  - Code électoral - art. LO520 (V)
+
+
+###### Article LO523
+
+Lorsque le nombre de conseillers non domiciliés dans la collectivité dépasse le quart de l'effectif du conseil territorial,
+ce dernier détermine, en séance publique et par la voie du sort, celui ou ceux dont l'élection doit être annulée. Si une
+question préjudicielle concernant le domicile est soulevée, la procédure de tirage au sort est suspendue. Lorsqu'il apparaît
+que le nombre de conseillers non domiciliés dans la collectivité est toujours supérieur au quart de l'effectif du conseil
+territorial, le tirage au sort est fait par le conseil exécutif réuni à cet effet.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+
+###### Article LO524
+
+Les élections au conseil territorial peuvent être contestées dans les quinze jours suivant la proclamation des résultats par
+tout candidat ou tout électeur de la collectivité, devant le Conseil d'Etat statuant au contentieux.
+
+Le même droit est ouvert au représentant de l'Etat s'il estime que les conditions et les formes légalement prescrites n'ont
+pas été respectées.
+
+La proclamation du candidat devenu conseiller territorial par application de l'article LO 525 peut être contestée dans le
+délai de quinze jours à compter de la date à laquelle ce candidat a remplacé le conseiller territorial dont le siège est
+devenu vacant.
+
+La constatation par le Conseil d'Etat de l'inéligibilité d'un ou de plusieurs candidats n'entraîne l'annulation de l'élection
+que du ou des élus déclarés inéligibles. Le Conseil d'Etat proclame en conséquence l'élection du ou des suivants de liste.
+
+Le conseiller territorial proclamé élu reste en fonction jusqu'à ce qu'il ait été définitivement statué sur la réclamation.
+
+Saisi dans les conditions fixées au troisième alinéa de l'article L. 52-15, le Conseil d'Etat peut déclarer inéligible
+pendant un an le candidat dont le compte de campagne, le cas échéant après réformation, fait apparaître un dépassement du
+plafond des dépenses électorales. Dans les autres cas, le Conseil d'Etat peut ne pas prononcer l'inéligibilité du candidat
+dont la bonne foi est établie. Si le Conseil d'Etat a déclaré inéligible un candidat proclamé élu, il annule son élection ou,
+si l'élection n'a pas été contestée, le déclare démissionnaire d'office.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Cité par_:
+
+  - Code de justice administrative - art. L311-3 (V)
+
+_Cite_:
+
+  - Code électoral - art. L52-15 (M)
+  - Code électoral - art. LO525 (V)
+
+
+###### Article LO525
+
+Le candidat venant sur une liste immédiatement après le dernier élu est appelé à remplacer le conseiller territorial élu sur
+cette liste dont le siège devient vacant pour quelque cause que ce soit.
+
+Lorsque les dispositions du premier alinéa ne peuvent plus être appliquées, il est procédé dans les trois mois de la vacance
+à des élections partielles.
+
+Lorsque la vacance porte sur un seul siège, l'élection a lieu au scrutin uninominal majoritaire à deux tours. La déclaration
+de candidature comporte l'indication de la personne appelée à remplacer le candidat élu en cas de vacance du siège. Celle-ci
+doit remplir les conditions d'éligibilité exigées des candidats. Nul ne peut figurer en qualité de remplaçant sur plusieurs
+déclarations de candidature. Nul ne peut être à la fois candidat et remplaçant d'un autre candidat.
+
+Lorsque la vacance porte sur deux sièges, l'élection a lieu au scrutin de liste majoritaire à deux tours, avec dépôt de
+listes comportant autant de candidats que de sièges à pourvoir, augmentés de un sans adjonction ni suppression de noms et
+sans modification de l'ordre de présentation.
+
+Dans les cas prévus aux troisième et quatrième alinéas, est élu au premier tour le candidat ou la liste qui a obtenu la
+majorité absolue des suffrages exprimés et un nombre de suffrages au moins égal au quart des électeurs inscrits. Au second
+tour de scrutin, est élu le candidat ou la liste qui a obtenu le plus de voix.
+
+Seuls peuvent se présenter au second tour les candidats ou listes ayant obtenu au premier tour un nombre de suffrages au
+moins égal à 10 % du total des suffrages exprimés ; si un seul candidat ou une seule liste obtient ce nombre de suffrages, le
+candidat ou la liste arrivé en deuxième au premier tour peut se présenter au second tour ; si aucun candidat ou aucune liste
+n'obtient un tel nombre de suffrages, les deux candidats ou listes arrivés en tête au premier tour peuvent se maintenir au
+second tour.
+
+Lorsque la vacance porte sur trois sièges ou plus, l'élection a lieu dans les conditions prévues au présent chapitre pour le
+renouvellement intégral du conseil territorial.
+
+Il n'est procédé à aucune élection partielle dans les six mois précédant le renouvellement intégral du conseil territorial.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Cité par_:
+
+  - Code électoral - art. LO524 (V)
+
+
+###### Article LO526
+
+Le conseiller territorial présumé absent au sens de l'article 112 du code civil est remplacé provisoirement au conseil
+territorial, dès l'intervention du jugement constatant la présomption d'absence, par le candidat venant immédiatement après
+le dernier élu sur la liste dont le présumé absent est issu.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Cite_:
+
+  - Code civil - art. 112 (V)
+
+
+#### Chapitre IV : Dispositions applicables à l'élection du sénateur de Saint-Martin<a id=138></a>
+
+###### Article L528
+
+Les dispositions du livre II sont applicables à l'élection du sénateur de Saint-Martin, à l'exclusion de l'article L. 280. 
+
+Le renouvellement du mandat du sénateur de Saint-Martin a lieu à la même date que celui des sénateurs de la série 2 prévue à
+l'article LO. 276, dans sa rédaction issue de la loi organique n° 2003-696 du 30 juillet 2003 portant réforme de la durée du
+mandat et de l'âge d'éligibilité des sénateurs ainsi que de la composition du Sénat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Cite_:
+
+  - Loi n°2003-696 du 30 juillet 2003 (V)
+  - Code électoral - art. L280 (V)
+  - Code électoral - art. LO276 (V)
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+
+###### Article L529
+
+Le sénateur est élu par un collège électoral composé :
+
+1° Du député ;
+
+2° Des conseillers territoriaux de la collectivité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+_Cité par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 26 (V)
+
+
+###### Article LO527
+
+Un sénateur est élu à Saint-Martin.
+
+Les dispositions organiques du livre II sont applicables à l'élection du sénateur de Saint-Martin.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+
+### Titre IV : Saint-Pierre-et-Miquelon<a id=139></a>
+
+#### Chapitre Ier : Dispositions communes à l'élection du député, des conseillers territoriaux et des conseillers municipaux<a id=140></a>
+
+###### Article L531
+
+Pour l'application des dispositions du présent code à Saint-Pierre-et-Miquelon, il y a lieu de lire :
+
+1° "collectivité territoriale" et "de la collectivité territoriale" au lieu respectivement de : "département" ou
+"arrondissement"et de : "départemental" ;
+
+2° "représentant de l'Etat" et "services du représentant de l'Etat" au lieu respectivement de : "préfet" ou "sous-préfet" et
+de :
+
+"préfecture" ou "sous-préfecture" ;
+
+3° "tribunal supérieur d'appel" au lieu de : "cour d'appel" ;
+
+4° "tribunal de première instance" au lieu de : "tribunal de grande instance" ou "tribunal d'instance" ;
+
+5° "circonscription électorale" au lieu de : "canton".
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (V)
+  - Loi n°77-729 du 7 juillet 1977 - art. 26 (VT)
+  - Code général des collectivités territoriales - art. LO1112-14-1 (VD)
+  - Code électoral - art. L558-46 (VT)
+  - Code électoral - art. L562 (VT)
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+
+###### Article L532
+
+Par dérogation aux dispositions du deuxième alinéa de l'article L. 52-12, à Saint-Pierre-et-Miquelon, le compte de campagne
+peut également être déposé par le candidat placé en tête de la liste auprès des services du représentant de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+_Cite_:
+
+  - Code électoral - art. L52-12 (V)
+
+
+###### Article LO530
+
+Pour l'application du présent code à Saint-Pierre-et-Miquelon, il y a lieu de lire :
+
+1° " collectivité territoriale " au lieu de : " département " ;
+
+2° " représentant de l'Etat " et " services du représentant de l'Etat " au lieu respectivement de : " préfet " et "
+préfecture ".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Cité par_:
+
+  - Code général des collectivités territoriales - art. LO1112-14-1 (VD)
+
+
+#### Chapitre II : Dispositions applicables à l'élection du député<a id=141></a>
+
+###### Article L534
+
+A l'occasion du renouvellement général de l'Assemblée nationale, à Saint-Pierre-et-Miquelon, par dérogation à l'article L.
+55, le scrutin est organisé le samedi précédent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+_Cite_:
+
+  - Code électoral - art. L55 (V)
+
+
+###### Article L535
+
+Pour l'application de l'article L. 52-11, les frais de transport aérien et maritime dûment justifiés, exposés par les
+candidats à l'élection législative à l'intérieur de la collectivité territoriale de Saint-Pierre-et-Miquelon, ne sont pas
+inclus dans le plafond des dépenses.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+_Cite_:
+
+  - Code électoral - art. L52-11 (VT)
+
+
+###### Article LO533
+
+Un député à l'Assemblée nationale est élu à Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Abrogé par_:
+
+  - Loi organique n°2009-38 du 13 janvier 2009 - art. 8
+
+
+#### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux<a id=142></a>
+
+###### Article L542
+
+I.-La déclaration de candidature résulte du dépôt auprès des services du représentant de l'Etat d'une liste répondant aux
+conditions fixées aux articles LO. 539 et LO. 541. Il en est délivré récépissé. 
+
+Elle est faite collectivement pour chaque liste par le candidat placé en tête de liste. A cet effet, chaque candidat établit
+un mandat signé de lui, confiant au responsable de liste le soin de faire ou de faire faire, par une personne déléguée par
+lui, toutes déclarations et démarches utiles à l'enregistrement de la liste, pour le premier et le second tour. Le dépôt de
+la liste par son responsable doit être assorti de l'ensemble des mandats des candidats qui y figurent. 
+
+La liste déposée indique expressément : 
+
+1° Le titre de la liste présentée ; 
+
+2° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chacun des candidats. 
+
+A cette déclaration sont jointes les pièces propres à prouver que les candidats répondent aux conditions d'éligibilité. 
+
+Pour chaque tour de scrutin, cette déclaration comporte la signature de chaque candidat, sauf le droit pour tout candidat de
+compléter la déclaration collective non signée de lui par une déclaration individuelle faite dans le même délai et portant sa
+signature. 
+
+Toutefois, les signatures de chaque candidat ne sont pas exigées pour la déclaration de candidature des listes qui ne
+procèdent à aucune modification de leur composition au second tour. 
+
+II.-La déclaration est enregistrée si les conditions prévues au présent chapitre sont remplies. Le refus d'enregistrement est
+motivé. 
+
+Le candidat placé en tête de liste ou son mandataire dispose d'un délai de quarante-huit heures pour contester le refus
+d'enregistrement devant le tribunal administratif, qui statue dans les trois jours. La décision du tribunal administratif ne
+peut être contestée qu'à l'occasion d'un recours contre l'élection. 
+
+Lorsque le refus d'enregistrement est motivé par l'inobservation des dispositions relatives aux inéligibilités prévues à
+l'article LO. 544 ou par la présence d'un candidat sur plusieurs listes ou dans plus d'une circonscription, un délai de
+quarante-huit heures est accordé pour compléter la liste, à compter de ce refus ou de la décision du tribunal administratif
+confirmant le refus. 
+
+Dans le cas prévu à l'alinéa précédent, la candidature est enregistrée si le tribunal administratif, saisi par le candidat
+tête de liste ou son mandataire, n'a pas statué dans le délai prévu au deuxième alinéa. 
+
+Récépissé ne peut être délivré que si les conditions énumérées au présent article sont remplies.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+_Cite_:
+
+  - Code électoral - art. LO539 (V)
+  - Code électoral - art. LO541 (V)
+  - Code électoral - art. LO544 (V)
+
+
+###### Article L543
+
+Les déclarations de candidature doivent être déposées au plus tard :
+
+1° Pour le premier tour, le troisième vendredi qui précède le jour du scrutin, à dix-huit heures ;
+
+2° Pour le second tour, le mardi qui suit le premier tour, à dix-huit heures.
+
+Aucun retrait volontaire ou remplacement de candidat n'est accepté après le dépôt de la liste.
+
+Les déclarations de retrait des listes complètes qui interviennent avant l'expiration des délais prévus aux alinéas
+précédents pour le dépôt des déclarations de candidature sont enregistrées ; elles comportent la signature de la majorité des
+candidats de la liste. Il en est donné récépissé.
+
+Est nul tout bulletin établi au nom d'une liste dont la déclaration de candidature n'a pas été régulièrement enregistrée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+
+###### Article L545
+
+I. - La campagne électorale pour le premier tour de scrutin est ouverte à partir du deuxième lundi qui précède celui-ci. Elle
+prend fin le samedi précédant le scrutin, à minuit.
+
+La campagne électorale pour le second tour commence le mercredi suivant le premier tour et s'achève le samedi précédant le
+scrutin, à minuit.
+
+II. - A Saint-Pierre-et-Miquelon, les antennes de la société nationale chargée du service public de la communication
+audiovisuelle outre-mer sont mises à la disposition des listes dont la candidature a été régulièrement enregistrée.
+
+III. - Une durée d'émission de trois heures à la télévision et de trois heures à la radio est mise à la disposition des
+listes présentées par les partis et groupements politiques représentés au conseil territorial.
+
+Le Conseil supérieur de l'audiovisuel détermine le temps attribué à chaque liste en fonction de la représentation des partis
+et groupements politiques au conseil territorial. Cette représentation est constatée au vu de la déclaration individuelle de
+rattachement faite par chaque élu sortant, au plus tard deux mois avant la date d'expiration du mandat du conseil
+territorial.
+
+En cas de dissolution du conseil territorial, d'annulation de l'élection de l'ensemble de ses membres ou de vacance des
+sièges consécutive à la démission de tous ses membres, la déclaration individuelle de rattachement est faite dans les huit
+jours qui suivent respectivement la publication du décret de dissolution au Journal officiel de la République française, la
+lecture de la décision du Conseil d'Etat ou la date de réception de la dernière démission par le représentant de l'Etat.
+
+Les listes peuvent décider d'utiliser en commun leur temps de parole.
+
+Chaque liste dispose d'une durée minimale de cinq minutes à la télévision et de cinq minutes à la radio.
+
+IV. - Une durée maximale d'émission de trente minutes à la télévision et de trente minutes à la radio est mise à la
+disposition des autres listes.
+
+Cette durée est répartie également entre ces listes par le Conseil supérieur de l'audiovisuel, sans qu'une liste ne puisse
+bénéficier de plus de cinq minutes à la télévision et de cinq minutes à la radio.
+
+V. - Les conditions de production, de programmation et de diffusion des émissions sont fixées par le Conseil supérieur de
+l'audiovisuel. Celui-ci adresse des recommandations aux exploitants des autres services de communication audiovisuelle
+autorisés dans la collectivité. Il désigne un représentant à Saint-Pierre-et-Miquelon pendant toute la durée de la campagne.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+
+###### Article L546
+
+Une commission de propagande est chargée de l'envoi et de la distribution des documents de propagande électorale pour les
+deux circonscriptions électorales de Saint-Pierre-et-Miquelon.
+
+L'Etat prend à sa charge les dépenses provenant des opérations faites par la commission de propagande, celles résultant de
+son fonctionnement, ainsi que le coût du papier, l'impression des bulletins de vote, circulaires et frais d'affichage pour
+les candidats ou listes de candidats ayant obtenu au moins 5 % des suffrages exprimés à l'un des deux tours de scrutin.
+
+Les dépenses liées à la campagne audiovisuelle officielle sont également à sa charge.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+_Cité par_:
+
+  - Code électoral - art. D354 (Ab)
+  - Code électoral - art. R344 (V)
+
+
+###### Article L547
+
+Les électeurs sont convoqués par décret, au plus tard le quatrième lundi précédant la date du scrutin.
+
+Toutefois, pour les élections partielles, les électeurs sont convoqués par arrêté du représentant de l'Etat, au plus tard le
+quatrième lundi précédant la date du scrutin.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+
+###### Article LO536
+
+Nul ne peut être élu conseiller territorial s'il n'est âgé de dix-huit ans révolus et ne jouit de ses droits civils et
+politiques. Les majeurs en tutelle ou en curatelle ne peuvent être élus.
+
+Sont éligibles au conseil territorial tous les citoyens inscrits sur une liste électorale d'une commune de l'archipel ou
+justifiant qu'ils devaient y être inscrits avant le jour de l'élection, qui sont domiciliés à Saint-Pierre-et-Miquelon, et
+ceux qui, sans y être domiciliés, y sont inscrits au rôle d'une des contributions directes au 1er janvier de l'année dans
+laquelle se fait l'élection ou justifient qu'ils devaient y être inscrits à ce jour ou ont hérité depuis la même époque d'une
+propriété foncière à Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+
+###### Article LO537
+
+Le conseil territorial de Saint-Pierre-et-Miquelon est composé de dix-neuf membres.
+
+La collectivité territoriale forme une circonscription unique, composée de deux sections communales et les sièges sont
+répartis de la manière suivante :
+
+- Saint-Pierre : quinze sièges ;
+
+- Miquelon-Langlade : quatre sièges.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+
+###### Article LO538
+
+Les conseillers territoriaux sont élus pour cinq ans. Lors même qu'ils ont été élus dans l'intervalle, ils sont renouvelés
+intégralement au mois de mars.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+
+###### Article LO539
+
+Les conseillers territoriaux sont élus au scrutin de liste à deux tours, avec dépôt de listes comportant autant de candidats
+que de sièges à pourvoir, augmentés de trois pour la section de Saint-Pierre et d'un pour la section de Miquelon-Langlade,
+sans adjonction ni suppression de noms et sans modification de l'ordre de présentation, sous réserve de l'application des
+dispositions du cinquième alinéa de l'article LO. 541.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Cité par_:
+
+  - Code électoral - art. L542 (V)
+
+_Cite_:
+
+  - Code électoral - art. LO541 (V)
+
+
+###### Article LO540
+
+Au premier tour de scrutin, il est attribué à la liste qui a recueilli la majorité absolue des suffrages exprimés et un
+nombre de suffrages au moins égal au quart des électeurs inscrits, un nombre de sièges égal à la moitié du nombre des sièges
+à pourvoir dans chaque section arrondi, le cas échéant, à l'entier supérieur. Cette attribution opérée, les autres sièges
+sont répartis, au sein de chaque section, entre toutes les listes à la représentation proportionnelle suivant la règle de la
+plus forte moyenne, au prorata des voix obtenues par chaque liste dans l'ensemble de la circonscription, sous réserve de
+l'application du troisième alinéa.
+
+Si aucune liste n'a recueilli la majorité absolue des suffrages exprimés au premier tour, il est procédé à un second tour. Il
+est attribué à la liste qui a obtenu le plus de voix un nombre de sièges égal à la moitié du nombre des sièges à pourvoir
+dans chaque section arrondi, le cas échéant, à l'entier supérieur. En cas d'égalité de suffrages entre les listes arrivées en
+tête, ces sièges sont attribués à la liste dont les candidats ont la moyenne d'âge la plus élevée. Cette attribution opérée,
+les autres sièges sont répartis, au sein de chaque section, entre toutes les listes à la représentation proportionnelle
+suivant la règle de la plus forte moyenne, au prorata des voix obtenues par chaque liste dans l'ensemble de la
+circonscription, sous réserve de l'application du troisième alinéa.
+
+Si, dans une section, plusieurs listes ont la même moyenne pour l'attribution du dernier siège, celui-ci revient à la liste
+qui a obtenu le plus grand nombre de suffrages dans l'ensemble de la circonscription. En cas d'égalité de suffrages, le siège
+est attribué au plus âgé des candidats susceptibles d'être proclamés élus.
+
+Les sièges sont attribués aux candidats au sein de chaque section, dans l'ordre de présentation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+
+###### Article LO541
+
+Nul ne peut être candidat sur plus d'une liste ni, au sein de chaque liste, sur plus d'une section.
+
+Une déclaration de candidature est obligatoire pour chaque liste avant chaque tour de scrutin.
+
+Chaque liste est composée alternativement d'un candidat de chaque sexe.
+
+Seules peuvent se présenter au second tour les listes ayant obtenu au premier tour un nombre de suffrages au moins égal à 10
+% du total des suffrages exprimés. Si une seule liste obtient ce nombre de suffrages, la liste arrivée en deuxième au premier
+tour peut se présenter au second tour. Si aucune liste n'obtient un tel nombre de suffrages, les deux listes arrivées en tête
+au premier tour peuvent se maintenir au second tour.
+
+Ces listes peuvent être modifiées dans leur composition pour comprendre des candidats ayant figuré au premier tour sur
+d'autres listes, sous réserve que celles-ci ne se présentent pas au second tour et qu'elles aient obtenu au premier tour au
+moins 5 % des suffrages exprimés. En cas de modification de la composition d'une liste, l'ordre de présentation des candidats
+peut également être modifié.
+
+Les candidats ayant figuré sur une même liste au premier tour ne peuvent figurer au second tour que sur une même liste. Le
+choix de la liste sur laquelle ils sont candidats au second tour est notifié aux services du représentant de l'Etat par le
+candidat placé en tête de la liste sur laquelle ils figuraient au premier tour.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Cité par_:
+
+  - Code électoral - art. L542 (V)
+  - Code électoral - art. LO539 (V)
+
+
+###### Article LO544
+
+I. - Sont inéligibles au conseil territorial :
+
+1° Pendant un an à compter de la décision juridictionnelle constatant l'inéligibilité, le président du conseil territorial et
+les membres de celui-ci qui n'ont pas déposé l'une des déclarations prévues par le titre Ier de la loi n° 88-227 du 11 mars
+1988 relative à la transparence financière de la vie politique ;
+
+2° Les personnes privées, par décision juridictionnelle passée en force de chose jugée, de leur droit d'éligibilité en
+application des lois qui autorisent cette privation ;
+
+3° Les représentants de l'Etat, les secrétaires généraux, les secrétaires généraux adjoints et les sous-préfets chargés de
+mission auprès du représentant de l'Etat, les directeurs du cabinet du représentant de l'Etat en exercice ou qui ont exercé
+leurs fonctions à Saint-Pierre-et-Miquelon depuis moins de trois ans ;
+
+4° Les personnes déclarées inéligibles en application de l'article L. 118-3 ;
+
+5° Pendant un an à compter de la décision devenue définitive du juge administratif prononçant sa démission d'office, le
+membre du conseil territorial qui a refusé, sans excuse valable, d'exercer certaines des fonctions qui lui sont dévolues par
+la loi, conformément à l'article LO 6431-3 du code général des collectivités territoriales ;
+
+6° Le Médiateur de la République et le Défenseur des enfants, sauf s'ils exerçaient le même mandat antérieurement à leur
+nomination.
+
+II. - En outre, ne peuvent être élus membres du conseil territorial s'ils exercent leurs fonctions à Saint-Pierre-et-Miquelon
+ou s'ils les ont exercées depuis moins de six mois :
+
+1° Les magistrats des juridictions administratives et des juridictions judiciaires ; les juges de proximité ; le secrétaire
+général de la chambre territoriale des comptes ;
+
+2° Les membres des corps d'inspection et de contrôle de l'Etat ;
+
+3° Les directeurs, chefs de service, chefs de bureau des services du représentant de l'Etat, des autres administrations
+civiles de l'Etat ; ingénieurs des travaux publics de l'Etat, chef de section principale ou chef de section des travaux
+publics de l'Etat chargé d'une circonscription territoriale de voirie ;
+
+4° Le directeur général des services de la collectivité et les directeurs généraux adjoints, les directeurs, les chefs de
+service de la collectivité ou de l'un de ses établissements publics ; les membres du cabinet du président du conseil
+territorial ;
+
+5° Les officiers des armées de terre, de mer et de l'air et les personnels de la gendarmerie ;
+
+6° Les fonctionnaires des corps actifs de police ;
+
+7° Les agents et comptables de la collectivité agissant en qualité de fonctionnaire employés à l'assiette, à la perception et
+au recouvrement des contributions directes ou indirectes et au paiement des dépenses publiques de toute nature ;
+
+8° Les directeurs et directeurs généraux des hôpitaux publics ; le directeur, les directeurs adjoints et le secrétaire
+général de l'agence régionale de l'hospitalisation ; les directeurs des organismes régionaux et locaux de la sécurité
+sociale ; les directeurs des caisses primaires et des caisses régionales de sécurité sociale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Cite_:
+
+  - Loi n°88-227 1988-03-11
+  - Code électoral - art. L118-3 (M)
+  - Code général des collectivités territoriales - art. LO6431-3 (V)
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Cité par_:
+
+  - Code électoral - art. L542 (V)
+  - Code électoral - art. LO548 (VD)
+
+
+###### Article LO548
+
+I.-Le mandat de conseiller territorial est incompatible : 
+
+1° Avec les fonctions de représentant de l'Etat, secrétaire général, secrétaire général adjoint, directeur de cabinet et
+directeur de préfecture ; 
+
+2° Avec la qualité de membre du conseil économique, social et culturel de Saint-Pierre-et-Miquelon ; 
+
+3° Avec la qualité de membre d'une assemblée ou d'un exécutif d'une collectivité à statut particulier régie par le premier
+alinéa de l'article 72 de la Constitution, d'une collectivité mentionnée au dernier alinéa de l'article 73 de la
+Constitution, d'une autre collectivité d'outre-mer régie par l'article 74 de la Constitution ou de la collectivité régie par
+le titre XIII de la Constitution, ainsi qu'avec celle de conseiller général, de conseiller régional, de conseiller de Paris
+ou de membre de l'Assemblée de Corse ; 
+
+4° Avec les fonctions de militaire en activité ; 
+
+5° Avec les fonctions de magistrat des juridictions administratives ou des juridictions judiciaires, de juge de proximité ou
+de secrétaire général de la chambre territoriale des comptes ; 
+
+6° Avec les fonctions de directeur ou de président d'établissement public, lorsqu'elles sont rémunérées ; 
+
+7° Avec les fonctions mentionnées aux 3° à 8° du II de l'article LO. 544 et celles d'agent salarié ou subventionné sur les
+fonds de la collectivité ou des établissements publics et agences créées par elle, ou d'agent salarié des établissements
+publics de coopération dont la collectivité fait partie ; 
+
+8° Avec la qualité d'entrepreneur des services de la collectivité. 
+
+II.-Un conseiller territorial ne peut cumuler son mandat avec plus d'un des mandats suivants : conseiller municipal, député
+ou sénateur, représentant au Parlement européen. 
+
+Si le candidat appelé à remplacer un conseiller territorial se trouve dans l'un des cas d'incompatibilité mentionnés au
+premier alinéa du présent II, il dispose d'un délai de trente jours à compter de la vacance pour faire cesser
+l'incompatibilité en démissionnant du mandat de son choix. A défaut d'option dans le délai imparti, le représentant de l'Etat
+constate l'incompatibilité et le remplacement est assuré par le candidat suivant dans l'ordre de la liste.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Constitution du 4 octobre 1958 - art. 72 (V)
+  - Constitution du 4 octobre 1958 - art. 73 (V)
+  - Constitution du 4 octobre 1958 - art. 74 (V)
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Cité par_:
+
+  - Code de justice administrative - art. L231-7 (V)
+  - Code électoral - art. LO550 (V)
+
+
+###### Article LO549
+
+Tout conseiller territorial dont l'inéligibilité se révèle après l'expiration du délai pendant lequel son élection peut être
+contestée ou qui, pendant la durée de son mandat, se trouve frappé de l'une des incapacités qui fait perdre la qualité
+d'électeur est déclaré démissionnaire par arrêté du représentant de l'Etat, soit d'office, soit sur réclamation de tout
+électeur.
+
+Les recours contre les arrêtés mentionnés au premier alinéa sont portés devant le Conseil d'Etat statuant au contentieux. Ils
+sont suspensifs. Toutefois, le recours n'est pas suspensif lorsqu'un conseiller territorial est déclaré démissionnaire
+d'office à la suite d'une condamnation pénale devenue définitive prononcée à son encontre et entraînant de ce fait la perte
+de ses droits civiques, civils et de famille.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+
+###### Article LO550
+
+Le conseiller territorial qui, lors de son élection, se trouve dans l'un des cas d'incompatibilité visés à l'article LO 548
+doit, dans les trente jours qui suivent son entrée en fonction ou, en cas de contestation de l'élection, la décision du
+Conseil d'Etat, démissionner de son mandat de conseiller territorial ou mettre fin à la situation incompatible avec
+l'exercice de celui-ci. Si la cause d'incompatibilité survient postérieurement à l'élection, le droit d'option est ouvert
+dans les mêmes conditions.
+
+A l'expiration du délai prévu au premier alinéa, le conseiller territorial qui se trouve dans un des cas d'incompatibilité
+visés à l'article LO 548 est déclaré démissionnaire d'office par le Conseil d'Etat à la requête du représentant de l'Etat ou
+de tout électeur.
+
+Dans le délai prévu au premier alinéa, tout conseiller territorial est tenu d'adresser au représentant de l'Etat une
+déclaration certifiée sur l'honneur exacte et sincère comportant la liste des activités professionnelles ou d'intérêt
+général, même non rémunérées, qu'il envisage de conserver ou attestant qu'il n'en exerce aucune. En cours de mandat, il doit
+déclarer dans les mêmes formes tout élément de nature à modifier sa déclaration initiale. Ces déclarations sont publiées au
+bulletin officiel de la collectivité.
+
+Le représentant de l'Etat examine si les activités ainsi déclarées sont compatibles avec le mandat de conseiller territorial.
+S'il y a doute sur la compatibilité des fonctions ou activités exercées ou en cas de contestation à ce sujet, le représentant
+de l'Etat, le conseiller territorial lui-même ou tout électeur saisit le Conseil d'Etat qui apprécie si le conseiller
+territorial intéressé se trouve dans un cas d'incompatibilité.
+
+Si une incompatibilité est constatée, le conseiller territorial doit régulariser sa situation dans un délai de trente jours à
+compter de la notification qui lui est faite de la décision du Conseil d'Etat. A défaut, le Conseil d'Etat le déclare
+démissionnaire d'office de son mandat.
+
+Le conseiller territorial qui n'a pas procédé à la déclaration prévue au premier alinéa est déclaré démissionnaire d'office
+sans délai par le Conseil d'Etat à la requête du représentant de l'Etat ou de tout électeur.
+
+La démission d'office est aussitôt notifiée au représentant de l'Etat, au président du conseil territorial et à l'intéressé.
+Elle n'entraîne pas d'inéligibilité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Cité par_:
+
+  - Code de justice administrative - art. L311-3 (V)
+
+_Cite_:
+
+  - Code électoral - art. LO548 (V)
+
+
+###### Article LO551
+
+Lorsque le nombre de conseillers non domiciliés dans la collectivité dépasse le quart de l'effectif du conseil territorial,
+ce dernier détermine, en séance publique et par la voie du sort, celui ou ceux dont l'élection doit être annulée. Si une
+question préjudicielle concernant le domicile est soulevée, la procédure de tirage au sort est suspendue. Lorsqu'il apparaît
+que le nombre de conseillers non domiciliés dans la collectivité est toujours supérieur au quart de l'effectif du conseil
+territorial, le tirage au sort est fait par le conseil exécutif réuni à cet effet.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+
+###### Article LO552
+
+Les élections au conseil territorial peuvent être contestées dans les quinze jours suivant la proclamation des résultats par
+tout candidat ou tout électeur de la collectivité, devant le Conseil d'Etat statuant au contentieux.
+
+Le même droit est ouvert au représentant de l'Etat s'il estime que les conditions et les formes légalement prescrites n'ont
+pas été respectées.
+
+La proclamation du candidat devenu conseiller territorial par application de l'article LO 553 peut être contestée dans le
+délai de quinze jours à compter de la date à laquelle ce candidat a remplacé le conseiller territorial dont le siège est
+devenu vacant.
+
+La constatation par le Conseil d'Etat de l'inéligibilité d'un ou de plusieurs candidats n'entraîne l'annulation de l'élection
+que du ou des élus déclarés inéligibles. Le Conseil d'Etat proclame en conséquence l'élection du ou des suivants de liste.
+
+Le conseiller territorial proclamé élu reste en fonction jusqu'à ce qu'il ait été définitivement statué sur la réclamation.
+
+Saisi dans les conditions fixées au troisième alinéa de l'article L. 52-15, le Conseil d'Etat peut déclarer inéligible
+pendant un an le candidat dont le compte de campagne, le cas échéant après réformation, fait apparaître un dépassement du
+plafond des dépenses électorales. Dans les autres cas, le Conseil d'Etat peut ne pas prononcer l'inéligibilité du candidat
+dont la bonne foi est établie. Si le Conseil d'Etat a déclaré inéligible un candidat proclamé élu, il annule son élection ou,
+si l'élection n'a pas été contestée, le déclare démissionnaire d'office.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Cité par_:
+
+  - Code de justice administrative - art. L311-3 (V)
+
+_Cite_:
+
+  - Code électoral - art. L52-15 (M)
+  - Code électoral - art. LO553 (V)
+
+
+###### Article LO553
+
+Le candidat venant sur une liste immédiatement après le dernier élu dans la même section est appelé à remplacer le conseiller
+territorial élu sur cette liste dont le siège devient vacant pour quelque cause que ce soit.
+
+Lorsque les dispositions du premier alinéa ne peuvent plus être appliquées, il est procédé dans les trois mois de la vacance
+à des élections partielles.
+
+Lorsque la vacance porte sur moins de quatre sièges, l'élection a lieu au scrutin majoritaire à deux tours.
+
+Lorsque la vacance porte sur un seul siège, l'élection a lieu au scrutin uninominal majoritaire à deux tours. La déclaration
+de candidature comporte l'indication de la personne appelée à remplacer le candidat élu en cas de vacance du siège. Celle-ci
+doit remplir les conditions d'éligibilité exigées des candidats. Nul ne peut figurer en qualité de remplaçant sur plusieurs
+déclarations de candidature. Nul ne peut être à la fois candidat et remplaçant d'un autre candidat.
+
+Lorsque la vacance porte sur deux ou sur trois sièges, l'élection a lieu au scrutin de liste majoritaire à deux tours, avec
+dépôt de listes comportant autant de candidats que de sièges à pourvoir, augmentés de un sans adjonction ni suppression de
+noms et sans modification de l'ordre de présentation.
+
+Dans les cas prévus aux quatrième et cinquième alinéas, est élu au premier tour le candidat ou la liste qui a obtenu la
+majorité absolue des suffrages exprimés et un nombre de suffrages au moins égal au quart des électeurs inscrits. Au second
+tour de scrutin, est élu le candidat ou la liste qui a recueilli le plus de voix.
+
+Seuls peuvent se présenter au second tour les candidats ou listes ayant obtenu au premier tour un nombre de suffrages au
+moins égal à 10 % du total des suffrages exprimés ; si un seul candidat ou une seule liste obtient ce nombre de suffrages, le
+candidat ou la liste arrivé en deuxième au premier tour peut se présenter au second tour ; si aucun candidat ou aucune liste
+n'obtient un tel nombre de suffrages, les deux candidats ou listes arrivés en tête au premier tour peuvent se maintenir au
+second tour.
+
+Lorsque la vacance porte sur quatre sièges ou plus, l'élection a lieu dans les conditions prévues au présent chapitre pour le
+renouvellement intégral du conseil territorial.
+
+Il n'est procédé à aucune élection partielle dans les six mois précédant ce renouvellement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Cité par_:
+
+  - Code électoral - art. LO552 (V)
+
+
+###### Article LO554
+
+Le conseiller territorial présumé absent au sens de l'article 112 du code civil est remplacé provisoirement au conseil
+territorial, dès l'intervention du jugement constatant la présomption d'absence, par le candidat venant immédiatement après
+le dernier élu sur la liste dont le présumé absent est issu.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+_Cite_:
+
+  - Code civil - art. 112 (V)
+
+
+#### Chapitre V : Dispositions applicables à l'élection du sénateur de Saint-Pierre-et-Miquelon<a id=143></a>
+
+###### Article L556
+
+Les dispositions du livre II sont applicables à l'élection du sénateur de Saint-Pierre-et-Miquelon, à l'exclusion de
+l'article L. 280. 
+
+Le renouvellement du mandat du sénateur de Saint-Pierre-et-Miquelon a lieu à la même date que celui des sénateurs de la série
+1 prévue à l'article LO. 276, dans sa rédaction issue de la loi organique n° 2003-696 du 30 juillet 2003 portant réforme de
+la durée du mandat et de l'âge d'éligibilité des sénateurs ainsi que de la composition du Sénat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+_Cite_:
+
+  - Code électoral - art. L280 (V)
+  - Code électoral - art. LO276 (V)
+
+
+###### Article L557
+
+Par dérogation à l'article L. 280, le sénateur est élu par un collège électoral composé : 
+
+1° Du député ; 
+
+2° Des conseillers territoriaux de Saint-Pierre-et-Miquelon ; 
+
+3° Des délégués des conseils municipaux ou de leurs suppléants.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+_Cite_:
+
+  - Code électoral - art. L280 (VT)
+
+
+###### Article LO555
+
+La collectivité territoriale de Saint-Pierre-et-Miquelon est représentée au Sénat par un sénateur.
+
+Les dispositions organiques du livre II du présent code sont applicables à l'élection du sénateur de Saint-Pierre-et-
+Miquelon.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+
+
+### Titre V : Conditions d'application<a id=144></a>
+
+###### Article L558
+
+Les conditions d'application du présent livre sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+
+
+## Livre VII : Dispositions applicables aux consultations organisées en application des articles 72-4 et 73 de la Constitution<a id=145></a>
+
+###### Article L559
+
+Les dispositions du présent livre sont applicables aux consultations organisées en Guadeloupe, en Guyane, en Martinique, à
+Mayotte, à La Réunion, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon en application des articles 72-4 et
+73 de la Constitution.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 10 () JORF 22 février 2007
+
+
+###### Article L560
+
+Sont admis à participer à la consultation les électeurs inscrits sur les listes électorales de la collectivité territoriale
+intéressée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 10 () JORF 22 février 2007
+
+
+###### Article L561
+
+Les électeurs répondent à la question dont le texte est déterminé par le décret du Président de la République.
+
+Le corps électoral se prononce à la majorité des suffrages exprimés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 10 () JORF 22 février 2007
+
+
+###### Article L562
+
+Les dispositions suivantes sont applicables aux consultations régies par le présent livre : 
+
+1° Livre Ier, titre Ier : chapitres Ier, II, V, VI et VII, à l'exception des articles L. 52-3, L. 56, L. 57, L. 57-1, L. 58,
+L. 65 (quatrième alinéa), L. 85-1, L. 88-1, L. 95 et L. 113-1 (1° à 5° du I et II) ; 
+
+2° Livre VI : L. 451, L. 477, L. 504 et L. 531. 
+
+Pour l'application de ces dispositions, il y a lieu de lire : 
+
+" parti ou groupement habilité à participer à la campagne " au lieu de : " candidat " ou " liste de candidats ".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 10 () JORF 22 février 2007
+
+_Cite_:
+
+  - Code électoral - art. L113-1 (V)
+  - Code électoral - art. L451 (V)
+  - Code électoral - art. L477 (V)
+  - Code électoral - art. L504 (V)
+  - Code électoral - art. L52-3 (V)
+  - Code électoral - art. L531 (V)
+  - Code électoral - art. L56 (V)
+  - Code électoral - art. L57 (V)
+  - Code électoral - art. L57-1 (V)
+  - Code électoral - art. L58 (V)
+  - Code électoral - art. L65 (V)
+  - Code électoral - art. L85-1 (V)
+  - Code électoral - art. L88-1 (V)
+  - Code électoral - art. L95 (V)
+
+
+###### Article L563
+
+Il est institué à l'occasion de chaque consultation une commission de contrôle de la consultation comprenant, le cas échéant,
+des magistrats de l'ordre judiciaire et des magistrats de l'ordre administratif en activité ou honoraires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 10 () JORF 22 février 2007
+
+_Cité par_:
+
+  - Décret n°2009-249 du 4 mars 2009 - art. 1 (V)
+  - Décret n°2009-1434 du 20 novembre 2009 - art. 1 (V)
+  - Décret n°2009-1435 du 20 novembre 2009 - art. 1 (V)
+
+
+###### Article L564
+
+La commission de contrôle de la consultation a pour mission de veiller à la régularité et à la sincérité de la consultation.
+
+A cet effet, elle est chargée :
+
+1° De dresser la liste des partis et groupements politiques habilités à participer à la campagne en raison du nombre de
+parlementaires et membres des assemblées délibérantes intéressées qui leur sont affiliés ;
+
+2° De contrôler la régularité du scrutin ;
+
+3° De trancher les questions que peut poser, en dehors de toute réclamation, le décompte des bulletins et de procéder aux
+rectifications nécessaires ;
+
+4° De procéder au recensement général des votes et à la proclamation des résultats.
+
+Pour l'exercice de cette mission, le président et les membres de la commission de contrôle de la consultation procèdent à
+tous les contrôles et vérifications utiles. Ils ont accès à tout moment aux bureaux de vote et peuvent exiger l'inscription
+de toutes observations au procès-verbal soit avant, soit après la proclamation des résultats du scrutin. Les autorités
+qualifiées pour établir les procurations de vote, les maires et les présidents des bureaux de vote sont tenus de leur fournir
+tous les renseignements qu'ils demandent et de leur communiquer tous les documents qu'ils estiment nécessaires à l'exercice
+de leur mission.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 10 () JORF 22 février 2007
+
+_Cité par_:
+
+  - Décret n°2009-249 du 4 mars 2009 - art. 14 (V)
+  - Décret n°2009-249 du 4 mars 2009 - art. 4 (V)
+  - Décret n°2009-1434 du 20 novembre 2009 - art. 16 (V)
+  - Décret n°2009-1434 du 20 novembre 2009 - art. 18 (V)
+  - Décret n°2009-1434 du 20 novembre 2009 - art. 28 (V)
+  - Décret n°2009-1434 du 20 novembre 2009 - art. 6 (V)
+  - Décret n°2009-1435 du 20 novembre 2009 - art. 16 (V)
+  - Décret n°2009-1435 du 20 novembre 2009 - art. 18 (V)
+  - Décret n°2009-1435 du 20 novembre 2009 - art. 28 (V)
+  - Décret n°2009-1435 du 20 novembre 2009 - art. 6 (V)
+  - Code électoral - art. L565 (V)
+
+
+###### Article L565
+
+Une durée d'émission télévisée et radiodiffusée, fixée par décret, est mise à la disposition des partis et groupements
+mentionnés au 1° de l'article L. 564 par la société nationale chargée du service public de la communication audiovisuelle
+outre-mer. Cette durée est répartie entre eux par la commission de contrôle de la consultation en raison du nombre de
+parlementaires et membres des assemblées délibérantes intéressées qui leur sont affiliés. Toutefois, chacun de ces partis ou
+groupements dispose d'une durée minimale d'émission. 
+
+Les dispositions de l'article 16 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication et celles
+de la loi n° 77-808 du 19 juillet 1977 relative à la publication et à la diffusion de certains sondages d'opinion sont
+applicables à la consultation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Cite_:
+
+  - Loi n°77-808 du 19 juillet 1977 (V)
+  - Loi n°86-1067 du 30 septembre 1986 (V)
+  - Code électoral - art. L564 (V)
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 10 () JORF 22 février 2007
+
+_Cité par_:
+
+  - Décret n°2009-249 du 4 mars 2009 - art. 8 (V)
+  - Décret n°2009-1434 du 20 novembre 2009 - art. 10 (V)
+  - Décret n°2009-1434 du 20 novembre 2009 - art. 22 (V)
+  - Décret n°2009-1435 du 20 novembre 2009 - art. 10 (V)
+  - Décret n°2009-1435 du 20 novembre 2009 - art. 22 (V)
+
+
+###### Article L566
+
+Le résultat de la consultation peut être contesté devant le Conseil d'Etat par tout électeur admis à participer au scrutin
+et, si les conditions et formes légalement prescrites ne sont pas respectées, par le représentant de l'Etat. La contestation
+doit être formée dans les dix jours suivant la proclamation des résultats.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 10 () JORF 22 février 2007
+
+
+###### Article L567
+
+Les dépenses de la consultation sont imputées au budget de l'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+
+_Créé par_:
+
+  - Loi n°2007-224 du 21 février 2007 - art. 10 () JORF 22 février 2007
+
+_Cité par_:
+
+  - Décret n°2009-249 du 4 mars 2009 - art. 15 (V)
+  - Décret n°2009-1434 du 20 novembre 2009 - art. 4 (V)
+  - Décret n°2009-1435 du 20 novembre 2009 - art. 4 (V)
+
+
+## LIVRE VIII : DISPOSITIONS FINALES<a id=146></a>
+
+###### Article L568
 
 Le présent code se substitue, dans les conditions prévues par l'article 34 de la Constitution et l'article 7 de la loi n°
 55-328 du 30 mars 1955, aux dispositions législatives suivantes :
@@ -18904,34 +21322,22 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
-
-_Transféré par_:
-
   - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
-
-_Cité par_:
-
-  - Code général des collectivités territoriales - art. LO1112-14-1 (V)
 
 _Anciens textes_:
 
-  - Code électoral - art. L385 (M)
-
-_Nouveaux textes_:
-
-  - Code électoral - art. L568 (V)
+  - Code électoral - art. L450 (T)
 
 
-# Partie réglementaire<a id=136></a>
+# Partie réglementaire<a id=147></a>
 
-## Livre Ier  : Election des députés, des conseillers généraux et des conseillers municipaux des départements<a id=137></a>
+## Livre Ier  : Election des députés, des conseillers généraux et des conseillers municipaux des départements<a id=148></a>
 
-### Titre Ier  : Dispositions communes à l'élection des députés, des conseillers généraux et des conseillers municipaux<a id=138></a>
+### Titre Ier  : Dispositions communes à l'élection des députés, des conseillers généraux et des conseillers municipaux<a id=149></a>
 
-#### Chapitre II : Listes électorales<a id=139></a>
+#### Chapitre II : Listes électorales<a id=150></a>
 
-##### Section 1 : Conditions d'inscription sur une liste électorale<a id=140></a>
+##### Section 1 : Conditions d'inscription sur une liste électorale<a id=151></a>
 
 ###### Article R1
 
@@ -19017,7 +21423,7 @@ _Cite_:
   - Code électoral - art. L15-1 (M)
 
 
-##### Section 2 : Etablissement et révision des listes électorales<a id=141></a>
+##### Section 2 : Etablissement et révision des listes électorales<a id=152></a>
 
 ###### Article R3
 
@@ -19856,7 +22262,7 @@ _Modifié par_:
   - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
 
 
-##### Section 3 : Inscription en dehors des périodes de révision<a id=142></a>
+##### Section 3 : Inscription en dehors des périodes de révision<a id=153></a>
 
 ###### Article R17-2
 
@@ -19898,7 +22304,7 @@ _Modifié par_:
   - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
 
 
-##### Section 4 : Contrôle des inscriptions sur les listes électorales<a id=143></a>
+##### Section 4 : Contrôle des inscriptions sur les listes électorales<a id=154></a>
 
 ###### Article R17
 
@@ -20259,7 +22665,7 @@ _Modifié par_:
   - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
 
 
-##### Section 6 : Cartes électorales<a id=144></a>
+##### Section 6 : Cartes électorales<a id=155></a>
 
 ###### Article R23
 
@@ -20389,7 +22795,7 @@ _Modifié par_:
   - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
 
 
-#### Chapitre V : Propagande<a id=145></a>
+#### Chapitre V : Propagande<a id=156></a>
 
 ###### Article R26
 
@@ -20928,7 +23334,7 @@ _Cite_:
   - Code électoral - art. R30 (V)
 
 
-#### Chapitre V bis : Financement et plafonnement des dépenses électorales<a id=146></a>
+#### Chapitre V bis : Financement et plafonnement des dépenses électorales<a id=157></a>
 
 ###### Article R39-1
 
@@ -21058,9 +23464,9 @@ _Cite_:
   - Code électoral - art. L52-15 (VT)
 
 
-#### Chapitre VI : Vote<a id=147></a>
+#### Chapitre VI : Vote<a id=158></a>
 
-##### Section 1 : Opérations préparatoires au scrutin<a id=148></a>
+##### Section 1 : Opérations préparatoires au scrutin<a id=159></a>
 
 ###### Article R40
 
@@ -21278,7 +23684,7 @@ _Modifié par_:
   - Décret n°2006-1244 du 11 octobre 2006 - art. 9 () JORF 13 octobre 2006
 
 
-##### Section 2 : Opérations de vote<a id=149></a>
+##### Section 2 : Opérations de vote<a id=160></a>
 
 ###### Article D56-1
 
@@ -22617,7 +25023,7 @@ _Cite_:
   - Code électoral - art. L68 (VT)
 
 
-##### Section 3 : Vote par procuration<a id=150></a>
+##### Section 3 : Vote par procuration<a id=161></a>
 
 ###### Article R72
 
@@ -23068,7 +25474,7 @@ _Modifié par_:
   - Décret n°2006-1244 du 11 octobre 2006 - art. 8 () JORF 13 octobre 2006
 
 
-##### Section 5  : Commissions de contrôle des opérations de vote<a id=151></a>
+##### Section 5  : Commissions de contrôle des opérations de vote<a id=162></a>
 
 ###### Article R93-1
 
@@ -23164,7 +25570,7 @@ _Cite_:
   - Code électoral - art. L85-1 (V)
 
 
-#### Chapitre VII : Dispositions pénales<a id=152></a>
+#### Chapitre VII : Dispositions pénales<a id=163></a>
 
 ###### Article R94
 
@@ -23290,7 +25696,7 @@ _Cite_:
   - Code électoral - art. L61 (V)
 
 
-#### Chapitre VIII : Contentieux<a id=153></a>
+#### Chapitre VIII : Contentieux<a id=164></a>
 
 ###### Article R97
 
@@ -23313,9 +25719,9 @@ _Cité par_:
   - Décret n°2018-457 du 6 juin 2018 - art. 13 (V)
 
 
-### Titre II : Dispositions spéciales à l'élection des députés<a id=154></a>
+### Titre II : Dispositions spéciales à l'élection des députés<a id=165></a>
 
-#### Chapitre V : Déclarations de candidatures<a id=155></a>
+#### Chapitre V : Déclarations de candidatures<a id=166></a>
 
 ###### Article R98
 
@@ -23452,7 +25858,7 @@ _Cité par_:
   - Code électoral - art. R173-5 (V)
 
 
-#### Chapitre VI : Propagande<a id=156></a>
+#### Chapitre VI : Propagande<a id=167></a>
 
 ###### Article R103
 
@@ -23485,7 +25891,7 @@ _Cite_:
   - Code électoral - art. LO176-1 (V)
 
 
-#### Chapitre VIII : Opérations de vote<a id=157></a>
+#### Chapitre VIII : Opérations de vote<a id=168></a>
 
 ###### Article R104
 
@@ -23625,9 +26031,9 @@ _Modifié par_:
   - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
 
 
-### Titre III : Dispositions spéciales à l'élection des conseillers généraux<a id=158></a>
+### Titre III : Dispositions spéciales à l'élection des conseillers généraux<a id=169></a>
 
-#### Chapitre IV bis : Déclarations de candidatures<a id=159></a>
+#### Chapitre IV bis : Déclarations de candidatures<a id=170></a>
 
 ###### Article R109-1
 
@@ -23710,7 +26116,7 @@ _Modifié par_:
   - Décret n°2006-1244 du 11 octobre 2006 - art. 3 () JORF 13 octobre 2006
 
 
-#### Chapitre VII : Opérations de vote<a id=160></a>
+#### Chapitre VII : Opérations de vote<a id=171></a>
 
 ###### Article R112
 
@@ -23735,7 +26141,7 @@ _Modifié par_:
   - TXT_ASSOCIE: Code électoral - art. L221 (V)
 
 
-#### Chapitre IX : Contentieux<a id=161></a>
+#### Chapitre IX : Contentieux<a id=172></a>
 
 ###### Article R113
 
@@ -23922,11 +26328,11 @@ _Cite_:
   - Code électoral - art. L118-3 (M)
 
 
-### Titre IV  : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris<a id=162></a>
+### Titre IV  : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris<a id=173></a>
 
-#### Chapitre Ier : Dispositions applicables à toutes les communes<a id=163></a>
+#### Chapitre Ier : Dispositions applicables à toutes les communes<a id=174></a>
 
-##### Section 1 bis : Dispositions spéciales à l'exercice par les ressortissants d'un Etat membre de l'Union européenne autre que la France du droit de vote pour l'élection des conseillers municipaux et des membres du Conseil de Paris<a id=164></a>
+##### Section 1 bis : Dispositions spéciales à l'exercice par les ressortissants d'un Etat membre de l'Union européenne autre que la France du droit de vote pour l'élection des conseillers municipaux et des membres du Conseil de Paris<a id=175></a>
 
 ###### Article R117-2
 
@@ -23987,7 +26393,7 @@ _Cité par_:
   - Code électoral - art. R265 (VD)
 
 
-##### Section 6 : Opérations de vote<a id=165></a>
+##### Section 6 : Opérations de vote<a id=176></a>
 
 ###### Article R118
 
@@ -24015,7 +26421,7 @@ _Modifié par_:
   - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
 
 
-##### Section 7 : Contentieux<a id=166></a>
+##### Section 7 : Contentieux<a id=177></a>
 
 ###### Article R119
 
@@ -24212,9 +26618,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2113-11 (V)
 
 
-#### Chapitre II : Dispositions spéciales aux communes de moins de 3 500 habitants<a id=167></a>
+#### Chapitre II : Dispositions spéciales aux communes de moins de 3 500 habitants<a id=178></a>
 
-##### Section 1 : Mode de scrutin<a id=168></a>
+##### Section 1 : Mode de scrutin<a id=179></a>
 
 ###### Article R124
 
@@ -24253,7 +26659,7 @@ _Cité par_:
   - Code électoral - art. R268 (V)
 
 
-##### Section 2 : Propagande<a id=169></a>
+##### Section 2 : Propagande<a id=180></a>
 
 ###### Article R125
 
@@ -24309,9 +26715,9 @@ _Cité par_:
   - Code électoral - art. R265 (VD)
 
 
-#### Chapitre III : Dispositions spéciales aux communes de 3 500 habitants et plus<a id=170></a>
+#### Chapitre III : Dispositions spéciales aux communes de 3 500 habitants et plus<a id=181></a>
 
-##### Section 1 : Mode de scrutin<a id=171></a>
+##### Section 1 : Mode de scrutin<a id=182></a>
 
 ###### Article R127-1
 
@@ -24351,7 +26757,7 @@ _Cité par_:
   - Code électoral - art. R269 (V)
 
 
-##### Section 2 : Déclarations de candidature<a id=172></a>
+##### Section 2 : Déclarations de candidature<a id=183></a>
 
 ###### Article R127-2
 
@@ -24491,9 +26897,9 @@ _Cite_:
   - Code électoral - art. R128 (M)
 
 
-#### Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille<a id=173></a>
+#### Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille<a id=184></a>
 
-##### Section 2 : Opérations préparatoires au scrutin<a id=174></a>
+##### Section 2 : Opérations préparatoires au scrutin<a id=185></a>
 
 ###### Article R129
 
@@ -24526,9 +26932,9 @@ _Modifié par_:
   - Décret n°2006-1244 du 11 octobre 2006 - art. 12 () JORF 13 octobre 2006
 
 
-## Livre II  : Election des sénateurs des départements<a id=175></a>
+## Livre II  : Election des sénateurs des départements<a id=186></a>
 
-### Titre II : Composition du collège électoral<a id=176></a>
+### Titre II : Composition du collège électoral<a id=187></a>
 
 ###### Article R130-1
 
@@ -24569,7 +26975,7 @@ _Cité par_:
   - Code électoral - art. R271 (V)
 
 
-### Titre III : Désignation des délégués des conseils municipaux<a id=177></a>
+### Titre III : Désignation des délégués des conseils municipaux<a id=188></a>
 
 ###### Article R131
 
@@ -24958,7 +27364,7 @@ _Modifié par_:
   - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
 
 
-### Titre III bis : Désignation des délégués à l'Assemblée de Corse<a id=178></a>
+### Titre III bis : Désignation des délégués à l'Assemblée de Corse<a id=189></a>
 
 ###### Article R148-1
 
@@ -24999,9 +27405,9 @@ _Modifié par_:
   - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
 
 
-### Titre IV : Election des sénateurs<a id=179></a>
+### Titre IV : Election des sénateurs<a id=190></a>
 
-#### Chapitre IV : Déclarations de candidatures<a id=180></a>
+#### Chapitre IV : Déclarations de candidatures<a id=191></a>
 
 ###### Article R149
 
@@ -25137,7 +27543,7 @@ _Cité par_:
   - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
 
 
-#### Chapitre V : Propagande<a id=181></a>
+#### Chapitre V : Propagande<a id=192></a>
 
 ###### Article R154
 
@@ -25406,7 +27812,7 @@ _Cité par_:
   - Code électoral - art. R160 (V)
 
 
-#### Chapitre VI : Opérations préparatoires au scrutin<a id=182></a>
+#### Chapitre VI : Opérations préparatoires au scrutin<a id=193></a>
 
 ###### Article R162
 
@@ -25442,7 +27848,7 @@ _Cité par_:
   - Code électoral - art. R278 (V)
 
 
-#### Chapitre VII : Opérations de vote<a id=183></a>
+#### Chapitre VII : Opérations de vote<a id=194></a>
 
 ###### Article R163
 
@@ -25807,11 +28213,11 @@ _Cité par_:
   - TXT_ASSOCIE: Code électoral - art. L317 (V)
 
 
-## Livre III : Dispositions particulières à Saint-Pierre-et-Miquelon et à Mayotte<a id=184></a>
+## Livre III : Dispositions particulières à Saint-Pierre-et-Miquelon et à Mayotte<a id=195></a>
 
-### Titre Ier : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=185></a>
+### Titre Ier : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=196></a>
 
-#### Chapitre Ier : Dispositions générales<a id=186></a>
+#### Chapitre Ier : Dispositions générales<a id=197></a>
 
 ###### Article R172
 
@@ -25929,7 +28335,7 @@ _Abrogé par_:
   - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
 
 
-#### Chapitre II : Dispositions particulières à l'élection du député de Saint-Pierre-et-Miquelon<a id=187></a>
+#### Chapitre II : Dispositions particulières à l'élection du député de Saint-Pierre-et-Miquelon<a id=198></a>
 
 ###### Article R173
 
@@ -25968,7 +28374,7 @@ _Cite_:
   - Code électoral - art. R*98 (M)
 
 
-#### Chapitre III : Dispositions particulières à l'élection des conseillers généraux de Saint-Pierre-et-Miquelon<a id=188></a>
+#### Chapitre III : Dispositions particulières à l'élection des conseillers généraux de Saint-Pierre-et-Miquelon<a id=199></a>
 
 ###### Article R174
 
@@ -26035,7 +28441,7 @@ _Cite_:
   - Code électoral - art. R109-2 (M)
 
 
-#### Chapitre V : Dispositions particulières à l'élection du sénateur de Saint-Pierre-et-Miquelon<a id=189></a>
+#### Chapitre V : Dispositions particulières à l'élection du sénateur de Saint-Pierre-et-Miquelon<a id=200></a>
 
 ###### Article R175
 
@@ -26057,9 +28463,9 @@ _Abrogé par_:
   - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
 
 
-### Titre II : Dispositions particulières à Mayotte<a id=190></a>
+### Titre II : Dispositions particulières à Mayotte<a id=201></a>
 
-#### Chapitre Ier : Dispositions générales<a id=191></a>
+#### Chapitre Ier : Dispositions générales<a id=202></a>
 
 ###### Article R176
 
@@ -26372,7 +28778,7 @@ _Cite_:
   - Code électoral - art. R60 (M)
 
 
-#### Chapitre II : Dispositions applicables à l'élection du député de Mayotte<a id=192></a>
+#### Chapitre II : Dispositions applicables à l'élection du député de Mayotte<a id=203></a>
 
 ###### Article R177
 
@@ -26429,7 +28835,7 @@ _Cite_:
   - Code électoral - art. R*107 (M)
 
 
-#### Chapitre III : Dispositions applicables à l'élection des conseillers généraux de Mayotte<a id=193></a>
+#### Chapitre III : Dispositions applicables à l'élection des conseillers généraux de Mayotte<a id=204></a>
 
 ###### Article R178
 
@@ -26451,7 +28857,7 @@ _Abrogé par_:
   - Décret n°2007-989 du 15 mai 2007 - art. 2 (V) JORF 16 mai 2007
 
 
-#### Chapitre V : Dispositions applicables à l'élection des sénateurs de Mayotte<a id=194></a>
+#### Chapitre V : Dispositions applicables à l'élection des sénateurs de Mayotte<a id=205></a>
 
 ###### Article R179
 
@@ -26506,7 +28912,7 @@ _Cite_:
   - Code électoral - art. R*163 (M)
 
 
-## Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse<a id=195></a>
+## Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse<a id=206></a>
 
 ###### Article R182
 
@@ -26528,9 +28934,9 @@ _Modifié par_:
   - Décret n°91-653 du 15 juillet 1991 - art. 1 () JORF 16 juillet 1991
 
 
-### Titre Ier : Election des conseillers régionaux<a id=196></a>
+### Titre Ier : Election des conseillers régionaux<a id=207></a>
 
-#### Chapitre V : Déclarations de candidatures<a id=197></a>
+#### Chapitre V : Déclarations de candidatures<a id=208></a>
 
 ###### Article R183
 
@@ -26595,7 +29001,7 @@ _Cité par_:
   - Code électoral - art. R187 (Ab)
 
 
-#### Chapitre VI : Propagande<a id=198></a>
+#### Chapitre VI : Propagande<a id=209></a>
 
 ###### Article R185
 
@@ -26651,7 +29057,7 @@ _Cité par_:
   - Code électoral - art. R187 (Ab)
 
 
-#### Chapitre VIII : Opérations de vote<a id=199></a>
+#### Chapitre VIII : Opérations de vote<a id=210></a>
 
 ###### Article R188
 
@@ -26749,7 +29155,7 @@ _Créé par_:
   - Décret n°99-232 du 24 mars 1999 - art. 3 ()
 
 
-#### Chapitre X : Contentieux<a id=200></a>
+#### Chapitre X : Contentieux<a id=211></a>
 
 ###### Article R190
 
@@ -26780,9 +29186,9 @@ _Cité par_:
   - Code électoral - art. R358 (V)
 
 
-### Titre  II : Election des conseillers à l'Assemblée de Corse<a id=201></a>
+### Titre  II : Election des conseillers à l'Assemblée de Corse<a id=212></a>
 
-#### Chapitre V : Déclarations de candidature<a id=202></a>
+#### Chapitre V : Déclarations de candidature<a id=213></a>
 
 ###### Article R191
 
@@ -26845,7 +29251,7 @@ _Cité par_:
   - Code électoral - art. R197 (Ab)
 
 
-#### Chapitre VI : Propagande<a id=203></a>
+#### Chapitre VI : Propagande<a id=214></a>
 
 ###### Article R193
 
@@ -26965,7 +29371,7 @@ _Cité par_:
   - Code électoral - art. R197 (Ab)
 
 
-#### Chapitre VII : Opérations de vote<a id=204></a>
+#### Chapitre VII : Opérations de vote<a id=215></a>
 
 ###### Article R198
 
@@ -27020,7 +29426,7 @@ _Cite_:
   - Code électoral - art. R107 (VT)
 
 
-#### Chapitre X : Contentieux<a id=205></a>
+#### Chapitre X : Contentieux<a id=216></a>
 
 ###### Article R200
 
@@ -27045,11 +29451,11 @@ _Cite_:
   - Code électoral - art. R190 (V)
 
 
-## Livre V : Dispositions applicables à la Nouvelle-Calédonie, à la Polynésie française et aux îles  Wallis et Futuna<a id=206></a>
+## Livre V : Dispositions applicables à la Nouvelle-Calédonie, à la Polynésie française et aux îles  Wallis et Futuna<a id=217></a>
 
-### Titre Ier : Dispositions générales<a id=207></a>
+### Titre Ier : Dispositions générales<a id=218></a>
 
-#### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna<a id=208></a>
+#### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna<a id=219></a>
 
 ###### Article R201
 
@@ -27478,7 +29884,7 @@ _Cite_:
   - Code électoral - art. L118-3 (V)
 
 
-#### Chapitre II : Dispositions propres à la Nouvelle-Calédonie<a id=209></a>
+#### Chapitre II : Dispositions propres à la Nouvelle-Calédonie<a id=220></a>
 
 ###### Article R213
 
@@ -27592,7 +29998,7 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-#### Chapitre III : Dispositions propres aux îles Wallis et Futuna<a id=210></a>
+#### Chapitre III : Dispositions propres aux îles Wallis et Futuna<a id=221></a>
 
 ###### Article R213-1
 
@@ -27616,9 +30022,9 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-### Titre II : Election des députés<a id=211></a>
+### Titre II : Election des députés<a id=222></a>
 
-#### Chapitre Ier : Dispositions générales<a id=212></a>
+#### Chapitre Ier : Dispositions générales<a id=223></a>
 
 ###### Article R214
 
@@ -27644,7 +30050,7 @@ _Modifié par_:
   - Décret n°2007-99 du 25 janvier 2007 - art. 2 () JORF 26 janvier 2007
 
 
-#### Chapitre II : Régime des inéligibilités<a id=213></a>
+#### Chapitre II : Régime des inéligibilités<a id=224></a>
 
 ###### Article R**215
 
@@ -27726,7 +30132,7 @@ _Cité par_:
   - Code électoral - art. R**273 (V)
 
 
-#### Chapitre III : Candidatures<a id=214></a>
+#### Chapitre III : Candidatures<a id=225></a>
 
 ###### Article R216
 
@@ -27756,7 +30162,7 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-#### Chapitre IV : Recensement des votes<a id=215></a>
+#### Chapitre IV : Recensement des votes<a id=226></a>
 
 ###### Article R217
 
@@ -27794,11 +30200,11 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-### Titre III : Dispositions applicables à l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie<a id=216></a>
+### Titre III : Dispositions applicables à l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie<a id=227></a>
 
-#### Chapitre Ier : Liste électorale spéciale<a id=217></a>
+#### Chapitre Ier : Liste électorale spéciale<a id=228></a>
 
-##### Section 1 : Etablissement de la liste électorale spéciale<a id=218></a>
+##### Section 1 : Etablissement de la liste électorale spéciale<a id=229></a>
 
 ###### Article R219
 
@@ -28099,7 +30505,7 @@ _Modifié par_:
   - Décret n°2004-191 du 27 février 2004 - art. 2 () JORF 28 février 2004
 
 
-##### Section 2 : Inscription en dehors des périodes de révision<a id=219></a>
+##### Section 2 : Inscription en dehors des périodes de révision<a id=230></a>
 
 ###### Article R229
 
@@ -28161,7 +30567,7 @@ _Cite_:
   - Code électoral - art. R229 (V)
 
 
-##### Section 3 : Carte électorale spéciale<a id=220></a>
+##### Section 3 : Carte électorale spéciale<a id=231></a>
 
 ###### Article R231
 
@@ -28195,7 +30601,7 @@ _Cité par_:
   - Arrêté du 9 février 2004 - art. 1 (V)
 
 
-#### Chapitre II : Candidatures et bulletins de vote<a id=221></a>
+#### Chapitre II : Candidatures et bulletins de vote<a id=232></a>
 
 ###### Article R232
 
@@ -28328,7 +30734,7 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-#### Chapitre III : Propagande<a id=222></a>
+#### Chapitre III : Propagande<a id=233></a>
 
 ###### Article R237
 
@@ -28375,7 +30781,7 @@ _Cité par_:
   - Code électoral - art. R235 (V)
 
 
-#### Chapitre IV : Opérations de vote et recensement<a id=223></a>
+#### Chapitre IV : Opérations de vote et recensement<a id=234></a>
 
 ###### Article R238
 
@@ -28490,9 +30896,9 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-### Titre IV : Dispositions applicables à l'élection des représentants à l'assemblée de la Polynésie française<a id=224></a>
+### Titre IV : Dispositions applicables à l'élection des représentants à l'assemblée de la Polynésie française<a id=235></a>
 
-#### Chapitre Ier : Candidatures et bulletins de vote<a id=225></a>
+#### Chapitre Ier : Candidatures et bulletins de vote<a id=236></a>
 
 ###### Article R242
 
@@ -28617,7 +31023,7 @@ _Modifié par_:
   - Décret n°2004-327 2004-04-14 art. 1 2° JORF 16 avril 2004
 
 
-#### Chapitre II : Propagande<a id=226></a>
+#### Chapitre II : Propagande<a id=237></a>
 
 ###### Article R247
 
@@ -28708,7 +31114,7 @@ _Cite_:
   - Code électoral - art. L414 (V)
 
 
-#### Chapitre III : Opérations de vote et recensement<a id=227></a>
+#### Chapitre III : Opérations de vote et recensement<a id=238></a>
 
 ###### Article R250
 
@@ -28824,9 +31230,9 @@ _Modifié par_:
   - Décret n°2004-327 2004-04-14 art. 1 3° JORF 16 avril 2004
 
 
-### Titre V : Dispositions applicables à l'élection des membres de l'assemblée territoriale des îles  Wallis et Futuna<a id=228></a>
+### Titre V : Dispositions applicables à l'élection des membres de l'assemblée territoriale des îles  Wallis et Futuna<a id=239></a>
 
-#### Chapitre Ier : Candidatures et bulletins de vote<a id=229></a>
+#### Chapitre Ier : Candidatures et bulletins de vote<a id=240></a>
 
 ###### Article R254
 
@@ -28943,7 +31349,7 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-#### Chapitre II : Propagande<a id=230></a>
+#### Chapitre II : Propagande<a id=241></a>
 
 ###### Article R259
 
@@ -28988,7 +31394,7 @@ _Cite_:
   - Code électoral - art. R209 (V)
 
 
-#### Chapitre III : Opérations de vote et recensement<a id=231></a>
+#### Chapitre III : Opérations de vote et recensement<a id=242></a>
 
 ###### Article R261
 
@@ -29097,9 +31503,9 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-### Titre VI : Dispositions applicables à l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française<a id=232></a>
+### Titre VI : Dispositions applicables à l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française<a id=243></a>
 
-#### Chapitre Ier : Dispositions communes<a id=233></a>
+#### Chapitre Ier : Dispositions communes<a id=244></a>
 
 ###### Article R265
 
@@ -29128,7 +31534,7 @@ _Modifié par_:
   - Décret n°2007-99 du 25 janvier 2007 - art. 2 () JORF 26 janvier 2007
 
 
-#### Chapitre II : Dispositions particulières à la Nouvelle-Calédonie<a id=234></a>
+#### Chapitre II : Dispositions particulières à la Nouvelle-Calédonie<a id=245></a>
 
 ###### Article R266
 
@@ -29171,7 +31577,7 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-#### Chapitre III : Dispositions particulières à la Polynésie française<a id=235></a>
+#### Chapitre III : Dispositions particulières à la Polynésie française<a id=246></a>
 
 ###### Article R268
 
@@ -29214,9 +31620,9 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-### Titre VII : Dispositions applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et  Futuna<a id=236></a>
+### Titre VII : Dispositions applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et  Futuna<a id=247></a>
 
-#### Chapitre Ier : Dispositions générales<a id=237></a>
+#### Chapitre Ier : Dispositions générales<a id=248></a>
 
 ###### Article R271
 
@@ -29286,7 +31692,7 @@ _Cité par_:
   - Arrêté du 26 septembre 2014 (V)
 
 
-#### Chapitre II : Régime des inéligibilités<a id=238></a>
+#### Chapitre II : Régime des inéligibilités<a id=249></a>
 
 ###### Article R**273
 
@@ -29308,7 +31714,7 @@ _Cite_:
   - Code électoral - art. R**215 (V)
 
 
-#### Chapitre III : Election des délégués des conseils municipaux en Nouvelle-Calédonie et en Polynésie française<a id=239></a>
+#### Chapitre III : Election des délégués des conseils municipaux en Nouvelle-Calédonie et en Polynésie française<a id=250></a>
 
 ###### Article R274
 
@@ -29384,7 +31790,7 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-#### Chapitre IV : Propagande<a id=240></a>
+#### Chapitre IV : Propagande<a id=251></a>
 
 ###### Article R277
 
@@ -29413,7 +31819,7 @@ _Cite_:
   - Code électoral - art. R157 (V)
 
 
-#### Chapitre V : Opérations préparatoires au scrutin<a id=241></a>
+#### Chapitre V : Opérations préparatoires au scrutin<a id=252></a>
 
 ###### Article R278
 
@@ -29439,7 +31845,7 @@ _Cité par_:
   - Code électoral - art. R283 (V)
 
 
-#### Chapitre VI : Opérations de vote<a id=242></a>
+#### Chapitre VI : Opérations de vote<a id=253></a>
 
 ###### Article R279
 
@@ -29568,9 +31974,9 @@ _Cite_:
   - Code électoral - art. R278 (V)
 
 
-# Annexes<a id=243></a>
+# Annexes<a id=254></a>
 
-## Tableau des circonscriptions électorales des départements (élection des députés)<a id=244></a>
+## Tableau des circonscriptions électorales des départements (élection des députés)<a id=255></a>
 
 ###### Article Annexe tableau n° 1
 
@@ -31526,781 +33932,658 @@ _Cite_:
   - Loi n°86-97 1986-11-24 art. 3
 
 
-## Tableau des circonscriptions électorales des départements (élection des députés) (1).<a id=245></a>
+## Tableau des circonscriptions électorales des départements (élection des députés) (1).<a id=256></a>
 
 ###### Article Annexe tableau n° 1 (suite)
 
-DEPARTEMENT : SEINE-ET-MARNE
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ Seine-et-Marne                                                                                                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1re cir-  │ Cantons de : Melun Sud, Perthes, Savigny-le-Temple (par décret n° 91-219 du 27 février 1991 art. 2, le canton ┃
+┃ conscrip- │ de Savigny-le-Temple a été divisé en deux cantons : Le Mée-sur-Seine et Savigny-le-Temple).                   ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 2e cir-   │ Cantons de : La Chapelle-la-Reine, Château-Landon, Fontainebleau, Lorrez-le-Bocage-Préaux, Nemours.           ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 3e cir-   │ Le Châtelet-en-Brie, Melun Nord, Montereau-Faut-Yonne, Moret-sur-Loing.                                       ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 4e cir-   │ Cantons de : Bray-sur-Seine, Donnemarie-Dontilly, La Ferté-Gaucher, Nangis, Provins, Rebais, Rozay-en-Brie,   ┃
+┃ conscrip- │ Villiers-Saint-Georges.                                                                                       ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 5e cir-   │ Cantons de : Coulommiers, Crécy-la-Chapelle (le canton de Crécy-la-Chapelle a été remodelé par décret n°      ┃
+┃ conscrip- │ 93-260 du 26 février 1993. En conséquence, les communes de Bailly-Romainvilliers, Magny-le-Hongre et Serris   ┃
+┃ tion      │ en ont été détachées pour faire partie du canton créé de Thorigny-sur-Marne. Ces communes continuent néan-    ┃
+┃           │ moins à être incluses dans la 5e circonscription), La Ferté-sous-Jouarre, Meaux Sud.                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 6e cir-   │ Cantons de : Dammartin-en-Goële, Lizy-sur-Ourcq, Meaux Nord, Mitry-Mory.                                      ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 7e cir-   │ Cantons de : Chelles, Claye-Souilly, Lagny-sur-Marne pour les communes de Gouvernes, Lagny-sur-Marne, Pom-    ┃
+┃ conscrip- │ ponne, Saint-Thibault-des-Vignes (aux termes du décret n° 93-260 du 26 février 1993, les communes ici énumé-  ┃
+┃ tion      │ rées forment désormais l'intégralité du canton de Lagny-sur-Marne), Vaires-sur-Marne.                         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 8e cir-   │ Cantons de : Champs-sur-Marne, Lagny-sur-Marne (pour les communes de Carnetin, Chalifert, Chanteloup, Chessy, ┃
+┃ conscrip- │ Conches, Coupvray, Dampmart, Guermantes, Jossigny, Lesches, Montévrain, Thorigny-sur-Marne) (les communes     ┃
+┃ tion      │ énumérées ici constituent le canton de Thorigny-sur-Marne, créé par le décret n° 93-260 du 26 février 1993    ┃
+┃           │ art. 1er, avec trois communes supplémentaires détachées du canton de Crécy-la-Chapelle (cf. ci-dessus note    ┃
+┃           │ 2). La 8e circonscription comprend donc désormais les cantons de Champs-sur-Marne, Noisiel, Roissy-en-Brie    ┃
+┃           │ dont la dénomination a été modifiée par décret du 21 juin 1988), Thorigny-sur-Marne (moins les communes de    ┃
+┃           │ Bailly-Romainvilliers, Magny-le-Hongre et Serris) et Torcy), Noisiel, Roissy, Torcy.                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 9e cir-   │ Cantons de : Brie-Comte-Robert (par décret n° 91-219 du 27 février 1991 art. 1er, le canton de Brie-Comte-Ro- ┃
+┃ conscrip- │ bert a été divisé en deux cantons : Brie-Comte-Robert et Combs-la-Ville), Mormant, Pontault-Combault, Tour-   ┃
+┃ tion      │ nan-en-Brie.                                                                                                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Yvelines                                                                                                                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1re cir-  │ Cantons de : Versailles Nord, Versailles Nord-Ouest, Versailles Ouest (par décret n° 91-222 du 27 février     ┃
+┃ conscrip- │ 1991 art. 1er et 2, les cantons de Versailles Nord-Ouest et de Versailles Ouest ont été remplacés par les     ┃
+┃ tion      │ cantons de Montigny-le-Bretonneux et Versailles Nord-Ouest), Viroflay.                                        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 2e cir-   │ Cantons de : Chevreuse, Vélizy-Villacoublay, Versailles Sud.                                                  ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 3e cir-   │ Cantons de : La Celle-Saint-Cloud, Le Chesnay, Saint-Nom-la-Bretèche.                                         ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 4e cir-   │ Cantons de : Chatou, Houilles, Marly-le-Roi.                                                                  ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 5e cir-   │ Cantons de Maisons-Laffitte, Sartrouville, Le Vésinet.                                                        ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 6e cir-   │ Cantons de : Le Pecq, Saint-Germain-en-Laye Nord, Saint-Germain-en-Laye Sud.                                  ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 7e cir-   │ Cantons de: Andrésy, Conflans-Sainte-Honorine, Meulan (moins les communes des Mureaux et de Chapet), Triel-   ┃
+┃ conscrip- │ sur-Seine.                                                                                                    ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 8e cir-   │ Cantons de: Limay, Mantes-la-Jolie, Mantes-la-Ville.                                                          ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 9e cir-   │ Cantons de: Aubergenville, Bonnières-sur-Seine, Guerville, Houdan. Communes de : Les Mureaux, Chapet.         ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 10e cir-  │ Cantons de : Monfort-l'Amaury, Rambouillet, Saint-Arnoult-en-Yvelines, Maurepas (moins les communes d'Elan-   ┃
+┃ conscrip- │ court et de La Verrière).                                                                                     ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 11e cir-  │ Cantons de : Saint-Cyr-l'Ecole, Trappes. Communes de : Elancourt, La Verrière.                                ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 12e cir-  │ Cantons de : Plaisir, Poissy Nord, Poissy Sud.                                                                ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Deux-Sèvres                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1re cir-  │ Cantons de : Niort Est, Niort Nord, Niort Ouest, Prahecq.                                                     ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 2e cir-   │ Cantons de : Beauvoir-sur-Niort, Brioux-sur-Boutonne, Celles-sur-Belle, Chef-Boutonne, Frontenay-Rohan-Rohan, ┃
+┃ conscrip- │ Lezay, Mauzé-sur-le-Mignon, Melle, La Mothe-Saint-Héray, Saint-Maixent-l'Ecole I, Saint-Maixent-l'Ecole II,   ┃
+┃ tion      │ Sauzé-Vaussais.                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 3e cir-   │ Cantons de: Airvault, Champdeniers-Saint-Denis, Coulonges-sur-l'Autize, Mazières-en-Gâtine, Ménigoute, Mon-   ┃
+┃ conscrip- │ coutant, Parthenay, Saint-Loup-Lamairé, Secondigny, Thénezay.                                                 ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 4e cir-   │ Cantons de : Argenton-Château, Bressuire, Cerizay, Mauléon, Saint-Varent, Thouars I, Thouars II.              ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Somme                                                                                                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1re cir-  │ Cantons de : Amiens I Ouest, Amiens II Nord-Ouest, Amiens IV Est, Amiens VIII Nord, Picquigny.                ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 2e cir-   │ Cantons de : Amiens III Nord-Est, Amiens V Sud-Est, Amiens VI Sud, Amiens VII Sud-Ouest, Boves.               ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 3e cir-   │ Cantons de : Ault, Friville-Escarbotin, Gamaches, Hallencourt, Hornoy-le-Bourg, Molliens-Dreuil, Moyenne-     ┃
+┃ conscrip- │ ville, Oisemont, Saint-Valery-sur-Somme.                                                                      ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 4e cir-   │ Cantons de: Abbeville Nord, Abbeville Sud, Ailly-le-Haut-Clocher, Bernaville, Crécy-en-Ponthieu, Domart-en-   ┃
+┃ conscrip- │ Ponthieu, Doullens, Nouvion, Rue.                                                                             ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 5e cir-   │ Cantons de : Acheux-en-Amiénois, Albert, Bray-sur-Somme, Chaulnes, Combles, Ham, Nesle, Péronne, Roisel.      ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 6e cir-   │ Cantons de : Ailly-sur-Noye, Conty, Corbie, Montdidier, Moreuil, Poix-de-Picardie, Rosières-en-Santerre,      ┃
+┃ conscrip- │ Roye, Villers-Bocage.                                                                                         ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Tarn                                                                                                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1re cir-  │ Cantons de : Albi Nord-Est, Albi Nord-Ouest, Carmaux Nord, Carmaux Sud, Cordes (le canton de Cordes est de-   ┃
+┃ conscrip- │ venu le canton de Cordes-sur-Ciel par suite du changement de nom de sa commune chef-lieu par décret du 26     ┃
+┃ tion      │ mars 1993), Monestiés, Pampelonne, Valderiès, Valence-d'Albigeois, Vaour, Villefranche-d'Albigeois.           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 2e cir-   │ Cantons de : Albi Centre, Albi Sud (par décret du 21 février 1997 art. 1er, les cantons d'Albi Centre et      ┃
+┃ conscrip- │ d'Albi Sud ont été remodélés en quatre cantons : Albi Centre, Albi Est, Albi Ouest et Albi Sud), Cadalen,     ┃
+┃ tion      │ Castelnau-de-Montmiral, Gaillac, Graulhet, Lisle-sur-Tarn, Rabastens, Salvagnac.                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 3e cir-   │ Cantons de : Alban, Brassac, Castres Est, Castres Nord, Castres Sud (par décret du 21 février 1997 art. 2,    ┃
+┃ conscrip- │ les cantons de Castres Nord et de Castres Sud ont été remodelés en trois cantons :                            ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 4e cir-   │ Cantons de : Anglès, Cuq-Toulza, Dourgne, Labruguière, Lautrec, Lavaur, Mazamet Nord-Est, Mazamet Sud-Ouest,  ┃
+┃ conscrip- │ Puylaurens, Saint-Amans-Soult, Saint-Paul-Cap-de-Joux, Vielmur-sur-Agout.                                     ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Tarn-et-Garonne                                                                                                           ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1re cir-  │ Cantons de : Caussade, Caylus, Lafrançaise, Molières, Monclar-de-Quercy, Montauban I, Montauban II, Montauban ┃
+┃ conscrip- │ III, Montauban IV (par décret n° 91-220 du 27 février 1991 art. 1er, en remplacement des cantons de Montauban ┃
+┃ tion      │ I à IV, ont été créés six cantons dénommés Montauban I à VI), Montpezat-de-Quercy, Nègrepelisse, Saint-Anto-  ┃
+┃           │ nin-Noble-Val, Villebrumier.                                                                                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 2e cir-   │ Cantons de : Auvillar, Beaumont-de-Lomagne, Bourg-de-Visa, Castelsarrasin I, Castelsarrasin II, Grisolles,    ┃
+┃ conscrip- │ Lauzerte, Lavit, Moissac I, Moissac II, Montech, Montaigu-de-Quercy, Saint-Nicolas-de-la-Grave, Valence, Ver- ┃
+┃ tion      │ dun-sur-Garonne.                                                                                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Var                                                                                                                       ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1re cir-  │ Cantons de : Toulon I, Toulon V, Toulon VI, Toulon VIII.                                                      ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 2e cir-   │ Cantons de : Toulon II, Toulon III, Toulon IV, Toulon VII, Toulon IX.                                         ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 3e cir-   │ Cantons de : La Crau, Hyères (par décret n° 97-21 du 13 janvier 1997 art. 2, le canton de Hyères a été divisé ┃
+┃ conscrip- │ en deux cantons dénommés "Hyères Est" et "Hyères Ouest"), La Valette-du-Var (par décret n° 97-21 du 13 jan-   ┃
+┃ tion      │ vier 1997 art. 1er, le canton de La Vallette-du-Var a été divisé en deux cantons dénommés "La Garde" et "La   ┃
+┃           │ Vallette-du-Var").                                                                                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 4e cir-   │ Cantons de : Aups, Collobrières, Draguignan, Grimaud, Lorgues, Le Luc, Saint-Tropez.                          ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 5e cir-   │ Cantons de : Callas, Comps-sur-Artuby, Fayence, Fréjus, Le Muy, Saint-Raphaël.                                ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 6e cir-   │ Cantons de : Barjols, Le Beausset, Besse-sur-Issole, Brignoles, Cotignac, Cuers, Rians, La Roquebrussanne,    ┃
+┃ conscrip- │ Saint-Maximin-la-Sainte-Baume, Salernes, Solliès-Pont, Tavernes.                                              ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 7e cir-   │ Cantons de: Ollioules, Saint-Mandrier-sur-Mer, La Seyne sur-Mer, Six-Fours-les-Plages.                        ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Vaucluse                                                                                                                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1re cir-  │ Cantons de : Avignon Est, Avignon Nord, Avignon Ouest, Avignon Sud.                                           ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 2e cir-   │ Cantons de : Apt, Bonnieux, Cadenet, Cavaillon, Gordes, L'Isle-sur-la-Sorgue, Pertuis.                        ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 3e cir-   │ Cantons de : Bédarrides, Carpentras Nord, Carpentras Sud, Mormoiron, Pernes-les-Fontaines, Sault.             ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 4e cir-   │ Cantons de : Beaumes-de-Venise, Bollène, Malaucène, Orange Est, Orange Ouest, Vaison-la-Romaine, Valréas.     ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Vendée                                                                                                                    ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1re cir-  │ Cantons de : Challans, Les Essarts, Palluau, Le Poiré-sur-Vie, Rocheservière, La Roche-sur-Yon Nord.          ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 2e cir-   │ Cantons de : Chantonnay, Mareuil-sur-Lay-Dissais, La Mothe-Achard, Moutiers-les-Mauxfaits, La Roche-sur-Yon   ┃
+┃ conscrip- │ Sud, Talmont-Saint-Hilaire.                                                                                   ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 3e cir-   │ Cantons de : Beauvoir-sur-Mer, L'Ile-d'Yeu, Noirmoutier-en-l'Ile, Les Sables-d'Olonne, Saint-Gilles-Croix-de- ┃
+┃ conscrip- │ Vie, Saint-Jean-de-Monts.                                                                                     ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 4e cir-   │ Cantons de : Les Herbiers, Montaigu, Mortagne-sur-Sèvre, Pouzauges, Saint-Fulgent.                            ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 5e cir-   │ Cantons de : Chaillé-les-Marais, La Châtaigneraie, Fontenay-le-Comte, L'Hermenault, Luçon, Maillezais,        ┃
+┃ conscrip- │ Sainte-Hermine, Saint-Hilaire-des-Loges.                                                                      ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Vienne                                                                                                                    ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1re cir-  │ Cantons de : Mirebeau, Neuville-de-Poitou, Poitiers I, Poitiers II, Poitiers VII, Saint-Georges-lès-Baillar-  ┃
+┃ conscrip- │ geaux, Saint-Julien-l'Ars, Vouneuil-sur-Vienne.                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 2e cir-   │ Cantons de : Poitiers III, Poitiers IV, Poitiers V, Poitiers VI, La Villedieu-du-Clain, Vivonne, Vouillé.     ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 3e cir-   │ Cantons de : Availles-Limouzine, Charroux, Chauvigny, Civray, Couhé, Gençay, L'Isle-Jourdain, Lusignan, Lus-  ┃
+┃ conscrip- │ sac-les-Châteaux, Montmorillon, Saint-Savin, La Trimouille.                                                   ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 4e cir-   │ Cantons de : Châtellerault Nord, Châtellerault Ouest, Châtellerault Sud, Dangé-Saint-Romain, Lencloître, Lou- ┃
+┃ conscrip- │ dun, Moncontour, Monts-sur-Guesnes, Pleumartin (moins la commune de La Puye), Saint-Gervais-les-Trois-Clo-    ┃
+┃ tion      │ chers, Les Trois-Moutiers.                                                                                    ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Haute-Vienne                                                                                                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1re cir-  │ Cantons de : Limoges-Beaupuy, Limoges-Carnot, Limoges Centre, Limoges-Cité, Limoges-Condat, Limoges-Couzeix,  ┃
+┃ conscrip- │ Limoges-Emailleurs, Limoges-Puy-las-Rodas.                                                                    ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 2e cir-   │ Cantons de : Aixe-sur-Vienne, Châlus, Nexon, Oradour-sur-Vayres, Pierre-Buffière, Rochechouart, Saint-Ger-    ┃
+┃ conscrip- │ main-les-Belles, Saint-Junien Est, Saint-Junien Ouest, Saint-Laurent-sur-Gorre, Saint-Mathieu, Saint-Yrieix-  ┃
+┃ tion      │ la-Perche.                                                                                                    ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 3e cir-   │ Cantons de : Bellac, Bessines-sur-Gartempe, Châteauponsac, Le Dorat, Laurière, Limoges-Corgnac, Limoges-Isle, ┃
+┃ conscrip- │ Limoges-Landouge, Magnac-Laval, Mézières-sur-Issoire, Nantiat, Nieul, Saint-Sulpice-les-Feuilles.             ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 4e cir-   │ Cantons de : Ambazac, Châteauneuf-la-Forêt, Eymoutiers, Limoges-La-Bastide, Limoges-Grand-Treuil, Limoges-Le- ┃
+┃ conscrip- │ Palais, Limoges-Panazol, Limoges-Vigenal, Saint-Léonard-de-Noblat.                                            ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Vosges                                                                                                                    ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1re cir-  │ Cantons de : Châtel-sur-Moselle, Epinal Est, Epinal Ouest, RamberviIlers, Xertigny.                           ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 2e cir-   │ Cantons de : Brouvelieures, Bruyères, Corcieux, Fraize, Provenchères-sur-Fave, Raon-l'Etape, Saint-Dié Est,   ┃
+┃ conscrip- │ Saint-Dié Ouest, Senones.                                                                                     ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 3e cir-   │ Cantons de : Gérardmer, Plombières-les-Bains, Remiremont, Saulxures-sur-Moselotte, Le Thillot.                ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 4e cir-   │ Cantons de : Bains-les-Bains, Bulgnéville, Charmes, Châtenois, Coussey, Darney, Dompaire, Lamarche, Mire-     ┃
+┃ conscrip- │ court, Monthureux-sur-Saône, Neufchâteau, Vittel.                                                             ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Yonne                                                                                                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1re cir-  │ Cantons de : Aillant-sur-Tholon, Auxerre Est, Auxerre Nord-Ouest (par décret n° 91-221 du 27 février 1991     ┃
+┃ conscrip- │ art. 1er, le canton d'Auxerre Nord-Ouest a été divisé en deux cantons dénommés Auxerre Nord et Auxerre Nord-  ┃
+┃ tion      │ ouest), Auxerre Sud-Ouest (par décret n° 91-221 du 27 février 1991 art. 2, le canton d'Auxerre Sud-Ouest été  ┃
+┃           │ divisé en deux cantons dénommés Auxerre Sud et Auxerre Sud-Ouest), Bléneau, Chamy, Coulanges-la-Vineuse,      ┃
+┃           │ Courson-les-Carrières, Saint-Fargeau, Saint-Sauveur-en-Puisaye, Toucy. Communes de : Andryes, Etais-la-Sau-   ┃
+┃           │ vin.                                                                                                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 2e cir-   │ Cantons de : Ancy-le-Franc, Avallon, Chablis, Coulanges-sur-Yonne (moins les communes d'Andryes et d'Etais-   ┃
+┃ conscrip- │ la-Savin), Cruzy-le-Châtel, Flogny-la-Chapelle, Guillon, L'Isle-sur-Serein, Ligny-le-Châtel, Migennes,        ┃
+┃ tion      │ Noyers, Quarré-les-Tombes, Saint-Florentin, Seignelay, Tonnerre, Vermenton, Vézelay.                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 3e cir-   │ Cantons de : Brienon-sur-Armançon, Cerisiers, Chéroy, Joigny, Pont-sur-Yonne, Saint-Julien-du-Sault, Sens     ┃
+┃ conscrip- │ Nord-Est, Sens Ouest, Sens Sud-Est, Sergines, Villeneuve-l'Archevêque, Villeneuve-sur-Yonne.                  ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Territoire de Belfort                                                                                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1re cir-  │ Cantons : Beaucourt, Belfort Centre, Belfort Est, Danjoutin, Delle, Fontaine, Grandvillars.                   ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 2e cir-   │ Cantons : Belfort Nord, Belfort Ouest, Belfort Sud, Châtenois-les-Forges, Giromagny, Offemont, Rougemont-le-  ┃
+┃ conscrip- │ Château, Valdoie.                                                                                             ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Essonne                                                                                                                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1re cir-  │ Cantons de : Corbeil-Essonnes Est, Corbeil-Essonnes Ouest, Evry Nord, Evry Sud.                               ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 2e cir-   │ Cantons de : Etampes, La Ferté-Alais, Mennecy, Méréville, Milly-la-Forêt.                                     ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 3e cir-   │ Cantons de : Arpajon, Brétigny-sur-Orge, Dourdan, Etréchy, Saint-Chéron.                                      ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 4e cir-   │ Cantons de : Limours, Longjumeau, Montlhéry, Villebon-sur-Yvette.                                             ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 5e cir-   │ Cantons de : Bièvres, Gif-sur-Yvette, Orsay, Les Ulis.                                                        ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 6e cir-   │ Cantons de : Chilly-Mazarin, Massy Est, Massy Ouest, Palaiseau.                                               ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 7e cir-   │ Cantons de : Athis-Mons, Juvisy-sur-Orge, Savigny-sur-Orge, Viry-Châtillon.                                   ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 8e cir-   │ Cantons de : Brunoy, Montgeron, Vigneux-sur-Seine, Yerres.                                                    ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 9e cir-   │ Cantons de: Draveil, Epinay-sous-Sénart, Ris-Orangis, Saint-Germain-lès-Corbeil.                              ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 10e cir-  │ Cantons de: Grigny, Morsang-sur-Orge, Sainte-Geneviève-des-Bois, Saint-Michel-sur-Orge.                       ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Hauts-de-Seine                                                                                                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1re cir-  │ Cantons de : Colombes Nord-Est, Colombes Nord-Ouest, Gennevilliers Nord, Gennevilliers Sud, Villeneuve-la-Ga- ┃
+┃ conscrip- │ renne.                                                                                                        ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 2e cir-   │ Cantons de : Asnières-sur-Seine Nord, Asnières-sur-Seine Sud, Colombes Sud.                                   ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 3e cir-   │ Cantons de: Bois-Colombes, Courbevoie Nord, Courbevoie Sud, La Garenne-Colombes.                              ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 4e cir-   │ Cantons de : Nanterre Nord, Nanterre Sud-Est, Nanterre Sud-Ouest, Suresnes.                                   ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 5e cir-   │ Cantons de : Clichy, Levallois-Perret Nord, Levallois-Perret Sud.                                             ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 6e cir-   │ Cantons de : Neuilly-sur-Seine Nord, Neuilly-sur-Seine Sud, Puteaux.                                          ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 7e cir-   │ Cantons de : Garches, Rueil-Malmaison, Saint-Cloud.                                                           ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 8e cir-   │ Cantons de: Chaville, Meudon, Sèvres.                                                                         ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 9e cir-   │ Cantons de : Boulogne-Billancourt Nord-Est, Boulogne-Billancourt Nord-Ouest, Boulogne-Billancourt Sud (partie ┃
+┃ conscrip- │ située au nord d'une ligne définie par l'axe des voies ci-après : rue Yves-Kermen, avenue Pierre-Grenier,     ┃
+┃ tion      │ boulevard de la République jusqu'au pont d'Issy).                                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 10e cir-  │ Cantons de : Boulogne-Billancourt Sud (partie non comprise dans la 9 circonscription), Issy-les-Moulineaux    ┃
+┃ conscrip- │ Est, Issy-les-Moulineaux Ouest, Vanves.                                                                       ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 11e cir-  │ Cantons de : Bagneux, Malakoff, Montrouge.                                                                    ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 12e cir-  │ Cantons de : Châtillon, Clamart, Fontenay-aux-Roses, Le Plessis-Robinson.                                     ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 13e cir-  │ Cantons de : Antony, Bourg-la-Reine, Châtenay-Malabry, Sceaux.                                                ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Seine-Saint-Denis                                                                                                         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1re cir-  │ Cantons de : Epinay-sur-Seine, Saint-Denis Sud, Saint Ouen.                                                   ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 2e cir-   │ Cantons de : Pierrefitte-sur-Seine, Saint-Denis Nord-Est, Saint-Denis Nord-Ouest.                             ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 3e cir-   │ Cantons de : Aubervilliers Est, Aubervilliers Ouest, La Courneuve. Commune du Bourget.                        ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 4e cir-   │ Cantons de : Le Blanc-Mesnil, Stains. Commune de Dugny.                                                       ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 5e cir-   │ Canton de Bobigny. Commune de Drancy.                                                                         ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 6e cir-   │ Cantons de : Bagnolet, Les Lilas, Pantin Est, Pantin Ouest.                                                   ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 7e cir-   │ Cantons de : Montreuil Est, Montreuil Nord, Montreuil Ouest.                                                  ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 8e cir-   │ Cantons de : Gagny, Rosny-sous-Bois, Villemomble.                                                             ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 9e cir-   │ Cantons de : Bondy Nord-Ouest, Bondy Sud-Est, Noisy-le-Sec, Romainville.                                      ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 10e cir-  │ Cantons de : Aulnay-sous-Bois Nord, Aulnay-sous-Bois Sud, Les Pavillons-sous-Bois.                            ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 11e cir-  │ Cantons de : Sevran, Tremblay-en-France, Villepinte.                                                          ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 12e cir-  │ Cantons de : Livry-Gargan, Montfermeil, Le Raincy.                                                            ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 13e cir-  │ Cantons de : Neuilly-Plaisance, Neuilly-sur-Marne, Noisy-le-Grand.                                            ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Val-de-Marne                                                                                                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1re cir-  │ Cantons de : Bonneuil-sur-Marne, Créteil Nord, Saint-Maur-des-Fossés Centre, Saint-Maur-La-Varenne.           ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 2e cir-   │ Cantons de : Choisy-le-Roi, Créteil Ouest, Créteil Sud, Orly.                                                 ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 3e cir-   │ Cantons de : Boissy-Saint-Léger, Valenton, Villecresnes, Villeneuve-le-Roi, Villeneuve-Saint-Georges.         ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 4e cir-   │ Cantons de : Chennevières-sur-Marne, Ormesson-sur-Marne, Sucy-en-Brie, Villiers-sur-Marne.                    ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 5e cir-   │ Cantons de : Bry-sur-Marne, Champigny-sur-Marne Centre, Champigny-sur-Marne Est, Le Perreux-sur-Marne.        ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 6e cir-   │ Cantons de : Fontenay-sous-Bois Est, Fontenay-sous-Bois Ouest, Saint-Mandé, Vincennes Est, Vincennes Ouest.   ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 7e cir-   │ Cantons de : Champigny-sur-Marne Ouest, Joinville-le-Pont, Nogent-sur-Marne, Saint-Maur-des-Fossés Ouest.     ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 8e cir-   │ Cantons de : Charenton-le-Pont, Maisons-Alfort Nord, Maisons-Alfort Sud.                                      ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 9e cir-   │ Cantons de : Alfortville Nord, Alfortville Sud, Vitry-sur-Seine Est, Vitry-sur-Seine Ouest.                   ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 10e cir-  │ Cantons de : Ivry-sur-Seine Est, Ivry-sur-Seine Ouest, Le Kremlin-Bicêtre, Vitry-sur-Seine Nord.              ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 11e cir-  │ Cantons de : Arcueil, Cachan, Villejuif Est, Villejuif Ouest.                                                 ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 12e cir-  │ Cantons de : Chevilly-Larue, Fresnes, L'Hay-les-Roses, Thiais.                                                ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Val-d'Oise                                                                                                                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1re cir-  │ Cantons de : Beaumont-sur-Oise, Magny-en-Vexin, Marines, Pontoise, La Vallée-du-Sausseron, Vigny.             ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 2e cir-   │ Cantons de : Cergy Nord, Cergy Sud, L'Hautil, L'Isle-Adam, Saint-Ouen-l'Aumône.                               ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 3e cir-   │ Cantons de : Beauchamp, Cormeilles-en-Parisis, Herblay, Taverny.                                              ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 4e cir-   │ Cantons de : Eaubonne, Ermont, Franconville, Saint-Leu-la-Forêt.                                              ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 5e cir-   │ Cantons de : Argenteuil Est, Argenteuil Nord, Argenteuil Ouest, Bezons.                                       ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 6e cir-   │ Cantons de : Enghien-les-Bains, Saint-Gratien, Sannois, Soisy-sous-Montmorency.                               ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 7e cir-   │ Cantons de : Domont, Ecouen, Montmorency, Sarcelles Sud-Ouest, Viarmes.                                       ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 8e cir-   │ Cantons de : Garges-lès-Gonesse Est, Garges-lès-Gonesse Ouest, Sarcelles Nord-Est, Villiers-le-Bel.           ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 9e cir-   │ Cantons de : Gonesse, Goussainville, Luzarches.                                                               ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Guadeloupe                                                                                                                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1re cir-  │ Cantons de : Les Abymes I, Les Abymes II, Les Abymes III, Les Abymes IV, Les Abymes V, Capesterre-de-Marie-   ┃
+┃ conscrip- │ Galante, Grand-Bourg, Pointe-à-Pitre I, Pointe-à-Pitre II, Pointe-à-Pitre III, Saint-Louis.                   ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 2e cir-   │ Cantons de : La Désirade, Le Gosier I, Le Gosier II, Morne-à-l'Eau I, Morne-à-l'Eau II, Le Moule I, Le Moule  ┃
+┃ conscrip- │ II, Petit-Canal, Port-Louis, Saint-François, Sainte-Anne I, Sainte-Anne II.                                   ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 3e cir-   │ Cantons de : Baie-Mahault, Capesterre-Belle-Eau I, Capesterre-Belle-Eau II, Goyave, Lamentin, Petit-Bourg,    ┃
+┃ conscrip- │ Pointe-Noire, Sainte-Rose I, Sainte-Rose II.                                                                  ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 4e cir-   │ Cantons de : Basse-Terre I, Basse-Terre II, Bouillante, Gourbeyre, Saint-Claude, Saint-Martin. Les Saintes,   ┃
+┃ conscrip- │ Trois-Rivières, Vieux-Habitants.                                                                              ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Guyane                                                                                                                    ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1re cir-  │ Cantons de : Cayenne I, Cayenne II, Cayenne III, Cayenne IV, Cayenne V, Cayenne VI, Macouria.                 ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 2e cir-   │ Cantons de : Approuague-Kaw, Iracoubo, Kourou, Mana, Maripasoula, Matoury, Montsinéry-Tonnégrande, L'Oyapok,  ┃
+┃ conscrip- │ Rémire-Montjoly, Roura, Saint-Laurent-du-Maroni, Sinnamary.                                                   ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Martinique                                                                                                                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1re cir-  │ Cantons de : L'Ajoupa-Bouillon, Basse-Pointe, Macouba, Gros-Morne, Le Lorrain, Le Marigot, Saint-Joseph,      ┃
+┃ conscrip- │ Sainte-Marie I, Sainte-Marie II, La Trinité.                                                                  ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 2e cir-   │ Cantons de : Case-Pilote, Le Carbet, Fort-de-France I, Fort-de-France II, Fort-de-France III, Fort-de-France  ┃
+┃ conscrip- │ IX, Fort-de-France X, Le Morne-Rouge, Le Prêcheur, Saint-Pierre, Schoelcher I, Schoelcher II.                 ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 3e cir-   │ Cantons de : Fort-de-France IV, Fort-de-France V, Fort-de-France VI, Fort-de-France VII, Fort-de-France VIII, ┃
+┃ conscrip- │ Le Lamentin I, Le Lamentin II, Le Lamentin III.                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 4e cir-   │ Cantons de : Les Anses-d'Arlets, Le Diamant, Ducos, Le François I, Le François II, Le Marin, Rivière-Pilote,  ┃
+┃ conscrip- │ Rivière-Salée, Le Robert I, Le Robert II, Saint-Esprit, Sainte-Anne, Sainte-Luce, Les Trois-Ilets, Le Vau-    ┃
+┃ tion      │ clin.                                                                                                         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Réunion                                                                                                                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1re cir-  │ Cantons de : Saint-Denis I, Saint-Denis II, Saint-Denis III, Saint-Denis IV (par décret n° 88-400 du 21 avril ┃
+┃ conscrip- │ 1988 art. 4, en remplacement des cantons de Saint-Denis I à IV, ont été créés neuf cantons dénommés Saint-De- ┃
+┃ tion      │ nis I à IX).                                                                                                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 2e cir-   │ Cantons de : La Possession, Le Port (par décret n° 88-400 du 21 avril 1988 art. 1er, le canton du Port a été  ┃
+┃ conscrip- │ divisé en deux cantons dénommés Le Port I et Le Port II), Saint-Paul I, Saint-Paul II, Saint-Paul III (Par    ┃
+┃ tion      │ décret n° 91-231 du 28 février 1991 art. 3, en remplacement des cantons de Saint-Paul I à III, ont été créés  ┃
+┃           │ cinq cantons dénommés Saint-Paul I à V), Les Trois-Bassins.                                                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 3e cir-   │ Cantons de : Les Avirons, Cilaos, Entre-Deux, L'Etang-Salé, Saint-Leu I, Saint-Leu II, Saint-Louis I, Saint-  ┃
+┃ conscrip- │ Louis II, Le Tampon I, Le Tampon II (par décret n° 88-400 du 21 avril 1988 art. 2, en remplacement des can-   ┃
+┃ tion      │ tons du Tampon I et du Tampon II, ont été créés trois cantons dénommés Le Tampon I à III. Par décret du 27    ┃
+┃           │ février 1997 art. 3, les cantons du Tampon I et du Tampon III ont été remodelés en trois cantons dénommés "Le ┃
+┃           │ Tampon I", "Le Tampon III" et "Le Tampon IV").                                                                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 4e cir-   │ Cantons de: Petite-Ile, Saint-Joseph I, Saint-Joseph II, Saint-Philippe, Saint-Pierre I, Saint-Pierre II,     ┃
+┃ conscrip- │ Saint-Pierre III (par décret n° 88-400 du 21 avril 1988 art. 3, le canton de Saint-Pierre III a été divisé en ┃
+┃ tion      │ deux cantons dénommés Saint-Pierre III et Saint-Pierre IV), Sainte-Rose).                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 5e cir-   │ Cantons de : Bras-Panon, La Plaine-des-Palmistes, Saint-André (par décret du 27 février 1997 art. 1er, le     ┃
+┃ conscrip- │ canton de Saint-André I a été divisé en deux cantons dénommés "Saint-André I" et "Saint-André III"), Saint-   ┃
+┃ tion      │ André II, Saint-Benoît (par décret n° 91-231 du 28 février 1991 art. 1, le canton de Saint-Benoît a été di-   ┃
+┃           │ visé en deux cantons dénommés Saint-Benoît I et Saint-Benoît II), Sainte-Marie, Sainte-Suzanne, Salazie.      ┃
+┗━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
 
-1e circonscription
-
-COMPOSITION
-
-Cantons de : Melun Sud, Perthes, Savigny-le-Temple (par décret n° 91-219 du 27 février 1991 art. 2, le canton de Savigny-le-
-Temple a été divisé en deux cantons : Le Mée-sur-Seine et Savigny-le-Temple).
-
-2e circonscription
-
-Cantons de : La Chapelle-la-Reine, Château-Landon, Fontainebleau, Lorrez-le-Bocage-Préaux, Nemours.
-
-3e circonscription
-
-Le Châtelet-en-Brie, Melun Nord, Montereau-Faut-Yonne, Moret-sur-Loing.
-
-4e circonscription
-
-Cantons de : Bray-sur-Seine, Donnemarie-Dontilly, La Ferté-Gaucher, Nangis, Provins, Rebais, Rozay-en-Brie, Villiers-Saint-
-Georges.
-
-5e circonscription
-
-Cantons de : Coulommiers, Crécy-la-Chapelle (le canton de Crécy-la-Chapelle a été remodelé par décret n° 93-260 du 26 février
-1993. En conséquence, les communes de Bailly-Romainvilliers, Magny-le-Hongre et Serris en ont été détachées pour faire partie
-du canton créé de Thorigny-sur-Marne. Ces communes continuent néanmoins à être incluses dans la 5e circonscription), La
-Ferté-sous-Jouarre, Meaux Sud.
-
-6e circonscription
-
-Cantons de : Dammartin-en-Goële, Lizy-sur-Ourcq, Meaux Nord, Mitry-Mory.
-
-7e circonscription
-
-Cantons de : Chelles, Claye-Souilly, Lagny-sur-Marne pour les communes de Gouvernes, Lagny-sur-Marne, Pomponne, Saint-
-Thibault-des-Vignes (aux termes du décret n° 93-260 du 26 février 1993, les communes ici énumérées forment désormais
-l'intégralité du canton de Lagny-sur-Marne), Vaires-sur-Marne.
-
-8e circonscription
-
-Cantons de : Champs-sur-Marne, Lagny-sur-Marne (pour les communes de Carnetin, Chalifert, Chanteloup, Chessy, Conches,
-Coupvray, Dampmart, Guermantes, Jossigny, Lesches, Montévrain, Thorigny-sur-Marne) (les communes énumérées ici constituent le
-canton de Thorigny-sur-Marne, créé par le décret n° 93-260 du 26 février 1993 art. 1er, avec trois communes supplémentaires
-détachées du canton de Crécy-la-Chapelle (cf. ci-dessus note 2). La 8e circonscription comprend donc désormais les cantons de
-Champs-sur-Marne, Noisiel, Roissy-en-Brie dont la dénomination a été modifiée par décret du 21 juin 1988), Thorigny-sur-Marne
-(moins les communes de Bailly-Romainvilliers, Magny-le-Hongre et Serris) et Torcy), Noisiel, Roissy, Torcy.
-
-9e circonscription
-
-Cantons de : Brie-Comte-Robert (par décret n° 91-219 du 27 février 1991 art. 1er, le canton de Brie-Comte-Robert a été divisé
-en deux cantons : Brie-Comte-Robert et Combs-la-Ville), Mormant, Pontault-Combault, Tournan-en-Brie.
-
-DEPARTEMENT : YVELINES
-
-1e circonscription
-
-COMPOSITION
-
-Cantons de : Versailles Nord, Versailles Nord-Ouest, Versailles Ouest (par décret n° 91-222 du 27 février 1991 art. 1er et 2,
-les cantons de Versailles Nord-Ouest et de Versailles Ouest ont été remplacés par les cantons de Montigny-le-Bretonneux et
-Versailles Nord-Ouest), Viroflay.
-
-2e circonscription
-
-Cantons de : Chevreuse, Vélizy-Villacoublay, Versailles Sud.
-
-3e circonscription
-
-Cantons de : La Celle-Saint-Cloud, Le Chesnay, Saint-Nom-la-Bretèche.
-
-4e circonscription
-
-Cantons de : Chatou, Houilles, Marly-le-Roi.
-
-5e circonscription
-
-Cantons de Maisons-Laffitte, Sartrouville, Le Vésinet.
-
-6e circonscription
-
-Cantons de : Le Pecq, Saint-Germain-en-Laye Nord, Saint-Germain-en-Laye Sud.
-
-7e circonscription
-
-Cantons de: Andrésy, Conflans-Sainte-Honorine, Meulan (moins les communes des Mureaux et de Chapet), Triel-sur-Seine.
-
-8e circonscription
-
-Cantons de: Limay, Mantes-la-Jolie, Mantes-la-Ville.
-
-9e circonscription
-
-Cantons de: Aubergenville, Bonnières-sur-Seine, Guerville, Houdan.
-
-Communes de : Les Mureaux, Chapet.
-
-10e circonscription
-
-Cantons de : Monfort-l'Amaury, Rambouillet, Saint-Arnoult-en-Yvelines, Maurepas (moins les communes d'Elancourt et de La
-Verrière).
-
-11e circonscription
-
-Cantons de : Saint-Cyr-l'Ecole, Trappes.
-
-Communes de : Elancourt, La Verrière.
-
-12e circonscription
-
-Cantons de : Plaisir, Poissy Nord, Poissy Sud.
-
-DEPARTEMENT : DEUX-SEVRES
-
-1e circonscription
-
-COMPOSITION
-
-Cantons de : Niort Est, Niort Nord, Niort Ouest, Prahecq.
-
-2e circonscription
-
-Cantons de : Beauvoir-sur-Niort, Brioux-sur-Boutonne, Celles-sur-Belle, Chef-Boutonne, Frontenay-Rohan-Rohan, Lezay, Mauzé-
-sur-le-Mignon, Melle, La Mothe-Saint-Héray, Saint-Maixent-l'Ecole I, Saint-Maixent-l'Ecole II, Sauzé-Vaussais.
-
-3e circonscription
-
-Cantons de: Airvault, Champdeniers-Saint-Denis, Coulonges-sur-l'Autize, Mazières-en-Gâtine, Ménigoute, Moncoutant, Parthenay,
-Saint-Loup-Lamairé, Secondigny, Thénezay.
-
-4e circonscription
-
-Cantons de : Argenton-Château, Bressuire, Cerizay, Mauléon, Saint-Varent, Thouars I, Thouars II.
-
-DEPARTEMENT : SOMME
-
-1e circonscription
-
-COMPOSITION
-
-Cantons de : Amiens I Ouest, Amiens II Nord-Ouest, Amiens IV Est, Amiens VIII Nord, Picquigny.
-
-2e circonscription
-
-Cantons de : Amiens III Nord-Est, Amiens V Sud-Est, Amiens VI Sud, Amiens VII Sud-Ouest, Boves.
-
-3e circonscription
-
-Cantons de : Ault, Friville-Escarbotin, Gamaches, Hallencourt, Hornoy-le-Bourg, Molliens-Dreuil, Moyenneville, Oisemont,
-Saint-Valery-sur-Somme.
-
-4e circonscription
-
-Cantons de: Abbeville Nord, Abbeville Sud, Ailly-le-Haut-Clocher, Bernaville, Crécy-en-Ponthieu, Domart-en-Ponthieu,
-Doullens, Nouvion, Rue.
-
-5e circonscription
-
-Cantons de : Acheux-en-Amiénois, Albert, Bray-sur-Somme, Chaulnes, Combles, Ham, Nesle, Péronne, Roisel.
-
-6e circonscription
-
-Cantons de : Ailly-sur-Noye, Conty, Corbie, Montdidier, Moreuil, Poix-de-Picardie, Rosières-en-Santerre, Roye, Villers-
-Bocage.
-
-DEPARTEMENT : TARN
-
-1e circonscription
-
-COMPOSITION
-
-Cantons de : Albi Nord-Est, Albi Nord-Ouest, Carmaux Nord, Carmaux Sud, Cordes (le canton de Cordes est devenu le canton de
-Cordes-sur-Ciel par suite du changement de nom de sa commune chef-lieu par décret du 26 mars 1993), Monestiés, Pampelonne,
-Valderiès, Valence-d'Albigeois, Vaour, Villefranche-d'Albigeois.
-
-2e circonscription
-
-Cantons de : Albi Centre, Albi Sud (par décret du 21 février 1997 art. 1er, les cantons d'Albi Centre et d'Albi Sud ont été
-remodélés en quatre cantons : Albi Centre, Albi Est, Albi Ouest et Albi Sud), Cadalen, Castelnau-de-Montmiral, Gaillac,
-Graulhet, Lisle-sur-Tarn, Rabastens, Salvagnac.
-
-3e circonscription
-
-Cantons de : Alban, Brassac, Castres Est, Castres Nord, Castres Sud (par décret du 21 février 1997 art. 2, les cantons de
-Castres Nord et de Castres Sud ont été remodelés en trois cantons :
-
-Castres Nord, Castres Ouest et Castres Sud), Castres, Lacaune, Montredon-Labessonnié, Murat-sur-Vèbre, Réalmont, Roquecourbe,
-Vabre.
-
-4e circonscription
-
-Cantons de : Anglès, Cuq-Toulza, Dourgne, Labruguière, Lautrec, Lavaur, Mazamet Nord-Est, Mazamet Sud-Ouest, Puylaurens,
-Saint-Amans-Soult, Saint-Paul-Cap-de-Joux, Vielmur-sur-Agout.
-
-DEPARTEMENT : TARN-ET-GARONNE
-
-1e circonscription
-
-COMPOSITION
-
-Cantons de : Caussade, Caylus, Lafrançaise, Molières, Monclar-de-Quercy, Montauban I, Montauban II, Montauban III, Montauban
-IV (par décret n° 91-220 du 27 février 1991 art. 1er, en remplacement des cantons de Montauban I à IV, ont été créés six
-cantons dénommés Montauban I à VI), Montpezat-de-Quercy, Nègrepelisse, Saint-Antonin-Noble-Val, Villebrumier.
-
-2e circonscription
-
-Cantons de : Auvillar, Beaumont-de-Lomagne, Bourg-de-Visa, Castelsarrasin I, Castelsarrasin II, Grisolles, Lauzerte, Lavit,
-Moissac I, Moissac II, Montech, Montaigu-de-Quercy, Saint-Nicolas-de-la-Grave, Valence, Verdun-sur-Garonne.
-
-DEPARTEMENT : VAR
-
-1e circonscription
-
-COMPOSITION
-
-Cantons de : Toulon I, Toulon V, Toulon VI, Toulon VIII.
-
-2e circonscription
-
-Cantons de : Toulon II, Toulon III, Toulon IV, Toulon VII, Toulon IX.
-
-3e circonscription
-
-Cantons de : La Crau, Hyères (par décret n° 97-21 du 13 janvier 1997 art. 2, le canton de Hyères a été divisé en deux cantons
-dénommés "Hyères Est" et "Hyères Ouest"), La Valette-du-Var (par décret n° 97-21 du 13 janvier 1997 art. 1er, le canton de La
-Vallette-du-Var a été divisé en deux cantons dénommés "La Garde" et "La Vallette-du-Var").
-
-4e circonscription
-
-Cantons de : Aups, Collobrières, Draguignan, Grimaud, Lorgues, Le Luc, Saint-Tropez.
-
-5e circonscription
-
-Cantons de : Callas, Comps-sur-Artuby, Fayence, Fréjus, Le Muy, Saint-Raphaël.
-
-6e circonscription
-
-Cantons de : Barjols, Le Beausset, Besse-sur-Issole, Brignoles, Cotignac, Cuers, Rians, La Roquebrussanne, Saint-Maximin-la-
-Sainte-Baume, Salernes, Solliès-Pont, Tavernes.
-
-7e circonscription
-
-Cantons de: Ollioules, Saint-Mandrier-sur-Mer, La Seyne sur-Mer, Six-Fours-les-Plages.
-
-DEPARTEMENT : VAUCLUSE
-
-1e circonscription
-
-COMPOSITION
-
-Cantons de : Avignon Est, Avignon Nord, Avignon Ouest, Avignon Sud.
-
-2e circonscription
-
-Cantons de : Apt, Bonnieux, Cadenet, Cavaillon, Gordes, L'Isle-sur-la-Sorgue, Pertuis.
-
-3e circonscription
-
-Cantons de : Bédarrides, Carpentras Nord, Carpentras Sud, Mormoiron, Pernes-les-Fontaines, Sault.
-
-4e circonscription
-
-Cantons de : Beaumes-de-Venise, Bollène, Malaucène, Orange Est, Orange Ouest, Vaison-la-Romaine, Valréas.
-
-DEPARTEMENT : VENDEE
-
-1e circonscription
-
-COMPOSITION
-
-Cantons de : Challans, Les Essarts, Palluau, Le Poiré-sur-Vie, Rocheservière, La Roche-sur-Yon Nord.
-
-2e circonscription
-
-Cantons de : Chantonnay, Mareuil-sur-Lay-Dissais, La Mothe-Achard, Moutiers-les-Mauxfaits, La Roche-sur-Yon Sud, Talmont-
-Saint-Hilaire. 
-
-3e circonscription
-
-Cantons de : Beauvoir-sur-Mer, L'Ile-d'Yeu, Noirmoutier-en-l'Ile, Les Sables-d'Olonne, Saint-Gilles-Croix-de-Vie, Saint-Jean-
-de-Monts.
-
-4e circonscription
-
-Cantons de : Les Herbiers, Montaigu, Mortagne-sur-Sèvre, Pouzauges, Saint-Fulgent.
-
-5e circonscription
-
-Cantons de : Chaillé-les-Marais, La Châtaigneraie, Fontenay-le-Comte, L'Hermenault, Luçon, Maillezais, Sainte-Hermine, Saint-
-Hilaire-des-Loges.
-
-DEPARTEMENT : VIENNE
-
-1e circonscription
-
-COMPOSITION
-
-Cantons de : Mirebeau, Neuville-de-Poitou, Poitiers I, Poitiers II, Poitiers VII, Saint-Georges-lès-Baillargeaux, Saint-
-Julien-l'Ars, Vouneuil-sur-Vienne.
-
-2e circonscription
-
-Cantons de : Poitiers III, Poitiers IV, Poitiers V, Poitiers VI, La Villedieu-du-Clain, Vivonne, Vouillé.
-
-3e circonscription
-
-Cantons de : Availles-Limouzine, Charroux, Chauvigny, Civray, Couhé, Gençay, L'Isle-Jourdain, Lusignan, Lussac-les-Châteaux,
-Montmorillon, Saint-Savin, La Trimouille.
-
-Commune de La Puye.
-
-4e circonscription
-
-Cantons de : Châtellerault Nord, Châtellerault Ouest, Châtellerault Sud, Dangé-Saint-Romain, Lencloître, Loudun, Moncontour,
-Monts-sur-Guesnes, Pleumartin (moins la commune de La Puye), Saint-Gervais-les-Trois-Clochers, Les Trois-Moutiers.
-
-DEPARTEMENT : HAUTE-VIENNE
-
-1e circonscription
-
-Cantons de : Limoges-Beaupuy, Limoges-Carnot, Limoges Centre, Limoges-Cité, Limoges-Condat, Limoges-Couzeix, Limoges-
-Emailleurs, Limoges-Puy-las-Rodas.
-
-2e circonscription
-
-Cantons de : Aixe-sur-Vienne, Châlus, Nexon, Oradour-sur-Vayres, Pierre-Buffière, Rochechouart, Saint-Germain-les-Belles,
-Saint-Junien Est, Saint-Junien Ouest, Saint-Laurent-sur-Gorre, Saint-Mathieu, Saint-Yrieix-la-Perche.
-
-3e circonscription
-
-Cantons de : Bellac, Bessines-sur-Gartempe, Châteauponsac, Le Dorat, Laurière, Limoges-Corgnac, Limoges-Isle, Limoges-
-Landouge, Magnac-Laval, Mézières-sur-Issoire, Nantiat, Nieul, Saint-Sulpice-les-Feuilles.
-
-4e circonscription
-
-Cantons de : Ambazac, Châteauneuf-la-Forêt, Eymoutiers, Limoges-La-Bastide, Limoges-Grand-Treuil, Limoges-Le-Palais, Limoges-
-Panazol, Limoges-Vigenal, Saint-Léonard-de-Noblat.
-
-DEPARTEMENT : VOSGES
-
-1e circonscription
-
-COMPOSITION
-
-Cantons de : Châtel-sur-Moselle, Epinal Est, Epinal Ouest, RamberviIlers, Xertigny.
-
-2e circonscription
-
-Cantons de : Brouvelieures, Bruyères, Corcieux, Fraize, Provenchères-sur-Fave, Raon-l'Etape, Saint-Dié Est, Saint-Dié Ouest,
-Senones.
-
-3e circonscription
-
-Cantons de : Gérardmer, Plombières-les-Bains, Remiremont, Saulxures-sur-Moselotte, Le Thillot.
-
-4e circonscription
-
-Cantons de : Bains-les-Bains, Bulgnéville, Charmes, Châtenois, Coussey, Darney, Dompaire, Lamarche, Mirecourt, Monthureux-
-sur-Saône, Neufchâteau, Vittel.
-
-DEPARTEMENT : YONNE
-
-1e circonscription
-
-COMPOSITION
-
-Cantons de : Aillant-sur-Tholon, Auxerre Est, Auxerre Nord-Ouest (par décret n° 91-221 du 27 février 1991 art. 1er, le canton
-d'Auxerre Nord-Ouest a été divisé en deux cantons dénommés Auxerre Nord et Auxerre Nord-ouest), Auxerre Sud-Ouest (par décret
-n° 91-221 du 27 février 1991 art. 2, le canton d'Auxerre Sud-Ouest été divisé en deux cantons dénommés Auxerre Sud et Auxerre
-Sud-Ouest), Bléneau, Chamy, Coulanges-la-Vineuse, Courson-les-Carrières, Saint-Fargeau, Saint-Sauveur-en-Puisaye, Toucy.
-
-Communes de : Andryes, Etais-la-Sauvin.
-
-2e circonscription
-
-Cantons de : Ancy-le-Franc, Avallon, Chablis, Coulanges-sur-Yonne (moins les communes d'Andryes et d'Etais-la-Savin), Cruzy-
-le-Châtel, Flogny-la-Chapelle, Guillon, L'Isle-sur-Serein, Ligny-le-Châtel, Migennes, Noyers, Quarré-les-Tombes, Saint-
-Florentin, Seignelay, Tonnerre, Vermenton, Vézelay.
-
-3e circonscription
-
-Cantons de : Brienon-sur-Armançon, Cerisiers, Chéroy, Joigny, Pont-sur-Yonne, Saint-Julien-du-Sault, Sens Nord-Est, Sens
-Ouest, Sens Sud-Est, Sergines, Villeneuve-l'Archevêque, Villeneuve-sur-Yonne.
-
-DEPARTEMENT : TERRITOIRE DE BELFORT
-
-1e circonscription
-
-COMPOSITION
-
-Cantons : Beaucourt, Belfort Centre, Belfort Est, Danjoutin, Delle, Fontaine, Grandvillars.
-
-2e circonscription
-
-Cantons : Belfort Nord, Belfort Ouest, Belfort Sud, Châtenois-les-Forges, Giromagny, Offemont, Rougemont-le-Château, Valdoie.
-
-DEPARTEMENT : ESSONNE
-
-1e circonscription
-
-COMPOSITION
-
-Cantons de : Corbeil-Essonnes Est, Corbeil-Essonnes Ouest, Evry Nord, Evry Sud.
-
-2e circonscription
-
-Cantons de : Etampes, La Ferté-Alais, Mennecy, Méréville, Milly-la-Forêt.
-
-3e circonscription
-
-Cantons de : Arpajon, Brétigny-sur-Orge, Dourdan, Etréchy, Saint-Chéron.
-
-4e circonscription
-
-Cantons de : Limours, Longjumeau, Montlhéry, Villebon-sur-Yvette.
-
-5e circonscription
-
-Cantons de : Bièvres, Gif-sur-Yvette, Orsay, Les Ulis.
-
-6e circonscription
-
-Cantons de : Chilly-Mazarin, Massy Est, Massy Ouest, Palaiseau.
-
-7e circonscription
-
-Cantons de : Athis-Mons, Juvisy-sur-Orge, Savigny-sur-Orge, Viry-Châtillon.
-
-8e circonscription
-
-Cantons de : Brunoy, Montgeron, Vigneux-sur-Seine, Yerres.
-
-9e circonscription
-
-Cantons de: Draveil, Epinay-sous-Sénart, Ris-Orangis, Saint-Germain-lès-Corbeil.
-
-10e circonscription
-
-Cantons de: Grigny, Morsang-sur-Orge, Sainte-Geneviève-des-Bois, Saint-Michel-sur-Orge.
-
-DEPARTEMENT : HAUTS-DE-SEINE
-
-1e circonscription
-
-COMPOSITION
-
-Cantons de : Colombes Nord-Est, Colombes Nord-Ouest, Gennevilliers Nord, Gennevilliers Sud, Villeneuve-la-Garenne.
-
-2e circonscription
-
-Cantons de : Asnières-sur-Seine Nord, Asnières-sur-Seine Sud, Colombes Sud.
-
-3e circonscription
-
-Cantons de: Bois-Colombes, Courbevoie Nord, Courbevoie Sud, La Garenne-Colombes.
-
-4e circonscription
-
-Cantons de : Nanterre Nord, Nanterre Sud-Est, Nanterre Sud-Ouest, Suresnes.
-
-5e circonscription
-
-Cantons de : Clichy, Levallois-Perret Nord, Levallois-Perret Sud.
-
-6e circonscription
-
-Cantons de : Neuilly-sur-Seine Nord, Neuilly-sur-Seine Sud, Puteaux.
-
-7e circonscription
-
-Cantons de : Garches, Rueil-Malmaison, Saint-Cloud.
-
-8e circonscription
-
-Cantons de: Chaville, Meudon, Sèvres.
-
-9e circonscription
-
-Cantons de : Boulogne-Billancourt Nord-Est, Boulogne-Billancourt Nord-Ouest, Boulogne-Billancourt Sud (partie située au nord
-d'une ligne définie par l'axe des voies ci-après : rue Yves-Kermen, avenue Pierre-Grenier, boulevard de la République
-jusqu'au pont d'Issy).
-
-10e circonscription
-
-Cantons de : Boulogne-Billancourt Sud (partie non comprise dans la 9, circonscription), Issy-les-Moulineaux Est, Issy-les-
-Moulineaux Ouest, Vanves.
-
-11e circonscription
-
-Cantons de : Bagneux, Malakoff, Montrouge.
-
-12e circonscription
-
-Cantons de : Châtillon, Clamart, Fontenay-aux-Roses, Le Plessis-Robinson.
-
-13e circonscription
-
-Cantons de : Antony, Bourg-la-Reine, Châtenay-Malabry, Sceaux.
-
-DEPARTEMENT : SEINE-SAINT-DENIS
-
-1e circonscription
-
-COMPOSITION :
-
-Cantons de : Epinay-sur-Seine, Saint-Denis Sud, Saint Ouen.
-
-2e circonscription
-
-Cantons de : Pierrefitte-sur-Seine, Saint-Denis Nord-Est, Saint-Denis Nord-Ouest.
-
-3e circonscription
-
-Cantons de : Aubervilliers Est, Aubervilliers Ouest, La Courneuve.
-
-Commune du Bourget.
-
-4e circonscription
-
-Cantons de : Le Blanc-Mesnil, Stains.
-
-Commune de Dugny.
-
-5e circonscription
-
-Canton de Bobigny.
-
-Commune de Drancy.
-
-6e circonscription
-
-Cantons de : Bagnolet, Les Lilas, Pantin Est, Pantin Ouest.
-
-7e circonscription
-
-Cantons de : Montreuil Est, Montreuil Nord, Montreuil Ouest.
-
-8e circonscription
-
-Cantons de : Gagny, Rosny-sous-Bois, Villemomble.
-
-9e circonscription
-
-Cantons de : Bondy Nord-Ouest, Bondy Sud-Est, Noisy-le-Sec, Romainville.
-
-10e circonscription
-
-Cantons de : Aulnay-sous-Bois Nord, Aulnay-sous-Bois Sud, Les Pavillons-sous-Bois.
-
-11e circonscription
-
-Cantons de : Sevran, Tremblay-lès-Gonesse, Villepinte.
-
-12e circonscription
-
-Cantons de : Livry-Gargan, Montfermeil, Le Raincy.
-
-13e circonscription
-
-Cantons de : Neuilly-Plaisance, Neuilly-sur-Marne, Noisy-le-Grand.
-
-DEPARTEMENT : VAL-DE-MARNE
-
-1e circonscription
-
-COMPOSITION
-
-Cantons de : Bonneuil-sur-Marne, Créteil Nord, Saint-Maur-des-Fossés Centre, Saint-Maur-La-Varenne.
-
-2e circonscription
-
-Cantons de : Choisy-le-Roi, Créteil Ouest, Créteil Sud, Orly.
-
-3e circonscription
-
-Cantons de : Boissy-Saint-Léger, Valenton, Villecresnes, Villeneuve-le-Roi, Villeneuve-Saint-Georges. 
-
-4e circonscription
-
-Cantons de : Chennevières-sur-Marne, Ormesson-sur-Marne, Sucy-en-Brie, Villiers-sur-Marne. 
-
-5e circonscription
-
-Cantons de : Bry-sur-Marne, Champigny-sur-Marne Centre, Champigny-sur-Marne Est, Le Perreux-sur-Marne.
-
-6e circonscription
-
-Cantons de : Fontenay-sous-Bois Est, Fontenay-sous-Bois Ouest, Saint-Mandé, Vincennes Est, Vincennes Ouest.
-
-7e circonscription
-
-Cantons de : Champigny-sur-Marne Ouest, Joinville-le-Pont, Nogent-sur-Marne, Saint-Maur-des-Fossés Ouest.
-
-8e circonscription
-
-Cantons de : Charenton-le-Pont, Maisons-Alfort Nord, Maisons-Alfort Sud. 
-
-9e circonscription
-
-Cantons de : Alfortville Nord, Alfortville Sud, Vitry-sur-Seine Est, Vitry-sur-Seine Ouest.
-
-10e circonscription
-
-Cantons de : Ivry-sur-Seine Est, Ivry-sur-Seine Ouest, Le Kremlin-Bicêtre, Vitry-sur-Seine Nord.
-
-11e circonscription
-
-Composition
-
-Cantons de : Arcueil, Cachan, Villejuif Est, Villejuif Ouest.
-
-12e circonscription
-
-Composition
-
-Cantons de : Chevilly-Larue, Fresnes, L'Hay-les-Roses, Thiais.
-
-DEPARTEMENT : VAL-D'OISE
-
-1e circonscription
-
-Cantons de : Beaumont-sur-Oise, Magny-en-Vexin, Marines, Pontoise, La Vallée-du-Sausseron, Vigny.
-
-2e circonscription
-
-Cantons de : Cergy Nord, Cergy Sud, L'Hautil, L'Isle-Adam, Saint-Ouen-l'Aumône.
-
-3e circonscription
-
-Cantons de : Beauchamp, Cormeilles-en-Parisis, Herblay, Taverny.
-
-4e circonscription
-
-Cantons de : Eaubonne, Ermont, Franconville, Saint-Leu-la-Forêt.
-
-5e circonscription
-
-Cantons de : Argenteuil Est, Argenteuil Nord, Argenteuil Ouest, Bezons.
-
-6e circonscription
-
-Cantons de : Enghien-les-Bains, Saint-Gratien, Sannois, Soisy-sous-Montmorency.
-
-7e circonscription
-
-Cantons de : Domont, Ecouen, Montmorency, Sarcelles Sud-Ouest, Viarmes.
-
-8e circonscription
-
-Cantons de : Garges-lès-Gonesse Est, Garges-lès-Gonesse Ouest, Sarcelles Nord-Est, Villiers-le-Bel.
-
-9e circonscription
-
-Cantons de : Gonesse, Goussainville, Luzarches.
-
-DEPARTEMENT : GUADELOUPE
-
-1e circonscription
-
-COMPOSITION
-
-Cantons de : Les Abymes I, Les Abymes II, Les Abymes III, Les Abymes IV, Les Abymes V, Capesterre-de-Marie-Galante, Grand-
-Bourg, Pointe-à-Pitre I, Pointe-à-Pitre II, Pointe-à-Pitre III, Saint-Louis.
-
-2e circonscription
-
-Cantons de : La Désirade, Le Gosier I, Le Gosier II, Morne-à-l'Eau I, Morne-à-l'Eau II, Le Moule I, Le Moule II, Petit-Canal,
-Port-Louis, Saint-François, Sainte-Anne I, Sainte-Anne II.
-
-3e circonscription
-
-Cantons de : Baie-Mahault, Capesterre-Belle-Eau I, Capesterre-Belle-Eau II, Goyave, Lamentin, Petit-Bourg, Pointe-Noire,
-Sainte-Rose I, Sainte-Rose II.
-
-4e circonscription
-
-Cantons de : Basse-Terre I, Basse-Terre II, Bouillante, Gourbeyre, Saint-Barthélemy, Saint-Claude, Saint-Martin, (par décret
-n° 91-232 du 28 février 1991 (art. 1er), le canton de Saint-Martin a été divisé en deux cantons dénommés Saint-Martin I et
-Saint-Martin II). 
-
-Les Saintes, Trois-Rivières, Vieux-Habitants.
-
-DEPARTEMENT : GUYANE
-
-1e circonscription
-
-COMPOSITION
-
-Cantons de : Cayenne I, Cayenne II, Cayenne III, Cayenne IV, Cayenne V, Cayenne VI, Macouria.
-
-2e circonscription
-
-Cantons de : Approuague-Kaw, Iracoubo, Kourou, Mana, Maripasoula, Matoury, Montsinéry-Tonnégrande, L'Oyapok, Rémire-Montjoly,
-Roura, Saint-Laurent-du-Maroni, Sinnamary.
-
-DEPARTEMENT : MARTINIQUE
-
-1e circonscription
-
-COMPOSITION
-
-Cantons de : L'Ajoupa-Bouillon, Basse-Pointe, Macouba, Gros-Morne, Le Lorrain, Le Marigot, Saint-Joseph, Sainte-Marie I,
-Sainte-Marie II, La Trinité.
-
-2e circonscription
-
-Cantons de : Case-Pilote, Le Carbet, Fort-de-France I, Fort-de-France II, Fort-de-France III, Fort-de-France IX, Fort-de-
-France X, Le Morne-Rouge, Le Prêcheur, Saint-Pierre, Schoelcher I, Schoelcher II.
-
-3e circonscription
-
-Cantons de : Fort-de-France IV, Fort-de-France V, Fort-de-France VI, Fort-de-France VII, Fort-de-France VIII, Le Lamentin I,
-Le Lamentin II, Le Lamentin III. 
-
-4e circonscription
-
-Cantons de : Les Anses-d'Arlets, Le Diamant, Ducos, Le François I, Le François II, Le Marin, Rivière-Pilote, Rivière-Salée,
-Le Robert I, Le Robert II, Saint-Esprit, Sainte-Anne, Sainte-Luce, Les Trois-Ilets, Le Vauclin.
-
-DEPARTEMENT : REUNION
-
-1e circonscription
-
-COMPOSITION
-
-Cantons de : Saint-Denis I, Saint-Denis II, Saint-Denis III, Saint-Denis IV (par décret n° 88-400 du 21 avril 1988 art. 4, en
-remplacement des cantons de Saint-Denis I à IV, ont été créés neuf cantons dénommés Saint-Denis I à IX).
-
-2e circonscription
-
-Cantons de : La Possession, Le Port (par décret n° 88-400 du 21 avril 1988 art. 1er, le canton du Port a été divisé en deux
-cantons dénommés Le Port I et Le Port II), Saint-Paul I, Saint-Paul II, Saint-Paul III (Par décret n° 91-231 du 28 février
-1991 art. 3, en remplacement des cantons de Saint-Paul I à III, ont été créés cinq cantons dénommés Saint-Paul I à V), Les
-Trois-Bassins.
-
-3e circonscription
-
-Cantons de : Les Avirons, Cilaos, Entre-Deux, L'Etang-Salé, Saint-Leu I, Saint-Leu II, Saint-Louis I, Saint-Louis II, Le
-Tampon I, Le Tampon II (par décret n° 88-400 du 21 avril 1988 art. 2, en remplacement des cantons du Tampon I et du Tampon
-II, ont été créés trois cantons dénommés Le Tampon I à III. Par décret du 27 février 1997 art. 3, les cantons du Tampon I et
-du Tampon III ont été remodelés en trois cantons dénommés "Le Tampon I", "Le Tampon III" et "Le Tampon IV").
-
-4e circonscription
-
-Cantons de: Petite-Ile, Saint-Joseph I, Saint-Joseph II, Saint-Philippe, Saint-Pierre I, Saint-Pierre II, Saint-Pierre III
-(par décret n° 88-400 du 21 avril 1988 art. 3, le canton de Saint-Pierre III a été divisé en deux cantons dénommés Saint-
-Pierre III et Saint-Pierre IV), Sainte-Rose).
-
-5e circonscription
-
-Cantons de : Bras-Panon, La Plaine-des-Palmistes, Saint-André (par décret du 27 février 1997 art. 1er, le canton de Saint-
-André I a été divisé en deux cantons dénommés "Saint-André I" et "Saint-André III"), Saint-André II, Saint-Benoît (par décret
-n° 91-231 du 28 février 1991 art. 1, le canton de Saint-Benoît a été divisé en deux cantons dénommés Saint-Benoît I et Saint-
-Benoît II), Sainte-Marie, Sainte-Suzanne, Salazie.
 
 **Nota:**
 
-NOTA : (1) Aux termes de la loi n° 86-97 du 24 novembre 1986, article 3 :
+(1) Aux termes de la loi n° 86-97 du 24 novembre 1986, article 3 : 
 
-"Les limites des cantons, des communes et des arrondissements municipaux auxquels se réfère le tableau n° 1 sont celles qui
-résultent des dispositions en vigueur à la date de publication de ladite loi".
+" Les limites des cantons, des communes et des arrondissements municipaux auxquels se réfère le tableau n° 1 sont celles qui
+résultent des dispositions en vigueur à la date de publication de ladite loi ".
+
+Loi 2007-224 du 21 février 2007 art. 26 I : les présentes dispositions entrent en vigueur à compter du renouvellement général
+de l'Assemblée nationale suivant le renouvellement de juin 2007.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-_Créé par_:
-
-  - Loi n°86-1197 du 24 novembre 1986 - art. 1 (V) JORF 25 novembre 1986
 
 _Cite_:
 
@@ -32316,8 +34599,13 @@ _Cite_:
   - Décret n°97-21 du 13 janvier 1997 - art. 2 (V)
   - Loi n°86-97 1986-11-24 art. 3
 
+_Modifié par_:
 
-## Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés).<a id=246></a>
+  - Décret du 16 août 1989, v. init.
+  - Loi n°2007-224 2007-02-21 art. 9 1° JORF 22 février 2007
+
+
+## Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés).<a id=257></a>
 
 ###### Article Annexe tableau n° 1 bis
 
@@ -32361,7 +34649,7 @@ _Modifié par_:
   - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 () JORF 22 avril 2000
 
 
-## Tableau des secteurs pour l'élection des membres du conseil de Paris<a id=247></a>
+## Tableau des secteurs pour l'élection des membres du conseil de Paris<a id=258></a>
 
 ###### Article Annexe tableau n° 2
 
@@ -32434,7 +34722,7 @@ _Modifié par_:
   - Loi n°82-1170 1982-12-31 art. 4 JORF 1er janvier 1983
 
 
-## Tableau des secteurs pour l'élection des conseillers municipaux de Lyon<a id=248></a>
+## Tableau des secteurs pour l'élection des conseillers municipaux de Lyon<a id=259></a>
 
 ###### Article Annexe tableau n° 3
 
@@ -32477,7 +34765,7 @@ _Modifié par_:
   - Loi n°82-1170 1982-12-31 art. 4 JORF 1er janvier 1983
 
 
-## Tableau des secteurs pour l'élection des conseillers municipaux de Marseille.<a id=249></a>
+## Tableau des secteurs pour l'élection des conseillers municipaux de Marseille.<a id=260></a>
 
 ###### Article Annexe tableau n° 4
 
@@ -32519,180 +34807,799 @@ _Modifié par_:
   - Loi n°87-509 1987-07-09 art. 1 JORF 11 juillet 1987
 
 
-## Répartition des sièges de sénateurs entre les séries<a id=250></a>
+## Répartition des sièges de sénateurs entre les séries<a id=261></a>
 
 ###### Article Annexe tableau n° 5
 
 I. - A compter du renouvellement partiel de 2004, le tableau n° 5 annexé au code électoral et fixant la répartition des
 sièges de sénateurs entre les séries est ainsi rédigé :
 
+<table>
+  <tbody>
+    <tr>
+      <td width="205" colspan="2">
+
+SÉRIE A
+
+</td>
+      <td width="205" colspan="2">
+
+SÉRIE B
+
+</td>
+      <td colspan="2" width="205">
+
+SÉRIE C
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="6" width="614">
+
 Représentation des départements
 
-SÉRIE A :
+</td>
+    </tr>
+    <tr>
+      <td width="102">
 
-Ain à Indre : 95
+Ain à Indre
 
-Guyane : 1
+</td>
+      <td width="102">
 
-= 96
+95
 
-SÉRIE B :
+</td>
+      <td width="102">
 
-Indre-et-Loire à Pyrénées-Orientales : 94
+Indre-et-Loire à Pyrénées-Orientales
 
-La Réunion : 3
+</td>
+      <td width="102">
 
-= 97
+94
 
-SÉRIE C :
+</td>
+      <td width="102">
 
-Bas-Rhin à Yonne : 68 
+Bas-Rhin à Yonne
 
-Essonne à Yvelines : 47 
+</td>
+      <td width="102">
 
-Guadeloupe, Martinique : 5
+68
 
-= 120 
+</td>
+    </tr>
+    <tr>
+      <td width="102">
+
+Guyane
+
+</td>
+      <td width="102">
+
+1
+
+</td>
+      <td width="102">
+
+La Réunion
+
+</td>
+      <td width="102">
+
+3
+
+</td>
+      <td width="102">
+
+Essonne à Yvelines
+
+</td>
+      <td width="102">
+
+47
+
+</td>
+    </tr>
+    <tr>
+      <td width="102">
+      </td><td width="102">
+
+</td>
+      <td width="102">
+      </td><td width="102">
+
+</td>
+      <td width="102">
+
+Guadeloupe, Martinique
+
+</td>
+      <td width="102">
+
+5
+
+</td>
+    </tr>
+    <tr>
+      <td width="102">
+
+</td>
+      <td width="102">
+
+96
+
+</td>
+      <td width="102">
+
+</td>
+      <td width="102">
+
+97
+
+</td>
+      <td width="102">
+      </td><td width="102">
+
+120
+
+</td>
+    </tr>
+    <tr>
+      <td width="614" colspan="6">
 
 Représentation de la Nouvelle-Calédonie, des collectivités d'outre-mer et des Français établis hors de France
 
-SÉRIE A :
+</td>
+    </tr>
+    <tr>
+      <td width="102">
 
-Polynésie française : 1
+Polynésie française
 
-Iles Wallis et Futuna : 1
+</td>
+      <td width="102">
 
-Français établis hors de France : 4
+1
 
-= 102
+</td>
+      <td width="102">
 
-SÉRIE B :
+Nouvelle-Calédonie
 
-Nouvelle-Calédonie : 1
+</td>
+      <td width="102">
 
-Français établis hors de France : 4
+1
 
-= 102
+</td>
+      <td width="102">
 
-SÉRIE C :
+Mayotte
 
-Mayotte : 2 
+</td>
+      <td width="102">
 
-Saint-Pierre-et-Miquelon : 1 
+2
 
-Français établis hors de France : 4
+</td>
+    </tr>
+    <tr>
+      <td width="102">
 
-= 127
+Iles Wallis-et-Futuna
+
+</td>
+      <td width="102">
+
+1
+
+</td>
+      <td width="102">
+
+Français établis hors de France
+
+</td>
+      <td width="102">
+
+4
+
+</td>
+      <td width="102">
+
+Saint-Pierre-et-Miquelon
+
+</td>
+      <td width="102">
+
+1
+
+</td>
+    </tr>
+    <tr>
+      <td width="102">
+
+Français établis hors de France
+
+</td>
+      <td width="102">
+
+4
+
+</td>
+      <td width="102">
+      </td><td width="102">
+
+</td>
+      <td width="102">
+
+Français établis hors de France
+
+</td>
+      <td width="102">
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td width="102">
+
+Total
+
+</td>
+      <td width="102">
+
+102
+
+</td>
+      <td width="102">
+
+</td>
+      <td width="102">
+
+102
+
+</td>
+      <td width="102">
+      </td><td width="102">
+
+127
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 II. - A compter du renouvellement partiel de 2008, le tableau précité est ainsi rédigé :
 
+<table>
+  <tbody>
+    <tr>
+      <td width="205" colspan="2">
+
+SÉRIE A
+
+</td>
+      <td colspan="2" width="205">
+
+SÉRIE B
+
+</td>
+      <td width="205" colspan="2">
+
+SÉRIE C
+
+</td>
+    </tr>
+    <tr>
+      <td width="614" colspan="6">
+
 Représentation des départements
 
-SÉRIE A :
+</td>
+    </tr>
+    <tr>
+      <td width="102">
 
-Ain à Indre : 103
+Ain à Indre
 
-Guyane : 2
+</td>
+      <td width="102">
 
-= 105
+103
 
-SÉRIE B :
+</td>
+      <td width="102">
 
-Indre-et-Loire à Pyrénées-Orientales : 94
+Indre-et-Loire à Pyrénées-Orientales
 
-La Réunion : 3
+</td>
+      <td width="102">
 
-= 97
+94
 
-SÉRIE C :
+</td>
+      <td width="102">
 
-Bas-Rhin à Yonne : 68 
+Bas-Rhin à Yonne
 
-Essonne à Yvelines : 47 
+</td>
+      <td width="102">
 
-Guadeloupe, Martinique : 5
+68
 
-= 120 
+</td>
+    </tr>
+    <tr>
+      <td width="102">
+
+Guyane
+
+</td>
+      <td width="102">
+
+2
+
+</td>
+      <td width="102">
+
+La Réunion
+
+</td>
+      <td width="102">
+
+3
+
+</td>
+      <td width="102">
+
+Essonne à Yvelines
+
+</td>
+      <td width="102">
+
+47
+
+</td>
+    </tr>
+    <tr>
+      <td width="102">
+      </td><td width="102">
+
+</td>
+      <td width="102">
+      </td><td width="102">
+
+</td>
+      <td width="102">
+
+Guadeloupe, Martinique
+
+</td>
+      <td width="102">
+
+5
+
+</td>
+    </tr>
+    <tr>
+      <td width="102">
+
+</td>
+      <td width="102">
+
+105
+
+</td>
+      <td width="102">
+
+</td>
+      <td width="102">
+
+97
+
+</td>
+      <td width="102">
+      </td><td width="102">
+
+120
+
+</td>
+    </tr>
+    <tr>
+      <td width="614" colspan="6">
 
 Représentation de la Nouvelle-Calédonie, des collectivités d'outre-mer et des Français établis hors de France
 
-SÉRIE A :
+</td>
+    </tr>
+    <tr>
+      <td width="102">
 
-Polynésie française : 2
+Polynésie française
 
-Iles Wallis et Futuna : 1
+</td>
+      <td width="102">
 
-Français établis hors de France : 4
+2
 
-= 112
+</td>
+      <td width="102">
 
-SÉRIE B :
+Nouvelle-Calédonie
 
-Nouvelle-Calédonie : 1
+</td>
+      <td width="102">
 
-Français établis hors de France : 4
+1
 
-= 102
+</td>
+      <td width="102">
 
-SÉRIE C :
+Mayotte
 
-Mayotte : 2 
+</td>
+      <td width="102">
 
-Saint-Pierre-et-Miquelon : 1 
+2
 
-Français établis hors de France : 4
+</td>
+    </tr>
+    <tr>
+      <td width="102">
 
-= 127
+Iles Wallis-et-Futuna
+
+</td>
+      <td width="102">
+
+1
+
+</td>
+      <td width="102">
+
+Français établis hors de France
+
+</td>
+      <td width="102">
+
+4
+
+</td>
+      <td width="102">
+
+Saint-Pierre-et-Miquelon
+
+</td>
+      <td width="102">
+
+1
+
+</td>
+    </tr>
+    <tr>
+      <td width="102">
+
+Français établis hors de France
+
+</td>
+      <td width="102">
+
+4
+
+</td>
+      <td width="102">
+      </td><td width="102">
+
+</td>
+      <td width="102">
+
+Français établis hors de France
+
+</td>
+      <td width="102">
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td width="102">
+
+Total
+
+</td>
+      <td width="102">
+
+114
+
+</td>
+      <td width="102">
+
+</td>
+      <td width="102">
+
+102
+
+</td>
+      <td width="102">
+      </td><td width="102">
+
+127
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 III. - A compter du renouvellement partiel de 2011, le tableau précité est ainsi rédigé :
 
+<table>
+  <tbody>
+    <tr>
+      <td width="202" colspan="2">
+
+SÉRIE 1
+
+</td>
+      <td width="202" colspan="2">
+
+SÉRIE 2
+
+</td>
+    </tr>
+    <tr>
+      <td width="403" colspan="4">
+
 Représentation des départements
 
-SÉRIE 1 :
+</td>
+    </tr>
+    <tr>
+      <td width="101">
 
-Indre-et-Loire à Pyrénées-Orientales : 97
+Indre-et-Loire à Pyrénées-Orientales
 
-Seine-et-Marne : 6
+</td>
+      <td width="100">
 
-Essonne à Yvelines : 47 
+97
 
-Guadeloupe, Martinique, La Réunion : 9
+</td>
+      <td width="101">
 
-= 159
+Ain à Indre
 
-SÉRIE 2 :
+</td>
+      <td width="100">
 
-Ain à Indre : 103
+103
 
-Bas-Rhin à Yonne à l'exception de la Seine-et-Marne : 62
+</td>
+    </tr>
+    <tr>
+      <td width="101">
 
-Guyane : 2
+Seine-et-Marne
 
-= 167 
+</td>
+      <td width="100">
+
+6
+
+</td>
+      <td width="101">
+
+Bas-Rhin à Yonne (à l'exception de la Seine-et-Marne)
+
+</td>
+      <td width="100">
+
+62
+
+</td>
+    </tr>
+    <tr>
+      <td width="101">
+
+Essonne à Yvelines
+
+</td>
+      <td width="100">
+
+47
+
+</td>
+      <td width="101">
+
+Guyane
+
+</td>
+      <td width="100">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td width="101">
+
+Guadeloupe, Martinique, La Réunion
+
+</td>
+      <td width="100">
+
+9
+
+</td>
+      <td width="101">
+      </td><td width="100">
+
+</td>
+    </tr>
+    <tr>
+      <td width="101">
+
+</td>
+      <td width="100">
+
+159
+
+</td>
+      <td width="101">
+      </td><td width="100">
+
+167
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="4" width="403">
 
 Représentation de la Nouvelle-Calédonie, des collectivités d'outre-mer et des Français établis hors de France
 
-SÉRIE 1 :
+</td>
+    </tr>
+    <tr>
+      <td width="101">
 
-Mayotte : 2 
+Mayotte
 
-Saint-Pierre-et-Miquelon : 1 
+</td>
+      <td width="100">
 
-Nouvelle-Calédonie : 2
+2
 
-Français établis hors de France : 6
+</td>
+      <td width="101">
 
-= 170
+Polynésie française
 
-SÉRIE 2 :
+</td>
+      <td width="100">
 
-Polynésie française : 2
+2
 
-Iles Wallis et Futuna : 1
+</td>
+    </tr>
+    <tr>
+      <td width="101">
+      </td><td width="100">
 
-Français établis hors de France : 6
+</td>
+      <td width="101">
 
-= 176
+Saint-Barthélemy
+
+</td>
+      <td width="100">
+
+1
+
+</td>
+    </tr>
+    <tr>
+      <td width="101">
+      </td><td width="100">
+
+</td>
+      <td width="101">
+
+Saint-Martin
+
+</td>
+      <td width="100">
+
+1
+
+</td>
+    </tr>
+    <tr>
+      <td width="101">
+
+Saint-Pierre-et-Miquelon
+
+</td>
+      <td width="100">
+
+1
+
+</td>
+      <td width="101">
+
+Iles Wallis-et-Futuna
+
+</td>
+      <td width="100">
+
+1
+
+</td>
+    </tr>
+    <tr>
+      <td width="101">
+
+Nouvelle-Calédonie
+
+</td>
+      <td width="100">
+
+2
+
+</td>
+      <td width="101">
+
+Français établis hors de France
+
+</td>
+      <td width="100">
+
+6
+
+</td>
+    </tr>
+    <tr>
+      <td width="101">
+
+Français établis hors de France
+
+</td>
+      <td width="100">
+
+6
+
+</td>
+      <td width="101">
+      </td><td width="100">
+
+</td>
+    </tr>
+    <tr>
+      <td width="101">
+
+Total
+
+</td>
+      <td width="100">
+
+170
+
+</td>
+      <td width="101">
+
+</td>
+      <td width="100">
+
+178
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
@@ -32702,12 +35609,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-1563 du 15 décembre 2005 - art. 6 () JORF 16 décembre 2005
+  - Loi n°2007-224 du 21 février 2007 - art. 8 () JORF 22 février 2007
 
 
-## Election des sénateurs<a id=251></a>
+## Election des sénateurs<a id=262></a>
 
-### Nombre de sénateurs représentant les départements<a id=252></a>
+### Nombre de sénateurs représentant les départements<a id=263></a>
 
 ###### Article Annexe tableau n° 6
 
@@ -32936,7 +35843,7 @@ _Modifié par_:
   - Loi n°2003-697 du 30 juillet 2003 - art. 1 () JORF 31 juillet 2003
 
 
-## Effectif des conseils régionaux et nombre de candidats par section départementale<a id=253></a>
+## Effectif des conseils régionaux et nombre de candidats par section départementale<a id=264></a>
 
 ###### Article Annexe tableau n° 7
 
