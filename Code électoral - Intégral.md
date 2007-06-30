@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2007-06-01
+Version Consolidée au 2007-07-01
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -149,7 +149,7 @@ Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna (
     - [Livre Ier  : Election des députés, des conseillers généraux et des conseillers municipaux des départements (art. R1 à R130)](#145)
       - [Titre Ier  : Dispositions communes à l'élection des députés, des conseillers généraux et des conseillers municipaux (art. R1 à R97)](#146)
         - [Chapitre II : Listes électorales (art. R1 à R25)](#147)
-          - [Section 1 : Conditions d'inscription sur une liste électorale (art. R1 à R4-1)](#148)
+          - [Section 1 : Conditions d'inscription sur une liste électorale (art. R1 à R2)](#148)
           - [Section 2 : Etablissement et révision des listes électorales (art. R3 à R17-1)](#149)
           - [Section 3 : Inscription en dehors des périodes de révision (art. R17-2)](#150)
           - [Section 4 : Contrôle des inscriptions sur les listes électorales (art. R17 à R22)](#151)
@@ -1215,22 +1215,19 @@ _Cité par_:
 ###### Article L15-1
 
 Les citoyens qui ne peuvent fournir la preuve d'un domicile ou d'une résidence et auxquels la loi n'a pas fixé une commune de
-rattachement sont, sur leur demande, inscrits sur la liste électorale de la commune où est situé l'organisme d'accueil
-agréé :
+rattachement sont, sur leur demande, inscrits sur la liste électorale de la commune où est situé l'organisme d'accueil agréé
+dans les conditions prévues aux articles L. 264-6 et L. 264-7 du code de l'action sociale et des familles :
 
 - dont l'adresse figure depuis au moins six mois sur leur carte nationale d'identité ;
 
-- ou qui leur a fourni une attestation établissant leur lien avec lui depuis au moins six mois.
+- ou qui leur a fourni l'attestation mentionnée à l'article L. 264-2 du même code établissant leur lien avec lui depuis au
+moins six mois.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Créé par_:
-
-  - Loi n°98-657 du 29 juillet 1998 - art. 81 ()
 
 _Cité par_:
 
@@ -1241,6 +1238,16 @@ _Cité par_:
   - Code électoral - art. R1 (VD)
   - Code électoral - art. R4-1 (Ab)
   - Code électoral - art. R5 (VD)
+
+_Modifié par_:
+
+  - Loi n°2007-290 du 5 mars 2007 - art. 51 (V)
+
+_Cite_:
+
+  - Code de l'action sociale et des familles - art. L264-2 (V)
+  - Code de l'action sociale et des familles - art. L264-6 (V)
+  - Code de l'action sociale et des familles - art. L264-7 (V)
 
 
 ##### Section 2 : Etablissement et révision des listes électorales<a id=7></a>
@@ -21381,38 +21388,6 @@ _Modifié par_:
 _Cité par_:
 
   - Code électoral - art. R*4 (M)
-
-
-###### Article R4-1
-
-Les organismes d'accueil prévus à l'article L. 15-1 sont ceux figurant sur la liste établie dans les conditions fixées pour
-l'établissement de la carte nationale d'identité.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Cité par_:
-
-  - Décret n°79-160 du 28 février 1979 - art. 20 (V)
-  - Code électoral - art. R*179 (M)
-  - Code électoral - art. R176 (Ab)
-  - Code électoral - art. R204 (M)
-
-_Modifié par_:
-
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 1 () JORF 13 octobre 2006
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
-
-_Abrogé par_:
-
-  - Décret n°2007-893 du 15 mai 2007 - art. 3 () JORF 15 mai 2007 en vigueur le 1er juillet 2007
-
-_Cite_:
-
-  - Code électoral - art. L15-1 (M)
 
 
 ##### Section 2 : Etablissement et révision des listes électorales<a id=149></a>
