@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2007-12-09
+Version Consolidée au 2008-01-16
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [LIVRE I : ELECTION DES DEPUTES, DES CONSEILLERS GENERAUX ET DES CONSEILLERS MUNICIPAUX DES DEPARTEMENTS (art. L1 à L273)](#2)
@@ -29076,9 +29076,13 @@ des études économiques" ;
 
 3° "Services du haut-commissaire", au lieu de : "préfecture" ;
 
-4° "Secrétaire général du haut-commissariat", au lieu de : "Secrétaire général de préfecture" ;
+4° "Secrétaire général du haut-commissariat", au lieu de :
 
-5° "Services du chef de subdivision administrative", au lieu de : "sous-préfecture" ;
+"Secrétaire général de préfecture" ;
+
+5° "Services du chef de subdivision administrative", au lieu de :
+
+"sous-préfecture" ;
 
 6° "Subdivision administrative", au lieu de : "arrondissement", et : "chef de subdivision administrative", au lieu de :
 
@@ -29096,17 +29100,16 @@ des études économiques" ;
 
 12° "Chambre territoriale des comptes", au lieu de : "chambre régionale des comptes" ;
 
-13° "Chef du service des affaires économiques", au lieu de : "directeur départemental des enquêtes européennes" ;
+13° "Chef du service des affaires économiques", au lieu de :
 
-14° (Abrogé) ;
+"directeur départemental des enquêtes européennes" ;
+
+14° "Un agent désigné par le directeur de l'office des postes et télécommunications de la Polynésie française" au lieu de : "
+Un fonctionnaire désigné par le directeur départemental des postes et télécommunications" ; 
 
 15° "Archives de la Polynésie française", au lieu de : "archives départementales".
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
 
 _Cité par_:
 
@@ -29118,7 +29121,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 7 () JORF 13 octobre 2006
+  - Décret n°2008-42 du 14 janvier 2008 - art. 1
 
 
 ###### Article R203
@@ -30474,33 +30477,30 @@ _Modifié par_:
 
 ###### Article R243
 
-L'état des listes de candidats dont la déclaration a été définitivement enregistrée est arrêté, dans l'ordre de dépôt des
-listes pour chaque circonscription, par le haut-commissaire de la République et publié au Journal officiel de la Polynésie
-française au plus tard quatre jours après la date de clôture du dépôt des listes. Il est notifié aux maires.
+L'état des listes de candidats dont la déclaration a été définitivement enregistrée est arrêté, pour chaque circonscription,
+par le haut-commissaire de la République et publié au Journal officiel de la Polynésie française au plus tard quatre jours
+après la date de clôture du dépôt des listes pour le premier tour de scrutin, et deux jours après la date de clôture des
+listes pour le second tour. Il est notifié aux maires. 
 
-Cet état indique, par circonscription et pour chaque liste :
+Cet état indique, par circonscription et pour chaque liste : 
 
-1° Le titre de la liste ;
+1° Le titre de la liste ; 
 
 2° Les nom et prénoms des candidats énumérés dans l'ordre de leur présentation sur la liste tel qu'il résulte de la
-déclaration.
+déclaration. 
 
-Il indique également le cas échéant :
+Il indique également le cas échéant : 
 
-1° L'emblème choisi par la liste pour ses bulletins de vote ;
+1° L'emblème choisi par la liste pour ses bulletins de vote ; 
 
 2° La couleur choisie par la liste pour ses bulletins de vote ou celle qui lui a été attribuée en application des
 dispositions de l'article R. 209.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
 _Modifié par_:
 
-  - Décret n°2004-327 2004-04-14 art. 1 2° JORF 16 avril 2004
+  - Décret n°2008-42 du 14 janvier 2008 - art. 1
 
 _Cite_:
 
@@ -30759,14 +30759,16 @@ verbaux.
 
 La commission procède, s'il y a lieu, au redressement des chiffres portés sur les procès-verbaux.
 
-La commission détermine le quotient électoral, en divisant le nombre de suffrages exprimés dans la circonscription par le
-nombre de sièges à pourvoir à l'assemblée. Il est attribué à chaque liste autant de sièges de représentant à l'assemblée de
-la Polynésie française que le nombre de suffrages de la liste contient de fois le quotient électoral. Les sièges non répartis
-sont attribués selon la règle de la plus forte moyenne. A cet effet, les sièges sont conférés successivement à celle des
-listes pour laquelle la division du nombre de suffrages recueillis par le nombre de sièges qui lui ont déjà été attribués,
-plus un, donne le plus fort résultat. Si plusieurs listes ont la même moyenne pour l'attribution du dernier siège, elle
-attribue celui-ci à la liste qui a obtenu le plus grand nombre de suffrages. En cas d'égalité des suffrages, le siège est
-attribué au plus âgé des candidats susceptibles d'être proclamés élus.
+Au premier tour de scrutin ou, si aucune liste n'a recueilli au premier tour la majorité absolue des suffrages exprimés, au
+second tour, la commission détermine le quotient électoral, en divisant le nombre de suffrages exprimés dans la
+circonscription par le nombre de sièges à pourvoir à l'assemblée. Il est attribué à chaque liste autant de sièges de
+représentant à l'assemblée de la Polynésie française que le nombre de suffrages de la liste contient de fois le quotient
+électoral. Les sièges non répartis sont attribués selon la règle de la plus forte moyenne. A cet effet, les sièges sont
+conférés successivement à celle des listes pour laquelle la division du nombre de suffrages recueillis par le nombre de
+sièges qui lui ont déjà été attribués, plus un, donne le plus fort résultat. Si plusieurs listes ont la même moyenne pour
+l'attribution du dernier siège, elle attribue celui-ci à la liste qui a obtenu le plus grand nombre de suffrages dans la
+circonscription. En cas d'égalité des suffrages, le siège est attribué au plus âgé des candidats susceptibles d'être
+proclamés élus.
 
 Seules les listes ayant obtenu au moins 5 % des suffrages exprimés sont admises à la répartition des sièges.
 
@@ -30779,13 +30781,9 @@ Les résultats de l'élection sont publiés au Journal officiel de la Polynésie
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
 _Modifié par_:
 
-  - Décret n°2007-998 du 31 mai 2007 - art. 2 () JORF 1er juin 2007
+  - Décret n°2008-42 du 14 janvier 2008 - art. 1
 
 
 ### Titre V : Dispositions applicables à l'élection des membres de l'assemblée territoriale des îles  Wallis et Futuna<a id=227></a>
