@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2009-04-22
+Version Consolidée au 2009-05-14
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers généraux et des conseillers municipaux (art. L1 à L273)](#2)
@@ -2039,7 +2039,8 @@ _Codifié par_:
 
 ###### Article L30
 
-Peuvent être inscrits sur les listes électorales en dehors des périodes de révision :
+Peuvent être inscrits sur les listes électorales en dehors des périodes de révision et lorsque les électeurs sont convoqués
+pour un scrutin :
 
 1° Les fonctionnaires et agents des administrations publiques mutés ou admis à faire valoir leurs droits à la retraite après
 la clôture des délais d'inscription ainsi que les membres de leur famille domiciliés avec eux à la date de la mutation ou de
@@ -2048,6 +2049,10 @@ la mise à la retraite ;
 2° Les militaires renvoyés dans leurs foyers après avoir satisfait à leurs obligations légales d'activité, libérés d'un
 rappel de classe ou démobilisés après la clôture des délais d'inscription, ainsi que ceux ayant changé de domicile lors de
 leur retour à la vie civile ;
+
+2° bis Les personnes qui établissent leur domicile dans une autre commune pour un motif professionnel autre que ceux visés
+aux 1° et 2° après la clôture des délais d'inscription, ainsi que les membres de leur famille domiciliés avec elles à la date
+du changement de domicile ; 
 
 3° Les Français et Françaises remplissant la condition d'âge exigée pour être électeur, après la clôture des délais
 d'inscription ;
@@ -2059,10 +2064,6 @@ d'inscription ;
 décision de justice.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 _Cité par_:
 
@@ -2119,7 +2120,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°93-933 du 22 juillet 1993 - art. 49 () JORF 23 juillet 1993
+  - Loi n°2009-526 du 12 mai 2009 - art. 2
 
 
 ###### Article L31
@@ -2146,14 +2147,10 @@ _Cité par_:
 
 ###### Article L32
 
-Les demandes sont examinées par le juge du tribunal d'instance qui statue dans un délai de quinze jours et au plus tard
-quatre jours avant le jour du scrutin.
+Les demandes d'inscription sont examinées par la commission administrative prévue à l'article L. 17, qui statue au plus tard
+cinq jours avant le jour du scrutin.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 _Cité par_:
 
@@ -2161,25 +2158,74 @@ _Cité par_:
   - Code électoral - art. R*17-2 (M)
   - Code électoral - art. R*4 (M)
 
+_Modifié par_:
+
+  - Loi n°2009-526 du 12 mai 2009 - art. 2
+
+_Cite_:
+
+  - Code électoral - art. L17
+
 
 ###### Article L33
 
-Les décisions du juge du tribunal d'instance sont notifiées dans les deux jours de leur date, par lettre recommandée, avec
-accusé de réception, à l'intéressé et, s'il y a lieu, au maire de la commune d'inscription.
+Les décisions de la commission administrative sont notifiées dans les deux jours de leur date par le maire à l'intéressé et,
+s'il y a lieu, au maire de la commune de radiation. 
 
-Celui-ci inscrit l'électeur sur les listes électorales ainsi que sur le tableau de rectification publié cinq jours avant la
-réunion des électeurs ; si le tableau de rectification est déjà publié, le maire procède à un affichage spécial.
+Il inscrit l'électeur sur les listes électorales ainsi que sur le tableau de rectification publié cinq jours avant la réunion
+des électeurs ; si le tableau de rectification est déjà publié, le maire procède à un affichage spécial.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
+
+Se reporter aux dispositions du III dudit article 5 en ce qui concerne les dérogations aux dispositions des I et II du même
+article.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Loi n°2009-526 du 12 mai 2009 - art. 2
+
+_Abrogé par_:
+
+  - Loi n°2016-1048 du 1er août 2016 - art. 6
 
 _Cité par_:
 
   - Code électoral - art. R*17-2 (M)
   - Code électoral - art. R*4 (M)
+
+
+###### Article L33-1
+
+Les décisions de la commission administrative prises sur le fondement de l'article L. 30 peuvent être contestées par les
+électeurs intéressés, par tout électeur inscrit sur la liste électorale de la commune, par le préfet ou par le sous-préfet
+devant le tribunal d'instance, qui a compétence pour statuer jusqu'au jour du scrutin.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
+
+Se reporter aux dispositions du III dudit article 5 en ce qui concerne les dérogations aux dispositions des I et II du même
+article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-526 du 12 mai 2009 - art. 2
+
+_Abrogé par_:
+
+  - Loi n°2016-1048 du 1er août 2016 - art. 6
+
+_Cite_:
+
+  - Code électoral - art. L30
 
 
 ###### Article L34
@@ -9528,7 +9574,7 @@ _Modifié par_:
 ###### Article L221
 
 Le conseiller général dont le siège devient vacant pour cause de décès, de démission intervenue en application des articles
-L. 46-1, L. 46-2 ou LO 151-1 du présent code, de présomption d'absence au sens de l'article 112 du code civil ou
+L. 46-1,L. 46-2, LO 151ou LO 151-1 du présent code, de présomption d'absence au sens de l'article 112 du code civil ou
 d'acceptation de la fonction de membre du Conseil constitutionnel, est remplacé jusqu'au renouvellement de la série dont il
 est issu par la personne élue en même temps que lui à cet effet. 
 
@@ -9541,16 +9587,11 @@ se fait à la même époque.
 Le président du conseil général est chargé de veiller à l'exécution du présent article. Il adresse ses réquisitions au
 représentant de l'Etat dans le département et, s'il y a lieu, au ministre de l'Intérieur.
 
-**Nota:**
-
-Loi 2007-128 du 31 janvier 2007 art. 4 II : Les dispositions de cet article entrent en vigueur à compter du premier
-renouvellement par moitié des conseils généraux qui suit la publication de la présente loi. (Date indéterminée).
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2008-175 du 26 février 2008 - art. unique.
+  - Loi n°2009-526 du 12 mai 2009 - art. 81
 
 _Cité par_:
 
@@ -9563,10 +9604,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code électoral - art. L46-1 (V)
-  - Code électoral - art. L46-2 (V)
-  - Code électoral - art. LO151-1 (V)
-  - Code civil - art. 112 (V)
+  - Code électoral - art. L46-1
+  - Code électoral - art. L46-2
+  - Code électoral - art. LO151
+  - Code électoral - art. LO151-1
+  - Code civil - art. 112
 
 
 #### Chapitre IX : Contentieux<a id=44></a>
@@ -14935,38 +14977,38 @@ _Modifié par_:
 ###### Article L388
 
 Les dispositions du titre Ier du livre Ier du présent code, dans leur rédaction en vigueur à la date de promulgation de la
-loi n° 2007-224 du 21 février 2007 portant dispositions statutaires et institutionnelles relatives à l'outre-mer, à
-l'exception des articles L. 15, L. 15-1, L. 46-1 et L. 66, sont applicables à l'élection :
+loi n° 2009-526 du 12 mai 2009 de simplification et de clarification du droit et d'allègement des procédures, à l'exception
+des articles L. 15, L. 15-1, L. 46-1 et L. 66, sont applicables à l'élection : 
 
-1° Des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna ;
+1° Des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna ; 
 
 2° Des membres du congrès et des assemblées de province de la Nouvelle-Calédonie, sous réserve de l'application des
-dispositions du titre V de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie ;
+dispositions du titre V de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie ; 
 
 3° Des représentants à l'assemblée de la Polynésie française, sous réserve des dispositions de la loi organique n° 2004-192
-du 27 février 2004 portant statut d'autonomie de la Polynésie française ;
+du 27 février 2004 portant statut d'autonomie de la Polynésie française ; 
 
 4° Des membres de l'assemblée territoriale des îles Wallis et Futuna, sous réserve des dispositions de la section III du
-titre III de la loi n° 61-814 du 29 juillet 1961 conférant aux îles de Wallis et Futuna le statut de territoire d'outre-mer ;
+titre III de la loi n° 61-814 du 29 juillet 1961 conférant aux îles de Wallis et Futuna le statut de territoire d'outre-
+mer ; 
 
-5° Des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française.
+5° Des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française. 
+
+Le présent article, dans sa rédaction issue de la loi n° 2009-526 du 12 mai 2009 précitée, entre en vigueur en Nouvelle-
+Calédonie le 11 mai 2009.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°61-814 1961-07-29
-  - Loi n°99-209 1999-03-19
-  - Loi n°2004-192 2004-02-27
-  - Loi n°2007-224 2007-02-21
-  - Code électoral - art. L15 (V)
-  - Code électoral - art. L15-1 (M)
-  - Code électoral - art. L46-1 (M)
-  - Code électoral - art. L66 (V)
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+  - Loi n°61-814 du 29 juillet 1961
+  - Loi n°99-209 du 19 mars 1999
+  - Loi organique n°2004-192 du 27 février 2004
+  - Loi n°2009-526 du 12 mai 2009 (V)
+  - Code électoral - art. L15
+  - Code électoral - art. L15-1
+  - Code électoral - art. L46-1
+  - Code électoral - art. L66
 
 _Cité par_:
 
@@ -14976,7 +15018,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2007-224 2007-02-21 art. 9 1° JORF 22 février 2007
+  - Loi n°2009-526 du 12 mai 2009 - art. 2
 
 
 ###### Article L389
