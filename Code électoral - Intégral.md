@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2009-05-14
+Version Consolidée au 2009-07-01
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers généraux et des conseillers municipaux (art. L1 à L273)](#2)
@@ -30235,20 +30235,20 @@ _Modifié par_:
 
 ###### Article R233
 
-L'état des listes de candidats dont la déclaration a été définitivement enregistrée est arrêté, dans l'ordre du dépôt des
-listes pour chaque province, par le haut-commissaire et publié au Journal officiel de la Nouvelle-Calédonie au plus tard le
-troisième samedi précédant la date du scrutin. Il est notifié aux maires.
+L'état des listes de candidats dont la déclaration a été définitivement enregistrée est arrêté, dans l'ordre résultant du
+tirage au sort prévu à l'article R. 28 pour chaque province, par le haut-commissaire et publié au Journal officiel de la
+Nouvelle-Calédonie au plus tard le troisième samedi précédant la date du scrutin. Il est notifié aux maires. 
 
-Cet état indique par circonscription et pour chaque liste :
+Cet état indique par circonscription et pour chaque liste : 
 
-1° Le titre de la liste ;
+1° Le titre de la liste ; 
 
 2° Les nom, prénoms et sexe des candidats énumérés dans l'ordre de leur présentation sur la liste tel qu'il résulte de la
-déclaration.
+déclaration. 
 
-Il indique également, le cas échéant :
+Il indique également, le cas échéant : 
 
-1° L'emblème choisi par la liste pour ses bulletins de vote ;
+1° L'emblème choisi par la liste pour ses bulletins de vote ; 
 
 2° La couleur choisie par la liste pour ses bulletins de vote ou celle qui lui a été attribuée en application de l'article R.
 209.
@@ -30260,13 +30260,9 @@ le 1er juillet 2009
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Créé par_:
-
-  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+  - Décret n°2009-430 du 20 avril 2009 - art. 8
 
 _Cité par_:
 
@@ -30277,6 +30273,7 @@ _Cité par_:
 _Cite_:
 
   - Code électoral - art. R209 (V)
+  - Code électoral - art. R28 (V)
 
 
 ###### Article R234
