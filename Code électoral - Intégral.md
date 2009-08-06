@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2009-08-01
+Version Consolidée au 2009-08-07
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers généraux et des conseillers municipaux (art. L1 à L273)](#2)
@@ -2619,11 +2619,11 @@ _Codifié par_:
 Les fonctions de militaire de carrière ou assimilé, en activité de service ou servant au-delà de la durée légale, sont
 incompatibles avec les mandats qui font l'objet du livre I.
 
+Ces dispositions ne sont pas applicables au réserviste exerçant une activité en vertu d'un engagement à servir dans la
+réserve opérationnelle ou au titre de la disponibilité. Toutefois, le réserviste de la gendarmerie nationale ne peut exercer
+cette activité au sein de sa circonscription.
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 _Cité par_:
 
@@ -2634,6 +2634,10 @@ _Cité par_:
   - Code électoral - art. L239 (V)
   - Code électoral - art. L342 (V)
   - Code électoral - art. L558-15 (V)
+
+_Modifié par_:
+
+  - Loi n°2009-971 du 3 août 2009 - art. 13
 
 
 ###### Article L46-1
@@ -16470,7 +16474,9 @@ présentées par les partis et groupements politiques représentés au congrès 
 
 Le Conseil supérieur de l'audiovisuel détermine le temps attribué à chaque liste en fonction de la représentation des partis
 et groupements politiques au congrès. Cette représentation est constatée au plus tard deux mois avant la date d'expiration du
-mandat du congrès, au vu de la déclaration individuelle de rattachement faite par chaque élu sortant.
+mandat du congrès, au vu de la déclaration individuelle de rattachement faite par chaque élu sortant. En cas de dissolution
+du congrès, la déclaration individuelle de rattachement est faite dans les huit jours qui suivent la publication du décret de
+dissolution au Journal officiel de la Nouvelle-Calédonie.
 
 Les listes peuvent décider d'utiliser en commun leur temps de parole.
 
@@ -16494,13 +16500,9 @@ l'événement qui a rendu cette élection nécessaire.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Créé par_:
-
-  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
+  - Loi n°2009-970 du 3 août 2009 - art. 9
 
 
 ###### Article L405
