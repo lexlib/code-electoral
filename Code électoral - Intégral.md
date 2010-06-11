@@ -1,10 +1,10 @@
 # Code électoral  
-Version Consolidée au 2009-08-07
+Version Consolidée au 2010-06-12
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers généraux et des conseillers municipaux (art. L1 à L273)](#2)
       - [Titre Ier : Dispositions communes à l'élection des députés, des conseillers généraux et des  conseillers municipaux (art. L1 à L118-3)](#3)
-        - [Chapitre Ier : Conditions requises pour être électeur (art. L1 à L7)](#4)
+        - [Chapitre Ier : Conditions requises pour être électeur (art. L1 à L6)](#4)
         - [Chapitre II : Listes électorales (art. L9 à L43)](#5)
           - [Section 1 : Conditions d'inscription sur une liste électorale (art. L9 à L15-1)](#6)
           - [Section 2 : Etablissement et révision des listes électorales (art. L16 à L29)](#7)
@@ -761,84 +761,6 @@ _Codifié par_:
 _Modifié par_:
 
   - Loi n°92-1336 du 16 décembre 1992 - art. 160 ()
-
-
-###### Article L7
-
-Ne doivent pas être inscrites sur la liste électorale, pendant un délai de cinq ans à compter de la date à laquelle la
-condamnation est devenue définitive, les personnes condamnées pour l'une des infractions prévues par les articles 432-10 à
-432-16, 
-433-1, 433-2, 
-433-3 et 433-4 du code pénal ou pour le délit de recel de l'une de ces infractions, défini par les articles 321-1 et 321-2 du
-code pénal.
-
-**Nota:**
-
-Le Conseil constitutionnel, dans sa décision n° 2010-6/7 QPC du 11 juin 2010 (NOR : CSCX1015594S), a déclaré l'article L. 7
-du code électoral contraire à la Constitution.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°46-2769 du 27 novembre 1946 - art. 56 (V)
-  - Décret n°51-721 du 8 juin 1951 - art. 3 (Ab)
-  - Décret n°72-350 du 2 mai 1972 - art. 16 (Ab)
-  - Décret n°82-451 du 28 mai 1982 - art. 14 (V)
-  - Décret n°82-452 du 28 mai 1982 - art. 10 (VT)
-  - Loi n°82-471 du 7 juin 1982 - art. 2 (M)
-  - Décret n°82-970 du 16 novembre 1982 - art. 30 (M)
-  - Arrêté du 18 juin 1984 - art. 3 (V)
-  - Décret n°85-565 du 30 mai 1985 - art. 11 (M)
-  - Décret n°85-565 du 30 mai 1985 - art. 5 (VD)
-  - Décret n°85-924 du 30 août 1985 - art. 25 (M)
-  - Décret n°85-1003 du 19 septembre 1985 - art. 12 (Ab)
-  - Décret n°88-950 du 6 octobre 1988 - art. 7 (Ab)
-  - Décret n°89-229 du 17 avril 1989 - art. 11 (VD)
-  - Arrêté du 29 avril 1996 - art. 3 (V)
-  - Ordonnance n°96-1122 du 20 décembre 1996 - art. 23 (V)
-  - Décret n°97-813 du 27 août 1997 - art. 7 (Ab)
-  - Décret n°98-596 du 13 juillet 1998 - art. 8 (V)
-  - Décret n°98-644 du 22 juillet 1998 - art. 1 (V)
-  - Arrêté du 21 juin 2004 - art. 3 (V)
-  - Décret n°2005-1635 du 26 décembre 2005 - art. 6 (V)
-  - Décret n°2007-730 du 7 mai 2007 - art. 6 (V)
-  - Arrêté du 10 octobre 2014 - art. 8 (Ab)
-  - Code de la mutualité - art. L125-3 (Ab)
-  - Code de la route. - art. R327-12 (Ab)
-  - Code de la sécurité sociale. - art. D231-7 (M)
-  - Code de la sécurité sociale. - art. L231-6 (V)
-  - Code du travail - art. R1423-15 (VD)
-  - Code du travail - art. R236-26 (VT)
-  - Code rural - art. L723-24 (M)
-  - Code électoral - art. L199 (M)
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°95-65 1995-01-19 art. 26 :
-  - SPEC_APPLI: La présente loi est applicable dans les territoires d'outre-mer et la collectivité territoriale de Mayotte
-
-_Créé par_:
-
-  - Loi n°95-65 du 19 janvier 1995 - art. 10 ()
-
-_Abrogé par_:
-
-  - Décision n°2010-6/7 QPC du 11 juin 2010, v. init.
-
-_Cite_:
-
-  - Code pénal - art. 321-1 (V)
-  - Code pénal - art. 321-2 (V)
-  - Code pénal - art. 432-10 (V)
-  - Code pénal - art. 433-1 (V)
-  - Code pénal - art. 433-2 (V)
-  - Code pénal - art. 433-3 (V)
-  - Code pénal - art. 433-4 (V)
 
 
 #### Chapitre II : Listes électorales<a id=5></a>
