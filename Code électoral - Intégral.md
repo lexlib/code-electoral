@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2010-06-12
+Version Consolidée au 2010-06-30
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers généraux et des conseillers municipaux (art. L1 à L273)](#2)
@@ -7109,7 +7109,7 @@ _Codifié par_:
 
 ###### Article LO139
 
-Le mandat de député est incompatible avec la qualité de membre du conseil économique et social.
+Le mandat de député est incompatible avec la qualité de membre du Conseil économique, social et environnemental.
 
 **Liens relatifs à cet article**
 
@@ -7119,13 +7119,9 @@ _Cité par_:
   - Loi n°77-729 du 7 juillet 1977 - art. 6 (V)
   - Code électoral - art. LO151-1 (V)
 
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
 _Modifié par_:
 
-  - Loi n°2000-294 du 5 avril 2000 - art. 16 ()
+  - Loi organique n°2010-704 du 28 juin 2010 - art. 21 (V)
 
 
 ###### Article LO140
@@ -18359,8 +18355,8 @@ I. - Le mandat de conseiller général est incompatible :
 1° Avec les fonctions de représentant de l'Etat, directeur de cabinet, secrétaire général, secrétaire général adjoint et
 directeur de préfecture ;
 
-2° Avec la qualité de membre du conseil économique et social ou du conseil de la culture, de l'éducation et de
-l'environnement de Mayotte ;
+2° Avec la qualité de membre du Conseil économique, social et environnemental ou du conseil de la culture, de l'éducation et
+de l'environnement de Mayotte ;
 
 3° Avec la qualité de membre d'une assemblée ou d'un exécutif d'une collectivité à statut particulier régie par le premier
 alinéa de l'article 72 de la Constitution, d'une collectivité mentionnée au dernier alinéa de l'article 73 de la
@@ -18390,25 +18386,26 @@ agences créés par elle ;
 II. - Un conseiller général ne peut cumuler son mandat avec plus d'un des mandats suivants : conseiller municipal, député ou
 sénateur, représentant au Parlement européen.
 
+**Nota:**
+
+En application du décret n° 2010-1399 du 12 novembre 2010, les collèges électoraux sont convoqués le dimanche 20 mars 2011,
+et le 27 mars en cas de deuxième tour.
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Loi organique n°2010-704 du 28 juin 2010 - art. 21 (V)
 
-_Créé par_:
+_Abrogé par_:
 
-  - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
+  - Loi organique n°2010-1486 du 7 décembre 2010 - art. 3 (M)
 
 _Cité par_:
 
   - Code de justice administrative - art. L231-7 (VD)
   - Code électoral - art. LO467 (VT)
   - Code électoral - art. LO469 (VT)
-
-_Cite_:
-
-  - Code électoral - art. LO461 (V)
 
 
 ###### Article LO466
