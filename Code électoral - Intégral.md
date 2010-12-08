@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2010-09-01
+Version Consolidée au 2010-12-09
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers généraux et des conseillers municipaux (art. L1 à L273)](#2)
@@ -18101,28 +18101,28 @@ _Créé par_:
 
 ###### Article L463
 
-Une commission de propagande est chargée d'assurer l'envoi et la distribution des documents de propagande électorale.
+Pour son application à Mayotte, l'article L. 216 est complété par un alinéa ainsi rédigé : 
 
-L'Etat prend à sa charge les dépenses provenant des opérations faites par la commission de propagande, celles résultant de
-son fonctionnement, ainsi que le coût du papier et l'impression des bulletins de vote, circulaires et frais d'affichage pour
-les candidats ayant obtenu au moins 5 % des suffrages exprimés à l'un des deux tours de scrutin.
-
-Les dépenses liées à la campagne audiovisuelle officielle sont également à sa charge.
+" Les dépenses liées à la campagne audiovisuelle officielle sont également à sa charge. "
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+  - Loi n°2010-1487 du 7 décembre 2010 - art. 8
 
 _Cité par_:
 
   - Code électoral - art. D299 (Ab)
   - Code électoral - art. R297 (VT)
+
+_Cite_:
+
+  - Code électoral - art. L216 (VT)
 
 
 ###### Article L464
