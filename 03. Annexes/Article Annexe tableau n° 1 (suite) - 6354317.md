@@ -8,7 +8,7 @@
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 2e cir-   │ Cantons de : La Chapelle-la-Reine, Château-Landon, Fontainebleau, Lorrez-le-Bocage-Préaux, Nemours.           ┃
+┃ 2e cir-   │ Cantons de : La Chapelle-la-Reine, Château-Landon, Fontainebleau, Lorrez-le-Bocage-Préaux, Nemours            ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
@@ -17,7 +17,7 @@
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ 4e cir-   │ Cantons de : Bray-sur-Seine, Donnemarie-Dontilly, La Ferté-Gaucher, Nangis, Provins, Rebais, Rozay-en-Brie,   ┃
-┃ conscrip- │ Villiers-Saint-Georges.                                                                                       ┃
+┃ conscrip- │ Villiers-Saint-Georges                                                                                        ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ 5e cir-   │ Cantons de : Coulommiers, Crécy-la-Chapelle, La Ferté-sous-Jouarre Communes de : Bailly-Romainvilliers, Ma-   ┃
@@ -63,11 +63,11 @@
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 4e cir-   │ Cantons de : Chatou, Houilles, Marly-le-Roi.                                                                  ┃
+┃ 4e cir-   │ Cantons de : Chatou, Houilles, Marly-le-Roi                                                                   ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 5e cir-   │ Cantons de Maisons-Laffitte, Sartrouville, Le Vésinet.                                                        ┃
+┃ 5e cir-   │ Cantons de : Maisons-Laffitte, Sartrouville, Le Vésinet                                                       ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
@@ -75,15 +75,15 @@
 ┃ conscrip- │ Poissy, Médan et Villennes-sur-Seine                                                                          ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 7e cir-   │ Cantons de: Andrésy, Conflans-Sainte-Honorine, Meulan (moins les communes des Mureaux et de Chapet), Triel-   ┃
-┃ conscrip- │ sur-Seine.                                                                                                    ┃
+┃ 7e cir-   │ Cantons de : Andrésy, Conflans-Sainte-Honorine, Meulan (moins les communes des Mureaux et de Chapet), Triel-  ┃
+┃ conscrip- │ sur-Seine                                                                                                     ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 8e cir-   │ Cantons de: Limay, Mantes-la-Jolie, Mantes-la-Ville.                                                          ┃
+┃ 8e cir-   │ Cantons de : Limay, Mantes-la-Jolie, Mantes-la-Ville                                                          ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 9e cir-   │ Cantons de: Aubergenville, Bonnières-sur-Seine, Guerville, Houdan. Communes de : Les Mureaux, Chapet.         ┃
+┃ 9e cir-   │ Cantons de : Aubergenville, Bonnières-sur-Seine, Guerville, Houdan Communes de : Les Mureaux, Chapet          ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
@@ -158,7 +158,7 @@
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ 2e cir-   │ Cantons de : Auvillar, Beaumont-de-Lomagne, Bourg-de-Visa, Castelsarrasin I, Castelsarrasin II, Grisolles,    ┃
 ┃ conscrip- │ Lauzerte, Lavit, Moissac I, Moissac II, Montech, Montaigu-de-Quercy, Saint-Nicolas-de-la-Grave, Valence, Ver- ┃
-┃ tion      │ dun-sur-Garonne.                                                                                              ┃
+┃ tion      │ dun-sur-Garonne                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ Var                                                                                                                       ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
@@ -196,7 +196,7 @@
 ┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ Vaucluse                                                                                                                  ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 1re cir-  │ Cantons de : Avignon Est, Avignon Nord, Avignon Ouest, Avignon Sud.                                           ┃
+┃ 1re cir-  │ Cantons de : Avignon Est, Avignon Nord, Avignon Ouest, Avignon Sud                                            ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
@@ -208,7 +208,7 @@
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 4e cir-   │ Cantons de : Beaumes-de-Venise, Bollène, Malaucène, Orange Est, Orange Ouest, Vaison-la-Romaine, Valréas.     ┃
+┃ 4e cir-   │ Cantons de : Beaumes-de-Venise, Bollène, Malaucène, Orange Est, Orange Ouest, Vaison-la-Romaine, Valréas      ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
@@ -218,24 +218,24 @@
 ┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ Vendée                                                                                                                    ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 1re cir-  │ Cantons de : Challans, Les Essarts, Palluau, Le Poiré-sur-Vie, Rocheservière, La Roche-sur-Yon Nord.          ┃
+┃ 1re cir-  │ Cantons de : Challans, Les Essarts, Palluau, Le Poiré-sur-Vie, Rocheservière, La Roche-sur-Yon Nord           ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ 2e cir-   │ Cantons de : Chantonnay, Mareuil-sur-Lay-Dissais, La Mothe-Achard, Moutiers-les-Mauxfaits, La Roche-sur-Yon   ┃
-┃ conscrip- │ Sud, Talmont-Saint-Hilaire.                                                                                   ┃
+┃ conscrip- │ Sud, Talmont-Saint-Hilaire                                                                                    ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ 3e cir-   │ Cantons de : Beauvoir-sur-Mer, L'Ile-d'Yeu, Noirmoutier-en-l'Ile, Les Sables-d'Olonne, Saint-Gilles-Croix-de- ┃
-┃ conscrip- │ Vie, Saint-Jean-de-Monts.                                                                                     ┃
+┃ conscrip- │ Vie, Saint-Jean-de-Monts                                                                                      ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 4e cir-   │ Cantons de : Les Herbiers, Montaigu, Mortagne-sur-Sèvre, Pouzauges, Saint-Fulgent.                            ┃
+┃ 4e cir-   │ Cantons de : Les Herbiers, Montaigu, Mortagne-sur-Sèvre, Pouzauges, Saint-Fulgent                             ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ 5e cir-   │ Cantons de : Chaillé-les-Marais, La Châtaigneraie, Fontenay-le-Comte, L'Hermenault, Luçon, Maillezais,        ┃
-┃ conscrip- │ Sainte-Hermine, Saint-Hilaire-des-Loges.                                                                      ┃
+┃ conscrip- │ Sainte-Hermine, Saint-Hilaire-des-Loges                                                                       ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ Vienne                                                                                                                    ┃
@@ -244,7 +244,7 @@
 ┃ conscrip- │ geaux, Saint-Julien-l'Ars                                                                                     ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 2e cir-   │ Cantons de : Poitiers III, Poitiers IV, Poitiers V, Poitiers VI, La Villedieu-du-Clain, Vivonne, Vouillé.     ┃
+┃ 2e cir-   │ Cantons de : Poitiers III, Poitiers IV, Poitiers V, Poitiers VI, La Villedieu-du-Clain, Vivonne, Vouillé      ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
@@ -254,7 +254,7 @@
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ 4e cir-   │ Cantons de : Châtellerault Nord, Châtellerault Ouest, Châtellerault Sud, Dangé-Saint-Romain, Lencloître, Lou- ┃
 ┃ conscrip- │ dun, Moncontour, Monts-sur-Guesnes, Pleumartin (moins la commune de La Puye), Saint-Gervais-les-Trois-Clo-    ┃
-┃ tion      │ chers, Les Trois-Moutiers.                                                                                    ┃
+┃ tion      │ chers, Les Trois-Moutiers                                                                                     ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ Haute-Vienne                                                                                                              ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
@@ -272,27 +272,27 @@
 ┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ Vosges                                                                                                                    ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 1re cir-  │ Cantons de : Châtel-sur-Moselle, Epinal Est, Epinal Ouest, RamberviIlers, Xertigny.                           ┃
+┃ 1re cir-  │ Cantons de : Châtel-sur-Moselle, Epinal Est, Epinal Ouest, RamberviIlers, Xertigny                            ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ 2e cir-   │ Cantons de : Brouvelieures, Bruyères, Corcieux, Fraize, Provenchères-sur-Fave, Raon-l'Etape, Saint-Dié Est,   ┃
-┃ conscrip- │ Saint-Dié Ouest, Senones.                                                                                     ┃
+┃ conscrip- │ Saint-Dié Ouest, Senones                                                                                      ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 3e cir-   │ Cantons de : Gérardmer, Plombières-les-Bains, Remiremont, Saulxures-sur-Moselotte, Le Thillot.                ┃
+┃ 3e cir-   │ Cantons de : Gérardmer, Plombières-les-Bains, Remiremont, Saulxures-sur-Moselotte, Le Thillot                 ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ 4e cir-   │ Cantons de : Bains-les-Bains, Bulgnéville, Charmes, Châtenois, Coussey, Darney, Dompaire, Lamarche, Mire-     ┃
-┃ conscrip- │ court, Monthureux-sur-Saône, Neufchâteau, Vittel.                                                             ┃
+┃ conscrip- │ court, Monthureux-sur-Saône, Neufchâteau, Vittel                                                              ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ Yonne                                                                                                                     ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ 1re cir-  │ Cantons de : Aillant-sur-Tholon, Auxerre Est, Auxerre Nord, Auxerre Nord-Ouest, Auxerre Sud, Auxerre Sud-     ┃
 ┃ conscrip- │ Ouest, Bléneau, Charny, Coulanges-la-Vineuse, Courson-les-Carrières, Saint-Fargeau, Saint-Sauveur-en-Puisaye, ┃
-┃ tion      │ Toucy Communes de : Andryes, Etais-la-Sauvin (issues du canton de Coulanges-sur-Yonne) Monéteau (issue du     ┃
+┃ tion      │ Toucy Communes de : Andryes, Etais-la-Sauvin (issues du canton de Coulanges-sur-Yonne), Monéteau (issue du    ┃
 ┃           │ canton de Seignelay)                                                                                          ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ 2e cir-   │ Cantons de : Ancy-le-Franc, Avallon, Brienon-sur-Armançon, Chablis, Coulanges-sur-Yonne (moins les communes   ┃
@@ -306,21 +306,21 @@
 ┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ Territoire de Belfort                                                                                                     ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 1re cir-  │ Cantons : Beaucourt, Belfort Centre, Belfort Est, Danjoutin, Delle, Fontaine, Grandvillars.                   ┃
+┃ 1re cir-  │ Cantons : Beaucourt, Belfort Centre, Belfort Est, Danjoutin, Delle, Fontaine, Grandvillars                    ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ 2e cir-   │ Cantons : Belfort Nord, Belfort Ouest, Belfort Sud, Châtenois-les-Forges, Giromagny, Offemont, Rougemont-le-  ┃
-┃ conscrip- │ Château, Valdoie.                                                                                             ┃
+┃ conscrip- │ Château, Valdoie                                                                                              ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ Essonne                                                                                                                   ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 1re cir-  │ Cantons de : Corbeil-Essonnes Est, Corbeil-Essonnes Ouest, Evry Nord, Evry Sud.                               ┃
+┃ 1re cir-  │ Cantons de : Corbeil-Essonnes Est, Corbeil-Essonnes Ouest, Evry Nord, Evry Sud                                ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 2e cir-   │ Cantons de : Etampes, La Ferté-Alais, Mennecy, Méréville, Milly-la-Forêt.                                     ┃
+┃ 2e cir-   │ Cantons de : Etampes, La Ferté-Alais, Mennecy, Méréville, Milly-la-Forêt                                      ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
@@ -332,37 +332,37 @@
 ┃ conscrip- │ ville                                                                                                         ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 5e cir-   │ Cantons de : Bièvres, Gif-sur-Yvette, Orsay, Les Ulis.                                                        ┃
+┃ 5e cir-   │ Cantons de : Bièvres, Gif-sur-Yvette, Orsay, Les Ulis                                                         ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 6e cir-   │ Cantons de : Chilly-Mazarin, Massy Est, Massy Ouest, Palaiseau.                                               ┃
+┃ 6e cir-   │ Cantons de : Chilly-Mazarin, Massy Est, Massy Ouest, Palaiseau                                                ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 7e cir-   │ Cantons de : Athis-Mons, Juvisy-sur-Orge, Savigny-sur-Orge, Viry-Châtillon.                                   ┃
+┃ 7e cir-   │ Cantons de : Athis-Mons, Juvisy-sur-Orge, Savigny-sur-Orge, Viry-Châtillon                                    ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 8e cir-   │ Cantons de : Brunoy, Montgeron, Vigneux-sur-Seine, Yerres.                                                    ┃
+┃ 8e cir-   │ Cantons de : Brunoy, Montgeron, Vigneux-sur-Seine, Yerres                                                     ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 9e cir-   │ Cantons de: Draveil, Epinay-sous-Sénart, Ris-Orangis, Saint-Germain-lès-Corbeil.                              ┃
+┃ 9e cir-   │ Cantons de : Draveil, Epinay-sous-Sénart, Ris-Orangis, Saint-Germain-lès-Corbeil                              ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 10e cir-  │ Cantons de: Grigny, Morsang-sur-Orge, Sainte-Geneviève-des-Bois, Saint-Michel-sur-Orge.                       ┃
+┃ 10e cir-  │ Cantons de : Grigny, Morsang-sur-Orge, Sainte-Geneviève-des-Bois, Saint-Michel-sur-Orge                       ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ Hauts-de-Seine                                                                                                            ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ 1re cir-  │ Cantons de : Colombes Nord-Est, Colombes Nord-Ouest, Gennevilliers Nord, Gennevilliers Sud, Villeneuve-la-Ga- ┃
-┃ conscrip- │ renne.                                                                                                        ┃
+┃ conscrip- │ renne                                                                                                         ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 2e cir-   │ Cantons de : Asnières-sur-Seine Nord, Asnières-sur-Seine Sud, Colombes Sud.                                   ┃
+┃ 2e cir-   │ Cantons de : Asnières-sur-Seine Nord, Asnières-sur-Seine Sud, Colombes Sud                                    ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
@@ -372,11 +372,11 @@
 ┃           │ de chemin de fer de Paris à Versailles depuis la limite du canton de Courbevoie Nord jusqu'à la limite de la  ┃
 ┃           │ commune de Puteaux), La Garenne-Colombes                                                                      ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 4e cir-   │ Cantons de : Nanterre Nord, Nanterre Sud-Est, Nanterre Sud-Ouest, Suresnes.                                   ┃
+┃ 4e cir-   │ Cantons de : Nanterre Nord, Nanterre Sud-Est, Nanterre Sud-Ouest, Suresnes                                    ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 5e cir-   │ Cantons de : Clichy, Levallois-Perret Nord, Levallois-Perret Sud.                                             ┃
+┃ 5e cir-   │ Cantons de : Clichy, Levallois-Perret Nord, Levallois-Perret Sud                                              ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
@@ -384,41 +384,41 @@
 ┃ conscrip- │ Neuilly-sur-seine Sud, Puteaux                                                                                ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 7e cir-   │ Cantons de : Garches, Rueil-Malmaison, Saint-Cloud.                                                           ┃
+┃ 7e cir-   │ Cantons de : Garches, Rueil-Malmaison, Saint-Cloud                                                            ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 8e cir-   │ Cantons de: Chaville, Meudon, Sèvres.                                                                         ┃
+┃ 8e cir-   │ Cantons de : Chaville, Meudon, Sèvres                                                                         ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ 9e cir-   │ Cantons de : Boulogne-Billancourt Nord-Est, Boulogne-Billancourt Nord-Ouest, Boulogne-Billancourt Sud (partie ┃
 ┃ conscrip- │ située au nord d'une ligne définie par l'axe des voies ci-après : rue Yves-Kermen, avenue Pierre-Grenier,     ┃
-┃ tion      │ boulevard de la République jusqu'au pont d'Issy).                                                             ┃
+┃ tion      │ boulevard de la République jusqu'au pont d'Issy)                                                              ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ 10e cir-  │ Cantons de : Boulogne-Billancourt Sud (partie non comprise dans la 9 circonscription), Issy-les-Moulineaux    ┃
-┃ conscrip- │ Est, Issy-les-Moulineaux Ouest, Vanves.                                                                       ┃
+┃ conscrip- │ Est, Issy-les-Moulineaux Ouest, Vanves                                                                        ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 11e cir-  │ Cantons de : Bagneux, Malakoff, Montrouge.                                                                    ┃
+┃ 11e cir-  │ Cantons de : Bagneux, Malakoff, Montrouge                                                                     ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 12e cir-  │ Cantons de : Châtillon, Clamart, Fontenay-aux-Roses, Le Plessis-Robinson.                                     ┃
+┃ 12e cir-  │ Cantons de : Châtillon, Clamart, Fontenay-aux-Roses, Le Plessis-Robinson                                      ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 13e cir-  │ Cantons de : Antony, Bourg-la-Reine, Châtenay-Malabry, Sceaux.                                                ┃
+┃ 13e cir-  │ Cantons de : Antony, Bourg-la-Reine, Châtenay-Malabry, Sceaux                                                 ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ Seine-Saint-Denis                                                                                                         ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 1re cir-  │ Cantons de : Epinay-sur-Seine, Saint-Denis Sud, Saint Ouen.                                                   ┃
+┃ 1re cir-  │ Cantons de : Epinay-sur-Seine, Saint-Denis Sud, Saint Ouen                                                    ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 2e cir-   │ Cantons de : Pierrefitte-sur-Seine, Saint-Denis Nord-Est, Saint-Denis Nord-Ouest.                             ┃
+┃ 2e cir-   │ Cantons de : Pierrefitte-sur-Seine, Saint-Denis Nord-Est, Saint-Denis Nord-Ouest                              ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
@@ -442,7 +442,7 @@
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 8e cir-   │ Cantons de : Gagny, Rosny-sous-Bois, Villemomble.                                                             ┃
+┃ 8e cir-   │ Cantons de : Gagny, Rosny-sous-Bois, Villemomble                                                              ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
@@ -454,11 +454,11 @@
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 11e cir-  │ Cantons de : Sevran, Tremblay-en-France, Villepinte.                                                          ┃
+┃ 11e cir-  │ Cantons de : Sevran, Tremblay-en-France, Villepinte                                                           ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 12e cir-  │ Cantons de : Livry-Gargan, Montfermeil, Le Raincy.                                                            ┃
+┃ 12e cir-  │ Cantons de : Livry-Gargan, Montfermeil, Le Raincy                                                             ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
@@ -468,15 +468,15 @@
 ┃ conscrip- │ Saint-Maur-des-Fossés Ouest, Saint-Maur-la-Varenne                                                            ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 2e cir-   │ Cantons de : Choisy-le-Roi, Créteil Ouest, Créteil Sud, Orly.                                                 ┃
+┃ 2e cir-   │ Cantons de : Choisy-le-Roi, Créteil Ouest, Créteil Sud, Orly                                                  ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 3e cir-   │ Cantons de : Boissy-Saint-Léger, Valenton, Villecresnes, Villeneuve-le-Roi, Villeneuve-Saint-Georges.         ┃
+┃ 3e cir-   │ Cantons de : Boissy-Saint-Léger, Valenton, Villecresnes, Villeneuve-le-Roi, Villeneuve-Saint-Georges          ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 4e cir-   │ Cantons de : Chennevières-sur-Marne, Ormesson-sur-Marne, Sucy-en-Brie, Villiers-sur-Marne.                    ┃
+┃ 4e cir-   │ Cantons de : Chennevières-sur-Marne, Ormesson-sur-Marne, Sucy-en-Brie, Villiers-sur-Marne                     ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
@@ -484,7 +484,7 @@
 ┃ conscrip- │ reux-sur-Marne                                                                                                ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 6e cir-   │ Cantons de : Fontenay-sous-Bois Est, Fontenay-sous-Bois Ouest, Saint-Mandé, Vincennes Est, Vincennes Ouest.   ┃
+┃ 6e cir-   │ Cantons de : Fontenay-sous-Bois Est, Fontenay-sous-Bois Ouest, Saint-Mandé, Vincennes Est, Vincennes Ouest    ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
@@ -496,21 +496,21 @@
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 9e cir-   │ Cantons de : Alfortville Nord, Alfortville Sud, Vitry-sur-Seine Est, Vitry-sur-Seine Ouest.                   ┃
+┃ 9e cir-   │ Cantons de : Alfortville Nord, Alfortville Sud, Vitry-sur-Seine Est, Vitry-sur-Seine Ouest                    ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 10e cir-  │ Cantons de : Ivry-sur-Seine Est, Ivry-sur-Seine Ouest, Le Kremlin-Bicêtre, Vitry-sur-Seine Nord.              ┃
+┃ 10e cir-  │ Cantons de : Ivry-sur-Seine Est, Ivry-sur-Seine Ouest, Le Kremlin-Bicêtre, Vitry-sur-Seine Nord               ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 11e cir-  │ Cantons de : Arcueil, Cachan, Villejuif Est, Villejuif Ouest.                                                 ┃
+┃ 11e cir-  │ Cantons de : Arcueil, Cachan, Villejuif Est, Villejuif Ouest                                                  ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ Val-d'Oise                                                                                                                ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 1re cir-  │ Cantons de : Beaumont-sur-Oise, Magny-en-Vexin, Marines, Pontoise, La Vallée-du-Sausseron, Vigny.             ┃
+┃ 1re cir-  │ Cantons de : Beaumont-sur-Oise, Magny-en-Vexin, Marines, Pontoise, La Vallée-du-Sausseron, Vigny              ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
@@ -518,19 +518,19 @@
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 3e cir-   │ Cantons de : Beauchamp, Cormeilles-en-Parisis, Herblay, Taverny.                                              ┃
+┃ 3e cir-   │ Cantons de : Beauchamp, Cormeilles-en-Parisis, Herblay, Taverny                                               ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 4e cir-   │ Cantons de : Eaubonne, Ermont, Franconville, Saint-Leu-la-Forêt.                                              ┃
+┃ 4e cir-   │ Cantons de : Eaubonne, Ermont, Franconville, Saint-Leu-la-Forêt                                               ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 5e cir-   │ Cantons de : Argenteuil Est, Argenteuil Nord, Argenteuil Ouest, Bezons.                                       ┃
+┃ 5e cir-   │ Cantons de : Argenteuil Est, Argenteuil Nord, Argenteuil Ouest, Bezons                                        ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 6e cir-   │ Cantons de : Enghien-les-Bains, Saint-Gratien, Sannois, Soisy-sous-Montmorency.                               ┃
+┃ 6e cir-   │ Cantons de : Enghien-les-Bains, Saint-Gratien, Sannois, Soisy-sous-Montmorency                                ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
@@ -538,11 +538,11 @@
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 8e cir-   │ Cantons de : Garges-lès-Gonesse Est, Garges-lès-Gonesse Ouest, Sarcelles Nord-Est, Villiers-le-Bel.           ┃
+┃ 8e cir-   │ Cantons de : Garges-lès-Gonesse Est, Garges-lès-Gonesse Ouest, Sarcelles Nord-Est, Villiers-le-Bel            ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ 9e cir-   │ Cantons de : Gonesse, Goussainville, Luzarches.                                                               ┃
+┃ 9e cir-   │ Cantons de : Gonesse, Goussainville, Luzarches                                                                ┃
 ┃ conscrip- │                                                                                                               ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
@@ -596,7 +596,17 @@
 ┃ conscrip- │ Sainte-Anne, Sainte-Luce, Les Trois-Ilets, Le Vauclin                                                         ┃
 ┃ tion      │                                                                                                               ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Réunion                                                                                                                   ┃
+┃ Mayotte                                                                                                                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 1re cir-  │ Cantons de : Acoua, Bandraboua, Dzaoudzi, Koungou, Mamoudzou I, Mamoudzou II, Mtsamboro, Pamandzi             ┃
+┃ conscrip- │                                                                                                               ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ 2e cir-   │ Cantons de : Bandrele, Bouéni, Chiconi, Chirongui, Dembeni, Kani-Kéli, Mamoudzou III, M'Tsangamouji, Ouan-    ┃
+┃ conscrip- │ gani, Sada, Tsingoni                                                                                          ┃
+┃ tion      │                                                                                                               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┴┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ La Réunion                                                                                                                ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┬┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ 1re cir-  │ Cantons de : Saint-Denis I, Saint-Denis II, Saint-Denis III, Saint-Denis IV, Saint-Denis V, Saint-Denis VI,   ┃
 ┃ conscrip- │ Saint-Denis VIII                                                                                              ┃
@@ -647,4 +657,4 @@ _Cite_:
 
 _Modifié par_:
 
-  - Ordonnance n°2009-935 du 29 juillet 2009 - art.
+  - Loi n°2010-1487 du 7 décembre 2010 - art. 9
