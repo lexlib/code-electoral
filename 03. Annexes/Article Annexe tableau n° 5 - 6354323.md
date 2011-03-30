@@ -6,12 +6,12 @@ sièges de sénateurs entre les séries est ainsi rédigé :
 <table>
   <tbody>
     <tr>
-      <td width="205" colspan="2">
+      <td colspan="2" width="205">
 
 SÉRIE A
 
 </td>
-      <td colspan="2" width="205">
+      <td width="205" colspan="2">
 
 SÉRIE B
 
@@ -23,7 +23,7 @@ SÉRIE C
 </td>
     </tr>
     <tr>
-      <td colspan="6" width="614">
+      <td width="614" colspan="6">
 
 Représentation des départements
 
@@ -138,7 +138,7 @@ Guadeloupe, Martinique
 </td>
     </tr>
     <tr>
-      <td colspan="6" width="614">
+      <td width="614" colspan="6">
 
 Représentation de la Nouvelle-Calédonie, des collectivités d'outre-mer et des Français établis hors de France
 
@@ -268,24 +268,24 @@ II. - A compter du renouvellement partiel de 2008, le tableau précité est ains
 <table>
   <tbody>
     <tr>
-      <td colspan="2" width="205">
+      <td width="205" colspan="2">
 
 SÉRIE A
 
 </td>
-      <td colspan="2" width="205">
+      <td width="205" colspan="2">
 
 SÉRIE B
 
 </td>
-      <td colspan="2" width="205">
+      <td width="205" colspan="2">
 
 SÉRIE C
 
 </td>
     </tr>
     <tr>
-      <td colspan="6" width="614">
+      <td width="614" colspan="6">
 
 Représentation des départements
 
@@ -400,7 +400,7 @@ Guadeloupe, Martinique
 </td>
     </tr>
     <tr>
-      <td width="614" colspan="6">
+      <td colspan="6" width="614">
 
 Représentation de la Nouvelle-Calédonie, des collectivités d'outre-mer et des Français établis hors de France
 
@@ -617,26 +617,24 @@ Guyane
     <tr>
       <td width="101">
 
-Guadeloupe, Martinique, La Réunion
+Guadeloupe, Martinique, Mayotte, La Réunion
 
 </td>
       <td width="100">
 
-9
+11
 
 </td>
       <td width="101">
       </td><td width="100">
-
-</td>
-    </tr>
+    </td></tr>
     <tr>
       <td width="101">
 
 </td>
       <td width="100">
 
-159
+161
 
 </td>
       <td width="101">
@@ -655,13 +653,7 @@ Représentation de la Nouvelle-Calédonie, des collectivités d'outre-mer et des
     </tr>
     <tr>
       <td width="101">
-
-Mayotte
-
-</td>
-      <td width="100">
-
-2
+      </td><td width="100">
 
 </td>
       <td width="101">
@@ -794,8 +786,8 @@ Total
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964)
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Loi n°2007-224 du 21 février 2007 - art. 8 () JORF 22 février 2007
+  - Loi n°2010-1487 du 7 décembre 2010 - art. 9
