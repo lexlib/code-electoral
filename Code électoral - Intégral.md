@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2011-05-19
+Version Consolidée au 2011-07-18
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers généraux et des conseillers municipaux (art. L1 à L273)](#2)
@@ -203,84 +203,96 @@ Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna (
         - [Chapitre V : Propagande (art. R154 à R161)](#199)
         - [Chapitre VI : Opérations préparatoires au scrutin (art. R162)](#200)
         - [Chapitre VII : Opérations de vote (art. R163 à R171)](#201)
-    - [Livre III : Dispositions spécifiques aux députés élus par les Français établis hors de France (art. R177)](#202)
-      - [Section 6 : Dépouillement et recensement des votes (art. R177)](#203)
-    - [Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse (art. R182 à R200)](#204)
-      - [Titre Ier : Election des conseillers régionaux (art. R183 à R190)](#205)
-        - [Chapitre V : Déclarations de candidatures (art. R183 à R184)](#206)
-        - [Chapitre VI : Propagande (art. R186)](#207)
-        - [Chapitre VIII : Opérations de vote (art. R188 à R189-2)](#208)
-        - [Chapitre X : Contentieux (art. R190)](#209)
-      - [Titre  II : Election des conseillers à l'Assemblée de Corse (art. R191 à R200)](#210)
-        - [Chapitre V : Déclarations de candidature (art. R191 à R192)](#211)
-        - [Chapitre VI : Propagande (art. R194 à R196)](#212)
-        - [Chapitre VII : Opérations de vote (art. R198 à R199)](#213)
-        - [Chapitre X : Contentieux (art. R200)](#214)
-    - [Livre V : Dispositions applicables à la Nouvelle-Calédonie, à la Polynésie française et aux îles  Wallis et Futuna (art. R201 à R283)](#215)
-      - [Titre Ier : Dispositions générales (art. R201 à R213-1)](#216)
-        - [Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna (art. R201 à R212)](#217)
-        - [Chapitre II : Dispositions propres à la Nouvelle-Calédonie (art. R213)](#218)
-        - [Chapitre III : Dispositions propres aux îles Wallis et Futuna (art. R213-1)](#219)
-      - [Titre II : Election des députés (art. R214 à R218)](#220)
-        - [Chapitre Ier : Dispositions générales (art. R214)](#221)
-        - [Chapitre II : Régime des inéligibilités (art. R**215)](#222)
-        - [Chapitre III : Candidatures (art. R216)](#223)
-        - [Chapitre IV : Recensement des votes (art. R217 à R218)](#224)
-      - [Titre III : Dispositions applicables à l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie (art. R219 à R241)](#225)
-        - [Chapitre Ier : Liste électorale spéciale (art. R219 à R231)](#226)
-          - [Section 1 : Etablissement de la liste électorale spéciale (art. R219 à R228)](#227)
-          - [Section 2 : Inscription en dehors des périodes de révision (art. R229 à R230)](#228)
-          - [Section 3 : Carte électorale spéciale (art. R231)](#229)
-        - [Chapitre II : Candidatures et bulletins de vote (art. R232 à R236)](#230)
-        - [Chapitre III : Propagande (art. R237)](#231)
-        - [Chapitre IV : Opérations de vote et recensement (art. R238 à R241)](#232)
-      - [Titre IV : Dispositions applicables à l'élection des représentants à l'assemblée de la Polynésie française (art. R242 à R253)](#233)
-        - [Chapitre Ier : Candidatures et bulletins de vote (art. R242 à R246)](#234)
-        - [Chapitre II : Propagande (art. R247 à R249-1)](#235)
-        - [Chapitre III : Opérations de vote et recensement (art. R250 à R253)](#236)
-      - [Titre V : Dispositions applicables à l'élection des membres de l'assemblée territoriale des îles  Wallis et Futuna (art. R254 à R264)](#237)
-        - [Chapitre Ier : Candidatures et bulletins de vote (art. R254 à R258)](#238)
-        - [Chapitre II : Propagande (art. R259 à R260)](#239)
-        - [Chapitre III : Opérations de vote et recensement (art. R261 à R264)](#240)
-      - [Titre VI : Dispositions applicables à l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française (art. R265 à R270)](#241)
-        - [Chapitre Ier : Dispositions communes (art. R265)](#242)
-        - [Chapitre II : Dispositions particulières à la Nouvelle-Calédonie (art. R267)](#243)
-        - [Chapitre III : Dispositions particulières à la Polynésie française (art. R270)](#244)
-      - [Titre VII : Dispositions applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et  Futuna (art. R271 à R283)](#245)
-        - [Chapitre Ier : Dispositions générales (art. R271 à R272)](#246)
-        - [Chapitre II : Régime des inéligibilités (art. R**273)](#247)
-        - [Chapitre III : Election des délégués des conseils municipaux en Nouvelle-Calédonie et en Polynésie française (art. R274 à R276)](#248)
-        - [Chapitre IV : Propagande (art. R277)](#249)
-        - [Chapitre V : Opérations préparatoires au scrutin (art. R278)](#250)
-        - [Chapitre VI : Opérations de vote (art. R279 à R283)](#251)
-    - [Livre VI : Dispositions particulières à Mayotte, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon (art. R284 à R346)](#252)
-      - [Titre Ier : Dispositions particulières à Mayotte (art. R284 à R300)](#253)
-        - [Chapitre Ier : Dispositions générales (art. R284 à R285)](#254)
-        - [Chapitre III :  Dispositions applicables à l'élection des conseillers généraux de Mayotte (art. R298 à R300)](#255)
-      - [Titre II : Dispositions particulières à Saint-Barthélemy (art. R303 à R317)](#256)
-        - [Chapitre Ier : Dispositions générales (art. R303 à R307)](#257)
-        - [Chapitre II : Dispositions applicables à l'élection du député (art. R308)](#258)
-        - [Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Barthélemy (art. R309 à R317)](#259)
-      - [Titre III : Dispositions particulières à Saint-Martin (art. R318 à R332)](#260)
-        - [Chapitre Ier : Dispositions générales (art. R318 à R322)](#261)
-        - [Chapitre II : Dispositions applicables à l'élection du député (art. R323)](#262)
-        - [Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Martin (art. R324 à R332)](#263)
-      - [Titre IV : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R333 à R346)](#264)
-        - [Chapitre Ier : Dispositions générales (art. R333 à R337)](#265)
-        - [Chapitre II : Dispositions applicables à l'élection du député (art. R338)](#266)
-        - [Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Pierre-et-Miquelon (art. R339 à R346)](#267)
-  - [Annexes (art. Annexe tableau n° 1 à Annexe tableau n° 7)](#268)
-    - [Tableau des circonscriptions électorales des départements (élection des députés) (art. Annexe tableau n° 1)](#269)
-    - [Tableau des circonscriptions électorales des départements (élection des députés) (1). (art. Annexe tableau n° 1 (suite))](#270)
-    - [Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés). (art. Annexe tableau n° 1 bis)](#271)
-    - [Tableau des circonscriptions électorales des français établis hors de France (art. Annexe tableau n° 1 ter)](#272)
-    - [Tableau des secteurs pour l'élection des membres du conseil de Paris (art. Annexe tableau n° 2)](#273)
-    - [Tableau des secteurs pour l'élection des conseillers municipaux de Lyon (art. Annexe tableau n° 3)](#274)
-    - [Tableau des secteurs pour l'élection des conseillers municipaux de Marseille. (art. Annexe tableau n° 4)](#275)
-    - [Répartition des sièges de sénateurs entre les séries (art. Annexe tableau n° 5)](#276)
-    - [Election des sénateurs (art. Annexe tableau n° 6)](#277)
-      - [Nombre de sénateurs représentant les départements (art. Annexe tableau n° 6)](#278)
-    - [Effectif des conseils régionaux et nombre de candidats par section départementale (art. Annexe tableau n° 7)](#279)
+    - [Livre III : Dispositions spécifiques aux députés élus par les Français établis hors de France (art. R172 à R179-1)](#202)
+      - [Section 1 : Liste électorale (art. R172)](#203)
+      - [Section 2 : Déclaration de candidature (art. R173 à R173-5)](#204)
+      - [Section 3 : Campagne électorale (art. R174 à R174-4)](#205)
+      - [Section 4 : Financement de la campagne électorale (art. R175 à R175-5)](#206)
+      - [Section 5 : Opérations de vote (art. R176 à R176-4-7)](#207)
+        - [Sous-section 1 : Information des électeurs (art. R176)](#208)
+        - [Sous-section 2 : Vote à l'urne (art. R176-1 à R176-1-13)](#209)
+        - [Sous-section 3 : Vote par procuration (art. R176-2 à R176-2-4)](#210)
+        - [Sous-section 4 : Vote par correspondance électronique (art. R176-3 à R176-3-10)](#211)
+        - [Sous-section 5 : Vote par correspondance sous pli fermé (art. R176-4 à R176-4-7)](#212)
+      - [Section 6 : Dépouillement et recensement des votes (art. R177 à R177-7)](#213)
+      - [Section 7 : Dispositions pénales (art. R178)](#214)
+      - [Section 8 : Contentieux (art. R179 à R179-1)](#215)
+    - [Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse (art. R182 à R200)](#216)
+      - [Titre Ier : Election des conseillers régionaux (art. R183 à R190)](#217)
+        - [Chapitre V : Déclarations de candidatures (art. R183 à R184)](#218)
+        - [Chapitre VI : Propagande (art. R186)](#219)
+        - [Chapitre VIII : Opérations de vote (art. R188 à R189-2)](#220)
+        - [Chapitre X : Contentieux (art. R190)](#221)
+      - [Titre  II : Election des conseillers à l'Assemblée de Corse (art. R191 à R200)](#222)
+        - [Chapitre V : Déclarations de candidature (art. R191 à R192)](#223)
+        - [Chapitre VI : Propagande (art. R194 à R196)](#224)
+        - [Chapitre VII : Opérations de vote (art. R198 à R199)](#225)
+        - [Chapitre X : Contentieux (art. R200)](#226)
+    - [Livre V : Dispositions applicables à la Nouvelle-Calédonie, à la Polynésie française et aux îles  Wallis et Futuna (art. R201 à R283)](#227)
+      - [Titre Ier : Dispositions générales (art. R201 à R213-1)](#228)
+        - [Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna (art. R201 à R212)](#229)
+        - [Chapitre II : Dispositions propres à la Nouvelle-Calédonie (art. R213)](#230)
+        - [Chapitre III : Dispositions propres aux îles Wallis et Futuna (art. R213-1)](#231)
+      - [Titre II : Election des députés (art. R214 à R218)](#232)
+        - [Chapitre Ier : Dispositions générales (art. R214)](#233)
+        - [Chapitre II : Régime des inéligibilités (art. R**215)](#234)
+        - [Chapitre III : Candidatures (art. R216)](#235)
+        - [Chapitre IV : Recensement des votes (art. R217 à R218)](#236)
+      - [Titre III : Dispositions applicables à l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie (art. R219 à R241)](#237)
+        - [Chapitre Ier : Liste électorale spéciale (art. R219 à R231)](#238)
+          - [Section 1 : Etablissement de la liste électorale spéciale (art. R219 à R228)](#239)
+          - [Section 2 : Inscription en dehors des périodes de révision (art. R229 à R230)](#240)
+          - [Section 3 : Carte électorale spéciale (art. R231)](#241)
+        - [Chapitre II : Candidatures et bulletins de vote (art. R232 à R236)](#242)
+        - [Chapitre III : Propagande (art. R237)](#243)
+        - [Chapitre IV : Opérations de vote et recensement (art. R238 à R241)](#244)
+      - [Titre IV : Dispositions applicables à l'élection des représentants à l'assemblée de la Polynésie française (art. R242 à R253)](#245)
+        - [Chapitre Ier : Candidatures et bulletins de vote (art. R242 à R246)](#246)
+        - [Chapitre II : Propagande (art. R247 à R249-1)](#247)
+        - [Chapitre III : Opérations de vote et recensement (art. R250 à R253)](#248)
+      - [Titre V : Dispositions applicables à l'élection des membres de l'assemblée territoriale des îles  Wallis et Futuna (art. R254 à R264)](#249)
+        - [Chapitre Ier : Candidatures et bulletins de vote (art. R254 à R258)](#250)
+        - [Chapitre II : Propagande (art. R259 à R260)](#251)
+        - [Chapitre III : Opérations de vote et recensement (art. R261 à R264)](#252)
+      - [Titre VI : Dispositions applicables à l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française (art. R265 à R270)](#253)
+        - [Chapitre Ier : Dispositions communes (art. R265)](#254)
+        - [Chapitre II : Dispositions particulières à la Nouvelle-Calédonie (art. R267)](#255)
+        - [Chapitre III : Dispositions particulières à la Polynésie française (art. R270)](#256)
+      - [Titre VII : Dispositions applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et  Futuna (art. R271 à R283)](#257)
+        - [Chapitre Ier : Dispositions générales (art. R271 à R272)](#258)
+        - [Chapitre II : Régime des inéligibilités (art. R**273)](#259)
+        - [Chapitre III : Election des délégués des conseils municipaux en Nouvelle-Calédonie et en Polynésie française (art. R274 à R276)](#260)
+        - [Chapitre IV : Propagande (art. R277)](#261)
+        - [Chapitre V : Opérations préparatoires au scrutin (art. R278)](#262)
+        - [Chapitre VI : Opérations de vote (art. R279 à R283)](#263)
+    - [Livre VI : Dispositions particulières à Mayotte, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon (art. R284 à R346)](#264)
+      - [Titre Ier : Dispositions particulières à Mayotte (art. R284 à R300)](#265)
+        - [Chapitre Ier : Dispositions générales (art. R284 à R285)](#266)
+        - [Chapitre III :  Dispositions applicables à l'élection des conseillers généraux de Mayotte (art. R298 à R300)](#267)
+      - [Titre II : Dispositions particulières à Saint-Barthélemy (art. R303 à R317)](#268)
+        - [Chapitre Ier : Dispositions générales (art. R303 à R307)](#269)
+        - [Chapitre II : Dispositions applicables à l'élection du député (art. R308)](#270)
+        - [Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Barthélemy (art. R309 à R317)](#271)
+      - [Titre III : Dispositions particulières à Saint-Martin (art. R318 à R332)](#272)
+        - [Chapitre Ier : Dispositions générales (art. R318 à R322)](#273)
+        - [Chapitre II : Dispositions applicables à l'élection du député (art. R323)](#274)
+        - [Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Martin (art. R324 à R332)](#275)
+      - [Titre IV : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R333 à R346)](#276)
+        - [Chapitre Ier : Dispositions générales (art. R333 à R337)](#277)
+        - [Chapitre II : Dispositions applicables à l'élection du député (art. R338)](#278)
+        - [Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Pierre-et-Miquelon (art. R339 à R346)](#279)
+  - [Annexes (art. Annexe tableau n° 1 à Annexe tableau n° 7)](#280)
+    - [Tableau des circonscriptions électorales des départements (élection des députés) (art. Annexe tableau n° 1)](#281)
+    - [Tableau des circonscriptions électorales des départements (élection des députés) (1). (art. Annexe tableau n° 1 (suite))](#282)
+    - [Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés). (art. Annexe tableau n° 1 bis)](#283)
+    - [Tableau des circonscriptions électorales des français établis hors de France (art. Annexe tableau n° 1 ter)](#284)
+    - [Tableau des secteurs pour l'élection des membres du conseil de Paris (art. Annexe tableau n° 2)](#285)
+    - [Tableau des secteurs pour l'élection des conseillers municipaux de Lyon (art. Annexe tableau n° 3)](#286)
+    - [Tableau des secteurs pour l'élection des conseillers municipaux de Marseille. (art. Annexe tableau n° 4)](#287)
+    - [Répartition des sièges de sénateurs entre les séries (art. Annexe tableau n° 5)](#288)
+    - [Election des sénateurs (art. Annexe tableau n° 6)](#289)
+      - [Nombre de sénateurs représentant les départements (art. Annexe tableau n° 6)](#290)
+    - [Effectif des conseils régionaux et nombre de candidats par section départementale (art. Annexe tableau n° 7)](#291)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Election des députés, des conseillers généraux et des conseillers municipaux<a id=2></a>
@@ -29031,7 +29043,1419 @@ _Cité par_:
 
 ## Livre III : Dispositions spécifiques aux députés élus par les Français établis hors de France<a id=202></a>
 
-### Section 6 : Dépouillement et recensement des votes<a id=203></a>
+### Section 1 : Liste électorale<a id=203></a>
+
+###### Article R172
+
+Sont électeurs les Français établis hors de France inscrits sur les listes électorales consulaires établies, révisées et
+contrôlées dans les conditions prévues au chapitre Ier du décret n° 2005-1613 du 22 décembre 2005 portant application de la
+loi organique n° 76-97 du 31 janvier 1976 relative aux listes électorales consulaires et au vote des Français établis hors de
+France pour l'élection du Président de la République.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 du 27 octobre 1964
+
+_Cite_:
+
+  - Loi n°76-97 du 31 janvier 1976
+  - Décret n°2005-1613 du 22 décembre 2005
+
+_Modifié par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cité par_:
+
+  - Code électoral - art. R176-3 (V)
+
+
+### Section 2 : Déclaration de candidature<a id=204></a>
+
+###### Article R173
+
+Sous réserve des dispositions de la présente section, les articles R. 98 à R. 102 sont applicables à l'élection de députés
+par les Français établis hors de France.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 du 27 octobre 1964
+
+_Cité par_:
+
+  - Décret n°79-160 du 28 février 1979 - art. 24 (M)
+  - Décret n°80-213 du 11 mars 1980 - art. 8 (Ab)
+  - Décret n°92-773 du 6 août 1992 - art. 2 (V)
+  - Décret n°2000-835 du 31 août 2000 - art. 2 (V)
+  - Décret n°88-946 du 5 octobre 1988 - art. 2 (V)
+
+_Modifié par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R*98
+
+
+###### Article R173-1
+
+Pour l'application de l'article R. 98 : 
+
+1° Le ministère de l'intérieur est substitué aux préfectures ; 
+
+2° La commission électorale mentionnée à l'article L. 330-14 est substituée à la commission de recensement général des votes.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. L330-14
+  - Code électoral - art. R*98
+
+
+###### Article R173-2
+
+Pour l'application de l'article R. 99 : 
+
+1° La déclaration est accompagnée, le cas échéant, du mandat donné par le candidat au déposant, rédigé sur papier libre ; 
+
+2° Il y a lieu de lire : " liste électorale consulaire ” au lieu de : " liste électorale ” ; 
+
+3° L'attestation d'inscription prévue au deuxième alinéa est délivrée par l'ambassadeur ou le chef de poste consulaire qui
+tient la liste électorale consulaire ou par le ministre des affaires étrangères.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R*99
+
+
+###### Article R173-3
+
+Les attributions conférées au préfet par l'article L. 159 sont exercées par le ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. L159
+
+
+###### Article R173-4
+
+Pour l'application de l'article R. 101, la liste des candidats est arrêtée par le ministre de l'intérieur et publiée au
+Journal officiel. 
+
+Cette publication doit intervenir, pour le premier tour, au plus tard le troisième mardi précédant la date du scrutin.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R*101
+
+
+###### Article R173-5
+
+Pour l'application de l'article R. 102, la désignation du remplaçant doit, le cas échéant, être notifiée au ministre de
+l'intérieur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R*102
+
+
+### Section 3 : Campagne électorale<a id=205></a>
+
+###### Article R174
+
+Sous réserve des dispositions de la présente section, les articles R. 26, R. 27, R. 28 (quatrième alinéa), R. 29, R. 30, R.
+33 (premier alinéa), R. 34 (à l'exception du cinquième alinéa), R. 36, R. 38 (à l'exception du quatrième alinéa), R. 39 (à
+l'exception du sixième au onzième alinéas) et R. 103 sont applicables à l'élection de députés par les Français établis hors
+de France.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 du 27 octobre 1964
+
+_Modifié par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R*103
+  - Code électoral - art. R26
+  - Code électoral - art. R33
+  - Code électoral - art. R36
+  - Code électoral - art. R38
+  - Code électoral - art. R39
+
+
+###### Article R174-1
+
+Pour l'application des articles R. 29, R. 34, R. 36 et R. 38, la commission électorale mentionnée à l'article L. 330-6 est
+substituée à la commission de propagande. 
+
+En outre : 
+
+1° Pour l'application de l'article R. 34, le ministre des affaires étrangères est substitué au préfet et il y a lieu de
+lire : " deuxième mardi " au lieu de : " mercredi ", " deuxième jeudi " au lieu de : " jeudi " et " ambassade ou poste
+consulaire " au lieu de : " mairie " ; 
+
+2° Pour l'application de l'article R. 36, le ministre de l'intérieur est substitué au préfet ; 
+
+3° Pour l'application de l'article R. 38, la date limite prévue au premier alinéa est fixée par arrêté conjoint du ministre
+de l'intérieur et du ministre des affaires étrangères.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 du 27 octobre 1964
+
+_Modifié par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R29
+  - Code électoral - art. R34
+  - Code électoral - art. R36
+  - Code électoral - art. R38
+
+
+###### Article R174-2
+
+Chaque candidat peut remettre au président de la commission électorale une version électronique de sa circulaire, du même
+modèle et dans les mêmes conditions que les exemplaires imprimés. 
+
+La commission électorale transmet ces documents dématérialisés aux ambassades et aux postes consulaires qui procèdent sans
+délai à leur mise à disposition par téléchargement par voie électronique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+
+###### Article R174-3
+
+Pour l'application de l'article R. 39 : 
+
+1° La référence à l'article L. 51 s'entend de la référence à l'article L. 330-6 ; 
+
+2° Les tarifs d'impression et d'affichage sont fixés par arrêté conjoint du ministre de l'intérieur et du ministre des
+affaires étrangères ; 
+
+3° Au treizième alinéa, il y a lieu de lire : " circonscription ” au lieu de : " département ”, " celle ” au lieu de : "
+celui ” et " circonscriptions ” au lieu de : " départements ”.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. L330-6
+  - Code électoral - art. L51
+  - Code électoral - art. R39
+
+
+###### Article R174-4
+
+Les dépenses et remboursements prévus par l'article L. 167 sont effectués par le ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. L167
+
+
+### Section 4 : Financement de la campagne électorale<a id=206></a>
+
+###### Article R175
+
+Sous réserve des dispositions de la présente section, les articles R. 39-1 à R. 39-5 sont applicables à l'élection de députés
+par les Français établis hors de France.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 du 27 octobre 1964
+
+_Modifié par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R39-1
+
+
+###### Article R175-1
+
+La liste des pays pour lesquels il peut être fait application de l'article L. 330-6-1 est établie par arrêté conjoint du
+ministre de l'intérieur et du ministre des affaires étrangères. 
+
+Lors du dépôt du compte de campagne, le montant des dépenses réglées et des dons recueillis dans ces pays doit être converti
+en euros. Les pièces justificatives relatives aux comptes spéciaux ouverts dans ces pays doivent faire l'objet d'une
+traduction en français.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. L330-6-1
+
+
+###### Article R175-2
+
+Pour l'application de l'article R. 39-1 : 
+
+1° Les souches des reçus mentionnées au deuxième alinéa sont accompagnées, le cas échéant, du relevé du ou des comptes
+spéciaux ouverts en application de l'article L. 330-6-1 ; 
+
+2° Le montant en euros fixé par le quatrième alinéa est remplacé par sa contre-valeur exprimée dans la ou les devises qui ont
+cours dans la circonscription, au taux de change en vigueur le premier jour du douzième mois précédant l'élection.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. L330-6-1
+  - Code électoral - art. R39-1
+
+
+###### Article R175-3
+
+Pour l'application de l'article R. 39-3, le ministre de l'intérieur est substitué au préfet.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R39-3
+
+
+###### Article R175-4
+
+Les plafonds de remboursement prévus au second alinéa de l'article L. 330-9 sont fixés par arrêté conjoint du ministre de
+l'intérieur et du ministre des affaires étrangères.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. L330-9
+
+
+###### Article R175-5
+
+Les remboursements forfaitaires des dépenses électorales auxquels les candidats peuvent prétendre en application des articles
+L. 52-11-1 et L. 330-9 sont effectués par le ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. L330-9
+  - Code électoral - art. L52-11-1
+
+
+### Section 5 : Opérations de vote<a id=207></a>
+
+#### Sous-section 1 : Information des électeurs<a id=208></a>
+
+###### Article R176
+
+Toute information utile à l'électeur pour voter lors du scrutin peut lui être adressée par voie postale ou courrier
+électronique. Cet envoi est effectué par le ministre des affaires étrangères, l'ambassadeur ou le chef de poste consulaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 du 27 octobre 1964
+
+_Modifié par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+
+#### Sous-section 2 : Vote à l'urne<a id=209></a>
+
+###### Article R176-1
+
+Sous réserve des dispositions de la présente sous-section, les articles R. 40 (à l'exception du deuxième alinéa), R. 42 (à
+l'exception du premier alinéa), R. 44 (quatrième alinéa), R. 45 (troisième alinéa), R. 46 à R. 52, R. 54 (premier alinéa), R.
+55, 
+R. 57 à R. 59, R. 60 (deuxième alinéa), R. 61 (premier et troisième alinéa) sont applicables à l'élection de députés par les
+Français établis hors de France.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 du 27 octobre 1964
+
+_Cité par_:
+
+  - Décret n°79-160 du 28 février 1979 - art. 25 (V)
+  - Décret n°2001-213 du 8 mars 2001 - art. 32 (V)
+  - Décret n°2004-134 du 12 février 2004 - art. 12 (V)
+  - Décret n°2005-237 du 17 mars 2005 - art. 24 (V)
+  - Décret n°2005-238 du 17 mars 2005 - art. 12 (V)
+  - Décret n°2008-170 du 22 février 2008 - art. 5
+
+_Modifié par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R40
+  - Code électoral - art. R42
+  - Code électoral - art. R44
+  - Code électoral - art. R45
+  - Code électoral - art. R46
+  - Code électoral - art. R54
+  - Code électoral - art. R55
+  - Code électoral - art. R57
+  - Code électoral - art. R60
+  - Code électoral - art. R61
+
+
+###### Article R176-1-1
+
+Les électeurs se réunissent au bureau de vote correspondant à la section de la liste électorale consulaire sur laquelle ils
+sont inscrits.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+
+###### Article R176-1-2
+
+Le scrutin est ouvert à huit heures et clos le même jour à dix-huit heures (heures légales locales). 
+
+Toutefois, pour faciliter l'exercice de leur droit de vote par les électeurs, le ministre des affaires étrangères peut, par
+arrêté, avancer l'heure d'ouverture ou retarder l'heure de clôture du scrutin dans certains bureaux de vote. 
+
+Ces arrêtés sont affichés à l'intérieur des locaux de l'ambassade ou du poste consulaire, en un lieu accessible au public, au
+plus tard le cinquième jour précédant le scrutin, à dix-huit heures (heure légale locale).
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cité par_:
+
+  - Décret n°2012-558 du 25 avril 2012 - art. 4 (V)
+  - Décret n°2013-307 du 12 avril 2013 - art. 2 (V)
+  - Code électoral - art. R176-4-7 (V)
+
+
+###### Article R176-1-3
+
+Chaque bureau de vote est composé : 
+
+1° De l'ambassadeur ou du chef de poste consulaire ou de son représentant, président ; 
+
+2° D'assesseurs titulaires et suppléants, inscrits sur la liste électorale consulaire et désignés par chaque candidat ou son
+représentant ; 
+
+3° D'un secrétaire désigné par l'ambassadeur ou le chef de poste consulaire. 
+
+En cas d'absence ou d'empêchement, le président est remplacé par le plus âgé des assesseurs et le secrétaire est remplacé par
+le plus jeune des assesseurs.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cité par_:
+
+  - Code électoral - art. R176-1-12 (V)
+  - Code électoral - art. R176-1-13 (V)
+  - Code électoral - art. R176-3-10 (V)
+  - Code électoral - art. R176-4-5 (V)
+  - Code électoral - art. R177-4 (V)
+
+
+###### Article R176-1-4
+
+Pour l'application de l'article R. 40, le ministre des affaires étrangères est substitué au préfet et il y a lieu de lire : "
+circonscription consulaire ” au lieu de " commune ”.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R40
+
+
+###### Article R176-1-5
+
+Pour l'application des articles R. 46 et R. 55, l'ambassadeur ou le chef de poste consulaire est substitué au maire. 
+
+En outre : 
+
+1° La notification prévue au premier alinéa de l'article R. 46 est faite par voie postale, télécopie ou courrier
+électronique, au plus tard le troisième jour précédant le scrutin, à dix-huit heures (heure légale locale) ; 
+
+2° Pour l'application de l'article R. 55, la commission électorale mentionnée à l'article L. 330-6 est substituée à la
+commission de propagande.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 20 juillet 2007 - art. 12 (V)
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. L330-6
+  - Code électoral - art. R46
+  - Code électoral - art. R55
+
+
+###### Article R176-1-6
+
+Par dérogation à l'article R. 47, les délégués titulaires et suppléants peuvent être désignés par le représentant du
+candidat. Ils doivent être inscrits sur l'une des listes électorales consulaires de la circonscription où se déroule le
+scrutin.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cité par_:
+
+  - Code électoral - art. R176-1-13 (V)
+
+_Cite_:
+
+  - Code électoral - art. R47
+
+
+###### Article R176-1-7
+
+Pour l'application de l'article R. 51, le ministre de l'intérieur est substitué au préfet.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R51
+
+
+###### Article R176-1-8
+
+Des affiches contenant le texte des articles 3 et 4 de la loi organique du 31 janvier 1976 susmentionnée et des articles L.
+12, L. 14, L. 60, L. 62 à L. 66, L. 86, L. 87, L. 113, L. 114, L. 116, L. 330-3, R. 54 (premier alinéa) et R. 65 du présent
+code sont fournies par le ministère des affaires étrangères et placardées à l'intérieur des locaux des ambassades et des
+postes consulaires pendant la période électorale et à l'entrée de chaque bureau de vote le jour du scrutin.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°76-97 du 31 janvier 1976
+  - Code électoral - art. L113
+  - Code électoral - art. L116
+  - Code électoral - art. L12
+  - Code électoral - art. L14
+  - Code électoral - art. L330-3
+  - Code électoral - art. L60
+  - Code électoral - art. L62
+  - Code électoral - art. L86
+  - Code électoral - art. R54
+  - Code électoral - art. R65
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+
+###### Article R176-1-9
+
+Les attributions conférées au maire par les articles L. 58 et L. 62-1 sont exercées par l'ambassadeur ou le chef de poste
+consulaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. L58
+  - Code électoral - art. L62-1
+
+
+###### Article R176-1-10
+
+Sans préjudice du contrôle d'identité prévu à l'article R. 58, le droit de prendre part au vote de tout électeur inscrit sur
+la liste électorale consulaire s'exerce sous réserve de la vérification qu'il n'a pas déjà pris part au vote par
+correspondance sous pli fermé ou par voie électronique. 
+
+La liste des pièces permettant à l'électeur de justifier de son identité est établie par arrêté du ministre des affaires
+étrangères.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cité par_:
+
+  - Code électoral - art. R176-4-3 (V)
+
+_Cite_:
+
+  - Code électoral - art. R58
+
+
+###### Article R176-1-11
+
+Pour l'application des articles R. 58 et R. 59, il y a lieu de lire : " liste électorale consulaire ” au lieu de : " liste
+électorale ”.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R58
+
+
+###### Article R176-1-12
+
+Pour l'application de l'article R. 61, la référence à l'article R. 44 s'entend de la référence à l'article R. 176-1-3.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R176-1-3
+  - Code électoral - art. R61
+
+
+###### Article R176-1-13
+
+Chaque candidat communique le nom de son représentant, au sens des articles R. 176-1-3 et R. 176-1-6, au ministre des
+affaires étrangères au plus tard le deuxième vendredi précédant le scrutin, à 18 heures. Tout changement de représentant est
+notifié au ministre des affaires étrangères.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 20 juillet 2007 - art. 13 (V)
+  - Arrêté du 20 juillet 2007 - art. 9 (V)
+  - Code électoral - art. R176-4-4 (V)
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R176-1-3
+  - Code électoral - art. R176-1-6
+
+
+#### Sous-section 3 : Vote par procuration<a id=210></a>
+
+###### Article R176-2
+
+Sous réserve des dispositions de la présente sous-section, les articles R. 72 à R. 72-2, R. 73 (premier et troisième alinéa),
+R. 74, R. 75 (à l'exception du quatrième alinéa) et R. 76 à R. 80 sont applicables à l'élection de députés par les Français
+établis hors de France.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 du 27 octobre 1964
+
+_Cité par_:
+
+  - Décret n°2001-213 du 8 mars 2001 - art. 32 (V)
+
+_Modifié par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R*72
+  - Code électoral - art. R*73
+  - Code électoral - art. R*74
+  - Code électoral - art. R*76
+
+
+###### Article R176-2-1
+
+Pour l'application de l'article R. 73, le mandant doit justifier de son identité et attester sur l'honneur être dans
+l'impossibilité de se rendre au bureau de vote le jour du scrutin.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R*73
+
+_Cité par_:
+
+  - Code électoral - art. R176-2-2 (V)
+
+
+###### Article R176-2-2
+
+Pour l'application de l'article R. 74, la référence au deuxième alinéa de l'article R. 73 s'entend de la référence à
+l'article R. 176-2-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R*73
+  - Code électoral - art. R*74
+  - Code électoral - art. R176-2-1
+
+
+###### Article R176-2-3
+
+Pour l'application de l'article R. 75, l'autorité devant laquelle la procuration est dressée la transmet, par voie postale,
+télécopie ou courrier électronique, à l'ambassadeur ou au chef de poste consulaire chargé d'organiser les opérations de vote.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R*75
+
+
+###### Article R176-2-4
+
+Pour l'application des articles R. 76 à R. 78 et R. 80, l'ambassadeur ou le chef de poste consulaire est substitué au maire. 
+
+En outre : 
+
+1° Pour l'application de l'article R. 76, il y a lieu de lire : " liste électorale consulaire ” au lieu de : " liste
+électorale ” ; 
+
+2° Pour l'application de l'article R. 78, la référence à l'article R. 75 s'entend de la référence à l'article R. 176-2-3.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R*76
+  - Code électoral - art. R*80
+
+
+#### Sous-section 4 : Vote par correspondance électronique<a id=211></a>
+
+###### Article R176-3
+
+I. - Pour l'élection de députés par les Français établis hors de France, les électeurs mentionnés à l'article R. 172 peuvent
+voter par correspondance électronique. A cette fin, il est créé un traitement automatisé de données à caractère personnel,
+placé sous la responsabilité du ministre de l'intérieur et du ministre des affaires étrangères. 
+
+Ce traitement automatisé garantit la séparation, dans des fichiers distincts, des données relatives aux électeurs, d'une
+part, et aux votes, d'autre part. 
+
+Les droits d'accès et de rectification prévus aux articles 39 et 40 de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés s'exercent auprès de l'ambassadeur ou du chef de poste consulaire chargé
+d'organiser les opérations de vote. Le droit d'opposition prévu à l'article 38 de la même loi ne s'applique pas à ce
+traitement automatisé. 
+
+II. - Préalablement à sa mise en place, ou à toute modification substantielle de sa conception, le système de vote
+électronique fait l'objet d'une expertise indépendante destinée à vérifier le respect des garanties prévues par la présente
+sous-section. 
+
+III. - Un arrêté conjoint du ministre de l'intérieur et du ministre des affaires étrangères précise les caractéristiques du
+traitement prévu au I. 
+
+Il fixe notamment : 
+
+1° Les catégories de données à caractère personnel enregistrées dans le traitement ; 
+
+2° Les modalités de l'expertise indépendante prévue au II ; 
+
+3° Les garanties entourant le recours éventuel à un prestataire technique chargé, dans le respect des obligations de sécurité
+résultant de la présente sous-section, de la maîtrise d'œuvre du traitement automatisé ainsi que les modalités de son
+intervention ; 
+
+4° Les modalités de transmission de l'identifiant et de l'authentifiant prévues à l'article R. 176-3-7 ainsi que les
+modalités de récupération par l'électeur de son authentifiant ; 
+
+5° Les conditions de mise en œuvre d'un dispositif de secours en cas de défaillance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 du 27 octobre 1964
+
+_Cite_:
+
+  - Loi n°78-17 du 6 janvier 1978 - art. 38
+  - Loi n°78-17 du 6 janvier 1978 - art. 39
+  - Code électoral - art. R*172
+
+_Modifié par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 27 avril 2012 - art. 1 (V)
+  - Arrêté du 27 avril 2012 - art. 2 (V)
+  - Arrêté du 27 avril 2012 - art. 3 (V)
+  - Arrêté du 4 mars 2014 (V)
+  - Arrêté du 4 mars 2014 - art. 1 (V)
+  - Arrêté du 4 mars 2014 - art. 4 (V)
+  - Décret n°2014-290 du 4 mars 2014 - art. 14 (V)
+  - Décret n°2014-290 du 4 mars 2014 - art. 15 (V)
+  - Arrêté du 17 mars 2017 - art. 1 (V)
+  - Code électoral - art. R176-3-10 (V)
+  - Code électoral - art. R176-3-3 (V)
+  - Code électoral - art. R176-3-4 (V)
+  - Code électoral - art. R176-3-7 (V)
+  - Code électoral - art. R179-1 (V)
+
+
+###### Article R176-3-1
+
+Les opérations de vote par voie électronique sont placées sous le contrôle d'un bureau du vote électronique composé : 
+
+1° D'un membre du Conseil d'Etat, désigné par le vice-président du Conseil d'Etat, président ; 
+
+2° Du directeur des Français à l'étranger et de l'administration consulaire au ministère des affaires étrangères ou de son
+représentant ; 
+
+3° Du directeur de la modernisation et de l'action territoriale au ministère de l'intérieur ou de son représentant ; 
+
+4° Du directeur de l'Agence nationale de la sécurité des systèmes d'information ou de son représentant ; 
+
+5° De trois membres élus de l'Assemblée des Français de l'étranger, désignés au scrutin proportionnel par cette dernière.
+Pour chacun d'eux, un suppléant est désigné dans les mêmes conditions. 
+
+La liste des membres titulaires et suppléants du bureau du vote électronique est publiée par arrêté conjoint du ministre de
+l'intérieur et du ministre des affaires étrangères. 
+
+Le bureau du vote électronique ne délibère valablement que si quatre au moins de ses membres sont présents. En cas de partage
+égal des voix, celle du président est prépondérante. En cas d'absence ou d'empêchement, le président est remplacé par le plus
+âgé des membres présents. 
+
+Le secrétariat du bureau du vote électronique est assuré par le secrétariat de la commission électorale prévue à l'article 7
+de la loi organique du 31 janvier 1976 susmentionnée.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°76-97 du 31 janvier 1976 - art. 7
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cité par_:
+
+  - Décret n°2014-290 du 4 mars 2014 - art. 15 (V)
+  - Décret n°2014-290 du 4 mars 2014 - art. 16 (V)
+
+
+###### Article R176-3-2
+
+Chaque candidat peut désigner un délégué habilité à contrôler les opérations de vote par voie électronique. Les délégués sont
+informés des réunions du bureau du vote électronique auxquelles ils peuvent assister avec voix consultative. 
+
+Les nom, prénoms, date et lieu de naissance et adresse des délégués sont notifiés au président du bureau du vote électronique
+au plus tard le troisième jeudi précédant la date du scrutin, à dix-huit heures (heure légale de Paris). 
+
+Les délégués exercent leurs prérogatives sous réserve des contraintes qu'impose la sécurité du système de vote électronique.
+Le cas échéant, les candidats sont immédiatement informés de ces contraintes par le bureau du vote électronique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 27 avril 2012 - art. 3 (V)
+  - Décret n°2014-290 du 4 mars 2014 - art. 17 (V)
+  - Code électoral - art. R176-3-5 (V)
+
+
+###### Article R176-3-3
+
+Le bureau du vote électronique veille au bon déroulement des opérations électorales et vérifie l'effectivité des dispositifs
+de sécurité prévus pour assurer le secret du vote, la sincérité du scrutin et l'accessibilité au suffrage. 
+
+Il se réunit afin de procéder aux opérations prévues aux articles R. 176-3-8, 
+R. 176-3-10 et R. 177-5 et, sur convocation de son président, en tant que de besoin au cours des opérations électorales. 
+
+Le bureau du vote électronique peut, à tout moment, s'assurer de l'intégrité et de la disponibilité du système de vote et des
+fichiers prévus au deuxième alinéa de l'article R. 176-3. Il est compétent pour prendre toute mesure d'information et de
+sauvegarde, y compris l'arrêt temporaire ou définitif des opérations de vote par voie électronique s'il estime que leur
+sincérité, leur secret ou leur accessibilité n'est plus garanti.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 27 avril 2012 - art. 3 (V)
+  - Arrêté du 4 mars 2014 - art. 4 (V)
+
+_Cite_:
+
+  - Code électoral - art. R176-3
+  - Code électoral - art. R176-3-10
+  - Code électoral - art. R176-3-8
+  - Code électoral - art. R177-5 (V)
+
+
+###### Article R176-3-4
+
+Toute facilité est accordée au bureau du vote électronique pour lui permettre d'assurer la surveillance effective des
+opérations électorales par voie électronique. Il peut, en tant que de besoin, saisir les autorités et, le cas échant, les
+prestataires chargés de l'organisation de ces opérations de toute question relative à leur déroulement. 
+
+Les responsables du traitement automatisé prévu à l'article R. 176-3 délèguent auprès du bureau du vote électronique un ou
+plusieurs experts chargés de l'éclairer sur le fonctionnement du système de vote électronique et les événements
+éventuellement rencontrés au cours des opérations électorales.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 4 mars 2014 - art. 4 (V)
+
+_Cite_:
+
+  - Code électoral - art. R176-3
+
+
+###### Article R176-3-5
+
+Il est tenu un procès-verbal du vote électronique, composé de pages numérotées. Tout événement survenu durant le scrutin,
+toute décision prise par le bureau du vote électronique, toute intervention effectuée sur le système de vote sont
+immédiatement portés au procès-verbal. 
+
+Tout électeur, tout candidat ainsi que les délégués prévus à l'article R. 176-3-2 peuvent consulter le procès-verbal et y
+consigner leurs observations relatives aux opérations du vote par voie électronique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 27 avril 2012 - art. 9 (V)
+
+_Cite_:
+
+  - Code électoral - art. R176-3-2
+
+
+###### Article R176-3-6
+
+Le ministre des affaires étrangères, l'ambassadeur ou le chef de poste consulaire informe les électeurs sur les modalités
+d'accès au système de vote par voie électronique et sur son fonctionnement général. 
+
+Les électeurs établis dans un pays depuis lequel la transmission de flux informatiques chiffrés est impossible ou interdite
+en sont informés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 27 avril 2012 - art. 8 (V)
+  - Arrêté du 4 mars 2014 - art. 7 (V)
+
+
+###### Article R176-3-7
+
+L'identité de l'électeur votant par voie électronique est attestée par un identifiant associé à un authentifiant. Ces
+instruments, sans lien avec l'état civil de l'électeur, sont créés de manière aléatoire par les responsables du traitement
+prévu à l'article R. 176-3. Ils sont transmis séparément à l'électeur, par des modes d'acheminement différents, de façon à
+garantir leur confidentialité et à prévenir toute usurpation d'identité. 
+
+L'identifiant est envoyé entre le sixième et le troisième mercredi précédant la date du scrutin. Il est valable pour le
+premier et, le cas échéant, le second tour. 
+
+L'authentifiant est envoyé entre le deuxième et le quatrième mardi précédant la date du scrutin. En cas de second tour, un
+nouvel authentifiant est transmis entre le troisième mercredi précédant la date du scrutin et le début de la période de vote
+prévu à l'article R. 176-3-8. En cas de perte, seul l'authentifiant peut être récupéré par l'électeur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 27 avril 2012 - art. 3 (V)
+  - Arrêté du 27 avril 2012 - art. 4 (V)
+  - Arrêté du 4 mars 2014 - art. 4 (V)
+  - Arrêté du 4 mars 2014 - art. 5 (V)
+  - Décret n°2014-290 du 4 mars 2014 - art. 18 (V)
+  - Code électoral - art. R176-3 (M)
+  - Code électoral - art. R176-3-9 (V)
+
+_Cite_:
+
+  - Code électoral - art. R176-3-8
+
+
+###### Article R176-3-8
+
+Pour l'ensemble des circonscriptions électorales, le vote par voie électronique est ouvert le deuxième mercredi précédant la
+date du scrutin, à douze heures (heure légale de Paris). 
+
+Avant l'ouverture du vote par voie électronique, une clé de dépouillement distincte, confidentielle et strictement
+personnelle est remise à chacun des membres titulaires et suppléants du bureau du vote électronique. Le bureau du vote
+électronique vérifie que les listes d'émargement sont vierges et que l'urne électronique est vide.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cité par_:
+
+  - Code électoral - art. R176-3-3 (V)
+  - Code électoral - art. R176-3-7 (M)
+  - Code électoral - art. R177-5 (V)
+
+
+###### Article R176-3-9
+
+Pour voter par voie électronique, l'électeur, après s'être connecté au système de vote et identifié à l'aide de l'identifiant
+et de l'authentifiant prévus à l'article R. 176-3-7, exprime puis valide son vote. 
+
+Tant qu'il n'a pas validé son vote par voie électronique, l'électeur conserve la possibilité de voter à l'urne, par
+procuration ou par correspondance sous pli fermé, dans les conditions prévues à la présente section. 
+
+La validation du vote le rend définitif et empêche toute modification. Le vote est protégé en confidentialité et en
+intégrité. Il fait l'objet d'un chiffrement dès son émission sur le terminal utilisé par l'électeur. La liaison entre ce
+terminal et le serveur hébergeant l'urne électronique est également chiffrée. 
+
+L'enregistrement du vote et l'émargement de l'électeur donnent lieu à l'envoi par voie électronique d'un récépissé lui
+permettant de vérifier, en ligne, la prise en compte de son vote.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 27 avril 2012 - art. 3 (V)
+  - Arrêté du 4 mars 2014 - art. 4 (V)
+  - Décret n°2014-290 du 4 mars 2014 - art. 19 (V)
+
+_Cite_:
+
+  - Code électoral - art. R176-3-7
+
+
+###### Article R176-3-10
+
+Pour l'ensemble des circonscriptions électorales, le vote par voie électronique est clos le mardi précédant la date du
+scrutin, à douze heures (heure légale de Paris). 
+
+Les responsables du traitement automatisé prévu à l'article R. 176-3 extraient et enregistrent sur supports scellés le
+contenu de l'urne, les listes d'émargement et les états courants gérés par les serveurs. Ces opérations sont effectuées sous
+le contrôle du bureau du vote électronique. Les supports ainsi créés sont remis à son président, qui les conserve dans un
+lieu sécurisé. 
+
+Le bureau du vote électronique vérifie que le nombre de votes exprimés dans l'urne électronique correspond au nombre de
+votants figurant sur les listes d'émargement. Pour chaque circonscription consulaire, il transmet par courrier électronique
+au bureau centralisateur mentionné à l'article R. 40 les listes d'émargement correspondant aux bureaux de vote mentionnés à
+l'article R. 176-1-3. Les listes ainsi transmises se substituent, dans chaque bureau de vote, à la copie de la liste
+électorale mentionnée à l'article L. 62-1. 
+
+Le support contenant les listes d'émargement est ensuite annexé au procès-verbal du vote électronique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 4 mars 2014 - art. 4 (V)
+  - Code électoral - art. R176-3-3 (V)
+
+_Cite_:
+
+  - Code électoral - art. L62-1
+  - Code électoral - art. R176-1-3 (V)
+  - Code électoral - art. R176-3 (V)
+  - Code électoral - art. R40
+
+
+#### Sous-section 5 : Vote par correspondance sous pli fermé<a id=212></a>
+
+###### Article R176-4
+
+L'électeur souhaitant voter par correspondance sans user de la faculté qui lui est ouverte par la sous-section 4 peut
+demander à recevoir le matériel de vote lui permettant de voter par correspondance sous pli fermé au premier tour et, le cas
+échéant, au second tour. Sa demande, formulée auprès de l'ambassadeur ou du chef de poste consulaire, doit être reçue au plus
+tard le 1er mars de l'année de l'élection. 
+
+L'électeur qui n'a pas fait usage de son droit de vote par correspondance sous pli fermé conserve la possibilité de voter à
+l'urne, par procuration ou par correspondance électronique, dans les conditions prévues à la présente section.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 du 27 octobre 1964
+
+_Cité par_:
+
+  - Décret n°2002-888 du 8 mai 2002 - art. 5 (V)
+
+_Modifié par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+
+###### Article R176-4-1
+
+Le matériel de vote par correspondance sous pli fermé comprend une enveloppe d'expédition, une enveloppe d'identification,
+une enveloppe électorale ainsi qu'une notice d'utilisation reproduisant les dispositions des articles R. 176-4-2, R. 176-4-3
+et R. 176-4-6 et invitant l'électeur à s'assurer que les circonstances locales ne risquent pas de faire obstacle à
+l'acheminement dans les temps de son vote par correspondance sous pli fermé. 
+
+Ce matériel est adressé aux électeurs qui en ont fait la demande conjointement aux circulaires et aux bulletins de vote
+expédiés en application de l'article R. 34.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R176-4-2
+  - Code électoral - art. R176-4-6
+  - Code électoral - art. R34
+
+
+###### Article R176-4-2
+
+L'enveloppe d'identification revêtue des nom, prénoms et signature de l'électeur et renfermant l'enveloppe électorale
+contenant le bulletin de vote doit parvenir à l'ambassadeur ou au chef de poste consulaire chargé d'organiser les opérations
+de vote, au plus tard le vendredi précédant le jour du scrutin, à douze heures (heure légale locale). Dans les
+circonscriptions électorales d'Amérique, elle doit lui parvenir au plus tard le jeudi précédant le jour du scrutin, à douze
+heures (heure légale locale).
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cité par_:
+
+  - Code électoral - art. R176-4-1 (V)
+  - Code électoral - art. R176-4-5 (V)
+  - Code électoral - art. R176-4-6 (V)
+
+
+###### Article R176-4-3
+
+Afin de permettre le contrôle de son identité, l'électeur joint à son enveloppe d'identification une copie d'une des pièces
+figurant sur la liste prévue au second alinéa de l'article R. 176-1-10.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 20 juillet 2007 - art. 11 (V)
+  - Code électoral - art. R176-4-5 (V)
+  - Code électoral - art. R176-4-6 (V)
+  - Code électoral - art. R176-4-7 (V)
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R176-1-10
+
+
+###### Article R176-4-4
+
+Chaque ambassadeur ou chef de poste consulaire chargé d'organiser les opérations de vote tient un registre du vote par
+correspondance sous pli fermé, composé de pages numérotées. Il est fait mention au registre des enveloppes d'identification
+reçues au fur et à mesure de leur arrivée. Sur chaque enveloppe est aussitôt apposé un numéro d'ordre. 
+
+Doivent être inscrits au registre sans délai le numéro d'ordre, la date, l'heure d'arrivée de l'enveloppe à l'ambassade ou au
+poste consulaire concerné, les nom et prénoms de l'électeur, son numéro d'inscription sur la liste électorale et le nom de
+l'agent ayant procédé à cet enregistrement. Le cas échéant, ce dernier signale les enveloppes d'identification qu'il estime
+relever des dispositions de l'article R. 176-4-6. 
+
+Tout électeur et tout candidat ou son représentant, au sens de l'article R. 176-1-13, peuvent consulter le registre et y
+consigner leurs observations relatives aux opérations du vote par correspondance.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R176-1-13
+  - Code électoral - art. R176-4-6
+
+_Cité par_:
+
+  - Code électoral - art. R176-4-5 (V)
+  - Code électoral - art. R177-4 (V)
+
+
+###### Article R176-4-5
+
+Les enveloppes d'identification et les justificatifs prévus à l'article R. 176-4-3 sont conservés dans un lieu sécurisé, sous
+la responsabilité de l'ambassadeur ou du chef de poste consulaire. 
+
+A l'échéance du délai prévu à l'article R. 176-4-2, ces documents sont remis avec le registre prévu à l'article R. 176-4-4 au
+bureau centralisateur de la circonscription consulaire. 
+
+Après avoir vérifié l'identité des électeurs au moyen des justificatifs prévus à l'article R. 176-4-3 et s'être assurés
+qu'ils n'ont pas déjà pris part au vote par voie électronique, les membres du bureau centralisateur signalent sur la liste
+d'émargement le vote de chaque électeur ayant pris part au scrutin par correspondance sous pli fermé. 
+
+A l'issue de ces opérations, les enveloppes d'identification, demeurées fermées, et le registre du vote par correspondance
+sous pli fermé sont restitués à l'ambassadeur ou au chef de poste consulaire pour être conservés dans les conditions prévues
+au premier alinéa. 
+
+Les listes d'émargement lui sont également remises pour être transmises aux bureaux de vote mentionnés à l'article R.
+176-1-3.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R176-1-3
+  - Code électoral - art. R176-4-2
+  - Code électoral - art. R176-4-3
+  - Code électoral - art. R176-4-4
+
+_Cité par_:
+
+  - Code électoral - art. R176-4-7 (V)
+
+
+###### Article R176-4-6
+
+Ne donnent pas lieu à émargement les enveloppes d'identification : 
+
+1° Reçues au nom d'un même électeur ou d'un électeur ayant déjà pris part au vote par voie électronique ; 
+
+2° Parvenues hors du délai prévu à l'article R. 176-4-2 ou ne comportant pas les mentions requises par le même article ; 
+
+3° Auxquelles le justificatif prévu à l'article R. 176-4-3 n'a pas été joint ; 
+
+4° Pour lesquelles le bureau de vote centralisateur n'a pas authentifié l'identité de l'électeur. 
+
+Ces enveloppes sont contresignées par les membres du bureau de vote centralisateur et annexées au procès-verbal selon les
+modalités prévues à l'article L. 66. 
+
+Les enveloppes parvenues après la clôture du scrutin ne sont pas ouvertes et sont détruites en présence de l'ambassadeur ou
+du chef de poste consulaire, qui en dresse procès-verbal.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. L66
+  - Code électoral - art. R176-4-2
+  - Code électoral - art. R176-4-3
+
+_Cité par_:
+
+  - Code électoral - art. R176-4-1 (V)
+  - Code électoral - art. R176-4-4 (V)
+
+
+###### Article R176-4-7
+
+A l'heure d'ouverture du scrutin prévue à l'article R. 176-1-2, l'ambassadeur ou le chef de poste consulaire remet les
+documents mentionnés aux premier et deuxième alinéas de l'article R. 176-4-5 aux membres du bureau de vote centralisateur.
+Ces derniers procèdent à l'ouverture des enveloppes d'identification et déposent les enveloppes électorales, pour l'ensemble
+de la circonscription consulaire, dans l'urne du vote par correspondance sous pli fermé. 
+
+A l'issue du scrutin, les enveloppes d'identification et les justificatifs prévus à l'article R. 176-4-3 sont restitués à
+l'ambassadeur ou au chef de poste consulaire pour être conservés, dans les conditions prévues au premier alinéa de l'article
+R. 176-4-5, jusqu'à expiration des délais mentionnés à l'article R. 179-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R*179-1
+  - Code électoral - art. R176-1-2
+  - Code électoral - art. R176-4-3
+  - Code électoral - art. R176-4-5
+
+_Cité par_:
+
+  - Code électoral - art. R177-4 (V)
+
+
+### Section 6 : Dépouillement et recensement des votes<a id=213></a>
 
 ###### Article R177
 
@@ -29058,7 +30482,241 @@ _Cite_:
   - Code électoral - art. R71
 
 
-## Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse<a id=204></a>
+###### Article R177-1
+
+Pour l'application de l'article R. 66-2, les mots : " Sous réserve de l'article R. 30-1 " figurant au 3° sont supprimés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 du 27 octobre 1964
+
+_Modifié par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R66-2
+
+
+###### Article R177-2
+
+Pour l'application des articles R. 69 et R. 106, il y a lieu de lire : " circonscription consulaire ” au lieu de : " commune
+”. 
+
+En outre : 
+
+1° Pour l'application de l'article R. 69, l'ambassadeur ou le chef de poste consulaire est substitué au maire ; 
+
+2° Pour l'application de l'article R. 106, la commission électorale mentionnée à l'article L. 330-14 est substituée à la
+commission de recensement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R*106
+  - Code électoral - art. R69
+
+
+###### Article R177-3
+
+Le premier exemplaire du procès-verbal établi en application de l'article R. 67 ou de l'article R. 69 est transmis sans
+délai, par l'ambassadeur ou le chef de poste consulaire, à la commission électorale mentionnée à l'article L. 330-14. 
+
+Le second exemplaire reste déposé à l'ambassade ou au poste consulaire. Le second alinéa de l'article R. 70 lui est
+applicable.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cité par_:
+
+  - Décret n°2014-290 du 4 mars 2014 - art. 20 (V)
+  - Décret n°2014-290 du 4 mars 2014 - art. 33 (V)
+
+_Cite_:
+
+  - Code électoral - art. L330-14
+  - Code électoral - art. R67
+  - Code électoral - art. R69
+  - Code électoral - art. R70
+
+
+###### Article R177-4
+
+Le bureau de vote centralisateur de chaque circonscription consulaire procède au dépouillement de l'urne mentionnée à
+l'article R. 176-4-7 dans les mêmes conditions que les bureaux de vote mentionnés à l'article R. 176-1-3. 
+
+Le procès-verbal établi en application du troisième alinéa de l'article R. 69 mentionne à part les résultats du vote par
+correspondance sous pli fermé. Le registre prévu à l'article R. 176-4-4 lui est annexé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R176-1-3
+  - Code électoral - art. R176-4-4
+  - Code électoral - art. R176-4-7
+  - Code électoral - art. R69 (VD)
+
+
+###### Article R177-5
+
+Après clôture du scrutin dans l'ensemble des circonscriptions, les membres du bureau du vote électronique procèdent
+publiquement à l'ouverture de l'urne électronique en activant les clés mentionnées à l'article R. 176-3-8. L'urne ne peut
+être ouverte que si quatre clés au moins sont actionnées, chacune par le membre du bureau du vote par voie électronique
+auquel elle a été remise dans les conditions prévues au même article. 
+
+Le décompte des suffrages est réalisé par circonscription consulaire et fait l'objet d'une édition sécurisée afin d'être
+porté au procès-verbal du vote par voie électronique. Les membres du bureau du vote électronique paraphent le procès-verbal
+puis le remettent à la commission électorale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cité par_:
+
+  - Arrêté du 27 avril 2012 - art. 3 (V)
+  - Arrêté du 27 avril 2012 - art. 9 (V)
+  - Arrêté du 4 mars 2014 - art. 4 (V)
+  - Code électoral - art. R176-3-3 (V)
+
+_Cite_:
+
+  - Code électoral - art. R176-3-8
+
+
+###### Article R177-6
+
+Le recensement général des votes est effectué, pour chaque circonscription, à partir des procès-verbaux établis par les
+bureaux de vote centralisateurs des circonscriptions consulaires et par le bureau du vote électronique, au plus tard le lundi
+qui suit le scrutin, à minuit, par la commission électorale mentionnée à l'article L. 330-14.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. L330-14
+
+
+###### Article R177-7
+
+Le ministre des affaires étrangères prend toutes mesures pour que les bureaux centralisateurs et la commission électorale
+soient en possession en temps utile des procès-verbaux et des pièces annexes émanant des bureaux de vote. 
+
+Au cas où, en raison de l'éloignement des bureaux de vote, des difficultés de communication ou pour toute autre cause, les
+procès-verbaux ne parviendraient pas au bureau centralisateur ou à la commission en temps utile, ceux-ci sont habilités à se
+prononcer au vu des télégrammes, des télécopies ou courriers électroniques des présidents des bureaux de vote, des
+ambassadeurs et des chefs de poste consulaire transmettant les résultats du scrutin et contenant les contestations formulées
+avec l'indication de leurs motifs et de leurs auteurs. 
+
+Par dérogation à l'article R. 69, le bureau centralisateur peut, pour les mêmes motifs, procéder au recensement général des
+votes de la circonscription consulaire en l'absence des présidents des bureaux de vote.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R69
+
+
+### Section 7 : Dispositions pénales<a id=214></a>
+
+###### Article R178
+
+Les dispositions du chapitre VII du titre Ier du livre Ier sont applicables à l'élection de députés par les Français établis
+hors de France.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 du 27 octobre 1964
+
+_Modifié par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+
+### Section 8 : Contentieux<a id=215></a>
+
+###### Article R179
+
+Les dispositions du chapitre VIII du titre Ier du livre Ier sont applicables à l'élection de députés par les Français établis
+hors de France.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 du 27 octobre 1964
+
+_Modifié par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+
+###### Article R179-1
+
+Jusqu'à l'expiration du délai de recours contentieux ou, lorsqu'une action contentieuse a été engagée, jusqu'à la décision
+juridictionnelle devenue définitive, les fichiers supports comprenant la copie des programmes sources et des programmes
+exécutables, les matériels de vote, les fichiers d'émargement, de résultats et de sauvegarde ainsi que l'ensemble des données
+à caractère personnel enregistrées sur le traitement prévu à l'article R. 176-3 sont conservés sous scellés, sous le contrôle
+de la commission électorale. La procédure de décompte des votes doit, si nécessaire, pouvoir être exécutée à nouveau. 
+
+A l'expiration du délai de recours ou, lorsqu'une action contentieuse a été engagée, après l'intervention d'une décision
+juridictionnelle devenue définitive sauf si une instance pénale a été engagée dans ce délai, il est procédé, sous le contrôle
+de la commission électorale, à la destruction de ces supports et données.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 du 27 octobre 1964
+
+_Cité par_:
+
+  - Décret n°79-160 du 28 février 1979 - art. 25 (M)
+  - Décret n°2000-835 du 31 août 2000 - art. 2 (V)
+  - Arrêté du 27 avril 2012 - art. 3 (V)
+  - Arrêté du 4 mars 2014 - art. 4 (V)
+  - Code électoral - art. R176-4-7 (V)
+
+_Modifié par_:
+
+  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R176-3
+
+
+## Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse<a id=216></a>
 
 ###### Article R182
 
@@ -29080,9 +30738,9 @@ _Modifié par_:
   - Décret n°91-653 du 15 juillet 1991 - art. 1 () JORF 16 juillet 1991
 
 
-### Titre Ier : Election des conseillers régionaux<a id=205></a>
+### Titre Ier : Election des conseillers régionaux<a id=217></a>
 
-#### Chapitre V : Déclarations de candidatures<a id=206></a>
+#### Chapitre V : Déclarations de candidatures<a id=218></a>
 
 ###### Article R183
 
@@ -29144,7 +30802,7 @@ _Cité par_:
   - Code électoral - art. R187 (Ab)
 
 
-#### Chapitre VI : Propagande<a id=207></a>
+#### Chapitre VI : Propagande<a id=219></a>
 
 ###### Article R186
 
@@ -29171,7 +30829,7 @@ _Cité par_:
   - Code électoral - art. R187 (Ab)
 
 
-#### Chapitre VIII : Opérations de vote<a id=208></a>
+#### Chapitre VIII : Opérations de vote<a id=220></a>
 
 ###### Article R188
 
@@ -29269,7 +30927,7 @@ _Créé par_:
   - Décret n°99-232 du 24 mars 1999 - art. 3 ()
 
 
-#### Chapitre X : Contentieux<a id=209></a>
+#### Chapitre X : Contentieux<a id=221></a>
 
 ###### Article R190
 
@@ -29300,9 +30958,9 @@ _Cité par_:
   - Code électoral - art. R358 (V)
 
 
-### Titre  II : Election des conseillers à l'Assemblée de Corse<a id=210></a>
+### Titre  II : Election des conseillers à l'Assemblée de Corse<a id=222></a>
 
-#### Chapitre V : Déclarations de candidature<a id=211></a>
+#### Chapitre V : Déclarations de candidature<a id=223></a>
 
 ###### Article R191
 
@@ -29365,7 +31023,7 @@ _Cité par_:
   - Code électoral - art. R197 (Ab)
 
 
-#### Chapitre VI : Propagande<a id=212></a>
+#### Chapitre VI : Propagande<a id=224></a>
 
 ###### Article R194
 
@@ -29454,7 +31112,7 @@ _Cité par_:
   - Code électoral - art. R197 (Ab)
 
 
-#### Chapitre VII : Opérations de vote<a id=213></a>
+#### Chapitre VII : Opérations de vote<a id=225></a>
 
 ###### Article R198
 
@@ -29509,7 +31167,7 @@ _Cite_:
   - Code électoral - art. R107 (VT)
 
 
-#### Chapitre X : Contentieux<a id=214></a>
+#### Chapitre X : Contentieux<a id=226></a>
 
 ###### Article R200
 
@@ -29534,11 +31192,11 @@ _Cite_:
   - Code électoral - art. R190 (V)
 
 
-## Livre V : Dispositions applicables à la Nouvelle-Calédonie, à la Polynésie française et aux îles  Wallis et Futuna<a id=215></a>
+## Livre V : Dispositions applicables à la Nouvelle-Calédonie, à la Polynésie française et aux îles  Wallis et Futuna<a id=227></a>
 
-### Titre Ier : Dispositions générales<a id=216></a>
+### Titre Ier : Dispositions générales<a id=228></a>
 
-#### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna<a id=217></a>
+#### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna<a id=229></a>
 
 ###### Article R201
 
@@ -29972,7 +31630,7 @@ _Cite_:
   - Code électoral - art. L118-3 (V)
 
 
-#### Chapitre II : Dispositions propres à la Nouvelle-Calédonie<a id=218></a>
+#### Chapitre II : Dispositions propres à la Nouvelle-Calédonie<a id=230></a>
 
 ###### Article R213
 
@@ -30087,7 +31745,7 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-#### Chapitre III : Dispositions propres aux îles Wallis et Futuna<a id=219></a>
+#### Chapitre III : Dispositions propres aux îles Wallis et Futuna<a id=231></a>
 
 ###### Article R213-1
 
@@ -30111,9 +31769,9 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-### Titre II : Election des députés<a id=220></a>
+### Titre II : Election des députés<a id=232></a>
 
-#### Chapitre Ier : Dispositions générales<a id=221></a>
+#### Chapitre Ier : Dispositions générales<a id=233></a>
 
 ###### Article R214
 
@@ -30132,7 +31790,7 @@ _Modifié par_:
   - Décret n°2009-430 du 20 avril 2009 - art. 9 (V)
 
 
-#### Chapitre II : Régime des inéligibilités<a id=222></a>
+#### Chapitre II : Régime des inéligibilités<a id=234></a>
 
 ###### Article R**215
 
@@ -30214,7 +31872,7 @@ _Cité par_:
   - Code électoral - art. R**273 (V)
 
 
-#### Chapitre III : Candidatures<a id=223></a>
+#### Chapitre III : Candidatures<a id=235></a>
 
 ###### Article R216
 
@@ -30244,7 +31902,7 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-#### Chapitre IV : Recensement des votes<a id=224></a>
+#### Chapitre IV : Recensement des votes<a id=236></a>
 
 ###### Article R217
 
@@ -30288,11 +31946,11 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-### Titre III : Dispositions applicables à l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie<a id=225></a>
+### Titre III : Dispositions applicables à l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie<a id=237></a>
 
-#### Chapitre Ier : Liste électorale spéciale<a id=226></a>
+#### Chapitre Ier : Liste électorale spéciale<a id=238></a>
 
-##### Section 1 : Etablissement de la liste électorale spéciale<a id=227></a>
+##### Section 1 : Etablissement de la liste électorale spéciale<a id=239></a>
 
 ###### Article R219
 
@@ -30591,7 +32249,7 @@ _Modifié par_:
   - Décret n°2004-191 du 27 février 2004 - art. 2 () JORF 28 février 2004
 
 
-##### Section 2 : Inscription en dehors des périodes de révision<a id=228></a>
+##### Section 2 : Inscription en dehors des périodes de révision<a id=240></a>
 
 ###### Article R229
 
@@ -30653,7 +32311,7 @@ _Cite_:
   - Code électoral - art. R229 (V)
 
 
-##### Section 3 : Carte électorale spéciale<a id=229></a>
+##### Section 3 : Carte électorale spéciale<a id=241></a>
 
 ###### Article R231
 
@@ -30687,7 +32345,7 @@ _Cité par_:
   - Arrêté du 9 février 2004 - art. 1 (V)
 
 
-#### Chapitre II : Candidatures et bulletins de vote<a id=230></a>
+#### Chapitre II : Candidatures et bulletins de vote<a id=242></a>
 
 ###### Article R232
 
@@ -30817,7 +32475,7 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-#### Chapitre III : Propagande<a id=231></a>
+#### Chapitre III : Propagande<a id=243></a>
 
 ###### Article R237
 
@@ -30864,7 +32522,7 @@ _Cité par_:
   - Code électoral - art. R235 (V)
 
 
-#### Chapitre IV : Opérations de vote et recensement<a id=232></a>
+#### Chapitre IV : Opérations de vote et recensement<a id=244></a>
 
 ###### Article R238
 
@@ -30979,9 +32637,9 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-### Titre IV : Dispositions applicables à l'élection des représentants à l'assemblée de la Polynésie française<a id=233></a>
+### Titre IV : Dispositions applicables à l'élection des représentants à l'assemblée de la Polynésie française<a id=245></a>
 
-#### Chapitre Ier : Candidatures et bulletins de vote<a id=234></a>
+#### Chapitre Ier : Candidatures et bulletins de vote<a id=246></a>
 
 ###### Article R242
 
@@ -31103,7 +32761,7 @@ _Modifié par_:
   - Décret n°2004-327 2004-04-14 art. 1 2° JORF 16 avril 2004
 
 
-#### Chapitre II : Propagande<a id=235></a>
+#### Chapitre II : Propagande<a id=247></a>
 
 ###### Article R247
 
@@ -31194,7 +32852,7 @@ _Cite_:
   - Code électoral - art. L414 (V)
 
 
-#### Chapitre III : Opérations de vote et recensement<a id=236></a>
+#### Chapitre III : Opérations de vote et recensement<a id=248></a>
 
 ###### Article R250
 
@@ -31309,9 +32967,9 @@ _Modifié par_:
   - Décret n°2008-42 du 14 janvier 2008 - art. 1
 
 
-### Titre V : Dispositions applicables à l'élection des membres de l'assemblée territoriale des îles  Wallis et Futuna<a id=237></a>
+### Titre V : Dispositions applicables à l'élection des membres de l'assemblée territoriale des îles  Wallis et Futuna<a id=249></a>
 
-#### Chapitre Ier : Candidatures et bulletins de vote<a id=238></a>
+#### Chapitre Ier : Candidatures et bulletins de vote<a id=250></a>
 
 ###### Article R254
 
@@ -31425,7 +33083,7 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-#### Chapitre II : Propagande<a id=239></a>
+#### Chapitre II : Propagande<a id=251></a>
 
 ###### Article R259
 
@@ -31470,7 +33128,7 @@ _Cite_:
   - Code électoral - art. R209 (V)
 
 
-#### Chapitre III : Opérations de vote et recensement<a id=240></a>
+#### Chapitre III : Opérations de vote et recensement<a id=252></a>
 
 ###### Article R261
 
@@ -31579,9 +33237,9 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-### Titre VI : Dispositions applicables à l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française<a id=241></a>
+### Titre VI : Dispositions applicables à l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française<a id=253></a>
 
-#### Chapitre Ier : Dispositions communes<a id=242></a>
+#### Chapitre Ier : Dispositions communes<a id=254></a>
 
 ###### Article R265
 
@@ -31605,7 +33263,7 @@ _Modifié par_:
   - Décret n°2009-430 du 20 avril 2009 - art. 9 (V)
 
 
-#### Chapitre II : Dispositions particulières à la Nouvelle-Calédonie<a id=243></a>
+#### Chapitre II : Dispositions particulières à la Nouvelle-Calédonie<a id=255></a>
 
 ###### Article R267
 
@@ -31622,7 +33280,7 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-#### Chapitre III : Dispositions particulières à la Polynésie française<a id=244></a>
+#### Chapitre III : Dispositions particulières à la Polynésie française<a id=256></a>
 
 ###### Article R270
 
@@ -31639,9 +33297,9 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-### Titre VII : Dispositions applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et  Futuna<a id=245></a>
+### Titre VII : Dispositions applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et  Futuna<a id=257></a>
 
-#### Chapitre Ier : Dispositions générales<a id=246></a>
+#### Chapitre Ier : Dispositions générales<a id=258></a>
 
 ###### Article R271
 
@@ -31703,7 +33361,7 @@ _Cité par_:
   - Arrêté du 26 septembre 2014 (V)
 
 
-#### Chapitre II : Régime des inéligibilités<a id=247></a>
+#### Chapitre II : Régime des inéligibilités<a id=259></a>
 
 ###### Article R**273
 
@@ -31725,7 +33383,7 @@ _Cite_:
   - Code électoral - art. R**215 (V)
 
 
-#### Chapitre III : Election des délégués des conseils municipaux en Nouvelle-Calédonie et en Polynésie française<a id=248></a>
+#### Chapitre III : Election des délégués des conseils municipaux en Nouvelle-Calédonie et en Polynésie française<a id=260></a>
 
 ###### Article R274
 
@@ -31801,7 +33459,7 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-#### Chapitre IV : Propagande<a id=249></a>
+#### Chapitre IV : Propagande<a id=261></a>
 
 ###### Article R277
 
@@ -31830,7 +33488,7 @@ _Cite_:
   - Code électoral - art. R157 (V)
 
 
-#### Chapitre V : Opérations préparatoires au scrutin<a id=250></a>
+#### Chapitre V : Opérations préparatoires au scrutin<a id=262></a>
 
 ###### Article R278
 
@@ -31856,7 +33514,7 @@ _Cité par_:
   - Code électoral - art. R283 (V)
 
 
-#### Chapitre VI : Opérations de vote<a id=251></a>
+#### Chapitre VI : Opérations de vote<a id=263></a>
 
 ###### Article R279
 
@@ -31985,11 +33643,11 @@ _Cite_:
   - Code électoral - art. R278 (V)
 
 
-## Livre VI : Dispositions particulières à Mayotte, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon<a id=252></a>
+## Livre VI : Dispositions particulières à Mayotte, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon<a id=264></a>
 
-### Titre Ier : Dispositions particulières à Mayotte<a id=253></a>
+### Titre Ier : Dispositions particulières à Mayotte<a id=265></a>
 
-#### Chapitre Ier : Dispositions générales<a id=254></a>
+#### Chapitre Ier : Dispositions générales<a id=266></a>
 
 ###### Article R284
 
@@ -32038,7 +33696,7 @@ _Modifié par_:
   - Décret n°2011-338 du 29 mars 2011 - art. 17 (M)
 
 
-#### Chapitre III :  Dispositions applicables à l'élection des conseillers généraux de Mayotte<a id=255></a>
+#### Chapitre III :  Dispositions applicables à l'élection des conseillers généraux de Mayotte<a id=267></a>
 
 ###### Article R298
 
@@ -32084,9 +33742,9 @@ _Créé par_:
   - Décret n°2008-170 du 22 février 2008 - art. 3
 
 
-### Titre II : Dispositions particulières à Saint-Barthélemy<a id=256></a>
+### Titre II : Dispositions particulières à Saint-Barthélemy<a id=268></a>
 
-#### Chapitre Ier : Dispositions générales<a id=257></a>
+#### Chapitre Ier : Dispositions générales<a id=269></a>
 
 ###### Article R303
 
@@ -32197,7 +33855,7 @@ _Créé par_:
   - Décret n°2008-170 du 22 février 2008 - art. 3
 
 
-#### Chapitre II : Dispositions applicables à l'élection du député<a id=258></a>
+#### Chapitre II : Dispositions applicables à l'élection du député<a id=270></a>
 
 ###### Article R308
 
@@ -32216,7 +33874,7 @@ _Cite_:
   - Code électoral - art. R*98
 
 
-#### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Barthélemy<a id=259></a>
+#### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Barthélemy<a id=271></a>
 
 ###### Article R309
 
@@ -32424,9 +34082,9 @@ _Créé par_:
   - Décret n°2008-170 du 22 février 2008 - art. 3
 
 
-### Titre III : Dispositions particulières à Saint-Martin<a id=260></a>
+### Titre III : Dispositions particulières à Saint-Martin<a id=272></a>
 
-#### Chapitre Ier : Dispositions générales<a id=261></a>
+#### Chapitre Ier : Dispositions générales<a id=273></a>
 
 ###### Article R318
 
@@ -32539,7 +34197,7 @@ _Créé par_:
   - Décret n°2008-170 du 22 février 2008 - art. 3
 
 
-#### Chapitre II : Dispositions applicables à l'élection du député<a id=262></a>
+#### Chapitre II : Dispositions applicables à l'élection du député<a id=274></a>
 
 ###### Article R323
 
@@ -32560,7 +34218,7 @@ _Cite_:
   - Code électoral - art. R*98
 
 
-#### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Martin<a id=263></a>
+#### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Martin<a id=275></a>
 
 ###### Article R324
 
@@ -32763,9 +34421,9 @@ _Créé par_:
   - Décret n°2008-170 du 22 février 2008 - art. 3
 
 
-### Titre IV : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=264></a>
+### Titre IV : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=276></a>
 
-#### Chapitre Ier : Dispositions générales<a id=265></a>
+#### Chapitre Ier : Dispositions générales<a id=277></a>
 
 ###### Article R333
 
@@ -32881,7 +34539,7 @@ _Créé par_:
   - Décret n°2008-170 du 22 février 2008 - art. 3
 
 
-#### Chapitre II : Dispositions applicables à l'élection du député<a id=266></a>
+#### Chapitre II : Dispositions applicables à l'élection du député<a id=278></a>
 
 ###### Article R338
 
@@ -32902,7 +34560,7 @@ _Cite_:
   - Code électoral - art. R*98
 
 
-#### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Pierre-et-Miquelon<a id=267></a>
+#### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Pierre-et-Miquelon<a id=279></a>
 
 ###### Article R339
 
@@ -33098,9 +34756,9 @@ _Créé par_:
   - Décret n°2008-170 du 22 février 2008 - art. 3
 
 
-# Annexes<a id=268></a>
+# Annexes<a id=280></a>
 
-## Tableau des circonscriptions électorales des départements (élection des députés)<a id=269></a>
+## Tableau des circonscriptions électorales des départements (élection des députés)<a id=281></a>
 
 ###### Article Annexe tableau n° 1
 
@@ -34960,7 +36618,7 @@ _Modifié par_:
   - Ordonnance n°2009-935 du 29 juillet 2009 - art.
 
 
-## Tableau des circonscriptions électorales des départements (élection des députés) (1).<a id=270></a>
+## Tableau des circonscriptions électorales des départements (élection des députés) (1).<a id=282></a>
 
 ###### Article Annexe tableau n° 1 (suite)
 
@@ -35624,7 +37282,7 @@ _Modifié par_:
   - Loi n°2010-1487 du 7 décembre 2010 - art. 9
 
 
-## Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés).<a id=271></a>
+## Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés).<a id=283></a>
 
 ###### Article Annexe tableau n° 1 bis
 
@@ -35669,7 +37327,7 @@ _Modifié par_:
   - Loi n°2010-1487 du 7 décembre 2010 - art. 9
 
 
-## Tableau des circonscriptions électorales des français établis hors de France<a id=272></a>
+## Tableau des circonscriptions électorales des français établis hors de France<a id=284></a>
 
 ###### Article Annexe tableau n° 1 ter
 
@@ -35759,7 +37417,7 @@ _Créé par_:
   - Ordonnance n°2009-935 du 29 juillet 2009 - art.
 
 
-## Tableau des secteurs pour l'élection des membres du conseil de Paris<a id=273></a>
+## Tableau des secteurs pour l'élection des membres du conseil de Paris<a id=285></a>
 
 ###### Article Annexe tableau n° 2
 
@@ -35832,7 +37490,7 @@ _Modifié par_:
   - Loi n°82-1170 1982-12-31 art. 4 JORF 1er janvier 1983
 
 
-## Tableau des secteurs pour l'élection des conseillers municipaux de Lyon<a id=274></a>
+## Tableau des secteurs pour l'élection des conseillers municipaux de Lyon<a id=286></a>
 
 ###### Article Annexe tableau n° 3
 
@@ -35875,7 +37533,7 @@ _Modifié par_:
   - Loi n°82-1170 1982-12-31 art. 4 JORF 1er janvier 1983
 
 
-## Tableau des secteurs pour l'élection des conseillers municipaux de Marseille.<a id=275></a>
+## Tableau des secteurs pour l'élection des conseillers municipaux de Marseille.<a id=287></a>
 
 ###### Article Annexe tableau n° 4
 
@@ -35917,7 +37575,7 @@ _Modifié par_:
   - Loi n°87-509 1987-07-09 art. 1 JORF 11 juillet 1987
 
 
-## Répartition des sièges de sénateurs entre les séries<a id=276></a>
+## Répartition des sièges de sénateurs entre les séries<a id=288></a>
 
 ###### Article Annexe tableau n° 5
 
@@ -36714,9 +38372,9 @@ _Modifié par_:
   - Loi n°2010-1487 du 7 décembre 2010 - art. 9
 
 
-## Election des sénateurs<a id=277></a>
+## Election des sénateurs<a id=289></a>
 
-### Nombre de sénateurs représentant les départements<a id=278></a>
+### Nombre de sénateurs représentant les départements<a id=290></a>
 
 ###### Article Annexe tableau n° 6
 
@@ -36945,7 +38603,7 @@ _Modifié par_:
   - Loi n°2003-697 du 30 juillet 2003 - art. 1 () JORF 31 juillet 2003
 
 
-## Effectif des conseils régionaux et nombre de candidats par section départementale<a id=279></a>
+## Effectif des conseils régionaux et nombre de candidats par section départementale<a id=291></a>
 
 ###### Article Annexe tableau n° 7
 
