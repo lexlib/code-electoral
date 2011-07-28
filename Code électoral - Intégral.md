@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2011-07-18
+Version Consolidée au 2011-07-29
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers généraux et des conseillers municipaux (art. L1 à L273)](#2)
@@ -149,150 +149,168 @@ Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna (
         - [Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux (art. L542 à LO554)](#145)
         - [Chapitre V : Dispositions applicables à l'élection du sénateur de Saint-Pierre-et-Miquelon (art. L556 à LO555)](#146)
       - [Titre V : Conditions d'application (art. L558)](#147)
-    - [Livre VII : Dispositions applicables aux consultations organisées en application des articles 72-4 et 73 de la Constitution (art. L559 à L567)](#148)
-    - [Livre VIII : Commission prévue par l'article 25 de la Constitution (art. L567-1 à LO567-9)](#149)
-    - [Livre IX : Dispositions finales (art. L568)](#150)
-  - [Partie réglementaire (art. R1 à R346)](#151)
-    - [Livre Ier  : Election des députés, des conseillers généraux et des conseillers municipaux des départements (art. R1 à R130)](#152)
-      - [Titre Ier  : Dispositions communes à l'élection des députés, des conseillers généraux et des conseillers municipaux (art. R1 à R97)](#153)
-        - [Chapitre II : Listes électorales (art. R1 à R25)](#154)
-          - [Section 1 : Conditions d'inscription sur une liste électorale (art. R1 à R2)](#155)
-          - [Section 2 : Etablissement et révision des listes électorales (art. R3 à R17-1)](#156)
-          - [Section 3 : Inscription en dehors des périodes de révision (art. R17-2)](#157)
-          - [Section 4 : Contrôle des inscriptions sur les listes électorales (art. R17 à R22)](#158)
-          - [Section 6 : Cartes électorales (art. R23 à R25)](#159)
-        - [Chapitre II bis : Chiffre de la population à retenir en matière électorale (art. R25-1)](#160)
-        - [Chapitre V : Propagande (art. R26 à R39)](#161)
-        - [Chapitre V bis : Financement et plafonnement des dépenses électorales (art. R39-1 à R39-5)](#162)
-        - [Chapitre VI : Vote (art. R40 à R93-3)](#163)
-          - [Section 1 : Opérations préparatoires au scrutin (art. R40 à R41)](#164)
-          - [Section 2 : Opérations de vote (art. D56-1 à R71)](#165)
-          - [Section 3 : Vote par procuration (art. R72 à R80)](#166)
-          - [Section 5  : Commissions de contrôle des opérations de vote (art. R93-1 à R93-3)](#167)
-        - [Chapitre VII : Dispositions pénales (art. R94 à R96)](#168)
-        - [Chapitre VIII : Contentieux (art. R97)](#169)
-      - [Titre II : Dispositions spéciales à l'élection des députés (art. R98 à R109)](#170)
-        - [Chapitre V : Déclarations de candidatures (art. R98 à R102)](#171)
-        - [Chapitre VI : Propagande (art. R103)](#172)
-        - [Chapitre VIII : Opérations de vote (art. R104 à R109)](#173)
-      - [Titre III : Dispositions spéciales à l'élection des conseillers généraux (art. R109-1 à R117-1)](#174)
-        - [Chapitre IV bis : Déclarations de candidatures (art. R109-1 à R109-2)](#175)
-        - [Chapitre V : Propagande (art. R110)](#176)
-        - [Chapitre VII : Opérations de vote (art. R111 à R112)](#177)
-        - [Chapitre IX : Contentieux (art. R113 à R117-1)](#178)
-      - [Titre IV  : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris (art. R117-2 à R130)](#179)
-        - [Chapitre Ier : Dispositions applicables à toutes les communes (art. R117-2 à R123)](#180)
-          - [Section 1 bis : Dispositions spéciales à l'exercice par les ressortissants d'un Etat membre de l'Union européenne autre que la France du droit de vote pour l'élection des conseillers municipaux et des membres du Conseil de Paris (art. R117-2 à R117-3)](#181)
-          - [Section 4 : Propagande (art. R117-4)](#182)
-          - [Section 6 : Opérations de vote (art. R118)](#183)
-          - [Section 7 : Contentieux (art. R119 à R123)](#184)
-        - [Chapitre II : Dispositions spéciales aux communes de moins de 3 500 habitants (art. R124 à R126)](#185)
-          - [Section 1 : Mode de scrutin (art. R124)](#186)
-          - [Section 2 : Propagande (art. R125 à R126)](#187)
-        - [Chapitre III : Dispositions spéciales aux communes de 3 500 habitants et plus (art. R127-1 à R128-1)](#188)
-          - [Section 1 : Mode de scrutin (art. R127-1)](#189)
-          - [Section 2 : Déclarations de candidature (art. R127-2 à R128-1)](#190)
-        - [Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille (art. R129 à R130)](#191)
-          - [Section 2 : Opérations préparatoires au scrutin (art. R129 à R130)](#192)
-    - [Livre II  : Election des sénateurs des départements (art. R130-1 à R171)](#193)
-      - [Titre II : Composition du collège électoral (art. R130-1)](#194)
-      - [Titre III : Désignation des délégués des conseils municipaux (art. R131 à R148)](#195)
-      - [Titre III bis : Désignation des délégués à l'Assemblée de Corse (art. R148-1 à R148-3)](#196)
-      - [Titre IV : Election des sénateurs (art. R149 à R171)](#197)
-        - [Chapitre IV : Déclarations de candidatures (art. R149 à R153)](#198)
-        - [Chapitre V : Propagande (art. R154 à R161)](#199)
-        - [Chapitre VI : Opérations préparatoires au scrutin (art. R162)](#200)
-        - [Chapitre VII : Opérations de vote (art. R163 à R171)](#201)
-    - [Livre III : Dispositions spécifiques aux députés élus par les Français établis hors de France (art. R172 à R179-1)](#202)
-      - [Section 1 : Liste électorale (art. R172)](#203)
-      - [Section 2 : Déclaration de candidature (art. R173 à R173-5)](#204)
-      - [Section 3 : Campagne électorale (art. R174 à R174-4)](#205)
-      - [Section 4 : Financement de la campagne électorale (art. R175 à R175-5)](#206)
-      - [Section 5 : Opérations de vote (art. R176 à R176-4-7)](#207)
-        - [Sous-section 1 : Information des électeurs (art. R176)](#208)
-        - [Sous-section 2 : Vote à l'urne (art. R176-1 à R176-1-13)](#209)
-        - [Sous-section 3 : Vote par procuration (art. R176-2 à R176-2-4)](#210)
-        - [Sous-section 4 : Vote par correspondance électronique (art. R176-3 à R176-3-10)](#211)
-        - [Sous-section 5 : Vote par correspondance sous pli fermé (art. R176-4 à R176-4-7)](#212)
-      - [Section 6 : Dépouillement et recensement des votes (art. R177 à R177-7)](#213)
-      - [Section 7 : Dispositions pénales (art. R178)](#214)
-      - [Section 8 : Contentieux (art. R179 à R179-1)](#215)
-    - [Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse (art. R182 à R200)](#216)
-      - [Titre Ier : Election des conseillers régionaux (art. R183 à R190)](#217)
-        - [Chapitre V : Déclarations de candidatures (art. R183 à R184)](#218)
-        - [Chapitre VI : Propagande (art. R186)](#219)
-        - [Chapitre VIII : Opérations de vote (art. R188 à R189-2)](#220)
-        - [Chapitre X : Contentieux (art. R190)](#221)
-      - [Titre  II : Election des conseillers à l'Assemblée de Corse (art. R191 à R200)](#222)
-        - [Chapitre V : Déclarations de candidature (art. R191 à R192)](#223)
-        - [Chapitre VI : Propagande (art. R194 à R196)](#224)
-        - [Chapitre VII : Opérations de vote (art. R198 à R199)](#225)
-        - [Chapitre X : Contentieux (art. R200)](#226)
-    - [Livre V : Dispositions applicables à la Nouvelle-Calédonie, à la Polynésie française et aux îles  Wallis et Futuna (art. R201 à R283)](#227)
-      - [Titre Ier : Dispositions générales (art. R201 à R213-1)](#228)
-        - [Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna (art. R201 à R212)](#229)
-        - [Chapitre II : Dispositions propres à la Nouvelle-Calédonie (art. R213)](#230)
-        - [Chapitre III : Dispositions propres aux îles Wallis et Futuna (art. R213-1)](#231)
-      - [Titre II : Election des députés (art. R214 à R218)](#232)
-        - [Chapitre Ier : Dispositions générales (art. R214)](#233)
-        - [Chapitre II : Régime des inéligibilités (art. R**215)](#234)
-        - [Chapitre III : Candidatures (art. R216)](#235)
-        - [Chapitre IV : Recensement des votes (art. R217 à R218)](#236)
-      - [Titre III : Dispositions applicables à l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie (art. R219 à R241)](#237)
-        - [Chapitre Ier : Liste électorale spéciale (art. R219 à R231)](#238)
-          - [Section 1 : Etablissement de la liste électorale spéciale (art. R219 à R228)](#239)
-          - [Section 2 : Inscription en dehors des périodes de révision (art. R229 à R230)](#240)
-          - [Section 3 : Carte électorale spéciale (art. R231)](#241)
-        - [Chapitre II : Candidatures et bulletins de vote (art. R232 à R236)](#242)
-        - [Chapitre III : Propagande (art. R237)](#243)
-        - [Chapitre IV : Opérations de vote et recensement (art. R238 à R241)](#244)
-      - [Titre IV : Dispositions applicables à l'élection des représentants à l'assemblée de la Polynésie française (art. R242 à R253)](#245)
-        - [Chapitre Ier : Candidatures et bulletins de vote (art. R242 à R246)](#246)
-        - [Chapitre II : Propagande (art. R247 à R249-1)](#247)
-        - [Chapitre III : Opérations de vote et recensement (art. R250 à R253)](#248)
-      - [Titre V : Dispositions applicables à l'élection des membres de l'assemblée territoriale des îles  Wallis et Futuna (art. R254 à R264)](#249)
-        - [Chapitre Ier : Candidatures et bulletins de vote (art. R254 à R258)](#250)
-        - [Chapitre II : Propagande (art. R259 à R260)](#251)
-        - [Chapitre III : Opérations de vote et recensement (art. R261 à R264)](#252)
-      - [Titre VI : Dispositions applicables à l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française (art. R265 à R270)](#253)
-        - [Chapitre Ier : Dispositions communes (art. R265)](#254)
-        - [Chapitre II : Dispositions particulières à la Nouvelle-Calédonie (art. R267)](#255)
-        - [Chapitre III : Dispositions particulières à la Polynésie française (art. R270)](#256)
-      - [Titre VII : Dispositions applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et  Futuna (art. R271 à R283)](#257)
-        - [Chapitre Ier : Dispositions générales (art. R271 à R272)](#258)
-        - [Chapitre II : Régime des inéligibilités (art. R**273)](#259)
-        - [Chapitre III : Election des délégués des conseils municipaux en Nouvelle-Calédonie et en Polynésie française (art. R274 à R276)](#260)
-        - [Chapitre IV : Propagande (art. R277)](#261)
-        - [Chapitre V : Opérations préparatoires au scrutin (art. R278)](#262)
-        - [Chapitre VI : Opérations de vote (art. R279 à R283)](#263)
-    - [Livre VI : Dispositions particulières à Mayotte, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon (art. R284 à R346)](#264)
-      - [Titre Ier : Dispositions particulières à Mayotte (art. R284 à R300)](#265)
-        - [Chapitre Ier : Dispositions générales (art. R284 à R285)](#266)
-        - [Chapitre III :  Dispositions applicables à l'élection des conseillers généraux de Mayotte (art. R298 à R300)](#267)
-      - [Titre II : Dispositions particulières à Saint-Barthélemy (art. R303 à R317)](#268)
-        - [Chapitre Ier : Dispositions générales (art. R303 à R307)](#269)
-        - [Chapitre II : Dispositions applicables à l'élection du député (art. R308)](#270)
-        - [Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Barthélemy (art. R309 à R317)](#271)
-      - [Titre III : Dispositions particulières à Saint-Martin (art. R318 à R332)](#272)
-        - [Chapitre Ier : Dispositions générales (art. R318 à R322)](#273)
-        - [Chapitre II : Dispositions applicables à l'élection du député (art. R323)](#274)
-        - [Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Martin (art. R324 à R332)](#275)
-      - [Titre IV : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R333 à R346)](#276)
-        - [Chapitre Ier : Dispositions générales (art. R333 à R337)](#277)
-        - [Chapitre II : Dispositions applicables à l'élection du député (art. R338)](#278)
-        - [Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Pierre-et-Miquelon (art. R339 à R346)](#279)
-  - [Annexes (art. Annexe tableau n° 1 à Annexe tableau n° 7)](#280)
-    - [Tableau des circonscriptions électorales des départements (élection des députés) (art. Annexe tableau n° 1)](#281)
-    - [Tableau des circonscriptions électorales des départements (élection des députés) (1). (art. Annexe tableau n° 1 (suite))](#282)
-    - [Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés). (art. Annexe tableau n° 1 bis)](#283)
-    - [Tableau des circonscriptions électorales des français établis hors de France (art. Annexe tableau n° 1 ter)](#284)
-    - [Tableau des secteurs pour l'élection des membres du conseil de Paris (art. Annexe tableau n° 2)](#285)
-    - [Tableau des secteurs pour l'élection des conseillers municipaux de Lyon (art. Annexe tableau n° 3)](#286)
-    - [Tableau des secteurs pour l'élection des conseillers municipaux de Marseille. (art. Annexe tableau n° 4)](#287)
-    - [Répartition des sièges de sénateurs entre les séries (art. Annexe tableau n° 5)](#288)
-    - [Election des sénateurs (art. Annexe tableau n° 6)](#289)
-      - [Nombre de sénateurs représentant les départements (art. Annexe tableau n° 6)](#290)
-    - [Effectif des conseils régionaux et nombre de candidats par section départementale (art. Annexe tableau n° 7)](#291)
+    - [Livre VI bis : Election des conseillers à l'assemblée de Guyane et des conseillers à l'assemblée de Martinique (art. L558-1 à L558-36)](#148)
+      - [Titre Ier : Election des conseillers à l'assemblée de Guyane (art. L558-1 à L558-4)](#149)
+        - [Chapitre Ier : Composition de l'assemblée de Guyane 
+et durée du mandat (art. L558-1 à L558-2)](#150)
+        - [Chapitre II : Mode de scrutin (art. L558-3 à L558-4)](#151)
+      - [Titre II : Election des conseillers à l'assemblée de Martinique (art. L558-5 à L558-9)](#152)
+        - [Chapitre Ier : Composition de l'assemblée de Martinique et durée du mandat (art. L558-5 à L558-6)](#153)
+        - [Chapitre II : Mode de scrutin (art. L558-7 à L558-9)](#154)
+      - [Titre III : Dispositions communes (art. L558-10 à L558-35)](#155)
+        - [Chapitre Ier : Conditions d'éligibilité et inéligibilités (art. L558-10 à LO558-12)](#156)
+        - [Chapitre II : Incompatibilités (art. L558-15 à L558-18)](#157)
+        - [Chapitre III : Déclarations de candidature (art. L558-19 à L558-24)](#158)
+        - [Chapitre IV : Propagande (art. L558-25 à L558-28)](#159)
+        - [Chapitre V : Opérations préparatoires au scrutin (art. L558-29)](#160)
+        - [Chapitre VI : Opérations de vote (art. L558-30 à L558-31)](#161)
+        - [Chapitre VII : Remplacement des conseillers à l'assemblée de Guyane et des conseillers à l'assemblée de Martinique (art. L558-32)](#162)
+        - [Chapitre VIII : Contentieux (art. L558-33 à L558-35)](#163)
+      - [Titre IV : Conditions d'application (art. L558-36)](#164)
+    - [Livre VII : Dispositions applicables aux consultations organisées en application des articles 72-4 et 73 de la Constitution (art. L559 à L567)](#165)
+    - [Livre VIII : Commission prévue par l'article 25 de la Constitution (art. L567-1 à LO567-9)](#166)
+    - [Livre IX : Dispositions finales (art. L568)](#167)
+  - [Partie réglementaire (art. R1 à R346)](#168)
+    - [Livre Ier  : Election des députés, des conseillers généraux et des conseillers municipaux des départements (art. R1 à R130)](#169)
+      - [Titre Ier  : Dispositions communes à l'élection des députés, des conseillers généraux et des conseillers municipaux (art. R1 à R97)](#170)
+        - [Chapitre II : Listes électorales (art. R1 à R25)](#171)
+          - [Section 1 : Conditions d'inscription sur une liste électorale (art. R1 à R2)](#172)
+          - [Section 2 : Etablissement et révision des listes électorales (art. R3 à R17-1)](#173)
+          - [Section 3 : Inscription en dehors des périodes de révision (art. R17-2)](#174)
+          - [Section 4 : Contrôle des inscriptions sur les listes électorales (art. R17 à R22)](#175)
+          - [Section 6 : Cartes électorales (art. R23 à R25)](#176)
+        - [Chapitre II bis : Chiffre de la population à retenir en matière électorale (art. R25-1)](#177)
+        - [Chapitre V : Propagande (art. R26 à R39)](#178)
+        - [Chapitre V bis : Financement et plafonnement des dépenses électorales (art. R39-1 à R39-5)](#179)
+        - [Chapitre VI : Vote (art. R40 à R93-3)](#180)
+          - [Section 1 : Opérations préparatoires au scrutin (art. R40 à R41)](#181)
+          - [Section 2 : Opérations de vote (art. D56-1 à R71)](#182)
+          - [Section 3 : Vote par procuration (art. R72 à R80)](#183)
+          - [Section 5  : Commissions de contrôle des opérations de vote (art. R93-1 à R93-3)](#184)
+        - [Chapitre VII : Dispositions pénales (art. R94 à R96)](#185)
+        - [Chapitre VIII : Contentieux (art. R97)](#186)
+      - [Titre II : Dispositions spéciales à l'élection des députés (art. R98 à R109)](#187)
+        - [Chapitre V : Déclarations de candidatures (art. R98 à R102)](#188)
+        - [Chapitre VI : Propagande (art. R103)](#189)
+        - [Chapitre VIII : Opérations de vote (art. R104 à R109)](#190)
+      - [Titre III : Dispositions spéciales à l'élection des conseillers généraux (art. R109-1 à R117-1)](#191)
+        - [Chapitre IV bis : Déclarations de candidatures (art. R109-1 à R109-2)](#192)
+        - [Chapitre V : Propagande (art. R110)](#193)
+        - [Chapitre VII : Opérations de vote (art. R111 à R112)](#194)
+        - [Chapitre IX : Contentieux (art. R113 à R117-1)](#195)
+      - [Titre IV  : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris (art. R117-2 à R130)](#196)
+        - [Chapitre Ier : Dispositions applicables à toutes les communes (art. R117-2 à R123)](#197)
+          - [Section 1 bis : Dispositions spéciales à l'exercice par les ressortissants d'un Etat membre de l'Union européenne autre que la France du droit de vote pour l'élection des conseillers municipaux et des membres du Conseil de Paris (art. R117-2 à R117-3)](#198)
+          - [Section 4 : Propagande (art. R117-4)](#199)
+          - [Section 6 : Opérations de vote (art. R118)](#200)
+          - [Section 7 : Contentieux (art. R119 à R123)](#201)
+        - [Chapitre II : Dispositions spéciales aux communes de moins de 3 500 habitants (art. R124 à R126)](#202)
+          - [Section 1 : Mode de scrutin (art. R124)](#203)
+          - [Section 2 : Propagande (art. R125 à R126)](#204)
+        - [Chapitre III : Dispositions spéciales aux communes de 3 500 habitants et plus (art. R127-1 à R128-1)](#205)
+          - [Section 1 : Mode de scrutin (art. R127-1)](#206)
+          - [Section 2 : Déclarations de candidature (art. R127-2 à R128-1)](#207)
+        - [Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille (art. R129 à R130)](#208)
+          - [Section 2 : Opérations préparatoires au scrutin (art. R129 à R130)](#209)
+    - [Livre II  : Election des sénateurs des départements (art. R130-1 à R171)](#210)
+      - [Titre II : Composition du collège électoral (art. R130-1)](#211)
+      - [Titre III : Désignation des délégués des conseils municipaux (art. R131 à R148)](#212)
+      - [Titre III bis : Désignation des délégués à l'Assemblée de Corse (art. R148-1 à R148-3)](#213)
+      - [Titre IV : Election des sénateurs (art. R149 à R171)](#214)
+        - [Chapitre IV : Déclarations de candidatures (art. R149 à R153)](#215)
+        - [Chapitre V : Propagande (art. R154 à R161)](#216)
+        - [Chapitre VI : Opérations préparatoires au scrutin (art. R162)](#217)
+        - [Chapitre VII : Opérations de vote (art. R163 à R171)](#218)
+    - [Livre III : Dispositions spécifiques aux députés élus par les Français établis hors de France (art. R172 à R179-1)](#219)
+      - [Section 1 : Liste électorale (art. R172)](#220)
+      - [Section 2 : Déclaration de candidature (art. R173 à R173-5)](#221)
+      - [Section 3 : Campagne électorale (art. R174 à R174-4)](#222)
+      - [Section 4 : Financement de la campagne électorale (art. R175 à R175-5)](#223)
+      - [Section 5 : Opérations de vote (art. R176 à R176-4-7)](#224)
+        - [Sous-section 1 : Information des électeurs (art. R176)](#225)
+        - [Sous-section 2 : Vote à l'urne (art. R176-1 à R176-1-13)](#226)
+        - [Sous-section 3 : Vote par procuration (art. R176-2 à R176-2-4)](#227)
+        - [Sous-section 4 : Vote par correspondance électronique (art. R176-3 à R176-3-10)](#228)
+        - [Sous-section 5 : Vote par correspondance sous pli fermé (art. R176-4 à R176-4-7)](#229)
+      - [Section 6 : Dépouillement et recensement des votes (art. R177 à R177-7)](#230)
+      - [Section 7 : Dispositions pénales (art. R178)](#231)
+      - [Section 8 : Contentieux (art. R179 à R179-1)](#232)
+    - [Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse (art. R182 à R200)](#233)
+      - [Titre Ier : Election des conseillers régionaux (art. R183 à R190)](#234)
+        - [Chapitre V : Déclarations de candidatures (art. R183 à R184)](#235)
+        - [Chapitre VI : Propagande (art. R186)](#236)
+        - [Chapitre VIII : Opérations de vote (art. R188 à R189-2)](#237)
+        - [Chapitre X : Contentieux (art. R190)](#238)
+      - [Titre  II : Election des conseillers à l'Assemblée de Corse (art. R191 à R200)](#239)
+        - [Chapitre V : Déclarations de candidature (art. R191 à R192)](#240)
+        - [Chapitre VI : Propagande (art. R194 à R196)](#241)
+        - [Chapitre VII : Opérations de vote (art. R198 à R199)](#242)
+        - [Chapitre X : Contentieux (art. R200)](#243)
+    - [Livre V : Dispositions applicables à la Nouvelle-Calédonie, à la Polynésie française et aux îles  Wallis et Futuna (art. R201 à R283)](#244)
+      - [Titre Ier : Dispositions générales (art. R201 à R213-1)](#245)
+        - [Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna (art. R201 à R212)](#246)
+        - [Chapitre II : Dispositions propres à la Nouvelle-Calédonie (art. R213)](#247)
+        - [Chapitre III : Dispositions propres aux îles Wallis et Futuna (art. R213-1)](#248)
+      - [Titre II : Election des députés (art. R214 à R218)](#249)
+        - [Chapitre Ier : Dispositions générales (art. R214)](#250)
+        - [Chapitre II : Régime des inéligibilités (art. R**215)](#251)
+        - [Chapitre III : Candidatures (art. R216)](#252)
+        - [Chapitre IV : Recensement des votes (art. R217 à R218)](#253)
+      - [Titre III : Dispositions applicables à l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie (art. R219 à R241)](#254)
+        - [Chapitre Ier : Liste électorale spéciale (art. R219 à R231)](#255)
+          - [Section 1 : Etablissement de la liste électorale spéciale (art. R219 à R228)](#256)
+          - [Section 2 : Inscription en dehors des périodes de révision (art. R229 à R230)](#257)
+          - [Section 3 : Carte électorale spéciale (art. R231)](#258)
+        - [Chapitre II : Candidatures et bulletins de vote (art. R232 à R236)](#259)
+        - [Chapitre III : Propagande (art. R237)](#260)
+        - [Chapitre IV : Opérations de vote et recensement (art. R238 à R241)](#261)
+      - [Titre IV : Dispositions applicables à l'élection des représentants à l'assemblée de la Polynésie française (art. R242 à R253)](#262)
+        - [Chapitre Ier : Candidatures et bulletins de vote (art. R242 à R246)](#263)
+        - [Chapitre II : Propagande (art. R247 à R249-1)](#264)
+        - [Chapitre III : Opérations de vote et recensement (art. R250 à R253)](#265)
+      - [Titre V : Dispositions applicables à l'élection des membres de l'assemblée territoriale des îles  Wallis et Futuna (art. R254 à R264)](#266)
+        - [Chapitre Ier : Candidatures et bulletins de vote (art. R254 à R258)](#267)
+        - [Chapitre II : Propagande (art. R259 à R260)](#268)
+        - [Chapitre III : Opérations de vote et recensement (art. R261 à R264)](#269)
+      - [Titre VI : Dispositions applicables à l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française (art. R265 à R270)](#270)
+        - [Chapitre Ier : Dispositions communes (art. R265)](#271)
+        - [Chapitre II : Dispositions particulières à la Nouvelle-Calédonie (art. R267)](#272)
+        - [Chapitre III : Dispositions particulières à la Polynésie française (art. R270)](#273)
+      - [Titre VII : Dispositions applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et  Futuna (art. R271 à R283)](#274)
+        - [Chapitre Ier : Dispositions générales (art. R271 à R272)](#275)
+        - [Chapitre II : Régime des inéligibilités (art. R**273)](#276)
+        - [Chapitre III : Election des délégués des conseils municipaux en Nouvelle-Calédonie et en Polynésie française (art. R274 à R276)](#277)
+        - [Chapitre IV : Propagande (art. R277)](#278)
+        - [Chapitre V : Opérations préparatoires au scrutin (art. R278)](#279)
+        - [Chapitre VI : Opérations de vote (art. R279 à R283)](#280)
+    - [Livre VI : Dispositions particulières à Mayotte, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon (art. R284 à R346)](#281)
+      - [Titre Ier : Dispositions particulières à Mayotte (art. R284 à R300)](#282)
+        - [Chapitre Ier : Dispositions générales (art. R284 à R285)](#283)
+        - [Chapitre III :  Dispositions applicables à l'élection des conseillers généraux de Mayotte (art. R298 à R300)](#284)
+      - [Titre II : Dispositions particulières à Saint-Barthélemy (art. R303 à R317)](#285)
+        - [Chapitre Ier : Dispositions générales (art. R303 à R307)](#286)
+        - [Chapitre II : Dispositions applicables à l'élection du député (art. R308)](#287)
+        - [Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Barthélemy (art. R309 à R317)](#288)
+      - [Titre III : Dispositions particulières à Saint-Martin (art. R318 à R332)](#289)
+        - [Chapitre Ier : Dispositions générales (art. R318 à R322)](#290)
+        - [Chapitre II : Dispositions applicables à l'élection du député (art. R323)](#291)
+        - [Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Martin (art. R324 à R332)](#292)
+      - [Titre IV : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R333 à R346)](#293)
+        - [Chapitre Ier : Dispositions générales (art. R333 à R337)](#294)
+        - [Chapitre II : Dispositions applicables à l'élection du député (art. R338)](#295)
+        - [Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Pierre-et-Miquelon (art. R339 à R346)](#296)
+  - [Annexes (art. Annexe tableau n° 1 à Annexe tableau n° 7)](#297)
+    - [Tableau des circonscriptions électorales des départements (élection des députés) (art. Annexe tableau n° 1)](#298)
+    - [Tableau des circonscriptions électorales des départements (élection des députés) (1). (art. Annexe tableau n° 1 (suite))](#299)
+    - [Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés). (art. Annexe tableau n° 1 bis)](#300)
+    - [Tableau des circonscriptions électorales des français établis hors de France (art. Annexe tableau n° 1 ter)](#301)
+    - [Tableau des secteurs pour l'élection des membres du conseil de Paris (art. Annexe tableau n° 2)](#302)
+    - [Tableau des secteurs pour l'élection des conseillers municipaux de Lyon (art. Annexe tableau n° 3)](#303)
+    - [Tableau des secteurs pour l'élection des conseillers municipaux de Marseille. (art. Annexe tableau n° 4)](#304)
+    - [Répartition des sièges de sénateurs entre les séries (art. Annexe tableau n° 5)](#305)
+    - [Election des sénateurs (art. Annexe tableau n° 6)](#306)
+      - [Nombre de sénateurs représentant les départements (art. Annexe tableau n° 6)](#307)
+    - [Effectif des conseils régionaux et nombre de candidats par section départementale (art. Annexe tableau n° 7)](#308)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Election des députés, des conseillers généraux et des conseillers municipaux<a id=2></a>
@@ -2594,7 +2612,8 @@ _Modifié par_:
 ###### Article L46-1
 
 Nul ne peut cumuler plus de deux des mandats électoraux énumérés ci-après : conseiller régional, conseiller à l'Assemblée de
-Corse, conseiller général, conseiller de Paris, conseiller municipal. 
+Corse, conseiller général, conseiller de Paris, conseiller à l'assemblée de Guyane, conseiller à l'assemblée de Martinique,
+conseiller municipal. 
 
 Quiconque, à l'exception des personnes visées aux articles L. 270, L. 272-6 et L. 360 du présent code, se trouve dans ce cas
 doit faire cesser l'incompatibilité en démissionnant d'un des mandats qu'il détenait antérieurement. Il dispose à cet effet
@@ -2615,7 +2634,7 @@ la date la plus ancienne.
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Cité par_:
 
@@ -2635,13 +2654,9 @@ _Cité par_:
   - Code électoral - art. L388 (VD)
   - Code électoral - art. L558-32 (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
 _Modifié par_:
 
-  - Loi n°2002-276 du 27 février 2002 - art. 63 ()
+  - Loi n°2011-884 du 27 juillet 2011 - art. 5
 
 
 ###### Article L46-2
@@ -12233,6 +12248,8 @@ Les sénateurs sont élus dans chaque département par un collège électoral co
 2° Des conseillers régionaux de la section départementale correspondant au département et des conseillers de l'Assemblée de
 Corse désignés dans les conditions prévues par le titre III bis du présent livre ;
 
+2° bis Des conseillers à l'assemblée de Guyane et des conseillers à l'assemblée de Martinique ;
+
 3° Des conseillers généraux ;
 
 4° Des délégués des conseils municipaux ou des suppléants de ces délégués.
@@ -12241,7 +12258,7 @@ Corse désignés dans les conditions prévues par le titre III bis du présent l
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Cité par_:
 
@@ -12256,26 +12273,26 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2003-327 du 11 avril 2003 - art. 10 () JORF 12 avril 2003
+  - Loi n°2011-884 du 27 juillet 2011 - art. 6
 
 
 ###### Article L281
 
-Les députés, les conseillers régionaux, les conseillers à l'Assemblée de Corse et les conseillers généraux qui ont été
-proclamés par les commissions de recensement sont inscrits sur la liste des électeurs sénatoriaux et prennent part au vote
-même si leur élection est contestée. En cas d'empêchement majeur, ils peuvent exercer, sur leur demande écrite, leur droit de
-vote par procuration. Le mandataire doit être membre du collège électoral sénatorial et ne peut disposer de plus d'une
-procuration.
+Les députés, les conseillers régionaux, les conseillers à l'Assemblée de Corse, les conseillers à l'assemblée de Guyane, les
+conseillers à l'assemblée de Martinique et les conseillers généraux qui ont été proclamés par les commissions de recensement
+sont inscrits sur la liste des électeurs sénatoriaux et prennent part au vote même si leur élection est contestée. En cas
+d'empêchement majeur, ils peuvent exercer, sur leur demande écrite, leur droit de vote par procuration. Le mandataire doit
+être membre du collège électoral sénatorial et ne peut disposer de plus d'une procuration.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Loi n°2004-404 du 10 mai 2004 - art. 2 () JORF 11 mai 2004
+  - Loi n°2011-884 du 27 juillet 2011 - art. 6
 
 
 ###### Article L282
@@ -12283,14 +12300,15 @@ _Modifié par_:
 Dans le cas où un conseiller général est député, conseiller régional ou conseiller à l'Assemblée de Corse, un remplaçant lui
 est désigné, sur sa présentation, par le président du conseil général.
 
-Dans le cas où un conseiller régional ou un conseiller à l'Assemblée de Corse est député, un remplaçant lui est désigné, sur
-sa présentation, par le président du conseil régional ou celui de l'Assemblée de Corse.
+Dans le cas où un conseiller régional, un conseiller à l'Assemblée de Corse, un conseiller à l'assemblée de Guyane ou un
+conseiller à l'assemblée de Martinique est député, un remplaçant lui est désigné, sur sa présentation, par le président du
+conseil régional, celui de l'Assemblée de Corse, celui de l'assemblée de Guyane ou celui de l'assemblée de Martinique.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Cité par_:
 
@@ -12299,13 +12317,9 @@ _Cité par_:
   - Code électoral - art. R*148-2 (Ab)
   - Code électoral - art. R130-1 (VT)
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 87
-
 _Modifié par_:
 
-  - Loi n°91-428 du 13 mai 1991 - art. 12 () JORF 14 mai 1991
+  - Loi n°2011-884 du 27 juillet 2011 - art. 6
 
 
 ### Titre III : Désignation des délégués des conseils municipaux<a id=70></a>
@@ -21157,7 +21171,974 @@ _Créé par_:
   - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
 
 
-## Livre VII : Dispositions applicables aux consultations organisées en application des articles 72-4 et 73 de la Constitution<a id=148></a>
+## Livre VI bis : Election des conseillers à l'assemblée de Guyane et des conseillers à l'assemblée de Martinique<a id=148></a>
+
+### Titre Ier : Election des conseillers à l'assemblée de Guyane<a id=149></a>
+
+#### Chapitre Ier : Composition de l'assemblée de Guyane 
+et durée du mandat<a id=150></a>
+
+###### Article L558-1
+
+Les conseillers à l'assemblée de Guyane sont élus pour six ans en même temps que les conseillers régionaux. Ils sont
+rééligibles.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+_Cité par_:
+
+  - Décret n°2015-939 du 30 juillet 2015 (V)
+
+
+###### Article L558-2
+
+L'assemblée de Guyane est composée de cinquante et un membres. 
+
+Si la population de la collectivité territoriale de Guyane dépasse 249 999 habitants, le nombre de conseillers à l'assemblée
+de Guyane est porté à cinquante-cinq. 
+
+Si la population dépasse 299 999 habitants, il est porté à soixante et un.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+_Cité par_:
+
+  - Code électoral - art. L558-3 (V)
+
+
+#### Chapitre II : Mode de scrutin<a id=151></a>
+
+###### Article L558-3
+
+La Guyane forme une circonscription électorale unique, composée de huit sections dont la délimitation est fixée conformément
+au tableau ci-après : 
+
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ SECTION                         │ COMPOSITION de la section                                  │ NOMBRE de sièges de la     ┃
+┃                                 │                                                            │ section                    ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Section de Cayenne              │ Commune de Cayenne                                         │ 12                         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Section de la petite Couronne   │ Communes de Rémire-Montjoly et Matoury                     │ 10                         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Section de la grande Couronne   │ Communes de Macouria, Roura et Montsinéry                  │ 3                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Section de l'Oyapock            │ Communes de Régina, Camopi, Saint-Georges-de-l'Oyapock et  │ 3                          ┃
+┃                                 │ Ouanary                                                    │                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Section des Savanes             │ Communes de Sinnamary, Iracoubo, Kourou et Saint-Elie      │ 7                          ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Section du Haut-Maroni          │ Communes de Apatou, Grand Santi, Papaïchton, Maripasoula   │ 5                          ┃
+┃                                 │ et Saül                                                    │                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Section de Saint-Laurent-du-Ma- │ Commune de Saint-Laurent-du-Maroni                         │ 8                          ┃
+┃ roni                            │                                                            │                            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Section de la Basse-Mana        │ Communes de Awala Yalimapo et Mana                         │ 3                          ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
+
+
+Il est procédé à la révision du nombre de sièges de chaque section lorsque la population de la collectivité territoriale de
+Guyane dépasse les seuils fixés à l'article L. 558-2.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+_Cite_:
+
+  - Code électoral - art. L558-2 (V)
+
+_Cité par_:
+
+  - Code électoral - art. L558-4 (V)
+
+
+###### Article L558-4
+
+Les conseillers à l'assemblée de Guyane sont élus au scrutin de liste à deux tours, sans adjonction ni suppression de noms et
+sans modification de l'ordre de présentation. Chaque liste est constituée de huit sections. Elle comprend un nombre de
+candidats égal au nombre de sièges dans chaque section, conformément au tableau figurant à l'article L. 558-3, augmenté de
+deux par section. 
+
+Au premier tour de scrutin, il est attribué à la liste qui a recueilli la majorité absolue des suffrages exprimés dans la
+circonscription un nombre de onze sièges, répartis dans chaque section conformément au tableau ci-après : 
+
+<table border="1">
+  <tbody>
+    <tr>
+      <td align="center">
+
+Section de Cayenne 
+
+</td>
+      <td align="center">
+
+2 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Section de la petite Couronne 
+
+</td>
+      <td align="center">
+
+2 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Section de la grande Couronne 
+
+</td>
+      <td align="center">
+
+1 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Section de l'Oyapock 
+
+</td>
+      <td align="center">
+
+1 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Section des Savanes 
+
+</td>
+      <td align="center">
+
+1 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Section du Haut-Maroni 
+
+</td>
+      <td align="center">
+
+1 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Section de Saint-Laurent-du-Maroni 
+
+</td>
+      <td align="center">
+
+2 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Section de la Basse-Mana 
+
+</td>
+      <td align="center">
+
+1 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+Cette attribution opérée, les autres sièges sont répartis au sein de chaque section, entre toutes les listes ayant obtenu au
+moins 5 % des suffrages exprimés sur l'ensemble de la circonscription, au prorata des voix obtenues par chaque liste dans la
+section, à la représentation proportionnelle suivant la règle de la plus forte moyenne. 
+
+Si aucune liste n'a recueilli la majorité absolue des suffrages exprimés au premier tour, il est procédé à un second tour. 
+
+Il est attribué à la liste qui a obtenu le plus de voix à ce second tour dans la circonscription un nombre de onze sièges,
+répartis dans chaque section conformément au tableau du présent article. En cas d'égalité de suffrages entre les listes
+arrivées en tête, ces sièges sont attribués à la liste dont les candidats ont la moyenne d'âge la plus élevée. Cette
+attribution opérée, les autres sièges sont répartis au sein de chaque section entre toutes les listes ayant obtenu au moins 5
+% des suffrages exprimés au second tour sur l'ensemble de la circonscription, au prorata des voix obtenues par chaque liste
+dans la section, à la représentation proportionnelle suivant la règle de la plus forte moyenne. 
+
+Si plusieurs listes ont la même moyenne pour l'attribution du dernier siège dans une section, celui-ci revient à la liste qui
+a obtenu le plus grand nombre de suffrages. En cas d'égalité de suffrages, le siège est attribué au plus âgé des candidats
+susceptibles d'être proclamés élus. 
+
+Les sièges sont attribués aux candidats dans l'ordre de présentation sur chaque section.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+_Cité par_:
+
+  - Code électoral - art. L558-20 (V)
+
+_Cite_:
+
+  - Code électoral - art. L558-3 (V)
+
+
+### Titre II : Election des conseillers à l'assemblée de Martinique<a id=152></a>
+
+#### Chapitre Ier : Composition de l'assemblée de Martinique et durée du mandat<a id=153></a>
+
+###### Article L558-5
+
+Les conseillers à l'assemblée de Martinique sont élus pour six ans en même temps que les conseillers régionaux. Ils sont
+rééligibles.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+_Cité par_:
+
+  - Décret n°2015-939 du 30 juillet 2015 (V)
+
+
+###### Article L558-6
+
+L'assemblée de Martinique est composée de cinquante et un membres.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+
+#### Chapitre II : Mode de scrutin<a id=154></a>
+
+###### Article L558-7
+
+La Martinique forme une circonscription électorale unique, composée de quatre sections qui correspondent aux circonscriptions
+pour l'élection des députés en Martinique telles qu'elles figurent au tableau n° 1 annexé au présent code et dont la
+délimitation est fixée conformément au tableau ci-après : 
+
+<pre>
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ SECTION                   │ COMPOSITION de la section │ NOMBRE de candidats de la section ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Section du Centre         │ 1re circonscription       │ 17                                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Section du Nord           │ 2e circonscription        │ 16                                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Section de Fort-de-France │ 3e circonscription        │ 15                                ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Section du Sud            │ 4e circonscription        │ 16                                ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</pre>
+
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+_Cité par_:
+
+  - Code électoral - art. L558-8 (V)
+
+
+###### Article L558-8
+
+Les conseillers à l'assemblée de Martinique sont élus au scrutin de liste à deux tours, sans adjonction ni suppression de
+noms et sans modification de l'ordre de présentation. Chaque liste est constituée de quatre sections. Elle comprend un nombre
+de candidats par section conformément au tableau figurant à l'article L. 558-7. 
+
+Au premier tour de scrutin, il est attribué à la liste qui a recueilli la majorité absolue des suffrages exprimés dans la
+circonscription un nombre de onze sièges. Cette attribution opérée, les autres sièges sont répartis entre toutes les listes
+ayant obtenu au moins 5 % des suffrages exprimés sur l'ensemble de la circonscription, à la représentation proportionnelle
+suivant la règle de la plus forte moyenne. 
+
+Si aucune liste n'a recueilli la majorité absolue des suffrages exprimés au premier tour, il est procédé à un second tour. 
+
+Il est attribué à la liste qui a obtenu le plus de voix à ce second tour dans la circonscription un nombre de onze sièges. En
+cas d'égalité de suffrages entre les listes arrivées en tête, ces sièges sont attribués à la liste dont les candidats ont la
+moyenne d'âge la plus élevée. Cette attribution opérée, les autres sièges sont répartis entre toutes les listes ayant obtenu
+au second tour au moins 5 % des suffrages exprimés sur l'ensemble de la circonscription, à la représentation proportionnelle
+suivant la règle de la plus forte moyenne. 
+
+Si plusieurs listes ont la même moyenne pour l'attribution du dernier siège, celui-ci revient à la liste qui a obtenu le plus
+grand nombre de suffrages. En cas d'égalité de suffrages, le siège est attribué au plus âgé des candidats susceptibles d'être
+proclamés élus.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+_Cité par_:
+
+  - Code électoral - art. L558-20 (V)
+  - Code électoral - art. L558-9 (V)
+
+_Cite_:
+
+  - Code électoral - art. L558-7
+
+
+###### Article L558-9
+
+Les sièges attribués à chaque liste en application de l'article L. 558-8 sont répartis entre les sections qui la composent au
+prorata des voix obtenues par la liste dans chaque section. Cette attribution opérée, les sièges restant à attribuer sont
+répartis entre les sections selon la règle de la plus forte moyenne. Si plusieurs sections ont la même moyenne pour
+l'attribution du dernier siège, celui-ci revient à la section qui a obtenu le plus grand nombre de suffrages. En cas
+d'égalité de suffrages, le siège est attribué au plus âgé des candidats susceptibles d'être proclamés élus. 
+
+Les sièges sont attribués aux candidats dans l'ordre de présentation sur chaque section.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+_Cite_:
+
+  - Code électoral - art. L558-8
+
+
+### Titre III : Dispositions communes<a id=155></a>
+
+#### Chapitre Ier : Conditions d'éligibilité et inéligibilités<a id=156></a>
+
+###### Article L558-10
+
+Nul ne peut être élu s'il n'est âgé de dix-huit ans révolus. 
+
+Sont éligibles tous les citoyens inscrits sur une liste électorale ou justifiant qu'ils devaient y être inscrits avant le
+jour de l'élection, qui sont domiciliés dans la collectivité territoriale ou ceux qui, sans y être domiciliés, y sont
+inscrits au rôle d'une des contributions directes au 1er janvier de l'année dans laquelle se fait l'élection, ou justifient
+qu'ils devaient y être inscrits à ce jour.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+_Cité par_:
+
+  - Code électoral - art. L558-22 (V)
+  - Code électoral - art. L558-23 (V)
+
+
+###### Article L558-11
+
+Ne sont pas éligibles : 
+
+1° Les personnes énumérées aux articles L. 195 et L. 196, lorsque leurs fonctions concernent ou ont concerné tout ou partie
+du territoire de la collectivité territoriale ; 
+
+2° Les fonctionnaires placés auprès du représentant de l'Etat dans la collectivité territoriale et affectés au secrétariat
+général pour les affaires régionales en qualité de secrétaire général ou de chargé de mission ; 
+
+3° Pour une durée d'un an, le président de l'assemblée de Guyane, le conseiller à l'assemblée de Guyane, le président de
+l'assemblée de Martinique, le conseiller à l'assemblée de Martinique, le président du conseil exécutif de Martinique ou le
+conseiller exécutif de Martinique qui n'a pas déposé l'une des déclarations prévues à l'article 2 de la loi n° 88-227 du 11
+mars 1988 relative à la transparence financière de la vie politique. 
+
+Les articles L. 199 à L. 203 et le cinquième alinéa de l'article L. 340 sont applicables à l'élection des conseillers à
+l'assemblée de Guyane ou de Martinique.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°88-227 du 11 mars 1988 - art. 2
+  - Code électoral - art. L195
+  - Code électoral - art. L196
+  - Code électoral - art. L199
+  - Code électoral - art. L340
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+_Cité par_:
+
+  - Code électoral - art. L558-13 (V)
+  - Code électoral - art. L558-22 (V)
+  - Code électoral - art. L558-23 (V)
+
+
+###### Article L558-13
+
+Tout conseiller à l'assemblée de Guyane ou de Martinique qui, pour une cause survenue postérieurement à son élection, se
+trouve dans un cas d'inéligibilité prévu à l'article L. 558-11 ou se trouve frappé d'une des incapacités qui font perdre la
+qualité d'électeur est déclaré démissionnaire d'office par arrêté du représentant de l'Etat dans la collectivité
+territoriale, sauf recours au Conseil d'Etat dans les dix jours de la notification. Lorsqu'un conseiller à l'assemblée de
+Guyane ou de Martinique est déclaré démissionnaire d'office à la suite d'une condamnation pénale définitive prononcée à son
+encontre et entraînant de ce fait la perte de ses droits civiques et électoraux, le recours éventuel contre l'arrêté du
+représentant de l'Etat dans la collectivité territoriale n'est pas suspensif.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+_Cite_:
+
+  - Code électoral - art. L558-11
+
+
+###### Article L558-14
+
+Peut être déclaré inéligible pendant un an celui qui n'a pas déposé son compte de campagne dans les conditions et le délai
+prescrits par l'article L. 52-12 et celui dont le compte de campagne a été rejeté à bon droit.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+_Cite_:
+
+  - Code électoral - art. L52-12
+
+_Cité par_:
+
+  - Code électoral - art. L558-22 (V)
+  - Code électoral - art. L558-23 (V)
+
+
+###### Article LO558-12
+
+Pendant la durée de ses fonctions, le Défenseur des droits ne peut être candidat à un mandat de conseiller à l'assemblée de
+Guyane ou de conseiller à l'assemblée de Martinique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi organique n°2011-883 du 27 juillet 2011 - art. 5
+
+
+#### Chapitre II : Incompatibilités<a id=157></a>
+
+###### Article L558-15
+
+Le mandat de conseiller à l'assemblée de Guyane ou à l'assemblée de Martinique est incompatible, dans toute la France, avec
+les fonctions énumérées à l'article L. 46 et aux 1° et 6° de l'article L. 195.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+_Cite_:
+
+  - Code électoral - art. L195
+  - Code électoral - art. L46
+
+_Cité par_:
+
+  - Code électoral - art. L558-17 (V)
+
+
+###### Article L558-16
+
+Le mandat de conseiller à l'assemblée de Guyane ou à l'assemblée de Martinique est incompatible avec les fonctions d'agent
+salarié de la collectivité territoriale. 
+
+Ce mandat est également incompatible avec les fonctions d'entrepreneur des services de la collectivité territoriale et celles
+d'agent salarié des établissements publics et agences créés par la collectivité territoriale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+_Cité par_:
+
+  - Code électoral - art. L558-17 (V)
+
+
+###### Article L558-17
+
+Tout conseiller à l'assemblée de Guyane ou à l'assemblée de Martinique qui, au moment de son élection, est placé dans l'une
+des situations prévues aux articles L. 558-15 et L. 558-16 dispose d'un délai d'un mois à partir de la date à laquelle son
+élection est devenue définitive pour démissionner de son mandat ou mettre fin à la situation incompatible avec l'exercice de
+celui-ci. Il fait connaître son option par écrit au représentant de l'Etat dans la collectivité territoriale qui en informe
+le président de l'assemblée. A défaut d'option dans le délai imparti, il est réputé démissionnaire de son mandat ; cette
+démission est constatée par arrêté du représentant de l'Etat dans la collectivité territoriale. 
+
+Si la cause d'incompatibilité survient postérieurement à l'élection, le droit d'option est ouvert dans les mêmes conditions.
+A défaut d'option dans le délai d'un mois à compter de la date à laquelle est survenue la cause d'incompatibilité, le
+conseiller est déclaré démissionnaire de son mandat par arrêté du représentant de l'Etat dans la collectivité territoriale. 
+
+Les arrêtés du représentant de l'Etat dans la collectivité territoriale mentionnés aux deux premiers alinéas peuvent être
+contestés dans les dix jours suivant leur notification devant le Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+_Cite_:
+
+  - Code électoral - art. L558-15
+  - Code électoral - art. L558-16
+
+
+###### Article L558-18
+
+Nul ne peut être conseiller à l'assemblée de Guyane et conseiller à l'assemblée de Martinique. 
+
+Nul ne peut être conseiller à l'assemblée de Guyane ou à l'assemblée de Martinique et conseiller régional ou conseiller à
+l'Assemblée de Corse. 
+
+A défaut de leur avoir fait connaître son option dans les trois jours de son élection, celui qui se trouve dans l'une de ces
+situations est déclaré démissionnaire de ses mandats par arrêtés des représentants de l'Etat dans les collectivités
+concernées.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+
+#### Chapitre III : Déclarations de candidature<a id=158></a>
+
+###### Article L558-19
+
+Une déclaration de candidature est obligatoire pour chaque liste de candidats avant chaque tour de scrutin. 
+
+Au sein de chaque section, la liste est composée alternativement d'un candidat de chaque sexe. 
+
+Seules peuvent se présenter au second tour de scrutin les listes ayant obtenu au premier tour un nombre de suffrages au moins
+égal à 10 % des suffrages exprimés. Dans le cas où une seule liste remplit cette condition, la liste ayant obtenu après
+celle-ci le plus grand nombre de suffrages au premier tour peut se maintenir au second. Dans le cas où aucune liste ne
+remplit cette condition, les deux listes ayant obtenu le plus grand nombre de suffrages au premier tour peuvent se maintenir
+au second. La composition de ces listes peut être modifiée pour comprendre les candidats ayant figuré au premier tour sur
+d'autres listes, sous réserve que celles-ci aient obtenu au premier tour au moins 5 % des suffrages exprimés et ne se
+présentent pas au second tour. En cas de modification de la composition d'une liste, le titre de la liste et l'ordre de
+présentation des candidats peuvent également être modifiés. 
+
+Les candidats ayant figuré sur une même liste au premier tour ne peuvent figurer au second tour que sur une même liste. Le
+choix de la liste sur laquelle ils sont candidats au second tour est notifié à la préfecture de la collectivité territoriale
+par le candidat tête de la liste sur laquelle ils figuraient au premier tour.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+_Cité par_:
+
+  - Code électoral - art. L558-20 (V)
+  - Code électoral - art. L558-22 (V)
+
+
+###### Article L558-20
+
+La déclaration de candidature résulte du dépôt à la préfecture de la collectivité territoriale d'une liste répondant aux
+conditions fixées aux articles L. 558-4 ou L. 558-8, selon le cas, et aux articles L. 558-19 et L. 558-21. 
+
+Elle est faite collectivement pour chaque liste par le candidat tête de liste ou par un mandataire porteur d'un mandat écrit
+établi par ce candidat. 
+
+Elle indique expressément : 
+
+1° Le titre de la liste présentée ; 
+
+2° Les nom et prénoms du candidat tête de liste ; 
+
+3° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chacun des candidats. 
+
+Pour chaque tour de scrutin, la déclaration comporte la signature de chaque candidat, sauf, pour le second tour, lorsque la
+composition d'une liste n'a pas été modifiée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+_Cite_:
+
+  - Code électoral - art. L558-19
+  - Code électoral - art. L558-21
+  - Code électoral - art. L558-4
+  - Code électoral - art. L558-8
+
+_Cité par_:
+
+  - Code électoral - art. L558-22 (V)
+
+
+###### Article L558-21
+
+Nul ne peut être candidat sur plus d'une liste. 
+
+Est nul et non avenu l'enregistrement de listes portant le nom d'une ou plusieurs personnes figurant sur une autre liste de
+candidats.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+_Cité par_:
+
+  - Code électoral - art. L558-20 (V)
+
+
+###### Article L558-22
+
+Pour le premier tour, les déclarations de candidature sont déposées au plus tard le quatrième lundi qui précède le jour du
+scrutin, à midi. Il en est donné récépissé provisoire. 
+
+Elles sont enregistrées si les conditions prévues aux articles L. 558-10, L. 558-11, L. 558-14 et L. 558-19 à L. 558-21 sont
+remplies. Le refus d'enregistrement est motivé. 
+
+Un récépissé définitif est délivré par le représentant de l'Etat dans la collectivité territoriale, après enregistrement, au
+plus tard le quatrième vendredi qui précède le jour du scrutin, à midi. 
+
+Pour le second tour, les déclarations de candidature sont déposées au plus tard le mardi suivant le premier tour, à dix-huit
+heures. Récépissé définitif est délivré immédiatement aux listes répondant aux conditions fixées aux articles L. 558-19 et L.
+558-20. Il vaut enregistrement. Le refus d'enregistrement est motivé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+_Cite_:
+
+  - Code électoral - art. L558-10
+  - Code électoral - art. L558-11
+  - Code électoral - art. L558-14
+  - Code électoral - art. L558-19
+  - Code électoral - art. L558-20 (V)
+
+
+###### Article L558-23
+
+Pour les déclarations de candidature avant le premier tour, le candidat désigné tête de liste ou son mandataire dispose d'un
+délai de quarante-huit heures pour contester le refus d'enregistrement devant le tribunal administratif dans le ressort
+duquel se trouve le chef-lieu de la collectivité territoriale, qui statue dans les trois jours. 
+
+Lorsque le refus d'enregistrement est motivé par l'inobservation des articles L. 558-10, L. 558-11, L. 558-14 ou L. 558-21,
+la liste dispose de quarante-huit heures pour se compléter, à compter de ce refus ou de la décision du tribunal administratif
+confirmant le refus. 
+
+Dans le cas prévu au deuxième alinéa, la candidature est enregistrée si le tribunal administratif, saisi par le candidat tête
+de liste ou son mandataire, n'a pas statué dans le délai prévu au premier alinéa. 
+
+Pour les déclarations de candidature avant le second tour, le candidat désigné tête de liste ou son mandataire dispose d'un
+délai de vingt-quatre heures pour contester le refus d'enregistrement devant le tribunal administratif dans le ressort duquel
+se trouve le chef-lieu de la collectivité territoriale, qui statue dans les vingt-quatre heures de la requête. Faute pour le
+tribunal d'avoir statué dans ce délai, la candidature de la liste est enregistrée. 
+
+Dans tous les cas, les décisions du tribunal administratif ne peuvent être contestées qu'à l'occasion d'un recours contre
+l'élection.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+_Cite_:
+
+  - Code électoral - art. L558-10
+  - Code électoral - art. L558-11
+  - Code électoral - art. L558-14
+
+_Cité par_:
+
+  - Code électoral - art. R352 (V)
+
+
+###### Article L558-24
+
+Aucun retrait volontaire ou remplacement de candidat n'est accepté après le dépôt d'une liste. 
+
+Les listes complètes peuvent être retirées, avant le premier tour, au plus tard le quatrième samedi précédant le scrutin, à
+midi ; avant le second tour, avant l'expiration du délai de dépôt des candidatures. La déclaration de retrait est signée par
+la majorité des candidats de la liste. Il est donné récépissé des déclarations de retrait.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+
+#### Chapitre IV : Propagande<a id=159></a>
+
+###### Article L558-25
+
+La campagne électorale pour le premier tour de scrutin est ouverte à partir du deuxième lundi qui précède celui-ci. 
+
+La campagne électorale pour le second tour commence le lundi suivant le premier tour à midi. 
+
+Les antennes du service public de télévision et de radiodiffusion dans la collectivité territoriale sont mises à la
+disposition des listes dont la candidature a été régulièrement enregistrée, pour une durée totale de trois heures à la
+télévision et de trois heures à la radio. Ces durées sont réparties également entre les listes. 
+
+Les horaires des émissions et les modalités de leur réalisation sont fixés par le Conseil supérieur de l'audiovisuel.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+
+###### Article L558-26
+
+Dans la collectivité territoriale, une commission de propagande, dont la composition et le fonctionnement sont fixés par
+décret en Conseil d'Etat, est chargée d'assurer l'envoi et la distribution des documents de propagande électorale.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+_Cité par_:
+
+  - Code électoral - art. L558-27 (V)
+
+
+###### Article L558-27
+
+L'Etat prend à sa charge les dépenses provenant des opérations effectuées par les commissions instituées par l'article L.
+558-26 ainsi que celles qui résultent de leur fonctionnement. 
+
+Sont remboursés aux listes ayant obtenu au moins 5 % des suffrages exprimés : le coût du papier, l'impression des bulletins
+de vote, affiches, circulaires et les frais d'affichage. Un décret en Conseil d'Etat détermine la nature et le nombre des
+bulletins, affiches et circulaires dont le coût est remboursé ; il détermine également le montant des frais d'affichage.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+_Cite_:
+
+  - Code électoral - art. L558-26
+
+
+###### Article L558-28
+
+Les articles L. 165, L. 211 et L. 215 sont applicables à l'élection des conseillers à l'assemblée de Guyane et des
+conseillers à l'assemblée de Martinique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+_Cite_:
+
+  - Code électoral - art. L165
+  - Code électoral - art. L211
+  - Code électoral - art. L215
+
+
+#### Chapitre V : Opérations préparatoires au scrutin<a id=160></a>
+
+###### Article L558-29
+
+Le collège électoral est convoqué par décret publié au moins cinq semaines avant la date du scrutin.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+
+#### Chapitre VI : Opérations de vote<a id=161></a>
+
+###### Article L558-30
+
+Le recensement général des votes est effectué au chef-lieu de la collectivité territoriale le lundi qui suit le jour du
+scrutin, avant dix-huit heures, en présence des représentants des listes, par une commission dont la composition et le
+fonctionnement sont fixés par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+_Cité par_:
+
+  - Code électoral - art. R356 (V)
+  - Code électoral - art. R357 (V)
+
+
+###### Article L558-31
+
+Les voix données aux listes comprenant un candidat qui a fait acte de candidature sur plusieurs listes sont considérées comme
+nulles ; ces listes ne peuvent obtenir aucun siège.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+
+#### Chapitre VII : Remplacement des conseillers à l'assemblée de Guyane et des conseillers à l'assemblée de Martinique<a id=162></a>
+
+###### Article L558-32
+
+Le candidat venant sur une liste immédiatement après le dernier élu dans la même section est appelé à remplacer le conseiller
+à l'assemblée de Guyane ou à l'assemblée de Martinique élu sur cette liste dont le siège devient vacant pour quelque cause
+que ce soit. 
+
+Si le candidat ainsi appelé à remplacer le conseiller se trouve de ce fait dans l'un des cas d'incompatibilité mentionnés à
+l'article L. 46-1, il dispose d'un délai de trente jours à compter de la date de la vacance pour faire cesser
+l'incompatibilité en démissionnant de l'un des mandats mentionnés à ce même article. A défaut d'option dans le délai imparti,
+le remplacement est assuré par le candidat suivant dans l'ordre de la section. 
+
+Le représentant de l'Etat dans la collectivité territoriale notifie le nom de ce remplaçant au président de l'assemblée. 
+
+Le mandat de la personne ayant remplacé un conseiller dont le siège était devenu vacant expire lors du renouvellement de
+l'assemblée qui suit son entrée en fonctions. 
+
+Lorsque les deux premiers alinéas ne peuvent être appliqués, le siège demeure vacant jusqu'au prochain renouvellement de
+l'assemblée. Toutefois, si le tiers des sièges de l'assemblée vient à être vacant par suite du décès de leurs titulaires, il
+est procédé au renouvellement intégral de l'assemblée dans les trois mois qui suivent la dernière vacance pour cause de
+décès, sauf le cas où le renouvellement général des conseils régionaux doit intervenir dans les trois mois suivant ladite
+vacance.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+_Cité par_:
+
+  - Code général des collectivités territoriales - art. L7224-4 (VD)
+  - Code électoral - art. L558-33 (V)
+
+_Cite_:
+
+  - Code électoral - art. L46-1
+
+
+#### Chapitre VIII : Contentieux<a id=163></a>
+
+###### Article L558-33
+
+Les élections peuvent être contestées dans les dix jours suivant la proclamation des résultats par tout candidat ou tout
+électeur de la collectivité territoriale devant le Conseil d'Etat statuant au contentieux. 
+
+Le même droit est ouvert au représentant de l'Etat dans la collectivité territoriale s'il estime que les formes et conditions
+légalement prescrites n'ont pas été respectées. 
+
+L'éligibilité d'un candidat devenu conseiller à l'assemblée de Guyane ou à l'assemblée de Martinique par application du
+premier alinéa de l'article L. 558-32 peut être contestée dans le délai de dix jours à compter de la date à laquelle ce
+candidat a remplacé le conseiller dont le siège est devenu vacant. 
+
+La constatation par le Conseil d'Etat de l'inéligibilité d'un ou plusieurs candidats n'entraîne l'annulation de l'élection
+que du ou des élus inéligibles. Le Conseil d'Etat proclame en conséquence l'élection du ou des suivants de liste.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+_Cite_:
+
+  - Code électoral - art. L558-32
+
+
+###### Article L558-34
+
+Le conseiller à l'assemblée de Guyane ou à l'assemblée de Martinique dont l'élection est contestée reste en fonctions jusqu'à
+ce qu'il ait été définitivement statué sur la réclamation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+
+###### Article L558-35
+
+En cas d'annulation de l'ensemble des opérations électorales, il est procédé à de nouvelles élections dans un délai de trois
+mois.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+
+### Titre IV : Conditions d'application<a id=164></a>
+
+###### Article L558-36
+
+Des décrets en Conseil d'Etat déterminent les conditions d'application du présent livre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+
+
+## Livre VII : Dispositions applicables aux consultations organisées en application des articles 72-4 et 73 de la Constitution<a id=165></a>
 
 ###### Article L559
 
@@ -21395,7 +22376,7 @@ _Cité par_:
   - Décret n°2009-1435 du 20 novembre 2009 - art. 4 (V)
 
 
-## Livre VIII : Commission prévue par l'article 25 de la Constitution<a id=149></a>
+## Livre VIII : Commission prévue par l'article 25 de la Constitution<a id=166></a>
 
 ###### Article L567-1
 
@@ -21563,7 +22544,7 @@ _Modifié par_:
   - Loi organique n°2010-837 du 23 juillet 2010 - art. 2
 
 
-## Livre IX : Dispositions finales<a id=150></a>
+## Livre IX : Dispositions finales<a id=167></a>
 
 ###### Article L568
 
@@ -21759,15 +22740,15 @@ _Anciens textes_:
   - Code électoral - art. L450 (T)
 
 
-# Partie réglementaire<a id=151></a>
+# Partie réglementaire<a id=168></a>
 
-## Livre Ier  : Election des députés, des conseillers généraux et des conseillers municipaux des départements<a id=152></a>
+## Livre Ier  : Election des députés, des conseillers généraux et des conseillers municipaux des départements<a id=169></a>
 
-### Titre Ier  : Dispositions communes à l'élection des députés, des conseillers généraux et des conseillers municipaux<a id=153></a>
+### Titre Ier  : Dispositions communes à l'élection des députés, des conseillers généraux et des conseillers municipaux<a id=170></a>
 
-#### Chapitre II : Listes électorales<a id=154></a>
+#### Chapitre II : Listes électorales<a id=171></a>
 
-##### Section 1 : Conditions d'inscription sur une liste électorale<a id=155></a>
+##### Section 1 : Conditions d'inscription sur une liste électorale<a id=172></a>
 
 ###### Article R1
 
@@ -21821,7 +22802,7 @@ _Cité par_:
   - Code électoral - art. R*4 (M)
 
 
-##### Section 2 : Etablissement et révision des listes électorales<a id=156></a>
+##### Section 2 : Etablissement et révision des listes électorales<a id=173></a>
 
 ###### Article R3
 
@@ -22671,7 +23652,7 @@ _Cite_:
   - Code de procédure civile - art. 640
 
 
-##### Section 3 : Inscription en dehors des périodes de révision<a id=157></a>
+##### Section 3 : Inscription en dehors des périodes de révision<a id=174></a>
 
 ###### Article R17-2
 
@@ -22717,7 +23698,7 @@ _Cite_:
   - Code de procédure civile - art. 640
 
 
-##### Section 4 : Contrôle des inscriptions sur les listes électorales<a id=158></a>
+##### Section 4 : Contrôle des inscriptions sur les listes électorales<a id=175></a>
 
 ###### Article R17
 
@@ -23080,7 +24061,7 @@ _Modifié par_:
   - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
 
 
-##### Section 6 : Cartes électorales<a id=159></a>
+##### Section 6 : Cartes électorales<a id=176></a>
 
 ###### Article R23
 
@@ -23207,7 +24188,7 @@ _Modifié par_:
   - Décret n°2007-1670 du 26 novembre 2007 - art. 2 () JORF 28 novembre 2007
 
 
-#### Chapitre II bis : Chiffre de la population à retenir en matière électorale<a id=160></a>
+#### Chapitre II bis : Chiffre de la population à retenir en matière électorale<a id=177></a>
 
 ###### Article R25-1
 
@@ -23236,7 +24217,7 @@ _Cite_:
   - Code électoral - art. L261
 
 
-#### Chapitre V : Propagande<a id=161></a>
+#### Chapitre V : Propagande<a id=178></a>
 
 ###### Article R26
 
@@ -23844,7 +24825,7 @@ _Cite_:
   - Code électoral - art. R30 (V)
 
 
-#### Chapitre V bis : Financement et plafonnement des dépenses électorales<a id=162></a>
+#### Chapitre V bis : Financement et plafonnement des dépenses électorales<a id=179></a>
 
 ###### Article R39-1
 
@@ -23974,9 +24955,9 @@ _Cite_:
   - Code électoral - art. L52-15 (VT)
 
 
-#### Chapitre VI : Vote<a id=163></a>
+#### Chapitre VI : Vote<a id=180></a>
 
-##### Section 1 : Opérations préparatoires au scrutin<a id=164></a>
+##### Section 1 : Opérations préparatoires au scrutin<a id=181></a>
 
 ###### Article R40
 
@@ -24204,7 +25185,7 @@ _Modifié par_:
   - Décret n°2006-1244 du 11 octobre 2006 - art. 9 () JORF 13 octobre 2006
 
 
-##### Section 2 : Opérations de vote<a id=165></a>
+##### Section 2 : Opérations de vote<a id=182></a>
 
 ###### Article D56-1
 
@@ -25590,7 +26571,7 @@ _Cite_:
   - Code électoral - art. L68 (VT)
 
 
-##### Section 3 : Vote par procuration<a id=166></a>
+##### Section 3 : Vote par procuration<a id=183></a>
 
 ###### Article R72
 
@@ -26041,7 +27022,7 @@ _Modifié par_:
   - Décret n°2006-1244 du 11 octobre 2006 - art. 8 () JORF 13 octobre 2006
 
 
-##### Section 5  : Commissions de contrôle des opérations de vote<a id=167></a>
+##### Section 5  : Commissions de contrôle des opérations de vote<a id=184></a>
 
 ###### Article R93-1
 
@@ -26139,7 +27120,7 @@ _Cite_:
   - Code électoral - art. L85-1 (V)
 
 
-#### Chapitre VII : Dispositions pénales<a id=168></a>
+#### Chapitre VII : Dispositions pénales<a id=185></a>
 
 ###### Article R94
 
@@ -26265,7 +27246,7 @@ _Cite_:
   - Code électoral - art. L61 (V)
 
 
-#### Chapitre VIII : Contentieux<a id=169></a>
+#### Chapitre VIII : Contentieux<a id=186></a>
 
 ###### Article R97
 
@@ -26288,9 +27269,9 @@ _Cité par_:
   - Décret n°2018-457 du 6 juin 2018 - art. 13 (V)
 
 
-### Titre II : Dispositions spéciales à l'élection des députés<a id=170></a>
+### Titre II : Dispositions spéciales à l'élection des députés<a id=187></a>
 
-#### Chapitre V : Déclarations de candidatures<a id=171></a>
+#### Chapitre V : Déclarations de candidatures<a id=188></a>
 
 ###### Article R98
 
@@ -26435,7 +27416,7 @@ _Cité par_:
   - Code électoral - art. R173-5 (V)
 
 
-#### Chapitre VI : Propagande<a id=172></a>
+#### Chapitre VI : Propagande<a id=189></a>
 
 ###### Article R103
 
@@ -26464,7 +27445,7 @@ _Cite_:
   - Code électoral - art. LO176
 
 
-#### Chapitre VIII : Opérations de vote<a id=173></a>
+#### Chapitre VIII : Opérations de vote<a id=190></a>
 
 ###### Article R104
 
@@ -26607,9 +27588,9 @@ _Modifié par_:
   - Décret n°2007-1670 du 26 novembre 2007 - art. 5 () JORF 28 novembre 2007
 
 
-### Titre III : Dispositions spéciales à l'élection des conseillers généraux<a id=174></a>
+### Titre III : Dispositions spéciales à l'élection des conseillers généraux<a id=191></a>
 
-#### Chapitre IV bis : Déclarations de candidatures<a id=175></a>
+#### Chapitre IV bis : Déclarations de candidatures<a id=192></a>
 
 ###### Article R109-1
 
@@ -26710,7 +27691,7 @@ _Cite_:
   - Code électoral - art. L18
 
 
-#### Chapitre V : Propagande<a id=176></a>
+#### Chapitre V : Propagande<a id=193></a>
 
 ###### Article R110
 
@@ -26748,7 +27729,7 @@ _Cite_:
   - Code électoral - art. L221 (VD)
 
 
-#### Chapitre VII : Opérations de vote<a id=177></a>
+#### Chapitre VII : Opérations de vote<a id=194></a>
 
 ###### Article R111
 
@@ -26801,7 +27782,7 @@ _Modifié par_:
   - TXT_ASSOCIE: Code électoral - art. L221 (V)
 
 
-#### Chapitre IX : Contentieux<a id=178></a>
+#### Chapitre IX : Contentieux<a id=195></a>
 
 ###### Article R113
 
@@ -26981,11 +27962,11 @@ _Cite_:
   - Code électoral - art. L118-3 (M)
 
 
-### Titre IV  : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris<a id=179></a>
+### Titre IV  : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris<a id=196></a>
 
-#### Chapitre Ier : Dispositions applicables à toutes les communes<a id=180></a>
+#### Chapitre Ier : Dispositions applicables à toutes les communes<a id=197></a>
 
-##### Section 1 bis : Dispositions spéciales à l'exercice par les ressortissants d'un Etat membre de l'Union européenne autre que la France du droit de vote pour l'élection des conseillers municipaux et des membres du Conseil de Paris<a id=181></a>
+##### Section 1 bis : Dispositions spéciales à l'exercice par les ressortissants d'un Etat membre de l'Union européenne autre que la France du droit de vote pour l'élection des conseillers municipaux et des membres du Conseil de Paris<a id=198></a>
 
 ###### Article R117-2
 
@@ -27046,7 +28027,7 @@ _Cité par_:
   - Code électoral - art. R265 (VD)
 
 
-##### Section 4 : Propagande<a id=182></a>
+##### Section 4 : Propagande<a id=199></a>
 
 ###### Article R117-4
 
@@ -27078,7 +28059,7 @@ _Cité par_:
   - Code électoral - art. R268 (V)
 
 
-##### Section 6 : Opérations de vote<a id=183></a>
+##### Section 6 : Opérations de vote<a id=200></a>
 
 ###### Article R118
 
@@ -27106,7 +28087,7 @@ _Modifié par_:
   - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
 
 
-##### Section 7 : Contentieux<a id=184></a>
+##### Section 7 : Contentieux<a id=201></a>
 
 ###### Article R119
 
@@ -27302,9 +28283,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2113-11 (V)
 
 
-#### Chapitre II : Dispositions spéciales aux communes de moins de 3 500 habitants<a id=185></a>
+#### Chapitre II : Dispositions spéciales aux communes de moins de 3 500 habitants<a id=202></a>
 
-##### Section 1 : Mode de scrutin<a id=186></a>
+##### Section 1 : Mode de scrutin<a id=203></a>
 
 ###### Article R124
 
@@ -27354,7 +28335,7 @@ _Cité par_:
   - Code électoral - art. R268 (V)
 
 
-##### Section 2 : Propagande<a id=187></a>
+##### Section 2 : Propagande<a id=204></a>
 
 ###### Article R125
 
@@ -27417,9 +28398,9 @@ _Cité par_:
   - Code électoral - art. R265 (VD)
 
 
-#### Chapitre III : Dispositions spéciales aux communes de 3 500 habitants et plus<a id=188></a>
+#### Chapitre III : Dispositions spéciales aux communes de 3 500 habitants et plus<a id=205></a>
 
-##### Section 1 : Mode de scrutin<a id=189></a>
+##### Section 1 : Mode de scrutin<a id=206></a>
 
 ###### Article R127-1
 
@@ -27459,7 +28440,7 @@ _Cité par_:
   - Code électoral - art. R269 (V)
 
 
-##### Section 2 : Déclarations de candidature<a id=190></a>
+##### Section 2 : Déclarations de candidature<a id=207></a>
 
 ###### Article R127-2
 
@@ -27591,9 +28572,9 @@ _Cite_:
   - Code électoral - art. R128
 
 
-#### Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille<a id=191></a>
+#### Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille<a id=208></a>
 
-##### Section 2 : Opérations préparatoires au scrutin<a id=192></a>
+##### Section 2 : Opérations préparatoires au scrutin<a id=209></a>
 
 ###### Article R129
 
@@ -27626,9 +28607,9 @@ _Modifié par_:
   - Décret n°2006-1244 du 11 octobre 2006 - art. 12 () JORF 13 octobre 2006
 
 
-## Livre II  : Election des sénateurs des départements<a id=193></a>
+## Livre II  : Election des sénateurs des départements<a id=210></a>
 
-### Titre II : Composition du collège électoral<a id=194></a>
+### Titre II : Composition du collège électoral<a id=211></a>
 
 ###### Article R130-1
 
@@ -27669,7 +28650,7 @@ _Cité par_:
   - Code électoral - art. R271 (V)
 
 
-### Titre III : Désignation des délégués des conseils municipaux<a id=195></a>
+### Titre III : Désignation des délégués des conseils municipaux<a id=212></a>
 
 ###### Article R131
 
@@ -28058,7 +29039,7 @@ _Modifié par_:
   - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
 
 
-### Titre III bis : Désignation des délégués à l'Assemblée de Corse<a id=196></a>
+### Titre III bis : Désignation des délégués à l'Assemblée de Corse<a id=213></a>
 
 ###### Article R148-1
 
@@ -28099,9 +29080,9 @@ _Modifié par_:
   - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
 
 
-### Titre IV : Election des sénateurs<a id=197></a>
+### Titre IV : Election des sénateurs<a id=214></a>
 
-#### Chapitre IV : Déclarations de candidatures<a id=198></a>
+#### Chapitre IV : Déclarations de candidatures<a id=215></a>
 
 ###### Article R149
 
@@ -28238,7 +29219,7 @@ _Cité par_:
   - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
 
 
-#### Chapitre V : Propagande<a id=199></a>
+#### Chapitre V : Propagande<a id=216></a>
 
 ###### Article R154
 
@@ -28508,7 +29489,7 @@ _Cité par_:
   - Code électoral - art. R160 (V)
 
 
-#### Chapitre VI : Opérations préparatoires au scrutin<a id=200></a>
+#### Chapitre VI : Opérations préparatoires au scrutin<a id=217></a>
 
 ###### Article R162
 
@@ -28549,7 +29530,7 @@ _Cité par_:
   - Code électoral - art. R278 (V)
 
 
-#### Chapitre VII : Opérations de vote<a id=201></a>
+#### Chapitre VII : Opérations de vote<a id=218></a>
 
 ###### Article R163
 
@@ -28913,9 +29894,9 @@ _Cité par_:
   - TXT_ASSOCIE: Code électoral - art. L317 (V)
 
 
-## Livre III : Dispositions spécifiques aux députés élus par les Français établis hors de France<a id=202></a>
+## Livre III : Dispositions spécifiques aux députés élus par les Français établis hors de France<a id=219></a>
 
-### Section 1 : Liste électorale<a id=203></a>
+### Section 1 : Liste électorale<a id=220></a>
 
 ###### Article R172
 
@@ -28944,7 +29925,7 @@ _Cité par_:
   - Code électoral - art. R176-3 (V)
 
 
-### Section 2 : Déclaration de candidature<a id=204></a>
+### Section 2 : Déclaration de candidature<a id=221></a>
 
 ###### Article R173
 
@@ -29065,7 +30046,7 @@ _Cite_:
   - Code électoral - art. R*102
 
 
-### Section 3 : Campagne électorale<a id=205></a>
+### Section 3 : Campagne électorale<a id=222></a>
 
 ###### Article R174
 
@@ -29183,7 +30164,7 @@ _Cite_:
   - Code électoral - art. L167
 
 
-### Section 4 : Financement de la campagne électorale<a id=206></a>
+### Section 4 : Financement de la campagne électorale<a id=223></a>
 
 ###### Article R175
 
@@ -29295,9 +30276,9 @@ _Cite_:
   - Code électoral - art. L52-11-1
 
 
-### Section 5 : Opérations de vote<a id=207></a>
+### Section 5 : Opérations de vote<a id=224></a>
 
-#### Sous-section 1 : Information des électeurs<a id=208></a>
+#### Sous-section 1 : Information des électeurs<a id=225></a>
 
 ###### Article R176
 
@@ -29315,7 +30296,7 @@ _Modifié par_:
   - Décret n°2011-843 du 15 juillet 2011 - art. 1
 
 
-#### Sous-section 2 : Vote à l'urne<a id=209></a>
+#### Sous-section 2 : Vote à l'urne<a id=226></a>
 
 ###### Article R176-1
 
@@ -29628,7 +30609,7 @@ _Cite_:
   - Code électoral - art. R176-1-6
 
 
-#### Sous-section 3 : Vote par procuration<a id=210></a>
+#### Sous-section 3 : Vote par procuration<a id=227></a>
 
 ###### Article R176-2
 
@@ -29735,7 +30716,7 @@ _Cite_:
   - Code électoral - art. R*80
 
 
-#### Sous-section 4 : Vote par correspondance électronique<a id=211></a>
+#### Sous-section 4 : Vote par correspondance électronique<a id=228></a>
 
 ###### Article R176-3
 
@@ -30100,7 +31081,7 @@ _Cite_:
   - Code électoral - art. R40
 
 
-#### Sous-section 5 : Vote par correspondance sous pli fermé<a id=212></a>
+#### Sous-section 5 : Vote par correspondance sous pli fermé<a id=229></a>
 
 ###### Article R176-4
 
@@ -30327,7 +31308,7 @@ _Cité par_:
   - Code électoral - art. R177-4 (V)
 
 
-### Section 6 : Dépouillement et recensement des votes<a id=213></a>
+### Section 6 : Dépouillement et recensement des votes<a id=230></a>
 
 ###### Article R177
 
@@ -30517,7 +31498,7 @@ _Cite_:
   - Code électoral - art. R69
 
 
-### Section 7 : Dispositions pénales<a id=214></a>
+### Section 7 : Dispositions pénales<a id=231></a>
 
 ###### Article R178
 
@@ -30535,7 +31516,7 @@ _Modifié par_:
   - Décret n°2011-843 du 15 juillet 2011 - art. 1
 
 
-### Section 8 : Contentieux<a id=215></a>
+### Section 8 : Contentieux<a id=232></a>
 
 ###### Article R179
 
@@ -30588,7 +31569,7 @@ _Cite_:
   - Code électoral - art. R176-3
 
 
-## Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse<a id=216></a>
+## Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse<a id=233></a>
 
 ###### Article R182
 
@@ -30610,9 +31591,9 @@ _Modifié par_:
   - Décret n°91-653 du 15 juillet 1991 - art. 1 () JORF 16 juillet 1991
 
 
-### Titre Ier : Election des conseillers régionaux<a id=217></a>
+### Titre Ier : Election des conseillers régionaux<a id=234></a>
 
-#### Chapitre V : Déclarations de candidatures<a id=218></a>
+#### Chapitre V : Déclarations de candidatures<a id=235></a>
 
 ###### Article R183
 
@@ -30674,7 +31655,7 @@ _Cité par_:
   - Code électoral - art. R187 (Ab)
 
 
-#### Chapitre VI : Propagande<a id=219></a>
+#### Chapitre VI : Propagande<a id=236></a>
 
 ###### Article R186
 
@@ -30701,7 +31682,7 @@ _Cité par_:
   - Code électoral - art. R187 (Ab)
 
 
-#### Chapitre VIII : Opérations de vote<a id=220></a>
+#### Chapitre VIII : Opérations de vote<a id=237></a>
 
 ###### Article R188
 
@@ -30799,7 +31780,7 @@ _Créé par_:
   - Décret n°99-232 du 24 mars 1999 - art. 3 ()
 
 
-#### Chapitre X : Contentieux<a id=221></a>
+#### Chapitre X : Contentieux<a id=238></a>
 
 ###### Article R190
 
@@ -30830,9 +31811,9 @@ _Cité par_:
   - Code électoral - art. R358 (V)
 
 
-### Titre  II : Election des conseillers à l'Assemblée de Corse<a id=222></a>
+### Titre  II : Election des conseillers à l'Assemblée de Corse<a id=239></a>
 
-#### Chapitre V : Déclarations de candidature<a id=223></a>
+#### Chapitre V : Déclarations de candidature<a id=240></a>
 
 ###### Article R191
 
@@ -30895,7 +31876,7 @@ _Cité par_:
   - Code électoral - art. R197 (Ab)
 
 
-#### Chapitre VI : Propagande<a id=224></a>
+#### Chapitre VI : Propagande<a id=241></a>
 
 ###### Article R194
 
@@ -30984,7 +31965,7 @@ _Cité par_:
   - Code électoral - art. R197 (Ab)
 
 
-#### Chapitre VII : Opérations de vote<a id=225></a>
+#### Chapitre VII : Opérations de vote<a id=242></a>
 
 ###### Article R198
 
@@ -31039,7 +32020,7 @@ _Cite_:
   - Code électoral - art. R107 (VT)
 
 
-#### Chapitre X : Contentieux<a id=226></a>
+#### Chapitre X : Contentieux<a id=243></a>
 
 ###### Article R200
 
@@ -31064,11 +32045,11 @@ _Cite_:
   - Code électoral - art. R190 (V)
 
 
-## Livre V : Dispositions applicables à la Nouvelle-Calédonie, à la Polynésie française et aux îles  Wallis et Futuna<a id=227></a>
+## Livre V : Dispositions applicables à la Nouvelle-Calédonie, à la Polynésie française et aux îles  Wallis et Futuna<a id=244></a>
 
-### Titre Ier : Dispositions générales<a id=228></a>
+### Titre Ier : Dispositions générales<a id=245></a>
 
-#### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna<a id=229></a>
+#### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna<a id=246></a>
 
 ###### Article R201
 
@@ -31499,7 +32480,7 @@ _Cite_:
   - Code électoral - art. L118-3 (V)
 
 
-#### Chapitre II : Dispositions propres à la Nouvelle-Calédonie<a id=230></a>
+#### Chapitre II : Dispositions propres à la Nouvelle-Calédonie<a id=247></a>
 
 ###### Article R213
 
@@ -31613,7 +32594,7 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-#### Chapitre III : Dispositions propres aux îles Wallis et Futuna<a id=231></a>
+#### Chapitre III : Dispositions propres aux îles Wallis et Futuna<a id=248></a>
 
 ###### Article R213-1
 
@@ -31637,9 +32618,9 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-### Titre II : Election des députés<a id=232></a>
+### Titre II : Election des députés<a id=249></a>
 
-#### Chapitre Ier : Dispositions générales<a id=233></a>
+#### Chapitre Ier : Dispositions générales<a id=250></a>
 
 ###### Article R214
 
@@ -31658,7 +32639,7 @@ _Modifié par_:
   - Décret n°2009-430 du 20 avril 2009 - art. 9 (V)
 
 
-#### Chapitre II : Régime des inéligibilités<a id=234></a>
+#### Chapitre II : Régime des inéligibilités<a id=251></a>
 
 ###### Article R**215
 
@@ -31740,7 +32721,7 @@ _Cité par_:
   - Code électoral - art. R**273 (V)
 
 
-#### Chapitre III : Candidatures<a id=235></a>
+#### Chapitre III : Candidatures<a id=252></a>
 
 ###### Article R216
 
@@ -31770,7 +32751,7 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-#### Chapitre IV : Recensement des votes<a id=236></a>
+#### Chapitre IV : Recensement des votes<a id=253></a>
 
 ###### Article R217
 
@@ -31814,11 +32795,11 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-### Titre III : Dispositions applicables à l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie<a id=237></a>
+### Titre III : Dispositions applicables à l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie<a id=254></a>
 
-#### Chapitre Ier : Liste électorale spéciale<a id=238></a>
+#### Chapitre Ier : Liste électorale spéciale<a id=255></a>
 
-##### Section 1 : Etablissement de la liste électorale spéciale<a id=239></a>
+##### Section 1 : Etablissement de la liste électorale spéciale<a id=256></a>
 
 ###### Article R219
 
@@ -32117,7 +33098,7 @@ _Modifié par_:
   - Décret n°2004-191 du 27 février 2004 - art. 2 () JORF 28 février 2004
 
 
-##### Section 2 : Inscription en dehors des périodes de révision<a id=240></a>
+##### Section 2 : Inscription en dehors des périodes de révision<a id=257></a>
 
 ###### Article R229
 
@@ -32179,7 +33160,7 @@ _Cite_:
   - Code électoral - art. R229 (V)
 
 
-##### Section 3 : Carte électorale spéciale<a id=241></a>
+##### Section 3 : Carte électorale spéciale<a id=258></a>
 
 ###### Article R231
 
@@ -32213,7 +33194,7 @@ _Cité par_:
   - Arrêté du 9 février 2004 - art. 1 (V)
 
 
-#### Chapitre II : Candidatures et bulletins de vote<a id=242></a>
+#### Chapitre II : Candidatures et bulletins de vote<a id=259></a>
 
 ###### Article R232
 
@@ -32343,7 +33324,7 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-#### Chapitre III : Propagande<a id=243></a>
+#### Chapitre III : Propagande<a id=260></a>
 
 ###### Article R237
 
@@ -32390,7 +33371,7 @@ _Cité par_:
   - Code électoral - art. R235 (V)
 
 
-#### Chapitre IV : Opérations de vote et recensement<a id=244></a>
+#### Chapitre IV : Opérations de vote et recensement<a id=261></a>
 
 ###### Article R238
 
@@ -32505,9 +33486,9 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-### Titre IV : Dispositions applicables à l'élection des représentants à l'assemblée de la Polynésie française<a id=245></a>
+### Titre IV : Dispositions applicables à l'élection des représentants à l'assemblée de la Polynésie française<a id=262></a>
 
-#### Chapitre Ier : Candidatures et bulletins de vote<a id=246></a>
+#### Chapitre Ier : Candidatures et bulletins de vote<a id=263></a>
 
 ###### Article R242
 
@@ -32629,7 +33610,7 @@ _Modifié par_:
   - Décret n°2004-327 2004-04-14 art. 1 2° JORF 16 avril 2004
 
 
-#### Chapitre II : Propagande<a id=247></a>
+#### Chapitre II : Propagande<a id=264></a>
 
 ###### Article R247
 
@@ -32720,7 +33701,7 @@ _Cite_:
   - Code électoral - art. L414 (V)
 
 
-#### Chapitre III : Opérations de vote et recensement<a id=248></a>
+#### Chapitre III : Opérations de vote et recensement<a id=265></a>
 
 ###### Article R250
 
@@ -32835,9 +33816,9 @@ _Modifié par_:
   - Décret n°2008-42 du 14 janvier 2008 - art. 1
 
 
-### Titre V : Dispositions applicables à l'élection des membres de l'assemblée territoriale des îles  Wallis et Futuna<a id=249></a>
+### Titre V : Dispositions applicables à l'élection des membres de l'assemblée territoriale des îles  Wallis et Futuna<a id=266></a>
 
-#### Chapitre Ier : Candidatures et bulletins de vote<a id=250></a>
+#### Chapitre Ier : Candidatures et bulletins de vote<a id=267></a>
 
 ###### Article R254
 
@@ -32951,7 +33932,7 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-#### Chapitre II : Propagande<a id=251></a>
+#### Chapitre II : Propagande<a id=268></a>
 
 ###### Article R259
 
@@ -32996,7 +33977,7 @@ _Cite_:
   - Code électoral - art. R209 (V)
 
 
-#### Chapitre III : Opérations de vote et recensement<a id=252></a>
+#### Chapitre III : Opérations de vote et recensement<a id=269></a>
 
 ###### Article R261
 
@@ -33105,9 +34086,9 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-### Titre VI : Dispositions applicables à l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française<a id=253></a>
+### Titre VI : Dispositions applicables à l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française<a id=270></a>
 
-#### Chapitre Ier : Dispositions communes<a id=254></a>
+#### Chapitre Ier : Dispositions communes<a id=271></a>
 
 ###### Article R265
 
@@ -33131,7 +34112,7 @@ _Modifié par_:
   - Décret n°2009-430 du 20 avril 2009 - art. 9 (V)
 
 
-#### Chapitre II : Dispositions particulières à la Nouvelle-Calédonie<a id=255></a>
+#### Chapitre II : Dispositions particulières à la Nouvelle-Calédonie<a id=272></a>
 
 ###### Article R267
 
@@ -33148,7 +34129,7 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-#### Chapitre III : Dispositions particulières à la Polynésie française<a id=256></a>
+#### Chapitre III : Dispositions particulières à la Polynésie française<a id=273></a>
 
 ###### Article R270
 
@@ -33165,9 +34146,9 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-### Titre VII : Dispositions applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et  Futuna<a id=257></a>
+### Titre VII : Dispositions applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et  Futuna<a id=274></a>
 
-#### Chapitre Ier : Dispositions générales<a id=258></a>
+#### Chapitre Ier : Dispositions générales<a id=275></a>
 
 ###### Article R271
 
@@ -33229,7 +34210,7 @@ _Cité par_:
   - Arrêté du 26 septembre 2014 (V)
 
 
-#### Chapitre II : Régime des inéligibilités<a id=259></a>
+#### Chapitre II : Régime des inéligibilités<a id=276></a>
 
 ###### Article R**273
 
@@ -33251,7 +34232,7 @@ _Cite_:
   - Code électoral - art. R**215 (V)
 
 
-#### Chapitre III : Election des délégués des conseils municipaux en Nouvelle-Calédonie et en Polynésie française<a id=260></a>
+#### Chapitre III : Election des délégués des conseils municipaux en Nouvelle-Calédonie et en Polynésie française<a id=277></a>
 
 ###### Article R274
 
@@ -33327,7 +34308,7 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-#### Chapitre IV : Propagande<a id=261></a>
+#### Chapitre IV : Propagande<a id=278></a>
 
 ###### Article R277
 
@@ -33356,7 +34337,7 @@ _Cite_:
   - Code électoral - art. R157 (V)
 
 
-#### Chapitre V : Opérations préparatoires au scrutin<a id=262></a>
+#### Chapitre V : Opérations préparatoires au scrutin<a id=279></a>
 
 ###### Article R278
 
@@ -33382,7 +34363,7 @@ _Cité par_:
   - Code électoral - art. R283 (V)
 
 
-#### Chapitre VI : Opérations de vote<a id=263></a>
+#### Chapitre VI : Opérations de vote<a id=280></a>
 
 ###### Article R279
 
@@ -33511,11 +34492,11 @@ _Cite_:
   - Code électoral - art. R278 (V)
 
 
-## Livre VI : Dispositions particulières à Mayotte, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon<a id=264></a>
+## Livre VI : Dispositions particulières à Mayotte, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon<a id=281></a>
 
-### Titre Ier : Dispositions particulières à Mayotte<a id=265></a>
+### Titre Ier : Dispositions particulières à Mayotte<a id=282></a>
 
-#### Chapitre Ier : Dispositions générales<a id=266></a>
+#### Chapitre Ier : Dispositions générales<a id=283></a>
 
 ###### Article R284
 
@@ -33564,7 +34545,7 @@ _Modifié par_:
   - Décret n°2011-338 du 29 mars 2011 - art. 17 (M)
 
 
-#### Chapitre III :  Dispositions applicables à l'élection des conseillers généraux de Mayotte<a id=267></a>
+#### Chapitre III :  Dispositions applicables à l'élection des conseillers généraux de Mayotte<a id=284></a>
 
 ###### Article R298
 
@@ -33610,9 +34591,9 @@ _Créé par_:
   - Décret n°2008-170 du 22 février 2008 - art. 3
 
 
-### Titre II : Dispositions particulières à Saint-Barthélemy<a id=268></a>
+### Titre II : Dispositions particulières à Saint-Barthélemy<a id=285></a>
 
-#### Chapitre Ier : Dispositions générales<a id=269></a>
+#### Chapitre Ier : Dispositions générales<a id=286></a>
 
 ###### Article R303
 
@@ -33723,7 +34704,7 @@ _Créé par_:
   - Décret n°2008-170 du 22 février 2008 - art. 3
 
 
-#### Chapitre II : Dispositions applicables à l'élection du député<a id=270></a>
+#### Chapitre II : Dispositions applicables à l'élection du député<a id=287></a>
 
 ###### Article R308
 
@@ -33742,7 +34723,7 @@ _Cite_:
   - Code électoral - art. R*98
 
 
-#### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Barthélemy<a id=271></a>
+#### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Barthélemy<a id=288></a>
 
 ###### Article R309
 
@@ -33950,9 +34931,9 @@ _Créé par_:
   - Décret n°2008-170 du 22 février 2008 - art. 3
 
 
-### Titre III : Dispositions particulières à Saint-Martin<a id=272></a>
+### Titre III : Dispositions particulières à Saint-Martin<a id=289></a>
 
-#### Chapitre Ier : Dispositions générales<a id=273></a>
+#### Chapitre Ier : Dispositions générales<a id=290></a>
 
 ###### Article R318
 
@@ -34065,7 +35046,7 @@ _Créé par_:
   - Décret n°2008-170 du 22 février 2008 - art. 3
 
 
-#### Chapitre II : Dispositions applicables à l'élection du député<a id=274></a>
+#### Chapitre II : Dispositions applicables à l'élection du député<a id=291></a>
 
 ###### Article R323
 
@@ -34086,7 +35067,7 @@ _Cite_:
   - Code électoral - art. R*98
 
 
-#### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Martin<a id=275></a>
+#### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Martin<a id=292></a>
 
 ###### Article R324
 
@@ -34289,9 +35270,9 @@ _Créé par_:
   - Décret n°2008-170 du 22 février 2008 - art. 3
 
 
-### Titre IV : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=276></a>
+### Titre IV : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=293></a>
 
-#### Chapitre Ier : Dispositions générales<a id=277></a>
+#### Chapitre Ier : Dispositions générales<a id=294></a>
 
 ###### Article R333
 
@@ -34407,7 +35388,7 @@ _Créé par_:
   - Décret n°2008-170 du 22 février 2008 - art. 3
 
 
-#### Chapitre II : Dispositions applicables à l'élection du député<a id=278></a>
+#### Chapitre II : Dispositions applicables à l'élection du député<a id=295></a>
 
 ###### Article R338
 
@@ -34428,7 +35409,7 @@ _Cite_:
   - Code électoral - art. R*98
 
 
-#### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Pierre-et-Miquelon<a id=279></a>
+#### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Pierre-et-Miquelon<a id=296></a>
 
 ###### Article R339
 
@@ -34624,9 +35605,9 @@ _Créé par_:
   - Décret n°2008-170 du 22 février 2008 - art. 3
 
 
-# Annexes<a id=280></a>
+# Annexes<a id=297></a>
 
-## Tableau des circonscriptions électorales des départements (élection des députés)<a id=281></a>
+## Tableau des circonscriptions électorales des départements (élection des députés)<a id=298></a>
 
 ###### Article Annexe tableau n° 1
 
@@ -36486,7 +37467,7 @@ _Modifié par_:
   - Ordonnance n°2009-935 du 29 juillet 2009 - art.
 
 
-## Tableau des circonscriptions électorales des départements (élection des députés) (1).<a id=282></a>
+## Tableau des circonscriptions électorales des départements (élection des députés) (1).<a id=299></a>
 
 ###### Article Annexe tableau n° 1 (suite)
 
@@ -37150,7 +38131,7 @@ _Modifié par_:
   - Loi n°2010-1487 du 7 décembre 2010 - art. 9
 
 
-## Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés).<a id=283></a>
+## Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés).<a id=300></a>
 
 ###### Article Annexe tableau n° 1 bis
 
@@ -37195,7 +38176,7 @@ _Modifié par_:
   - Loi n°2010-1487 du 7 décembre 2010 - art. 9
 
 
-## Tableau des circonscriptions électorales des français établis hors de France<a id=284></a>
+## Tableau des circonscriptions électorales des français établis hors de France<a id=301></a>
 
 ###### Article Annexe tableau n° 1 ter
 
@@ -37285,7 +38266,7 @@ _Créé par_:
   - Ordonnance n°2009-935 du 29 juillet 2009 - art.
 
 
-## Tableau des secteurs pour l'élection des membres du conseil de Paris<a id=285></a>
+## Tableau des secteurs pour l'élection des membres du conseil de Paris<a id=302></a>
 
 ###### Article Annexe tableau n° 2
 
@@ -37358,7 +38339,7 @@ _Modifié par_:
   - Loi n°82-1170 1982-12-31 art. 4 JORF 1er janvier 1983
 
 
-## Tableau des secteurs pour l'élection des conseillers municipaux de Lyon<a id=286></a>
+## Tableau des secteurs pour l'élection des conseillers municipaux de Lyon<a id=303></a>
 
 ###### Article Annexe tableau n° 3
 
@@ -37401,7 +38382,7 @@ _Modifié par_:
   - Loi n°82-1170 1982-12-31 art. 4 JORF 1er janvier 1983
 
 
-## Tableau des secteurs pour l'élection des conseillers municipaux de Marseille.<a id=287></a>
+## Tableau des secteurs pour l'élection des conseillers municipaux de Marseille.<a id=304></a>
 
 ###### Article Annexe tableau n° 4
 
@@ -37443,7 +38424,7 @@ _Modifié par_:
   - Loi n°87-509 1987-07-09 art. 1 JORF 11 juillet 1987
 
 
-## Répartition des sièges de sénateurs entre les séries<a id=288></a>
+## Répartition des sièges de sénateurs entre les séries<a id=305></a>
 
 ###### Article Annexe tableau n° 5
 
@@ -38240,9 +39221,9 @@ _Modifié par_:
   - Loi n°2010-1487 du 7 décembre 2010 - art. 9
 
 
-## Election des sénateurs<a id=289></a>
+## Election des sénateurs<a id=306></a>
 
-### Nombre de sénateurs représentant les départements<a id=290></a>
+### Nombre de sénateurs représentant les départements<a id=307></a>
 
 ###### Article Annexe tableau n° 6
 
@@ -38471,7 +39452,7 @@ _Modifié par_:
   - Loi n°2003-697 du 30 juillet 2003 - art. 1 () JORF 31 juillet 2003
 
 
-## Effectif des conseils régionaux et nombre de candidats par section départementale<a id=291></a>
+## Effectif des conseils régionaux et nombre de candidats par section départementale<a id=308></a>
 
 ###### Article Annexe tableau n° 7
 
@@ -38548,8 +39529,6 @@ _Modifié par_:
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ Guadeloupe               │ 41                           │ Guadeloupe             │ 43                                     ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Guyane                   │ 31                           │ Guyane                 │ 33                                     ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ Ile-de-France            │ 209                          │ Essonne                │ 23                                     ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃                          │                              │ Hauts-de-Seine         │ 29                                     ┃
@@ -38589,8 +39568,6 @@ _Modifié par_:
 ┃                          │                              │ Moselle                │ 33                                     ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃                          │                              │ Vosges                 │ 15                                     ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Martinique               │ 41                           │ Martinique             │ 43                                     ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
 ┃ Midi-Pyrénées            │ 91                           │ Ariège                 │ 8                                      ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
@@ -38684,15 +39661,10 @@ _Modifié par_:
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964)
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Loi n°91-428 du 13 mai 1991 - art. 5 () JORF 14 mai 1991
-  - Loi n°91-428 du 13 mai 1991 - art. 86 (V) JORF 14 mai 1991
-  - Loi n°91-1384 du 31 décembre 1991 - art. 1 (P) JORF 1er janvier 1992
-  - Loi n°91-1384 du 31 décembre 1991 - art. 3 (P) JORF 1er janvier 1992
-  - Loi n°99-36 du 19 janvier 1999 - art. 26 () JORF 20 janvier 1999
-  - Loi n°2003-327 du 11 avril 2003 - art. 5 () JORF 12 avril 2003
+  - Loi n°2011-884 du 27 juillet 2011 - art. 7
 
 
