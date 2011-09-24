@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2011-08-04
+Version Consolidée au 2011-09-25
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers généraux et des conseillers municipaux (art. L1 à L273)](#2)
@@ -12860,19 +12860,19 @@ _Modifié par_:
 
 ###### Article LO296
 
-Nul ne peut être élu au Sénat s'il n'est âgé de trente ans révolus.
+Nul ne peut être élu au Sénat s'il n'est âgé de vingt-quatre ans révolus. 
 
-Les autres conditions d'éligibilité et les inéligibilités sont les mêmes que pour l'élection à l'Assemblée nationale.
+Les autres conditions d'éligibilité et les inéligibilités sont les mêmes que pour l'élection à l'Assemblée nationale. 
 
 Toutefois, pour l'application de l'alinéa précédent, n'est pas réputée faire acte de candidature contre un sénateur devenu
-membre du Gouvernement la personne qui a été appelée à le remplacer dans les conditions prévues à l'article L. O. 319
+membre du Gouvernement la personne qui a été appelée à le remplacer dans les conditions prévues à l'article LO. 319
 lorsqu'elle se présente sur la même liste que lui.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Cité par_:
 
@@ -12880,7 +12880,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2003-696 du 30 juillet 2003 - art. 4 () JORF 31 juillet 2003
+  - Loi organique n°2011-410 du 14 avril 2011 - art. 1
 
 _Cite_:
 
@@ -13168,22 +13168,36 @@ _Cité par_:
 
 ###### Article L308-1
 
-Les dispositions des deuxième et cinquième alinéas de l'article L. 52-8 s'appliquent aux candidats aux élections
-sénatoriales.
+Le chapitre V bis du titre Ier du livre Ier est applicable aux candidats aux élections sénatoriales. 
+
+Le plafond des dépenses pour l'élection des sénateurs est de 10 000 € par candidat ou par liste. Il est majoré de : 
+
+1° 0,05 € par habitant du département pour les départements élisant trois sénateurs ou moins ; 
+
+2° 0,02 € par habitant du département pour les départements élisant quatre sénateurs ou plus ; 
+
+3° 0,007 € par habitant pour les candidats aux élections des sénateurs représentant les Français établis hors de France. La
+population prise en compte est celle fixée en vertu du premier alinéa de l'article L. 330-1. Ne sont pas inclus dans le
+plafond les frais de transport, dûment justifiés, exposés par le candidat en vue de recueillir les suffrages des électeurs. 
+
+Les montants prévus au présent article sont actualisés tous les ans par décret. Ils évoluent comme l'indice des prix à la
+consommation des ménages, hors tabac.
+
+**Nota:**
+
+LOI n° 2011-412 du 14 avril 2011 art 30 II : L'article L. 308-1 du code électoral, dans sa rédaction issue de la présente
+loi, est applicable à compter du premier renouvellement du Sénat suivant le prochain renouvellement de cette assemblée, prévu
+en septembre 2011.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2000-641 du 10 juillet 2000 - art. 1 () JORF 11 juillet 2000
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
+  - Loi n°2011-412 du 14 avril 2011 - art. 20
 
 _Cité par_:
 
@@ -13193,7 +13207,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code électoral - art. L52-8 (M)
+  - Code électoral - art. L330-1
 
 
 #### Chapitre VI : Opérations préparatoires au scrutin<a id=78></a>
@@ -17992,6 +18006,40 @@ _Cite_:
 
   - Code électoral - art. L284 (VT)
   - Code électoral - art. L290 (V)
+
+
+###### Article L439-1 A
+
+Pour l'application de l'article L. 308-1 en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, le
+plafond de dépenses pour l'élection des sénateurs est de 1 193 300 francs CFP par candidat. Il est majoré de 5,96 francs CFP
+par habitant de la collectivité. 
+
+Pour l'application du dernier alinéa du même article L. 308-1, la référence à l'indice des prix à la consommation des
+ménages, hors tabac, est remplacée : 
+
+1° En Nouvelle-Calédonie, par la référence à l'indice du coût de la vie, hors tabac, de l'Institut de la statistique et des
+études économiques de la Nouvelle-Calédonie ; 
+
+2° En Polynésie française, par la référence à l'indice des prix à la consommation des ménages de l'Institut de la statistique
+de la Polynésie française ; 
+
+3° Dans les îles Wallis et Futuna, par la référence à l'indice local des prix à la consommation.
+
+**Nota:**
+
+LOI n° 2011-412 du 14 avril 2011 art 30 II : L'article L. 439-1 A du code électoral, dans sa rédaction issue de la présente
+loi, est applicable à compter du premier renouvellement du Sénat suivant le prochain renouvellement de cette assemblée, prévu
+en septembre 2011.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2011-412 du 14 avril 2011 - art. 20
+
+_Cite_:
+
+  - Code électoral - art. L308-1
 
 
 ###### Article L439-2
