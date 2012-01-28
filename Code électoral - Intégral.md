@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2011-12-30
+Version Consolidée au 2012-01-29
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers généraux et des conseillers municipaux (art. L1 à L273)](#2)
@@ -170,7 +170,7 @@ et durée du mandat (art. L558-1 à L558-2)](#150)
     - [Livre VII : Dispositions applicables aux consultations organisées en application des articles 72-4 et 73 de la Constitution (art. L559 à L567)](#165)
     - [Livre VIII : Commission prévue par l'article 25 de la Constitution (art. L567-1 à LO567-9)](#166)
     - [Livre IX : Dispositions finales (art. L568)](#167)
-  - [Partie réglementaire (art. R1 à R346)](#168)
+  - [Partie réglementaire (art. R1 à R358)](#168)
     - [Livre Ier  : Election des députés, des conseillers généraux et des conseillers municipaux des départements (art. R1 à R130)](#169)
       - [Titre Ier  : Dispositions communes à l'élection des députés, des conseillers généraux et des conseillers municipaux (art. R1 à R97)](#170)
         - [Chapitre II : Listes électorales (art. R1 à R25)](#171)
@@ -299,18 +299,26 @@ et durée du mandat (art. L558-1 à L558-2)](#150)
         - [Chapitre Ier : Dispositions générales (art. R333 à R337)](#294)
         - [Chapitre II : Dispositions applicables à l'élection du député (art. R338)](#295)
         - [Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Pierre-et-Miquelon (art. R339 à R346)](#296)
-  - [Annexes (art. Annexe tableau n° 1 à Annexe tableau n° 7)](#297)
-    - [Tableau des circonscriptions électorales des départements (élection des députés) (art. Annexe tableau n° 1)](#298)
-    - [Tableau des circonscriptions électorales des départements (élection des députés) (1). (art. Annexe tableau n° 1 (suite))](#299)
-    - [Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés). (art. Annexe tableau n° 1 bis)](#300)
-    - [Tableau des circonscriptions électorales des français établis hors de France (art. Annexe tableau n° 1 ter)](#301)
-    - [Tableau des secteurs pour l'élection des membres du conseil de Paris (art. Annexe tableau n° 2)](#302)
-    - [Tableau des secteurs pour l'élection des conseillers municipaux de Lyon (art. Annexe tableau n° 3)](#303)
-    - [Tableau des secteurs pour l'élection des conseillers municipaux de Marseille. (art. Annexe tableau n° 4)](#304)
-    - [Répartition des sièges de sénateurs entre les séries (art. Annexe tableau n° 5)](#305)
-    - [Election des sénateurs (art. Annexe tableau n° 6)](#306)
-      - [Nombre de sénateurs représentant les départements (art. Annexe tableau n° 6)](#307)
-    - [Effectif des conseils régionaux et nombre de candidats par section départementale (art. Annexe tableau n° 7)](#308)
+    - [Livre VI bis : Election des conseillers à l'assemblée de Guyane et des conseillers à l'assemblée de Martinique (art. R347 à R358)](#297)
+      - [Titre Ier : Election des conseillers à l'assemblée de Guyane (art. R347 à R348)](#298)
+      - [Titre II : Election des conseillers à l'assemblée de Martinique (art. R349 à R350)](#299)
+      - [Titre III : Dispositions communes (art. R351 à R358)](#300)
+        - [Chapitre III : Déclarations de candidature (art. R351 à R352)](#301)
+        - [Chapitre IV : Propagande (art. R353 à R354)](#302)
+        - [Chapitre VI : Opérations de vote (art. R355 à R357)](#303)
+        - [Chapitre VIII : Contentieux (art. R358)](#304)
+  - [Annexes (art. Annexe tableau n° 1 à Annexe tableau n° 7)](#305)
+    - [Tableau des circonscriptions électorales des départements (élection des députés) (art. Annexe tableau n° 1)](#306)
+    - [Tableau des circonscriptions électorales des départements (élection des députés) (1). (art. Annexe tableau n° 1 (suite))](#307)
+    - [Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés). (art. Annexe tableau n° 1 bis)](#308)
+    - [Tableau des circonscriptions électorales des français établis hors de France (art. Annexe tableau n° 1 ter)](#309)
+    - [Tableau des secteurs pour l'élection des membres du conseil de Paris (art. Annexe tableau n° 2)](#310)
+    - [Tableau des secteurs pour l'élection des conseillers municipaux de Lyon (art. Annexe tableau n° 3)](#311)
+    - [Tableau des secteurs pour l'élection des conseillers municipaux de Marseille. (art. Annexe tableau n° 4)](#312)
+    - [Répartition des sièges de sénateurs entre les séries (art. Annexe tableau n° 5)](#313)
+    - [Election des sénateurs (art. Annexe tableau n° 6)](#314)
+      - [Nombre de sénateurs représentant les départements (art. Annexe tableau n° 6)](#315)
+    - [Effectif des conseils régionaux et nombre de candidats par section départementale (art. Annexe tableau n° 7)](#316)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Election des députés, des conseillers généraux et des conseillers municipaux<a id=2></a>
@@ -35727,9 +35735,253 @@ _Créé par_:
   - Décret n°2008-170 du 22 février 2008 - art. 3
 
 
-# Annexes<a id=297></a>
+## Livre VI bis : Election des conseillers à l'assemblée de Guyane et des conseillers à l'assemblée de Martinique<a id=297></a>
 
-## Tableau des circonscriptions électorales des départements (élection des députés)<a id=298></a>
+### Titre Ier : Election des conseillers à l'assemblée de Guyane<a id=298></a>
+
+###### Article R347
+
+Les conseillers à l'assemblée de Guyane sont élus dans les conditions fixées par les dispositions du présent livre, ainsi
+que, sauf disposition contraire du présent livre, par les dispositions du titre Ier du livre Ier de la partie réglementaire
+du présent code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-105 du 27 janvier 2012 - art. 1
+
+
+###### Article R348
+
+Pour l'application de ces dispositions en Guyane, il y a lieu de lire :
+
+1° " collectivité territoriale " au lieu de : " département " ;
+
+2° " de la collectivité territoriale " au lieu de : " départemental " ;
+
+3° " représentant de l'Etat dans la collectivité territoriale " au lieu de : " préfet "  ;
+
+4° " du représentant de l'Etat dans la collectivité territoriale " au lieu de : " préfectoral ".
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-105 du 27 janvier 2012 - art. 1
+
+
+### Titre II : Election des conseillers à l'assemblée de Martinique<a id=299></a>
+
+###### Article R349
+
+Les conseillers à l'assemblée de Martinique sont élus dans les conditions fixées par les dispositions du présent livre, ainsi
+que, sauf disposition contraire du présent livre, par les dispositions du titre Ier du livre Ier de la partie réglementaire
+du présent code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-105 du 27 janvier 2012 - art. 1
+
+
+###### Article R350
+
+Pour l'application de ces dispositions en Martinique, il y a lieu de lire :
+
+1° " collectivité territoriale ” au lieu de : " département ” ;
+
+2° " de la collectivité territoriale ” au lieu de : " départemental ” ;
+
+3° " représentant de l'Etat dans la collectivité territoriale” au lieu de : " préfet " ;
+
+4° " du représentant de l'Etat dans la collectivité territoriale ” au lieu de : " préfectoral ”.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-105 du 27 janvier 2012 - art. 1
+
+
+### Titre III : Dispositions communes<a id=300></a>
+
+#### Chapitre III : Déclarations de candidature<a id=301></a>
+
+###### Article R351
+
+Les déclarations de candidature en vue du premier tour de scrutin sont reçues à compter du cinquième lundi qui précède le
+jour de ce premier tour. Les déclarations de candidature en vue du second tour sont reçues à compter du lundi suivant le
+premier tour. 
+
+Elles sont rédigées sur papier libre et font apparaître l'ordre des candidats au sein de chaque section électorale. 
+
+Chaque déclaration doit être accompagnée de la copie d'une des pièces mentionnées au I de l'article R. 109-2.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-105 du 27 janvier 2012 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R109-2
+
+
+###### Article R352
+
+L'état des listes de candidats au premier tour de scrutin est arrêté, dans l'ordre résultant du tirage au sort prévu à
+l'article R. 28, par le représentant de l'Etat dans la collectivité territoriale et publié par ses soins au plus tard le
+troisième samedi qui précède le jour de ce premier tour. 
+
+L'état des listes de candidats au second tour est, s'il y a lieu, arrêté et publié dans les mêmes conditions au plus tard le
+mercredi qui suit le premier tour. Il fait l'objet de publications supplémentaires lorsqu'il a été fait application du
+quatrième alinéa de l'article L. 558-23.
+
+Pour chaque tour, l'état indique le titre de la liste, l'ordre des sections électorales ainsi que les nom et prénoms du
+candidat désigné tête de liste, puis les noms et prénoms de tous les candidats composant la liste, répartis par section
+électorale et énumérés dans l'ordre de présentation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-105 du 27 janvier 2012 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. L558-23
+  - Code électoral - art. R28
+
+_Cité par_:
+
+  - Code électoral - art. R353 (V)
+
+
+#### Chapitre IV : Propagande<a id=302></a>
+
+###### Article R353
+
+Les bulletins de vote comportent le titre de la liste, les nom et prénoms du candidat désigné tête de liste ainsi que les nom
+et prénoms de chacun des candidats composant la liste, répartis par section électorale et dans l'ordre de présentation tel
+qu'il résulte de la publication prévue par l'article R. 352.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-105 du 27 janvier 2012 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R352
+
+
+###### Article R354
+
+Pour l'application des dispositions de l'article R. 32 :
+
+1° Les mots : " un fonctionnaire désigné par le trésorier-payeur général ” sont remplacés par les mots : " un fonctionnaire
+désigné par le directeur régional des finances publiques ” ; 
+
+2° Les mots : " un fonctionnaire désigné par le directeur départemental des postes et télécommunications ” sont remplacés par
+les mots : " toute personne qualifiée dans la distribution du courrier que la commission associe à ses travaux avec voix
+consultative ” ; 
+
+3° Un suppléant à chaque membre peut être désigné dans les mêmes conditions ; 
+
+4° Les candidats ne peuvent participer aux travaux de la commission que par l'intermédiaire des mandataires des listes.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-105 du 27 janvier 2012 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R32
+
+
+#### Chapitre VI : Opérations de vote<a id=303></a>
+
+###### Article R355
+
+Pour l'application de l'article R. 41, le représentant de l'Etat peut avancer par arrêté l'heure de clôture du scrutin sans
+que la durée d'ouverture des bureaux de vote puisse être inférieure à dix heures.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-105 du 27 janvier 2012 - art. 1
+
+_Cité par_:
+
+  - Décret n°2015-939 du 30 juillet 2015 - art. 3 (V)
+
+_Cite_:
+
+  - Code électoral - art. R41
+
+
+###### Article R356
+
+Dès que le dépouillement est terminé, un exemplaire des procès-verbaux des opérations électorales de chaque commune,
+accompagné des pièces qui y sont réglementairement annexées, est scellé et transmis au président de la commission de
+recensement instituée par l'article L. 558-30, soit par porteur, soit sous pli postal recommandé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-105 du 27 janvier 2012 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. L558-30
+
+
+###### Article R357
+
+Les dispositions des articles R. 107 à R. 109 sont applicables à la composition et au fonctionnement de la commission
+instituée par l'article L. 558-30.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-105 du 27 janvier 2012 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. L558-30
+  - Code électoral - art. R*107
+
+
+#### Chapitre VIII : Contentieux<a id=304></a>
+
+###### Article R358
+
+Les dispositions de l'article R. 190 sont applicables à l'élection des conseillers à l'assemblée de Guyane et à celle des
+conseillers à l'assemblée de Martinique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-105 du 27 janvier 2012 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R190
+
+
+# Annexes<a id=305></a>
+
+## Tableau des circonscriptions électorales des départements (élection des députés)<a id=306></a>
 
 ###### Article Annexe tableau n° 1
 
@@ -37589,7 +37841,7 @@ _Modifié par_:
   - Ordonnance n°2009-935 du 29 juillet 2009 - art.
 
 
-## Tableau des circonscriptions électorales des départements (élection des députés) (1).<a id=299></a>
+## Tableau des circonscriptions électorales des départements (élection des députés) (1).<a id=307></a>
 
 ###### Article Annexe tableau n° 1 (suite)
 
@@ -38253,7 +38505,7 @@ _Modifié par_:
   - Loi n°2010-1487 du 7 décembre 2010 - art. 9
 
 
-## Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés).<a id=300></a>
+## Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés).<a id=308></a>
 
 ###### Article Annexe tableau n° 1 bis
 
@@ -38298,7 +38550,7 @@ _Modifié par_:
   - Loi n°2010-1487 du 7 décembre 2010 - art. 9
 
 
-## Tableau des circonscriptions électorales des français établis hors de France<a id=301></a>
+## Tableau des circonscriptions électorales des français établis hors de France<a id=309></a>
 
 ###### Article Annexe tableau n° 1 ter
 
@@ -38388,7 +38640,7 @@ _Créé par_:
   - Ordonnance n°2009-935 du 29 juillet 2009 - art.
 
 
-## Tableau des secteurs pour l'élection des membres du conseil de Paris<a id=302></a>
+## Tableau des secteurs pour l'élection des membres du conseil de Paris<a id=310></a>
 
 ###### Article Annexe tableau n° 2
 
@@ -38461,7 +38713,7 @@ _Modifié par_:
   - Loi n°82-1170 1982-12-31 art. 4 JORF 1er janvier 1983
 
 
-## Tableau des secteurs pour l'élection des conseillers municipaux de Lyon<a id=303></a>
+## Tableau des secteurs pour l'élection des conseillers municipaux de Lyon<a id=311></a>
 
 ###### Article Annexe tableau n° 3
 
@@ -38504,7 +38756,7 @@ _Modifié par_:
   - Loi n°82-1170 1982-12-31 art. 4 JORF 1er janvier 1983
 
 
-## Tableau des secteurs pour l'élection des conseillers municipaux de Marseille.<a id=304></a>
+## Tableau des secteurs pour l'élection des conseillers municipaux de Marseille.<a id=312></a>
 
 ###### Article Annexe tableau n° 4
 
@@ -38546,7 +38798,7 @@ _Modifié par_:
   - Loi n°87-509 1987-07-09 art. 1 JORF 11 juillet 1987
 
 
-## Répartition des sièges de sénateurs entre les séries<a id=305></a>
+## Répartition des sièges de sénateurs entre les séries<a id=313></a>
 
 ###### Article Annexe tableau n° 5
 
@@ -39343,9 +39595,9 @@ _Modifié par_:
   - Loi n°2010-1487 du 7 décembre 2010 - art. 9
 
 
-## Election des sénateurs<a id=306></a>
+## Election des sénateurs<a id=314></a>
 
-### Nombre de sénateurs représentant les départements<a id=307></a>
+### Nombre de sénateurs représentant les départements<a id=315></a>
 
 ###### Article Annexe tableau n° 6
 
@@ -39574,7 +39826,7 @@ _Modifié par_:
   - Loi n°2003-697 du 30 juillet 2003 - art. 1 () JORF 31 juillet 2003
 
 
-## Effectif des conseils régionaux et nombre de candidats par section départementale<a id=308></a>
+## Effectif des conseils régionaux et nombre de candidats par section départementale<a id=316></a>
 
 ###### Article Annexe tableau n° 7
 
