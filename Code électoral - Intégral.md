@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2012-01-29
+Version Consolidée au 2012-02-18
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers généraux et des conseillers municipaux (art. L1 à L273)](#2)
@@ -207,9 +207,9 @@ et durée du mandat (art. L558-1 à L558-2)](#150)
         - [Chapitre II : Dispositions spéciales aux communes de moins de 3 500 habitants (art. R124 à R126)](#202)
           - [Section 1 : Mode de scrutin (art. R124)](#203)
           - [Section 2 : Propagande (art. R125 à R126)](#204)
-        - [Chapitre III : Dispositions spéciales aux communes de 3 500 habitants et plus (art. R127-1 à R128-1)](#205)
+        - [Chapitre III : Dispositions spéciales aux communes de 3 500 habitants et plus (art. R127-1 à R128-2)](#205)
           - [Section 1 : Mode de scrutin (art. R127-1)](#206)
-          - [Section 2 : Déclarations de candidature (art. R127-2 à R128-1)](#207)
+          - [Section 2 : Déclarations de candidature (art. R127-2 à R128-2)](#207)
         - [Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille (art. R129 à R130)](#208)
           - [Section 2 : Opérations préparatoires au scrutin (art. R129 à R130)](#209)
     - [Livre II  : Election des sénateurs des départements (art. R130-1 à R171)](#210)
@@ -24323,7 +24323,7 @@ Elle est chargée :
 
 - d'adresser, au plus tard le mercredi précédant le premier tour de scrutin et, en cas de ballottage, le jeudi précédant le
 second tour, à tous les électeurs de la circonscription, dans une même enveloppe fermée, une circulaire et un bulletin de
-vote de chaque candidat ou de chaque liste;
+vote de chaque candidat ou de chaque liste ;
 
 - d'envoyer dans chaque mairie de la circonscription, au plus tard le mercredi précédant le premier tour de scrutin et, en
 cas de ballottage, le jeudi précédant le second tour, les bulletins de vote de chaque candidat ou de chaque liste en nombre
@@ -24341,6 +24341,17 @@ les bureaux de vote en proportion du nombre d'électeurs inscrits.
 Lorsque la circonscription électorale comprend des bureaux de vote dotés d'une machine à voter, la commission n'envoie pas
 aux mairies des bulletins de vote pour ces bureaux ; elle n'en adresse pas aux électeurs qui y sont inscrits.
 
+Les circulaires sont remises par les candidats ou les listes de candidats à la commission de propagande sous forme
+désencartée.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
+2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées les 23 et 30 mars 2014 à
+l’occasion du prochain renouvellement général des conseils municipaux et communautaires, y compris aux opérations
+préparatoires à ce scrutin.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -24354,7 +24365,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2008-170 du 22 février 2008 - art. 1
+  - Décret n°2012-220 du 16 février 2012 - art. 1
 
 
 ###### Article R36
@@ -24558,6 +24569,70 @@ _Cité par_:
   - Code électoral - art. R175 (V)
   - Code électoral - art. R175-2 (V)
   - Code électoral - art. R205 (V)
+
+
+###### Article R39-1-A
+
+La déclaration du mandataire financier prévue à l'article L. 52-6 est faite par le candidat auprès du représentant de l'Etat
+dans le département ou la collectivité où se situe son domicile ou, lorsque cette déclaration intervient au titre de
+l'article L. 330-7, à la préfecture de Paris. 
+
+La déclaration comprend : 
+
+1° Le document par lequel le candidat procède à la désignation de la personne qu'il charge des fonctions de mandataire
+financier ; 
+
+2° L'accord de cette dernière pour exercer ces fonctions. 
+
+La déclaration donne lieu à un récépissé adressé au candidat et à la personne mandatée. 
+
+Les éléments d'identification du candidat et de la personne mandatée sont communiqués immédiatement par le représentant de
+l'Etat dans le département ou la collectivité à la Commission nationale des comptes de campagne et des financements
+politiques. 
+
+Pour l'application des dispositions du présent article à un scrutin de liste, le candidat s'entend du candidat tête de liste.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-220 du 16 février 2012 - art. 2
+
+_Cite_:
+
+  - Code électoral - art. L330-7
+  - Code électoral - art. L52-6
+
+_Cité par_:
+
+  - Code électoral - art. R175 (V)
+  - Code électoral - art. R99 (V)
+
+
+###### Article R39-1-B
+
+Pour l'application de l'article L. 52-5, l'association de financement électorale est déclarée conformément aux dispositions
+des articles 1er à 6 du décret du 16 août 1901 pris pour l'exécution de la loi du 1er juillet 1901 relative au contrat
+d'association. 
+
+Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, l'association de financement électorale est déclarée
+conformément aux dispositions en vigueur du code civil local.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi du 1er juillet 1901 (V)
+  - Décret du 16 août 1901
+  - Code électoral - art. L52-5
+
+_Créé par_:
+
+  - Décret n°2012-220 du 16 février 2012 - art. 2
 
 
 ###### Article R39-2
@@ -26336,22 +26411,24 @@ _Cite_:
 ###### Article R72
 
 Sur le territoire national, les procurations sont établies par acte dressé devant le juge du tribunal d'instance de leur
-résidence ou de leur lieu de travail ou le juge qui en exerce les fonctions ou le greffier en chef de ce tribunal, ainsi que
-devant tout officier de police judiciaire, autre que les maires et leurs adjoints, que ce juge aura désigné. A la demande de
-ce magistrat, le premier président de la cour d'appel peut désigner, en outre, d'autres magistrats ou d'autres greffiers en
-chef, en activité ou à la retraite.
+résidence ou de leur lieu de travail ou le juge qui en exerce les fonctions ou le greffier en chef de ce tribunal, ou devant
+tout officier ou agent  de police judiciaire, autre que les maires et leurs adjoints, tout réserviste au titre de la réserve
+civile de la police nationale ou au titre de la réserve opérationnelle de la gendarmerie nationale, ayant la qualité d'agent
+de police judiciaire, que ce juge aura désigné. A la demande de ce magistrat, le premier président de la cour d'appel peut
+désigner, en outre, d'autres magistrats ou d'autres greffiers en chef, en activité ou à la retraite.
 
-Les officiers de police judiciaire compétents pour établir les procurations, ou leurs délégués, se déplacent à la demande des
-personnes qui, en raison de maladies ou d'infirmités graves, ne peuvent manifestement comparaître devant eux.
+Les officiers et agents de police judiciaire compétents pour établir les procurations, ou les délégués des officiers de
+police judiciaire, se déplacent à la demande des personnes qui, en raison de maladies ou d'infirmités graves, ne peuvent
+manifestement comparaître devant eux.
 
-Les délégués des officiers de police judiciaire sont choisis par l'officier de police judiciaire déléguant avec l'agrément du
-magistrat qui l'a désigné.
+Les délégués des officiers de police judiciaire sont choisis par un officier de police judiciaire déléguant avec l'agrément
+du magistrat qui l'a désigné.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Cité par_:
 
@@ -26378,8 +26455,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 8 () JORF 13 octobre 2006
+  - Décret n°2012-220 du 16 février 2012 - art. 3
 
 
 ###### Article R72-1
@@ -27058,22 +27134,38 @@ _Modifié par_:
 
 ###### Article R99
 
-La déclaration de candidature et l'acceptation du remplaçant sont rédigées sur papier libre.
+I. - La déclaration de candidature et l'acceptation du remplaçant sont rédigées sur papier libre. 
 
 Elles sont accompagnées, pour le candidat et le remplaçant, d'une attestation d'inscription sur une liste électorale
 comportant les mentions prévues aux articles L. 18 et L. 19 délivrée par le maire de la commune d'inscription dans les trente
 jours précédant le dépôt de la candidature, ou d'une copie de la décision de justice ordonnant l'inscription de l'intéressé,
 ou, à défaut, d'un certificat de nationalité ou de la carte nationale d'identité en cours de validité et un bulletin n° 3 du
-casier judiciaire délivré depuis moins de trois mois.
+casier judiciaire délivré depuis moins de trois mois. 
 
-En cas de second tour, le candidat est dispensé de produire à nouveau l'acceptation du remplaçant et les pièces prévues à
-l'alinéa précédent, fournies à l'occasion du premier tour.
+II. - La déclaration de candidature est également accompagnée : 
+
+1° Si un mandataire financier a été désigné, du récépissé de déclaration établi selon les modalités prévues à l'article R.
+39-1-A ou des pièces prévues aux 1° et 2° du même article ; 
+
+2° Si une association de financement électorale a été désignée, du récépissé prévu à l'article 5 du décret du 16 août 1901
+pris pour l'exécution de la loi du 1er juillet 1901 ou des pièces prévues à ce décret, ou, dans les départements du Bas-Rhin,
+du Haut-Rhin et de la Moselle, des pièces prévues par le droit civil local pour obtenir l'inscription de l'association au
+registre des associations ou attester de cette inscription. 
+
+III. - En cas de second tour, le candidat est dispensé de produire à nouveau l'acceptation du remplaçant et les pièces
+prévues aux I et II, fournies à l'occasion du premier tour.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Décret du 16 août 1901 - art. 5 (V)
+  - Code électoral - art. L18 (V)
+  - Code électoral - art. R39-1-A (VT)
+
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 octobre 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Cité par_:
 
@@ -27091,12 +27183,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2007-1670 du 26 novembre 2007 - art. 5 () JORF 28 novembre 2007
-
-_Cite_:
-
-  - Code électoral - art. L18 (M)
-  - Code électoral - art. L19 (V)
+  - Décret n°2012-220 du 16 février 2012 - art. 2
 
 
 ###### Article R100
@@ -27391,7 +27478,7 @@ la décision de justice ordonnant l'inscription de l'intéressé, ou, à défaut
 carte nationale d'identité en cours de validité et un bulletin n° 3 du casier judiciaire délivré depuis moins de trois
 mois ; 
 
-II. Si l'intéressé n'est pas domicilié dans le département ou que les pièces mentionnées au I n'établissent pas son domicile
+II.-Si l'intéressé n'est pas domicilié dans le département ou que les pièces mentionnées au I n'établissent pas son domicile
 dans le département : 
 
 a) Soit un avis d'imposition ou un extrait de rôle délivré par le comptable du Trésor, qui établissent que l'intéressé est
@@ -27409,6 +27496,9 @@ précédant celle de l'élection et des éléments que celui-ci produit, et sous
 l'autorité compétente n'aurait pas eu connaissance, justifie qu'il devait être inscrit au rôle des contributions directes
 dans le département au 1er janvier de l'année de l'élection. 
 
+III.-Dans les cantons de 9 000 habitants et plus, la déclaration de candidature est également accompagnée des pièces prévues,
+selon le cas, au 1° ou au 2° du II de l'article R. 99. 
+
 En cas de second tour, le candidat est dispensé de produire à nouveau l'acceptation du remplaçant et les pièces prévues au
 présent article, fournies à l'occasion du premier tour. 
 
@@ -27420,6 +27510,13 @@ arrêtée et publiée par le préfet, au plus tard le quatrième jour suivant la
 
 La délivrance du récépissé par le préfet ne fait pas obstacle à ce que l'éligibilité du candidat puisse être contestée devant
 le juge de l'élection.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
+2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées en mars 2015 à l’occasion du
+prochain renouvellement général des conseils départementaux, y compris aux opérations préparatoires à ce scrutin.
 
 **Liens relatifs à cet article**
 
@@ -27433,11 +27530,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-430 du 20 avril 2009 - art. 7
+  - Décret n°2012-220 du 16 février 2012 - art. 2
 
 _Cite_:
 
   - Code électoral - art. L18
+  - Code électoral - art. R*99
 
 
 #### Chapitre V : Propagande<a id=193></a>
@@ -28313,6 +28411,22 @@ _Cite_:
   - Code électoral - art. R128
 
 
+###### Article R128-2
+
+Dans les communes de 9 000 habitants et plus, la déclaration de candidature est accompagnée des pièces prévues, selon le cas,
+au 1° ou au 2° du II de l'article R. 99.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2012-220 du 16 février 2012 - art. 2
+
+_Cite_:
+
+  - Code électoral - art. R*99
+
+
 #### Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille<a id=208></a>
 
 ##### Section 2 : Opérations préparatoires au scrutin<a id=209></a>
@@ -28827,9 +28941,10 @@ _Modifié par_:
 
 ###### Article R149
 
-La déclaration de candidature est rédigée sur papier libre.
+La déclaration de candidature est rédigée sur papier libre. 
 
-Elle est accompagnée, pour chaque candidat et remplaçant, des pièces exigées à l'article R. 99.
+Elle est accompagnée, pour chaque candidat et remplaçant, des pièces exigées à l'article R. 99, à l'exception de celles
+mentionnées au II du même article. 
 
 La déclaration de candidature est déposée par tout candidat, le remplaçant d'un candidat ou un mandataire désigné par eux.
 
@@ -28837,7 +28952,7 @@ La déclaration de candidature est déposée par tout candidat, le remplaçant d
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Cité par_:
 
@@ -28847,11 +28962,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2007-1670 du 26 novembre 2007 - art. 8 () JORF 28 novembre 2007
+  - Décret n°2012-220 du 16 février 2012 - art. 2
 
 _Cite_:
 
-  - Code électoral - art. R*99 (M)
+  - Code électoral - art. R*99
 
 
 ###### Article R150
@@ -29909,8 +30024,8 @@ _Cite_:
 
 ###### Article R175
 
-Sous réserve des dispositions de la présente section, les articles R. 39-1 à R. 39-5 sont applicables à l'élection de députés
-par les Français établis hors de France.
+Sous réserve des dispositions de la présente section, les articles R. 39-1-A à R. 39-5 sont applicables à l'élection de
+députés par les Français établis hors de France.
 
 **Liens relatifs à cet article**
 
@@ -29920,11 +30035,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+  - Décret n°2012-220 du 16 février 2012 - art. 2
 
 _Cite_:
 
-  - Code électoral - art. R39-1
+  - Code électoral - art. R39-1-A
 
 
 ###### Article R175-1
@@ -31340,21 +31455,23 @@ _Modifié par_:
 
 Les déclarations de candidature en vue du premier tour de scrutin sont reçues à compter du cinquième lundi qui précède le
 jour de ce premier tour. Les déclarations de candidature en vue du second tour sont reçues à compter du lundi suivant le
-premier tour.
+premier tour. 
 
-Elles sont rédigées sur papier libre et font apparaître l'ordre des candidats au sein de chaque section départementale.
+Elles sont rédigées sur papier libre et font apparaître l'ordre des candidats au sein de chaque section départementale. 
 
-Chaque déclaration doit être accompagnée de la copie d'une des pièces mentionnées au I de l'article R. 109-2.
+Chaque déclaration doit être accompagnée de la copie d'une des pièces mentionnées au I de l'article R. 109-2. 
+
+Elle est également accompagnée des pièces prévues, selon le cas, au 1° ou au 2° du II de l'article R. 99.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 3 () JORF 13 octobre 2006
+  - Décret n°2012-220 du 16 février 2012 - art. 2
 
 _Cité par_:
 
@@ -31362,7 +31479,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code électoral - art. R109-2 (M)
+  - Code électoral - art. R*99
+  - Code électoral - art. R109-2
 
 
 ###### Article R184
@@ -31560,25 +31678,28 @@ _Cité par_:
 
 Les déclarations de candidature en vue du premier tour de scrutin sont reçues à compter du cinquième lundi qui précède le
 jour de ce scrutin. Les déclarations de candidature en vue du second tour sont reçues à compter du lundi suivant le premier
-tour.
+tour. 
 
-Elles sont rédigées sur papier libre.
+Elles sont rédigées sur papier libre. 
 
-Chaque déclaration doit être accompagnée de la copie d'une des pièces mentionnées au I de l'article R. 109-2.
+Chaque déclaration doit être accompagnée de la copie d'une des pièces mentionnées au I de l'article R. 109-2. 
+
+Elle est également accompagnée des pièces prévues, selon le cas, au 1° ou au 2° du II de l'article R. 99.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 3 () JORF 13 octobre 2006
+  - Décret n°2012-220 du 16 février 2012 - art. 2
 
 _Cite_:
 
-  - Code électoral - art. R109-2 (M)
+  - Code électoral - art. R*99
+  - Code électoral - art. R109-2
 
 
 ###### Article R192
@@ -31981,8 +32102,8 @@ _Modifié par_:
 ###### Article R204
 
 Les dispositions du titre Ier du livre Ier du présent code (partie réglementaire), à l'exclusion des mots : " sur papier
-blanc " figurant à l'article R. 30, sont applicables, dans leur rédaction en vigueur à la date du décret n° 2011-1854 du 9
-décembre 2011 : 
+blanc " figurant à l'article R. 30, sont applicables, dans leur rédaction en vigueur à la date du décret n° 2012-220 du 16
+février 2012 : 
 
 1° A l'élection des députés en Nouvelle-Calédonie et en Polynésie française et, à l'exception des articles R. 20 à R. 22, R.
 43 et R. 60, à l'élection du député dans les îles Wallis et Futuna ; 
@@ -31998,8 +32119,7 @@ territoriale des îles Wallis et Futuna ;
 
 **Nota:**
 
-Décret n° 2009-430 du 20 avril 2009 article 9 : Le 2° de l'article R. 204 dans sa rédaction issue du présent décret entre en
-vigueur le 1er juillet 2009.
+
 
 **Liens relatifs à cet article**
 
@@ -32011,7 +32131,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Décret n°2011-1854 du 9 décembre 2011
+  - Décret n°2012-220 du 16 février 2012
   - Code électoral - art. R*20
   - Code électoral - art. R30
   - Code électoral - art. R43
@@ -32019,7 +32139,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2011-1854 du 9 décembre 2011 - art. 2
+  - Décret n°2012-220 du 16 février 2012 - art. 4
 
 
 ###### Article R205
@@ -32350,21 +32470,21 @@ _Créé par_:
 ###### Article R214
 
 Les dispositions du titre II du livre Ier du présent code (partie réglementaire), à l'exception des articles R. 98, R. 106 et
-du premier alinéa de l'article R. 107, sont applicables, dans leur rédaction en vigueur à la date du décret n° 2011-1854 du 9
-décembre 2011 à l'élection des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
+du premier alinéa de l'article R. 107, sont applicables, dans leur rédaction en vigueur à la date du décret n° 2012-220 du 16
+février 2012 à l'élection des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°2011-1854 du 9 décembre 2011
+  - Décret n°2012-220 du 16 février 2012 (V)
   - Code électoral - art. R*106
   - Code électoral - art. R*107
   - Code électoral - art. R*98
 
 _Modifié par_:
 
-  - Décret n°2011-1854 du 9 décembre 2011 - art. 2
+  - Décret n°2012-220 du 16 février 2012 - art. 4
 
 
 #### Chapitre II : Régime des inéligibilités<a id=251></a>
@@ -33809,7 +33929,7 @@ _Créé par_:
 ###### Article R265
 
 Les dispositions des chapitres Ier, II, II bis et III du titre IV du livre Ier du présent code (partie réglementaire), dans
-leur rédaction en vigueur à la date du décret n° 2009-430 du 20 avril 2009, sont applicables à l'élection des membres des
+leur rédaction en vigueur à la date du décret n° 2012-220 du 16 février 2012, sont applicables à l'élection des membres des
 conseils municipaux en Nouvelle-Calédonie et en Polynésie française, sous réserve des adaptations suivantes : 
 
 1° (Abrogé) ; 
@@ -33817,15 +33937,24 @@ conseils municipaux en Nouvelle-Calédonie et en Polynésie française, sous ré
 2° Par dérogation au premier alinéa de l'article R. 119, le délai de recours contentieux contre l'élection est porté à quinze
 jours.
 
+**Nota:**
+
+Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
+2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées les 23 et 30 mars 2014 à
+l’occasion du prochain renouvellement général des conseils municipaux et communautaires, y compris aux opérations
+préparatoires à ce scrutin.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°2009-430 du 20 avril 2009
+  - Décret n°2012-220 du 16 février 2012
+  - Code électoral - art. R119
 
 _Modifié par_:
 
-  - Décret n°2009-430 du 20 avril 2009 - art. 9 (V)
+  - Décret n°2012-220 du 16 février 2012 - art. 4
 
 
 #### Chapitre II : Dispositions particulières à la Nouvelle-Calédonie<a id=272></a>
@@ -33869,7 +33998,7 @@ _Créé par_:
 ###### Article R271
 
 Sont applicables à l'élection des sénateurs en Nouvelle-Calédonie et en Polynésie française, dans leur rédaction en vigueur à
-la date du décret n° 2011-1854 du 9 décembre 2011, les dispositions suivantes du livre II du code électoral (partie
+la date du          décret n° 2012-220 du 16 février 2012 , les dispositions suivantes du livre II du code électoral (partie
 Réglementaire) : 
 
 1° Titre III, à l'exception des articles R. 130-1, R. 150, R. 151, R. 164, R. 164-1 et R. 169 ; 
@@ -33892,7 +34021,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2011-1854 du 9 décembre 2011 - art. 2
+  - Décret n°2012-220 du 16 février 2012 - art. 4
 
 _Cité par_:
 
@@ -33903,22 +34032,30 @@ _Cité par_:
 ###### Article R272
 
 Sont applicables à l'élection des sénateurs dans les îles Wallis et Futuna, dans leur rédaction en vigueur à la date du
-décret n° 2008-170 du 22 février 2008, les dispositions suivantes du livre II du code électoral (partie réglementaire) : 
+décret n° 2012-220 du 16 février 2012, les dispositions suivantes du livre II du code électoral (partie réglementaire) : 
 
 1° Chapitres Ier et IV à VII du titre IV, à l'exception de l'article R. 154 ; 
 
 2° Titre VI.
 
+**Nota:**
+
+Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
+2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées en 2014 à l’occasion du
+renouvellement des mandats des sénateurs dans les départements de la série 2, y compris aux opérations préparatoires à ce
+scrutin.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°2008-170 du 22 février 2008
+  - Décret n°2012-220 du 16 février 2012
   - Code électoral - art. R*154
 
 _Modifié par_:
 
-  - Décret n°2008-170 du 22 février 2008 - art. 2
+  - Décret n°2012-220 du 16 février 2012 - art. 4
 
 _Cité par_:
 
@@ -35403,16 +35540,19 @@ premier tour.
 
 Elles sont rédigées sur papier libre et font apparaître l'ordre des candidats au sein de chaque section électorale. 
 
-Chaque déclaration doit être accompagnée de la copie d'une des pièces mentionnées au I de l'article R. 109-2.
+Chaque déclaration doit être accompagnée de la copie d'une des pièces mentionnées au I de l'article R. 109-2. 
+
+Elle est également accompagnée des pièces prévues, selon le cas, au 1° ou au 2° du II de l'article R. 99.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-105 du 27 janvier 2012 - art. 1
+  - Décret n°2012-220 du 16 février 2012 - art. 2
 
 _Cite_:
 
+  - Code électoral - art. R*99
   - Code électoral - art. R109-2
 
 
