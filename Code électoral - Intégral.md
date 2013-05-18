@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2012-06-19
+Version Consolidée au 2013-05-19
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers généraux et des conseillers municipaux (art. L1 à L273)](#2)
@@ -2437,7 +2437,10 @@ titre IV du livre Ier du présent code doit faire cesser cette incompatibilité 
 dispose à cet effet d'un délai de trente jours à compter de la proclamation de l'élection qui l'a placé en situation
 d'incompatibilité ou, en cas de contestation, de la date à laquelle la décision juridictionnelle confirmant cette élection
 est devenue définitive. A défaut d'option dans le délai imparti, il est réputé avoir renoncé au mandat acquis ou renouvelé à
-la date la plus ancienne.
+la date la plus ancienne. 
+
+Tant qu'il n'est pas mis fin, dans les conditions prévues aux deuxième et troisième alinéas, à l'incompatibilité mentionnée
+au premier alinéa, l'élu concerné ne perçoit aucune indemnité attachée au dernier mandat acquis ou renouvelé.
 
 **Liens relatifs à cet article**
 
@@ -2465,7 +2468,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-884 du 27 juillet 2011 - art. 5
+  - Loi n°2013-403 du 17 mai 2013 - art. 43
 
 
 ###### Article L46-2
@@ -10822,17 +10825,17 @@ Le recours au Conseil d'Etat contre la décision du tribunal administratif est o
 intéressées.
 
 Les conseillers municipaux proclamés restent en fonctions jusqu'à ce qu'il ait été définitivement statué sur les
-réclamations. Toutefois, l'appel au Conseil d'Etat contre la décision du tribunal administratif n'a pas d'effet suspensif
-lorsque l'élection du même conseiller a déjà été annulée sur un précédent pourvoi dirigé contre des opérations électorales
-antérieures pour la même cause d'inéligibilité, par une décision du tribunal administratif devenue définitive ou confirmée en
-appel par le Conseil d'Etat. Dans les cas de cette espèce le tribunal administratif est tenu de spécifier que l'appel
-éventuel n'aura pas d'effet suspensif.
+réclamations.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
+
+_Modifié par_:
+
+  - Loi n°2013-403 du 17 mai 2013 - art. 49
 
 _Cité par_:
 
@@ -13952,31 +13955,45 @@ Les conseillers régionaux sont élus pour six ans ; ils sont rééligibles.
 
 Les conseils régionaux se renouvellent intégralement.
 
-Les élections ont lieu au mois de mars.
-
-Dans toutes les régions, les collèges électoraux sont convoqués le même jour.
+Les élections ont lieu en même temps que le renouvellement général des conseils départementaux.
 
 **Nota:**
 
-Loi n° 2010-145 du 16 février 2010 article 2 : Par dérogation aux dispositions de l'article L. 336 du code électoral et du
-troisième alinéa de l'article L. 364 du même code, le mandat des conseillers régionaux et celui des membres de l'Assemblée de
-Corse élus en mars 2010 expireront en mars 2014.
+Conformément à l'article 10 II de la loi n° 2015-29 du 16 janvier 2015 : 
+
+Par dérogation à l'article L. 336 du code électoral :
+
+1° Le premier renouvellement général des conseils régionaux et de l'Assemblée de Corse suivant la promulgation de la présente
+loi se tient en décembre 2015 ;
+
+2° Le mandat des conseillers régionaux élus en mars 2010 prend fin en décembre 2015. Toutefois, dans les régions constituées
+par regroupement de plusieurs régions en application de l'article 1er de la présente loi, le président de chaque conseil
+régional gère les affaires courantes ou présentant un caractère urgent entre la date du scrutin et le 31 décembre 2015 ;
+
+3° Les conseillers régionaux élus en décembre 2015 tiennent leur première réunion :
+
+a) Le lundi 4 janvier 2016 dans les régions constituées par regroupement de plusieurs régions en application de l'article 1er
+de la présente loi ;
+
+b) A la date prévue à l'article L. 4132-7 du code général des collectivités territoriales dans les autres régions ;
+
+4° Le mandat des conseillers régionaux et des membres de l'Assemblée de Corse élus en décembre 2015 prend fin en mars 2021.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Loi n°2003-327 du 11 avril 2003 - art. 1 () JORF 12 avril 2003
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Cité par_:
 
   - Loi n°2010-145 du 16 février 2010 - art. 2 (Ab)
   - Loi n°2013-403 du 17 mai 2013 - art. 47 (M)
   - Code général des collectivités territoriales - art. L4132-1 (V)
+
+_Modifié par_:
+
+  - Loi n°2013-403 du 17 mai 2013 - art. 44
 
 
 ###### Article L337
@@ -14163,7 +14180,7 @@ _Cité par_:
 ###### Article L341
 
 Tout conseiller régional qui, pour une cause survenue postérieurement à son élection, se trouve dans un cas d'inéligibilité
-prévu à l'article précédent ou se trouve frappé d'une des incapacités qui font perdre la qualité d'électeur, est déclaré
+prévu à l'article L. 340 ou se trouve frappé d'une des incapacités qui font perdre la qualité d'électeur, est déclaré
 démissionnaire d'office par arrêté du représentant de l'Etat dans la région, sauf recours au Conseil d'Etat dans les dix
 jours de la notification. Lorsqu'un conseiller régional est déclaré démissionnaire d'office à la suite d'une condamnation
 pénale définitive prononcée à son encontre et entraînant de ce fait la perte de ses droits civiques et électoraux, le recours
@@ -14173,11 +14190,15 @@ pénale définitive prononcée à son encontre et entraînant de ce fait la pert
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 29 () JORF 9 décembre 2003
+  - Loi n°2013-403 du 17 mai 2013 - art. 50
+
+_Cite_:
+
+  - Code électoral - art. L340 (V)
 
 
 ###### Article L341-1
@@ -20937,6 +20958,18 @@ _Créé par_:
 _Cité par_:
 
   - Décret n°2015-939 du 30 juillet 2015 (V)
+
+
+###### Article L558-1 A
+
+Les conseillers à l'assemblée de Guyane et les conseillers à l'assemblée de Martinique sont élus dans les conditions fixées
+au titre Ier du livre Ier du présent code et au présent livre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2013-403 du 17 mai 2013 - art. 45
 
 
 ###### Article L558-2
