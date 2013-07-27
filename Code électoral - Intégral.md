@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2013-07-24
+Version Consolidée au 2013-07-28
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers généraux et des conseillers municipaux (art. L1 à L273)](#2)
@@ -3323,7 +3323,8 @@ minimal de deux mois doit être obligatoirement consenti au mandataire. En cas d
 exercer son droit au compte dans les conditions prévues au présent article. Dans ce cas, l'existence de comptes successifs ne
 constitue pas une violation de l'obligation de disposer d'un compte bancaire ou postal unique prévue au deuxième alinéa. Les
 modalités de mise en œuvre de ce droit sont précisées par décret. Le contrôle du respect de ce droit est assuré par
-l'Autorité de contrôle prudentiel et relève de la procédure prévue à l'article L. 612-31 du code monétaire et financier. 
+l'Autorité de contrôle prudentiel et de résolution et relève de la procédure prévue à l'article L. 612-31 du code monétaire
+et financier. 
 
 Les comptes du mandataire sont annexés au compte de campagne du candidat qui l'a désigné ou au compte de campagne du candidat
 tête de liste lorsque le candidat qui l'a désigné figure sur cette liste. 
@@ -3342,6 +3343,10 @@ candidat, le procureur de la République saisit le président du tribunal de gra
 établissements reconnus d'utilité publique attributaires de l'actif net. Il en va de même lorsque la dévolution n'est pas
 acceptée.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -3357,13 +3362,9 @@ _Cité par_:
   - Code électoral - art. R39-1-A (VD)
   - Code électoral - art. R39-9 (V)
 
-_Codifié par_:
-
-  - Décret n°64-1086 du 27 octobre 1964
-
 _Modifié par_:
 
-  - Loi n°2011-412 du 14 avril 2011 - art. 13
+  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
 
 _Cite_:
 
