@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2013-07-28
+Version Consolidée au 2013-08-04
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers généraux et des conseillers municipaux (art. L1 à L273)](#2)
@@ -12358,9 +12358,13 @@ _Codifié par_:
 
 ###### Article L280
 
-Les sénateurs sont élus dans chaque département par un collège électoral composé :
+La composition du collège électoral appelé à élire les sénateurs assure, dans chaque département, la représentation des
+différentes catégories de collectivités territoriales et de la diversité des communes, en tenant compte de la population qui
+y réside. 
 
-1° Des députés ;
+Ce collège électoral est composé : 
+
+1° Des députés et des sénateurs ;
 
 2° Des conseillers régionaux de la section départementale correspondant au département et des conseillers de l'Assemblée de
 Corse désignés dans les conditions prévues par le titre III bis du présent livre ;
@@ -12370,6 +12374,10 @@ Corse désignés dans les conditions prévues par le titre III bis du présent l
 3° Des conseillers généraux ;
 
 4° Des délégués des conseils municipaux ou des suppléants de ces délégués.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -12392,16 +12400,21 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-884 du 27 juillet 2011 - art. 6
+  - Loi n°2013-702 du 2 août 2013 - art. 1
+  - Loi n°2013-702 du 2 août 2013 - art. 2
 
 
 ###### Article L281
 
-Les députés, les conseillers régionaux, les conseillers à l'Assemblée de Corse, les conseillers à l'assemblée de Guyane, les
-conseillers à l'assemblée de Martinique et les conseillers généraux qui ont été proclamés par les commissions de recensement
-sont inscrits sur la liste des électeurs sénatoriaux et prennent part au vote même si leur élection est contestée. En cas
-d'empêchement majeur, ils peuvent exercer, sur leur demande écrite, leur droit de vote par procuration. Le mandataire doit
-être membre du collège électoral sénatorial et ne peut disposer de plus d'une procuration.
+Les députés, les sénateurs, les conseillers régionaux, les conseillers à l'Assemblée de Corse, les conseillers à l'assemblée
+de Guyane, les conseillers à l'assemblée de Martinique et les conseillers généraux qui ont été proclamés par les commissions
+de recensement sont inscrits sur la liste des électeurs sénatoriaux et prennent part au vote même si leur élection est
+contestée. En cas d'empêchement majeur, ils peuvent exercer, sur leur demande écrite, leur droit de vote par procuration. Le
+mandataire doit être membre du collège électoral sénatorial et ne peut disposer de plus d'une procuration.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -12411,17 +12424,22 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-884 du 27 juillet 2011 - art. 6
+  - Loi n°2013-702 du 2 août 2013 - art. 3
 
 
 ###### Article L282
 
-Dans le cas où un conseiller général est député, conseiller régional ou conseiller à l'Assemblée de Corse, un remplaçant lui
-est désigné, sur sa présentation, par le président du conseil général.
+Dans le cas où un conseiller général est député, sénateur, conseiller régional ou conseiller à l'Assemblée de Corse, un
+remplaçant lui est désigné, sur sa présentation, par le président du conseil général.
 
 Dans le cas où un conseiller régional, un conseiller à l'Assemblée de Corse, un conseiller à l'assemblée de Guyane ou un
-conseiller à l'assemblée de Martinique est député, un remplaçant lui est désigné, sur sa présentation, par le président du
-conseil régional, celui de l'Assemblée de Corse, celui de l'assemblée de Guyane ou celui de l'assemblée de Martinique.
+conseiller à l'assemblée de Martinique est député ou sénateur, un remplaçant lui est désigné, sur sa présentation, par le
+président du conseil régional, celui de l'Assemblée de Corse, celui de l'assemblée de Guyane ou celui de l'assemblée de
+Martinique.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -12438,7 +12456,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-884 du 27 juillet 2011 - art. 6
+  - Loi n°2013-702 du 2 août 2013 - art. 5
 
 
 ### Titre III : Désignation des délégués des conseils municipaux<a id=70></a>
@@ -12519,16 +12537,16 @@ _Modifié par_:
 
 ###### Article L285
 
-Dans les communes de 9000 habitants et plus, tous les conseillers municipaux sont délégués de droit.
+Dans les communes de 9 000 habitants et plus, tous les conseillers municipaux sont délégués de droit.
 
 En outre, dans les communes de plus de 30 000 habitants, les conseils municipaux élisent des délégués supplémentaires à
-raison de 1 pour 1000 habitants en sus de 30 000.
+raison de 1 pour 800 habitants en sus de 30 000.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Cité par_:
 
@@ -12537,7 +12555,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2004-404 du 10 mai 2004 - art. 5 () JORF 11 mai 2004
+  - Loi n°2013-702 du 2 août 2013 - art. 7
 
 
 ###### Article L286
@@ -12561,22 +12579,26 @@ _Modifié par_:
 
 ###### Article L287
 
-Les députés, les conseillers régionaux, les conseillers à l'Assemblée de Corse et les conseillers généraux ne peuvent être
-désignés délégués, élus ou de droit, par les conseils municipaux dans lesquels ils siègent.
+Les députés, les sénateurs, les conseillers régionaux, les conseillers à l'Assemblée de Corse et les conseillers généraux ne
+peuvent être désignés délégués, élus ou de droit, par les conseils municipaux dans lesquels ils siègent. 
 
-Au cas où un député, un conseiller régional, un conseiller à l'Assemblée de Corse ou un conseiller général serait délégué de
-droit comme conseiller municipal ou comme membre du conseil consultatif d'une commune associée, un remplaçant lui est désigné
-par le maire sur sa présentation.
+Au cas où un député, un sénateur, un conseiller régional, un conseiller à l'Assemblée de Corse ou un conseiller général
+serait délégué de droit comme conseiller municipal ou comme membre du conseil consultatif d'une commune associée, un
+remplaçant lui est désigné par le maire sur sa présentation.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Loi n°2004-404 du 10 mai 2004 - art. 7 () JORF 11 mai 2004
+  - Loi n°2013-702 du 2 août 2013 - art. 6
 
 _Cité par_:
 
@@ -12620,7 +12642,8 @@ _Modifié par_:
 Dans les communes visées aux chapitres III et IV du titre IV du livre Ier du présent code, l'élection des délégués et des
 suppléants a lieu sur la même liste suivant le système de la représentation proportionnelle avec application de la règle de
 la plus forte moyenne, sans panachage ni vote préférentiel. Les listes peuvent comprendre un nombre de noms inférieur au
-nombre de sièges de délégués et de suppléants à pourvoir.
+nombre de sièges de délégués et de suppléants à pourvoir. Chaque liste de candidats aux fonctions de délégués et de
+suppléants est composée alternativement d'un candidat de chaque sexe. 
 
 Chaque conseiller municipal ou groupe de conseillers municipaux peut présenter une liste de candidats aux fonctions de
 délégués et de suppléants.
@@ -12638,15 +12661,11 @@ donner à un autre conseiller municipal de son choix pouvoir écrit de voter en 
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Loi n°2000-641 du 10 juillet 2000 - art. 6 () JORF 11 juillet 2000
+  - Loi n°2013-702 du 2 août 2013 - art. 4
 
 
 ###### Article L290
@@ -12686,30 +12705,20 @@ _Cite_:
 Les communes associées, créées en application des dispositions de l'article L. 2113-11 du code général des collectivités
 territoriales, conservent un nombre de délégués égal à celui auquel elles auraient eu droit en l'absence de fusion. Ces
 délégués sont désignés par le conseil municipal de la commune issue de la fusion parmi les conseillers municipaux élus dans
-la section électorale correspondante ou parmi les électeurs de cette section dans les conditions fixées au présent titre.
-Néanmoins lorsqu'il existe un conseil consultatif, les délégués de la commune associée sont désignés en son sein. Lorsque le
-nombre de délégués de la commune associée est supérieur à l'effectif du conseil consultatif, les membres de ce conseil sont
-délégués de droit, les autres délégués étant élus parmi les électeurs de la commune associée.
-
-**Nota:**
-
-Conformément à l'article 24 VIII de la loi n° 2010-1563 du 16 décembre 2010, les références aux articles du chapitre III du
-titre Ier du livre Ier de la deuxième partie du code général des collectivités territoriales, mentionnées à l'article L.
-290-1 du code électoral visent ces dispositions dans leur rédaction antérieure à ladite loi.
+la section électorale correspondante ou, à défaut, parmi les électeurs de cette section dans les conditions fixées au présent
+titre. Néanmoins lorsqu'il existe un conseil consultatif, les délégués de la commune associée sont désignés en son sein.
+Lorsque le nombre de délégués de la commune associée est supérieur à l'effectif du conseil consultatif, les membres de ce
+conseil sont délégués de droit, les autres délégués étant élus parmi les électeurs de la commune associée.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Loi n°2000-641 du 10 juillet 2000 - art. 8 () JORF 11 juillet 2000
+  - Loi n°2013-702 du 2 août 2013 - art. 8
 
 _Cite_:
 
@@ -12890,7 +12899,7 @@ _Cité par_:
 
 ###### Article L294
 
-Dans les départements où sont élus trois sénateurs ou moins, l'élection a lieu au scrutin majoritaire à deux tours.
+Dans les départements où sont élus deux sénateurs ou moins, l'élection a lieu au scrutin majoritaire à deux tours. 
 
 Nul n'est élu sénateur au premier tour du scrutin s'il n'a réuni :
 
@@ -12904,11 +12913,11 @@ Au second tour de scrutin, la majorité relative suffit. En cas d'égalité des 
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Loi n°2003-697 du 30 juillet 2003 - art. 5 () JORF 31 juillet 2003
+  - Loi n°2013-702 du 2 août 2013 - art. 12
 
 _Cité par_:
 
@@ -12917,8 +12926,8 @@ _Cité par_:
 
 ###### Article L295
 
-Dans les départements où sont élus quatre sénateurs ou plus, l'élection a lieu à la représentation proportionnelle suivant la
-règle de la plus forte moyenne, sans panachage ni vote préférentiel.
+Dans les départements où sont élus trois sénateurs ou plus, l'élection a lieu à la représentation proportionnelle suivant la
+règle de la plus forte moyenne, sans panachage ni vote préférentiel. 
 
 Sur chaque liste, les sièges sont attribués aux candidats d'après l'ordre de présentation.
 
@@ -12932,11 +12941,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Loi n°2003-697 du 30 juillet 2003 - art. 6 () JORF 31 juillet 2003
+  - Loi n°2013-702 du 2 août 2013 - art. 13
 
 
 #### Chapitre II : Conditions d'éligibilité et inéligibilités<a id=74></a>
@@ -13030,27 +13039,23 @@ _Modifié par_:
 
 Dans les départements où les élections ont lieu au scrutin majoritaire, chaque candidat doit mentionner dans sa déclaration
 de candidature les nom, sexe, prénoms, date et lieu de naissance, domicile et profession de la personne appelée à le
-remplacer comme sénateur dans les cas prévus à l'article L. O. 319. Il doit y joindre l'acceptation écrite du remplaçant,
-lequel doit remplir les conditions d'éligibilité exigées des candidats.
+remplacer comme sénateur dans les cas prévus à l'article LO. 319. Il doit y joindre l'acceptation écrite du remplaçant,
+lequel doit remplir les conditions d'éligibilité exigées des candidats. Le candidat et son remplaçant sont de sexe
+différent. 
 
 Nul ne peut figurer en qualité de remplaçant sur plusieurs déclarations de candidature. Nul ne peut être à la fois candidat
 et remplaçant d'un autre candidat. Nul ne peut désigner pour le second tour de scrutin une personne autre que celle qui
 figurait sur sa déclaration de candidature lors du premier tour.
 
-**Nota:**
-
-Loi n° 2000-493 2000-06-06 art. 17 : Les dispositions de cet article entreront en vigueur lors du prochain renouvellement
-intervenant à échéance normale des conseils et assemblées auxquels elles s'appliquent.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Loi n°2000-493 du 6 juin 2000 - art. 14 ()
+  - Loi n°2013-702 du 2 août 2013 - art. 10
 
 _Cité par_:
 
@@ -13104,7 +13109,7 @@ _Cite_:
 ###### Article L301
 
 Les déclarations de candidatures doivent, pour le premier tour, être déposées en double exemplaire à la préfecture au plus
-tard à 18 heures le deuxième vendredi qui précède le scrutin.
+tard à 18 heures le troisième vendredi qui précède le scrutin. 
 
 Il est donné au déposant un reçu provisoire de déclaration. Un récépissé définitif est délivré dans les quatre jours du dépôt
 de la déclaration de candidature si celle-ci est conforme aux prescriptions des lois en vigueur.
@@ -13113,15 +13118,11 @@ de la déclaration de candidature si celle-ci est conforme aux prescriptions des
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Loi n°2000-641 du 10 juillet 2000 - art. 12 () JORF 11 juillet 2000
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
+  - Loi n°2013-702 du 2 août 2013 - art. 14
 
 _Cité par_:
 
@@ -13160,21 +13161,19 @@ _Codifié par_:
 
 Dans les départements où s'applique le scrutin majoritaire, tout candidat en vue du second tour doit déposer à la préfecture,
 une demi-heure au moins avant l'heure fixée pour l'ouverture du scrutin, une déclaration conforme aux dispositions des
-articles L. 298 et L. 299. Il est immédiatement délivré récépissé de cette déclaration.
+articles L. 298 et L. 299. Il est immédiatement délivré récépissé de cette déclaration. 
+
+Nul ne peut être candidat au second tour s'il ne s'est présenté au premier tour.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Loi n°2000-641 du 10 juillet 2000 - art. 13 () JORF 11 juillet 2000
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2000-641 du 10 juillet 2000 - art. 17 (V)
+  - Loi n°2013-702 du 2 août 2013 - art. 11
 
 _Cité par_:
 
@@ -13182,8 +13181,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code électoral - art. L298 (M)
-  - Code électoral - art. L299 (M)
+  - Code électoral - art. L298
 
 
 ###### Article LO304
@@ -18009,10 +18007,9 @@ _Modifié par_:
 ###### Article L439
 
 Les dispositions du titre III, des chapitres Ier à VII du titre IV et du titre VI du livre II, à l'exception de l'article L.
-301, ainsi que celles des articles L. 385 à L. 387, sont applicables, dans leur rédaction en vigueur à la date de
-promulgation de la loi n° 2011-412 du 14 avril 2011 portant simplification de dispositions du code électoral et relative à la
-transparence financière de la vie politique, à l'élection des sénateurs en Polynésie française, en Nouvelle-Calédonie et dans
-les îles Wallis et Futuna.
+301, ainsi que celles des articles L. 385 à L. 387, sont applicables, dans leur rédaction en vigueur le lendemain de la
+publication de la loi n° 2013-702 du 2 août 2013 relative à l'élection des sénateurs, à l'élection des sénateurs en Polynésie
+française, en Nouvelle-Calédonie et dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -18022,13 +18019,13 @@ _Codifié par_:
 
 _Cite_:
 
-  - Loi n°2011-412 du 14 avril 2011
+  - Loi n°2013-702 du 2 août 2013
   - Code électoral - art. L301
   - Code électoral - art. L385
 
 _Modifié par_:
 
-  - Loi n°2011-412 du 14 avril 2011 - art. 29 (V)
+  - Loi n°2013-702 du 2 août 2013 - art. 15
 
 _Cité par_:
 
@@ -24742,8 +24739,6 @@ Chaque commission comprend :
 
 - un fonctionnaire désigné par le préfet ;
 
-- un fonctionnaire désigné par le trésorier-payeur général ;
-
 - un fonctionnaire désigné par le directeur départemental des postes et télécommunications.
 
 Un suppléant du président peut être désigné dans les mêmes conditions.
@@ -24754,6 +24749,14 @@ Les candidats ou leurs mandataires ou les mandataires des listes peuvent partici
 la commission concernant leur circonscription.
 
 Le président fixe, en accord avec le préfet, le lieu où la commission doit siéger.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
+2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées les 23 et 30 mars 2014 à
+l’occasion du prochain renouvellement général des conseils municipaux et communautaires, y compris aux opérations
+préparatoires à ce scrutin.
 
 **Liens relatifs à cet article**
 
@@ -24785,11 +24788,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°2007-1670 du 26 novembre 2007 - art. 3 () JORF 28 novembre 2007
+  - Décret n°2013-703 du 1er août 2013 - art. 3
 
 
 ###### Article R33
@@ -24943,9 +24946,9 @@ Lorsqu'il est prévu par la loi, le remboursement par l'Etat des frais d'impress
 avant chaque tour de scrutin par les candidats ou les listes est effectué, sur présentation des pièces justificatives, pour
 les imprimés suivants : 
 
-a) Deux affiches identiques d'un format maximal de 594 mm X 841 mm, par emplacement prévu à l'article L. 51 ; 
+a) Deux affiches identiques d'un format maximal de 594 mm x 841 mm, par emplacement prévu à l'article L. 51 ; 
 
-b) Deux affiches d'un format maximal de 297 mm X 420 mm pour annoncer la tenue des réunions électorales, par emplacement
+b) Deux affiches d'un format maximal de 297 mm x 420 mm pour annoncer la tenue des réunions électorales, par emplacement
 prévu à l'article L. 51 ; 
 
 c) Un nombre de circulaires égal au nombre d'électeurs, majoré de 5 % ; 
@@ -24958,9 +24961,7 @@ départementale comprenant :
 
 - le préfet ou son représentant, président ;
 
-- le trésorier-payeur général ou son représentant ; 
-
-le directeur départemental de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
+- le directeur départemental de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
 
 - un représentant des organisations professionnelles des imprimeurs ou des afficheurs désigné par le préfet selon la nature
 des tarifs à établir. 
@@ -24984,6 +24985,14 @@ a) Papier contenant au moins 50 % de fibres recyclées ;
 b) Papier bénéficiant d'une certification internationale de gestion durable des forêts. 
 
 Un arrêté du ministre de l'intérieur précise les conditions d'application des deux alinéas précédents.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
+2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées les 23 et 30 mars 2014 à
+l’occasion du prochain renouvellement général des conseils municipaux et communautaires, y compris aux opérations
+préparatoires à ce scrutin.
 
 **Liens relatifs à cet article**
 
@@ -25017,11 +25026,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°2007-76 du 23 janvier 2007 - art. 1 () JORF 24 janvier 2007
+  - Décret n°2013-703 du 1er août 2013 - art. 3
 
 **Liens**:
 
@@ -25029,9 +25038,9 @@ _Modifié par_:
 
 _Cite_:
 
-  - Code électoral - art. L51 (V)
-  - Code électoral - art. R29 (V)
-  - Code électoral - art. R30 (V)
+  - Code électoral - art. L51
+  - Code électoral - art. R29
+  - Code électoral - art. R30
 
 
 #### Chapitre V bis : Financement et plafonnement des dépenses électorales<a id=179></a>
@@ -29783,8 +29792,6 @@ Cette commission, instituée par arrêté préfectoral, comprend :
 
 - un fonctionnaire désigné par préfet ;
 
-- un fonctionnaire désigné par le trésorier-payeur général ;
-
 - un fonctionnaire désigné par le directeur des postes et télécommunications.
 
 Un suppléant du président peut être désigné dans les mêmes conditions.
@@ -29794,15 +29801,23 @@ consultative.
 
 Le secrétariat est assuré par un fonctionnaire désigné par le préfet.
 
+**Nota:**
+
+Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
+2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées en 2014 à l’occasion du
+renouvellement des mandats des sénateurs dans les départements de la série 2, y compris aux opérations préparatoires à ce
+scrutin.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°2007-1670 du 26 novembre 2007 - art. 3 () JORF 28 novembre 2007
+  - Décret n°2013-703 du 1er août 2013 - art. 3
 
 _Cité par_:
 
@@ -32312,8 +32327,6 @@ Par dérogation aux dispositions de l'article R. 32, la commission de propagande
 
 - un fonctionnaire désigné par le préfet de Corse ;
 
-- un fonctionnaire désigné par le trésorier-payeur général de Corse ;
-
 - un fonctionnaire désigné par le chef de service de La Poste compétent pour la Corse.
 
 Un suppléant du président peut être désigné dans les mêmes conditions.
@@ -32328,15 +32341,19 @@ Le président fixe, en accord avec le préfet de Corse, le lieu où la commissio
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°2007-1670 du 26 novembre 2007 - art. 3 () JORF 28 novembre 2007
+  - Décret n°2013-703 du 1er août 2013 - art. 3
+
+_Abrogé par_:
+
+  - Décret n°2015-1169 du 22 septembre 2015 - art. 4
 
 _Cite_:
 
-  - Code électoral - art. R32 (M)
+  - Code électoral - art. R32
 
 
 ###### Article R195
@@ -32668,8 +32685,8 @@ _Modifié par_:
 ###### Article R204
 
 Les dispositions du titre Ier du livre Ier du présent code (partie réglementaire), à l'exclusion des mots : " sur papier
-blanc " figurant à l'article R. 30, sont applicables, dans leur rédaction en vigueur à la date du décret n° 2012-220 du 16
-février 2012 : 
+blanc " figurant à l'article R. 30, sont applicables, dans leur rédaction en vigueur à la date du décret n° 2013-703 du 1er
+août 2013 : 
 
 1° A l'élection des députés en Nouvelle-Calédonie et en Polynésie française et, à l'exception des articles R. 20 à R. 22, R.
 43 et R. 60, à l'élection du député dans les îles Wallis et Futuna ; 
@@ -32685,7 +32702,11 @@ territoriale des îles Wallis et Futuna ;
 
 **Nota:**
 
-
+Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
+2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées les 23 et 30 mars 2014 à
+l’occasion du prochain renouvellement général des conseils municipaux et communautaires, y compris aux opérations
+préparatoires à ce scrutin.
 
 **Liens relatifs à cet article**
 
@@ -32698,7 +32719,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Décret n°2012-220 du 16 février 2012
+  - Décret n°2013-703 du 1er août 2013
   - Code électoral - art. R20
   - Code électoral - art. R30
   - Code électoral - art. R43
@@ -32706,7 +32727,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2012-220 du 16 février 2012 - art. 4
+  - Décret n°2013-703 du 1er août 2013 - art. 3
 
 
 ###### Article R205
@@ -33765,7 +33786,7 @@ Elle comprend :
 
 2° Un fonctionnaire désigné par le haut-commissaire ;
 
-3° Un fonctionnaire désigné par le trésorier-payeur général ;
+3° (Abrogé) ;
 
 4° Un fonctionnaire désigné par le directeur de l'office des postes et télécommunications.
 
@@ -33776,20 +33797,28 @@ Le secrétariat de la commission est assuré par un fonctionnaire désigné par 
 
 Le président fixe, en accord avec le haut-commissaire, le lieu où la commission doit siéger.
 
+**Nota:**
+
+Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
+2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées les 23 et 30 mars 2014 à
+l’occasion du prochain renouvellement général des conseils municipaux et communautaires, y compris aux opérations
+préparatoires à ce scrutin.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+  - Décret n°2013-703 du 1er août 2013 - art. 3
 
 _Cite_:
 
-  - Code électoral - art. L403 (V)
-  - Code électoral - art. R32 (M)
+  - Code électoral - art. L403
+  - Code électoral - art. R32
 
 _Cité par_:
 
@@ -36206,8 +36235,7 @@ _Cite_:
 
 Pour l'application des dispositions de l'article R. 32 :
 
-1° Les mots : " un fonctionnaire désigné par le trésorier-payeur général ” sont remplacés par les mots : " un fonctionnaire
-désigné par le directeur régional des finances publiques ” ; 
+1° (Abrogé) ; 
 
 2° Les mots : " un fonctionnaire désigné par le directeur départemental des postes et télécommunications ” sont remplacés par
 les mots : " toute personne qualifiée dans la distribution du courrier que la commission associe à ses travaux avec voix
@@ -36217,11 +36245,19 @@ consultative ” ;
 
 4° Les candidats ne peuvent participer aux travaux de la commission que par l'intermédiaire des mandataires des listes.
 
+**Nota:**
+
+Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
+2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
+communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées les 23 et 30 mars 2014 à
+l’occasion du prochain renouvellement général des conseils municipaux et communautaires, y compris aux opérations
+préparatoires à ce scrutin.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-105 du 27 janvier 2012 - art. 1
+  - Décret n°2013-703 du 1er août 2013 - art. 3
 
 _Cite_:
 
