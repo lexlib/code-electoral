@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2013-08-04
+Version Consolidée au 2013-10-13
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers généraux et des conseillers municipaux (art. L1 à L273)](#2)
@@ -3396,6 +3396,18 @@ _Cite_:
   - Code électoral - art. L52-11
 
 
+###### Article L52-8-1
+
+Aucun  candidat ne peut utiliser, directement ou indirectement, les indemnités  et les avantages en nature mis à disposition
+de leurs membres par les  assemblées parlementaires pour couvrir les frais liés à l'exercice de  leur mandat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2013-907 du 11 octobre 2013 - art. 13
+
+
 ###### Article L52-9
 
 Les actes et documents émanant d'une association de financement électorale ou d'un mandataire financier et destinés aux
@@ -6265,9 +6277,9 @@ _Cite_:
 
 ###### Article L117
 
-Les personnes physiques coupables des infractions prévues par les articles L. 86 à L. 88, L. 91 à L. 104, L. 106 à L. 109.,
-L. 111, L. 113 et L. 116 encourent également l'interdiction des droits civiques mentionnés aux 1° et 2° de l'article 131-26
-du code pénal suivant les modalités prévues par cet article. 
+Les personnes physiques coupables des infractions prévues par les articles L. 86 à L. 88, L. 91 à L. 104, L. 106 à L. 109, L.
+111, L. 113 et L. 116 encourent également l'interdiction des droits civiques mentionnés aux 1° et 2° de l'article 131-26 du
+code pénal ainsi que l'inéligibilité prévue à l'article 131-26-1 du même code, suivant les modalités prévues à ces articles. 
 
 Les personnes physiques déclarées coupables du crime prévu à l'article L. 101 encourent également à titre de peines
 complémentaires l'interdiction, suivant les modalités prévues par l'article 131-27 du code pénal, soit d'exercer une fonction
@@ -6289,20 +6301,21 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2008-776 du 4 août 2008 - art. 73
+  - Loi n°2013-907 du 11 octobre 2013 - art. 27
 
 _Cite_:
 
-  - Code électoral - art. L101 (V)
-  - Code électoral - art. L106 (V)
-  - Code électoral - art. L111 (V)
-  - Code électoral - art. L113 (V)
-  - Code électoral - art. L116 (V)
-  - Code électoral - art. L86 (V)
-  - Code électoral - art. L91 (V)
-  - Code pénal - art. 131-26 (V)
-  - Code pénal - art. 131-27 (V)
-  - Code pénal - art. 131-35 (V)
+  - Code électoral - art. L101
+  - Code électoral - art. L106
+  - Code électoral - art. L111
+  - Code électoral - art. L113
+  - Code électoral - art. L116
+  - Code électoral - art. L86
+  - Code électoral - art. L91
+  - Code pénal - art. 131-26
+  - Code pénal - art. 131-26-1
+  - Code pénal - art. 131-27
+  - Code pénal - art. 131-35
 
 
 ###### Article L117-1
@@ -7761,15 +7774,10 @@ _Cite_:
 
 ###### Article LO151-2
 
-Dans le délai prévu à l'article LO 151-1, tout député dépose sur le bureau de l'Assemblée nationale une déclaration certifiée
-sur l'honneur exacte et sincère comportant la liste des activités professionnelles ou d'intérêt général, même non rémunérées,
-qu'il envisage de conserver ou attestant qu'il n'en exerce aucune. Toutefois, cette déclaration ne fait pas mention des
-activités visées à l'article LO 148. En cours de mandat, il doit déclarer, dans les mêmes formes, tout élément de nature à
-modifier sa déclaration initiale. 
-
-Le bureau examine si les activités ainsi déclarées sont compatibles avec le mandat parlementaire. S'il y a doute sur la
-compatibilité des fonctions ou activités exercées, le bureau de l'Assemblée nationale, le garde des sceaux, ministre de la
-justice, ou le député lui-même saisit le Conseil constitutionnel. 
+Le bureau de l'Assemblée nationale examine si les activités professionnelles ou d'intérêt général mentionnées par les députés
+dans la déclaration d'intérêts et d'activités, en application du 11° du III de l'article LO 135-1, sont compatibles avec le
+mandat parlementaire. S'il y a doute sur la compatibilité des fonctions ou activités exercées, le bureau de l'Assemblée
+nationale, le garde des sceaux, ministre de la justice, ou le député lui-même saisit le Conseil constitutionnel. 
 
 Si le Conseil constitutionnel décide que le député est en situation d'incompatibilité, ce dernier régularise sa situation au
 plus tard le trentième jour qui suit la notification de la décision du Conseil constitutionnel. 
@@ -7778,19 +7786,19 @@ A défaut, le Conseil constitutionnel le déclare démissionnaire d'office de so
 
 **Nota:**
 
-Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
-général de l'Assemblée nationale suivant sa promulgation.
+En vertu de l'article 12 de la loi organique n° 2014-125 du 14 février 2014 interdisant le cumul de fonctions exécutives
+locales avec le mandat de député ou de sénateur, le présent article s'applique à tout parlementaire à compter du premier
+renouvellement de l'assemblée à laquelle il appartient suivant le 31 mars 2017.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi organique n°2011-410 du 14 avril 2011 - art. 9
+  - Loi organique n°2013-906 du 11 octobre 2013 - art. 2 (V)
 
 _Cite_:
 
-  - Code électoral - art. LO148
-  - Code électoral - art. LO151-1
+  - Code électoral - art. LO135-1
 
 _Cité par_:
 
@@ -7799,25 +7807,18 @@ _Cité par_:
 
 ###### Article LO151-3
 
-Le député qui n'a pas respecté les articles LO 149 ou LO 150 ou qui n'a pas procédé à la déclaration prévue à l'article LO
-151-2 est déclaré démissionnaire d'office par le Conseil constitutionnel, à la requête du bureau de l'Assemblée nationale ou
-du garde des sceaux, ministre de la justice.
-
-**Nota:**
-
-Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
-général de l'Assemblée nationale suivant sa promulgation.
+Le député qui n'a pas respecté les articles LO 149 ou LO 150 est déclaré démissionnaire d'office par le Conseil
+constitutionnel, à la requête du bureau de l'Assemblée nationale ou du garde des sceaux, ministre de la justice.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi organique n°2011-410 du 14 avril 2011 - art. 9
+  - Loi organique n°2013-906 du 11 octobre 2013 - art. 2 (V)
 
 _Cite_:
 
   - Code électoral - art. LO149
-  - Code électoral - art. LO151-2
 
 
 ###### Article LO151-4
@@ -7864,22 +7865,28 @@ _Cité par_:
 
 ###### Article LO153
 
-Ainsi qu'il est dit à l'alinéa 1 de l'article 1 de l'ordonnance n° 58-1099 du 17 novembre 1958, portant loi organique pour
+Ainsi qu'il est dit à l'alinéa 1 de l'article 1er de l'ordonnance n° 58-1099 du 17 novembre 1958, portant loi organique pour
 l'application de l'article 23 de la Constitution, l'incompatibilité établie par ledit article 23 entre le mandat de député et
 les fonctions de membre du Gouvernement prend effet à l'expiration d'un délai de un mois à compter de la nomination comme
-membre du Gouvernement. Pendant ce délai, le député membre du Gouvernement ne peut prendre part à aucun scrutin.
-L'incompatibilité ne prend pas effet si le Gouvernement est démissionnaire avant l'expiration dudit délai.
+membre du Gouvernement. Pendant ce délai, le député membre du Gouvernement ne peut prendre part à aucun scrutin et ne peut
+percevoir aucune indemnité en tant que parlementaire. L'incompatibilité ne prend pas effet si le Gouvernement est
+démissionnaire avant l'expiration dudit délai.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CONSTITUTION 1958-10-04 ART. 23
-  - Ordonnance 58-1099 1958-11-17 ART. 1 AL. 1
+  - Ordonnance n°58-1099 du 17 novembre 1958
+  - Ordonnance n°58-1099 du 17 novembre 1958 - art. 1 (V)
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
+
+_Modifié par_:
+
+  - Loi organique n°2013-906 du 11 octobre 2013 - art. 4
 
 _Cité par_:
 
@@ -18956,9 +18963,7 @@ _Cité par_:
 
 I.-Sont inéligibles au conseil territorial : 
 
-1° Pendant un an à compter de la décision juridictionnelle constatant l'inéligibilité, le président du conseil territorial et
-les membres de celui-ci qui n'ont pas déposé l'une des déclarations prévues par le titre Ier de la loi n° 88-227 du 11 mars
-1988 relative à la transparence financière de la vie politique ; 
+1° (Abrogé) ; 
 
 2° Les personnes privées, par décision juridictionnelle passée en force de chose jugée, de leur droit d'éligibilité en
 application des lois qui autorisent cette privation ; 
@@ -18967,13 +18972,13 @@ application des lois qui autorisent cette privation ;
 mission auprès du représentant de l'Etat, les directeurs du cabinet du représentant de l'Etat en exercice ou qui ont exercé
 leurs fonctions à Saint-Barthélemy depuis moins de trois ans ; 
 
-4° Les personnes déclarées inéligibles en application des articles L. 118-3, L. 118-4, LO 136-1 ou LO 136-3 ; 
+4° Les personnes déclarées inéligibles en application des articles L. 118-3, L. 118-4, LO. 136-1 ou LO. 136-3 ; 
 
 5° Pendant un an à compter de la décision devenue définitive du juge administratif prononçant sa démission d'office, le
 membre du conseil territorial qui a refusé, sans excuse valable, d'exercer les fonctions qui lui sont dévolues par la loi,
-conformément à l'article LO 6221-3 du code général des collectivités territoriales ; 
+conformément à l'article LO. 6221-3 du code général des collectivités territoriales ; 
 
-6° Le Défenseur des droits (1). 
+6° Le Défenseur des droits. 
 
 II.-En outre, ne peuvent être élus membres du conseil territorial s'ils exercent leurs fonctions à Saint-Barthélemy ou s'ils
 les ont exercées depuis moins de six mois : 
@@ -19006,13 +19011,6 @@ catégorie ceux qui, étant fonctionnaires ou exerçant une profession indépend
 collectivité qu'à raison des services qu'ils lui rendent dans l'exercice de cette profession et ceux qui ne sont agents
 salariés de la collectivité qu'au titre d'une activité saisonnière ou occasionnelle.
 
-**Nota:**
-
-(1) Loi organique n° 2011-333 du 29 mars 2011 article 44 : Entrent en vigueur au premier jour du deuxième mois suivant la
-date de promulgation de la présente loi organique, en tant qu'ils concernent les missions visées aux 2° à 4° de l'article 4,
-le 6° de l'article 42 en tant qu'il supprime, aux articles LO 489, LO 516 et LO 544 du code électoral, la référence au
-Défenseur des enfants.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -19022,9 +19020,9 @@ _Codifié par_:
 _Cite_:
 
   - Loi n°88-227 du 11 mars 1988
-  - Code électoral - art. L118-3 (V)
-  - Code électoral - art. LO136-1 (V)
-  - Code électoral - art. LO136-3 (V)
+  - Code électoral - art. L118-3
+  - Code électoral - art. LO136-1
+  - Code électoral - art. LO136-3
   - Code général des collectivités territoriales - art. LO6221-3
 
 _Cité par_:
@@ -19035,7 +19033,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi organique n°2011-410 du 14 avril 2011 - art. 6
+  - Loi organique n°2013-906 du 11 octobre 2013 - art. 5
 
 
 ###### Article LO493
@@ -19825,9 +19823,7 @@ _Cité par_:
 
 I.-Sont inéligibles au conseil territorial : 
 
-1° Pendant un an à compter de la décision juridictionnelle constatant l'inéligibilité, le président du conseil territorial et
-les membres de celui-ci qui n'ont pas déposé l'une des déclarations prévues par le titre Ier de la loi n° 88-227 du 11 mars
-1988 relative à la transparence financière de la vie politique ; 
+1° (Abrogé) ; 
 
 2° Les personnes privées, par décision juridictionnelle passée en force de chose jugée, de leur droit d'éligibilité en
 application des lois qui autorisent cette privation ; 
@@ -19836,13 +19832,13 @@ application des lois qui autorisent cette privation ;
 mission auprès du représentant de l'Etat, les directeurs du cabinet du représentant de l'Etat en exercice ou qui ont exercé
 leurs fonctions à Saint-Martin depuis moins de trois ans ; 
 
-4° Les personnes déclarées inéligibles en application des articles L. 118-3, L. 118-4, LO 136-1 ou LO 136-3 ; 
+4° Les personnes déclarées inéligibles en application des articles L. 118-3, L. 118-4, LO. 136-1 ou LO. 136-3 ; 
 
 5° Pendant un an à compter de la décision devenue définitive du juge administratif prononçant sa démission d'office, le
 membre du conseil territorial qui a refusé, sans excuse valable, d'exercer les fonctions qui lui sont dévolues par la loi,
-conformément à l'article LO 6321-3 du code général des collectivités territoriales ; 
+conformément à l'article LO. 6321-3 du code général des collectivités territoriales ; 
 
-6° Le Défenseur des droits (1). 
+6° Le Défenseur des droits. 
 
 II.-En outre, ne peuvent être élus membres du conseil territorial s'ils exercent leurs fonctions à Saint-Martin ou s'ils les
 ont exercées depuis moins de six mois : 
@@ -19875,13 +19871,6 @@ catégorie ceux qui, étant fonctionnaires ou exerçant une profession indépend
 collectivité qu'à raison des services qu'ils lui rendent dans l'exercice de cette profession et ceux qui ne sont agents
 salariés de la collectivité qu'au titre d'une activité saisonnière ou occasionnelle.
 
-**Nota:**
-
-(1) Loi organique n° 2011-333 du 29 mars 2011 article 44 : Entrent en vigueur au premier jour du deuxième mois suivant la
-date de promulgation de la présente loi organique, en tant qu'ils concernent les missions visées aux 2° à 4° de l'article 4,
-le 6° de l'article 42 en tant qu'il supprime, aux articles LO 489, LO 516 et LO 544 du code électoral, la référence au
-Défenseur des enfants.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -19891,14 +19880,14 @@ _Codifié par_:
 _Cite_:
 
   - Loi n°88-227 du 11 mars 1988
-  - Code électoral - art. L118-3 (V)
-  - Code électoral - art. LO136-1 (V)
-  - Code électoral - art. LO136-3 (V)
+  - Code électoral - art. L118-3
+  - Code électoral - art. LO136-1
+  - Code électoral - art. LO136-3
   - Code général des collectivités territoriales - art. LO6321-3
 
 _Modifié par_:
 
-  - Loi organique n°2011-410 du 14 avril 2011 - art. 6
+  - Loi organique n°2013-906 du 11 octobre 2013 - art. 5
 
 _Cité par_:
 
@@ -20733,9 +20722,7 @@ _Cité par_:
 
 I.-Sont inéligibles au conseil territorial : 
 
-1° Pendant un an à compter de la décision juridictionnelle constatant l'inéligibilité, le président du conseil territorial et
-les membres de celui-ci qui n'ont pas déposé l'une des déclarations prévues par le titre Ier de la loi n° 88-227 du 11 mars
-1988 relative à la transparence financière de la vie politique ; 
+1° (Abrogé) ; 
 
 2° Les personnes privées, par décision juridictionnelle passée en force de chose jugée, de leur droit d'éligibilité en
 application des lois qui autorisent cette privation ; 
@@ -20744,13 +20731,13 @@ application des lois qui autorisent cette privation ;
 mission auprès du représentant de l'Etat, les directeurs du cabinet du représentant de l'Etat en exercice ou qui ont exercé
 leurs fonctions à Saint-Pierre-et-Miquelon depuis moins de trois ans ; 
 
-4° Les personnes déclarées inéligibles en application des articles L. 118-3, L. 118-4, LO 136-1 ou LO 136-3 ; 
+4° Les personnes déclarées inéligibles en application des articles L. 118-3, L. 118-4, LO. 136-1 ou LO. 136-3 ; 
 
 5° Pendant un an à compter de la décision devenue définitive du juge administratif prononçant sa démission d'office, le
 membre du conseil territorial qui a refusé, sans excuse valable, d'exercer certaines des fonctions qui lui sont dévolues par
-la loi, conformément à l'article LO 6431-3 du code général des collectivités territoriales ; 
+la loi, conformément à l'article LO. 6431-3 du code général des collectivités territoriales ; 
 
-6° Le Défenseur des droits (1). 
+6° Le Défenseur des droits. 
 
 II.-En outre, ne peuvent être élus membres du conseil territorial s'ils exercent leurs fonctions à Saint-Pierre-et-Miquelon
 ou s'ils les ont exercées depuis moins de six mois : 
@@ -20779,13 +20766,6 @@ au recouvrement des contributions directes ou indirectes et au paiement des dép
 général de l'agence régionale de l'hospitalisation ; les directeurs des organismes régionaux et locaux de la sécurité
 sociale ; les directeurs des caisses primaires et des caisses régionales de sécurité sociale.
 
-**Nota:**
-
-(1) Loi organique n° 2011-333 du 29 mars 2011 article 44 : Entrent en vigueur au premier jour du deuxième mois suivant la
-date de promulgation de la présente loi organique, en tant qu'ils concernent les missions visées aux 2° à 4° de l'article 4,
-le 6° de l'article 42 en tant qu'il supprime, aux articles LO 489, LO 516 et LO 544 du code électoral, la référence au
-Défenseur des enfants.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -20795,14 +20775,14 @@ _Codifié par_:
 _Cite_:
 
   - Loi n°88-227 du 11 mars 1988
-  - Code électoral - art. L118-3 (V)
-  - Code électoral - art. LO136-1 (V)
-  - Code électoral - art. LO136-3 (V)
+  - Code électoral - art. L118-3
+  - Code électoral - art. LO136-1
+  - Code électoral - art. LO136-3
   - Code général des collectivités territoriales - art. LO6431-3
 
 _Modifié par_:
 
-  - Loi organique n°2011-410 du 14 avril 2011 - art. 6
+  - Loi organique n°2013-906 du 11 octobre 2013 - art. 5
 
 _Cité par_:
 
