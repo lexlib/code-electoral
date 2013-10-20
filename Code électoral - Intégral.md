@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2013-10-13
+Version Consolidée au 2013-10-21
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers généraux et des conseillers municipaux (art. L1 à L273)](#2)
@@ -175,11 +175,11 @@ et durée du mandat (art. L558-1 à L558-2)](#150)
       - [Titre Ier  : Dispositions communes à l'élection des députés, des conseillers généraux et des conseillers municipaux (art. R1 à R97)](#170)
         - [Chapitre II : Listes électorales (art. R1 à R25)](#171)
           - [Section 1 : Conditions d'inscription sur une liste électorale (art. R1 à R2)](#172)
-          - [Section 2 : Etablissement et révision des listes électorales (art. R3 à R17-1)](#173)
-          - [Section 3 : Inscription en dehors des périodes de révision (art. R17-2)](#174)
-          - [Section 4 : Contrôle des inscriptions sur les listes électorales (art. R17 à R22)](#175)
-          - [Section 6 : Cartes électorales (art. R23 à R25)](#176)
-        - [Chapitre II bis : Chiffre de la population à retenir en matière électorale (art. R25-1)](#177)
+          - [Section 2 : Etablissement et révision des listes électorales (art. R3 à R16)](#173)
+          - [Section 4 : Contrôle des inscriptions sur les listes électorales (art. R17 à R22)](#174)
+          - [Section 6 : Cartes électorales (art. R23 à R25)](#175)
+        - [Chapitre II bis : Chiffre de la population à retenir en matière électorale (art.  à R25)](#176)
+        - [Chapitre II bis : Dispositions générales en matière électorale (art. R25-1 à R25-2)](#177)
         - [Chapitre V : Propagande (art. R26 à R39)](#178)
         - [Chapitre V bis : Financement et plafonnement des dépenses électorales (art. R39-1 à R39-10)](#179)
         - [Chapitre VI : Vote (art. R40 à R93-3)](#180)
@@ -23585,9 +23585,10 @@ la liste générale de la commune.
 La liste électorale et le tableau définitif des rectifications apportées à la précédente liste électorale sont déposés en
 mairie.
 
-Le maire transmet sans délai au préfet une copie de la liste électorale générale de la commune soit sur support papier, soit
-sur support informatique, accompagnée d'une copie du ou des tableaux définitifs des rectifications apportées à la précédente
-liste électorale.
+Le maire transmet dans les huit jours au préfet une copie de la liste électorale générale de la commune soit sur support
+papier, soit sur support informatique, soit par voie dématérialisée dans les conditions fixées par un arrêté du ministre de
+l'intérieur, accompagnée d'une copie du ou des tableaux définitifs des rectifications apportées à la précédente liste
+électorale. 
 
 A la demande du préfet, le maire lui transmet la liste électorale établie par bureau de vote.
 
@@ -23599,7 +23600,7 @@ commercial.
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Cité par_:
 
@@ -23614,90 +23615,10 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 1 () JORF 13 octobre 2006
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+  - Décret n°2013-938 du 18 octobre 2013 - art. 41
 
 
-###### Article R17-1
-
-Les délais prévus aux articles L. 20, R. 8, R. 10, R. 12, R. 13 et R. 15-1 sont calculés et prorogés conformément aux
-dispositions des articles 640,641 et 642 du code de procédure civile.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°76-950 du 14 octobre 1976 - art. 15 (Ab)
-  - Décret n°90-1163 du 24 décembre 1990 - art. 6 (Ab)
-  - Décret n°2000-255 du 20 mars 2000 - art. 13 (Ab)
-  - Code électoral - art. R*17-2 (M)
-  - Code électoral - art. R219 (V)
-
-_Modifié par_:
-
-  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
-
-_Abrogé par_:
-
-  - Décret n°2013-938 du 18 octobre 2013 - art. 42
-
-_Cite_:
-
-  - Code électoral - art. L20
-  - Code électoral - art. R*10
-  - Code électoral - art. R*12
-  - Code électoral - art. R*8
-  - Code électoral - art. R15-1
-  - Code de procédure civile - art. 640
-
-
-##### Section 3 : Inscription en dehors des périodes de révision<a id=174></a>
-
-###### Article R17-2
-
-Les délais prévus aux articles L. 31 à L. 35 sont calculés et prorogés conformément aux dispositions des articles 640,641 et
-642 du code de procédure civile.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°2005-237 du 17 mars 2005 - art. 6 (V)
-  - Décret n°2007-227 du 21 février 2007 - art. 2 (V)
-  - Décret n°2007-589 du 24 avril 2007 - art. 4 (V)
-  - Décret n°2007-1468 du 15 octobre 2007 - art. 2 (V)
-  - Décret n°2007-1469 du 15 octobre 2007 - art. 2 (V)
-  - Décret n°2007-1523 du 25 octobre 2007 - art. 2 (V)
-  - Décret n°2007-1751 du 14 décembre 2007 - art. 2 (V)
-  - Décret n°2008-153 du 20 février 2008 - art. 2 (V)
-  - Décret n°2008-307 du 3 avril 2008 - art. 2 (V)
-  - Décret n°2008-329 du 9 avril 2008 - art. 2 (V)
-  - Décret n°2008-725 du 22 juillet 2008 - art. 2 (V)
-  - Décret n°2008-1039 du 8 octobre 2008 - art. 2 (V)
-  - Décret n°2008-1079 du 22 octobre 2008 - art. 2 (V)
-  - Décret n°2009-1021 du 26 août 2009 - art. 2 (V)
-  - Décret n°2012-256 du 22 février 2012 - art. 2 (V)
-  - Décret n°2012-558 du 25 avril 2012 - art. 3 (V)
-  - Décret n°2014-396 du 11 avril 2014 - art. 2 (V)
-  - Décret n°2014-458 du 7 mai 2014 - art. 2 (V)
-  - Décret n°2014-468 du 9 mai 2014 - art. 2 (V)
-  - Décret n°2014-491 du 16 mai 2014 - art. 2 (V)
-
-_Modifié par_:
-
-  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
-
-_Abrogé par_:
-
-  - Décret n°2013-938 du 18 octobre 2013 - art. 42
-
-_Cite_:
-
-  - Code électoral - art. L31
-  - Code de procédure civile - art. 640
-
-
-##### Section 4 : Contrôle des inscriptions sur les listes électorales<a id=175></a>
+##### Section 4 : Contrôle des inscriptions sur les listes électorales<a id=174></a>
 
 ###### Article R17
 
@@ -24060,7 +23981,7 @@ _Modifié par_:
   - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
 
 
-##### Section 6 : Cartes électorales<a id=176></a>
+##### Section 6 : Cartes électorales<a id=175></a>
 
 ###### Article R23
 
@@ -24187,7 +24108,9 @@ _Modifié par_:
   - Décret n°2007-1670 du 26 novembre 2007 - art. 2 () JORF 28 novembre 2007
 
 
-#### Chapitre II bis : Chiffre de la population à retenir en matière électorale<a id=177></a>
+#### Chapitre II bis : Chiffre de la population à retenir en matière électorale<a id=176></a>
+
+#### Chapitre II bis : Dispositions générales en matière électorale<a id=177></a>
 
 ###### Article R25-1
 
@@ -24214,6 +24137,29 @@ _Cite_:
 
   - Code électoral - art. L252
   - Code électoral - art. L261
+
+
+###### Article R25-2
+
+Sauf dispositions contraires, la computation des délais prévus au présent code est faite conformément aux dispositions des
+articles 640, 641 et 642 du code de procédure civile.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2013-938 du 18 octobre 2013 - art. 42
+
+_Cité par_:
+
+  - Décret n°2014-127 du 14 février 2014 - art. 3 (V)
+  - Décret n°2018-350 du 14 mai 2018 - art. 3
+  - Code de l'environnement - art. R123-49 (VD)
+  - Code électoral - art. R21 (VD)
+
+_Cite_:
+
+  - Code de procédure civile - art. 640
 
 
 #### Chapitre V : Propagande<a id=178></a>
@@ -25195,8 +25141,7 @@ _Cite_:
 Le scrutin est ouvert à huit heures et clos le même jour à dix-huit heures.
 
 Toutefois, pour faciliter aux électeurs l'exercice de leur droit de vote, les préfets pourront prendre des arrêtés à l'effet
-d'avancer l'heure d'ouverture du scrutin dans certaines communes ou de retarder son heure de clôture dans l'ensemble d'une
-même circonscription électorale ou, pour les élections régionales et à l'Assemblée de Corse, dans certaines communes.
+d'avancer l'heure d'ouverture du scrutin ou de retarder son heure de clôture dans certaines communes.
 
 Les arrêtés spéciaux pris par les préfets en vertu de l'alinéa précédent seront publiés et affichés, dans chaque commune
 intéressée, au plus tard le cinquième jour avant celui de la réunion des électeurs.
@@ -25205,7 +25150,7 @@ intéressée, au plus tard le cinquième jour avant celui de la réunion des él
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Cité par_:
 
@@ -25353,7 +25298,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 9 () JORF 13 octobre 2006
+  - Décret n°2013-938 du 18 octobre 2013 - art. 43
 
 
 ##### Section 2 : Opérations de vote<a id=182></a>
