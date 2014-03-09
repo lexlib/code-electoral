@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2014-03-01
+Version Consolidée au 2014-03-10
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers généraux et des conseillers municipaux (art. L1 à L273)](#2)
@@ -274,7 +274,7 @@ et durée du mandat (art. L558-1 à L558-2)](#150)
       - [Titre VI : Dispositions applicables à l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française (art. R265 à R270)](#269)
         - [Chapitre Ier : Dispositions communes (art. R265)](#270)
         - [Chapitre II : Dispositions particulières à la Nouvelle-Calédonie (art. R267)](#271)
-        - [Chapitre III : Dispositions particulières à la Polynésie française (art. R270)](#272)
+        - [Chapitre III : Dispositions particulières à la Polynésie française (art. R268 à R270)](#272)
       - [Titre VII : Dispositions applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et  Futuna (art. R271 à R283)](#273)
         - [Chapitre Ier : Dispositions générales (art. R271 à R272)](#274)
         - [Chapitre II : Régime des inéligibilités (art. R**273)](#275)
@@ -34637,6 +34637,49 @@ _Créé par_:
 
 #### Chapitre III : Dispositions particulières à la Polynésie française<a id=272></a>
 
+###### Article R268
+
+I. - Pour l'application du quatrième alinéa de l'article R. 28 et du premier alinéa de l'article R. 124 aux communes de la
+Polynésie française, les mots : " communes de moins de 1 000 habitants " sont complétés par les mots : " et dans les communes
+de moins de 3 500 habitants composées de communes associées ainsi que dans les communes de 3 500 habitants et plus composées
+d'au moins une commune associée de moins de 1 000 habitants. " (Le reste sans changement). 
+
+II. - Pour son application aux communes de la Polynésie française, l'article R. 117-4 est ainsi rédigé : 
+
+" R. 117-4.-Dans les communes de 1 000 habitants et plus n'ayant pas de communes associées et dans les communes de 3 500
+habitants et plus composées de communes associées dont chaque commune associée compte 1 000 habitants et plus, les bulletins
+de vote doivent comporter le titre de la liste ainsi que les nom et prénom de chaque candidat composant la liste dans l'ordre
+de présentation et, pour tout candidat ressortissant d'un Etat membre de l'Union européenne autre que la France, l'indication
+de sa nationalité. "
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2014-310 du 7 mars 2014 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R117-4 (V)
+  - Code électoral - art. R124
+  - Code électoral - art. R28
+
+
+###### Article R269
+
+L'article R. 127-1 est applicable à toutes les communes composées de communes associées.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2014-310 du 7 mars 2014 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R127-1 (V)
+
+
 ###### Article R270
 
 Les résultats des scrutins sont publiés au Journal officiel de la Polynésie française.
@@ -34696,6 +34739,23 @@ _Cité par_:
 
   - Arrêté du 3 septembre 2014 (V)
   - Arrêté du 26 septembre 2014 (V)
+
+
+###### Article R271-1
+
+Pour l'application du premier alinéa de l'article R. 137 en Polynésie française, après les mots : " Dans les communes de 1
+000 habitants et plus " sont insérés les mots : " n'ayant pas de communes associées et dans les communes de 3 500 habitants
+et plus composées de communes associées dont chaque commune associée compte 1 000 habitants et plus ".
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2014-310 du 7 mars 2014 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. R137 (V)
 
 
 ###### Article R272
