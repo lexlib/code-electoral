@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2014-04-01
+Version Consolidée au 2014-05-28
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires (art. L1 à L273-12)](#2)
@@ -224,7 +224,7 @@ et durée du mandat (art. L558-1 à L558-2)](#158)
           - [Section 2 : Opérations préparatoires au scrutin (art. R129 à R130)](#217)
     - [Livre II  : Election des sénateurs des départements (art. R130-1 à R171)](#218)
       - [Titre II : Composition du collège électoral (art. R130-1)](#219)
-      - [Titre III : Désignation des délégués des conseils municipaux (art. R131 à R148)](#220)
+      - [Titre III : Désignation des délégués des conseils municipaux (art. R*136 à R148)](#220)
       - [Titre III bis : Désignation des délégués à l'Assemblée de Corse (art. R148-1 à R148-3)](#221)
       - [Titre IV : Election des sénateurs (art. R149 à R171)](#222)
         - [Chapitre IV : Déclarations de candidatures (art. R149 à R153)](#223)
@@ -29241,6 +29241,39 @@ _Cité par_:
 
 ### Titre III : Désignation des délégués des conseils municipaux<a id=220></a>
 
+###### Article R*136
+
+Pour l'application du présent titre, la population à prendre en compte est celle prévue au premier alinéa de l'article R.
+25-1. 
+
+L'effectif du conseil municipal à prendre en compte pour l'application de l'article L. 284 est celui qui résulte du dernier
+renouvellement du conseil municipal.
+
+**Nota:**
+
+Cet article a été modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n° 2013-403 du 17 mai
+2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et
+modifiant le calendrier électoral. Conformément à son article 71, l’article dans sa version modifiée par le décret du 18
+octobre 2013 s’applique à compter du prochain renouvellement des mandats des sénateurs dans les départements de la série 2
+prévu en 2014, y compris aux opérations préparatoires à ce scrutin. Le décret n° 2014-532 du 26 mai 2014 a fixé cette date au
+28 septembre 2014.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1087 du 27 octobre 1964
+
+_Modifié par_:
+
+  - Décret n°2013-938 du 18 octobre 2013 - art. 44
+
+_Cite_:
+
+  - Code électoral - art. L284
+  - Code électoral - art. R25-1
+
+
 ###### Article R131
 
 Le décret convoquant les électeurs sénatoriaux convoque également les conseils municipaux en vue de la désignation de leurs
@@ -29342,36 +29375,37 @@ _Cite_:
 
 ###### Article R137
 
-Dans les communes de 3 500 habitants et plus, les listes de candidats doivent être déposées auprès du bureau électoral prévu
-à l'article R. 133 avant l'ouverture du scrutin en vue de l'élection des délégués et des suppléants. 
+Dans les communes de 1 000 habitants et plus, les listes de candidats doivent être déposées auprès du maire aux date et heure
+fixées pour la séance au cours de laquelle le conseil municipal est appelé à élire les délégués et les suppléants. 
 
-Les listes de candidats ainsi déposées doivent indiquer : 
+Les listes de candidats ainsi déposées doivent indiquer :
 
-1° Le titre de la liste présentée ; 
+1° Le titre de la liste présentée ;
 
 2° Les nom, prénoms, domicile, date et lieu de naissance ainsi que l'ordre de présentation des candidats.
 
 **Nota:**
 
-Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
-2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
-communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées en 2014 à l’occasion du
-renouvellement des mandats des sénateurs dans les départements de la série 2, y compris aux opérations préparatoires à ce
-scrutin.
+Cet article a été modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n° 2013-403 du 17 mai
+2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et
+modifiant le calendrier électoral. Conformément à son article 71, l’article dans sa version modifiée par le décret du 18
+octobre 2013 s’applique à compter du prochain renouvellement des mandats des sénateurs dans les départements de la série 2
+prévu en 2014, y compris aux opérations préparatoires à ce scrutin. Le décret n° 2014-532 du 26 mai 2014 a fixé cette date au
+28 septembre 2014.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+  - Décret n°2013-938 du 18 octobre 2013 - art. 45
 
 _Cite_:
 
-  - Code électoral - art. R133 (V)
+  - Code électoral - art. R*133
 
 _Cité par_:
 
@@ -29399,15 +29433,6 @@ communautaires, et modifiant le calendrier électoral s’appliquera aux électi
 renouvellement des mandats des sénateurs dans les départements de la série 2, y compris aux opérations préparatoires à ce
 scrutin.
 
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
 
 
 ###### Article R140
@@ -29493,26 +29518,27 @@ _Cite_:
 Dans les communes où la désignation des délégués a lieu à la représentation proportionnelle, le procès-verbal doit indiquer
 la liste au titre de laquelle les délégués et suppléants ont été élus.
 
-Le procès-verbal mentionne l'acceptation ou le refus des délégués et suppléants présents, ainsi que les protestations qui
-auraient été élevées contre la régularité de l'élection par un ou plusieurs membres du conseil municipal.
+Le procès-verbal mentionne l'acceptation ou le refus des délégués et suppléants présents ainsi que les observations
+éventuelles des membres du conseil municipal au sujet de la régularité de l'élection.
 
 **Nota:**
 
-Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
-2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
-communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées en 2014 à l’occasion du
-renouvellement des mandats des sénateurs dans les départements de la série 2, y compris aux opérations préparatoires à ce
-scrutin.
+Cet article a été modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n° 2013-403 du 17 mai
+2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et
+modifiant le calendrier électoral. Conformément à son article 71, l’article dans sa version modifiée par le décret du 18
+octobre 2013 s’applique à compter du prochain renouvellement des mandats des sénateurs dans les départements de la série 2
+prévu en 2014, y compris aux opérations préparatoires à ce scrutin. Le décret n° 2014-532 du 26 mai 2014 a fixé cette date au
+28 septembre 2014.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+  - Décret n°2013-938 du 18 octobre 2013 - art. 47
 
 
 ###### Article R144
@@ -29555,26 +29581,27 @@ _Modifié par_:
 
 ###### Article R146
 
-Le tableau des électeurs sénatoriaux est établi par le préfet et rendu public dans les quatre jours suivant l'élection des
-délégués et de leurs suppléants.
+Le tableau des électeurs sénatoriaux est établi par le préfet et rendu public au plus tard le septième jour suivant
+l'élection des délégués et de leurs suppléants.
 
 **Nota:**
 
-Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
-2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
-communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées en 2014 à l’occasion du
-renouvellement des mandats des sénateurs dans les départements de la série 2, y compris aux opérations préparatoires à ce
-scrutin.
+Cet article a été modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n° 2013-403 du 17 mai
+2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et
+modifiant le calendrier électoral. Conformément à son article 71, l’article dans sa version modifiée par le décret du 18
+octobre 2013 s’applique à compter du prochain renouvellement des mandats des sénateurs dans les départements de la série 2
+prévu en 2014, y compris aux opérations préparatoires à ce scrutin. Le décret n° 2014-532 du 26 mai 2014 a fixé cette date au
+28 septembre 2014.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+  - Décret n°2013-938 du 18 octobre 2013 - art. 48
 
 
 ###### Article R147
@@ -29708,26 +29735,37 @@ _Cite_:
 Dans les départements où les élections ont lieu au scrutin majoritaire, les candidats peuvent se présenter soit isolément,
 soit sur une liste.
 
-En cas de décès de l'un des candidats au cours de la campagne électorale, les autres candidats de la liste auront le droit de
-le remplacer jusqu'à la veille de l'ouverture du scrutin par un nouveau candidat au rang qui leur conviendra.
+En cas de décès d'un candidat isolé, son remplaçant devient candidat et peut désigner un nouveau remplaçant. 
+
+En cas de décès d'un candidat d'une liste, les autres candidats de la liste peuvent désigner un nouveau candidat au rang de
+leur choix. Celui-ci peut désigner un nouveau remplaçant. 
+
+En cas de décès d'un remplaçant, le candidat peut désigner un nouveau remplaçant. 
+
+Les désignations prévues aux trois alinéas précédents doivent intervenir dans les formes prévues pour la déclaration de
+candidature et au plus tard la veille du scrutin. 
+
+La désignation d'un nouveau remplaçant est obligatoire si le décès a eu lieu avant le dépôt d'une déclaration de candidature
+en vue du second tour.
 
 **Nota:**
 
-Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
-2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
-communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées en 2014 à l’occasion du
-renouvellement des mandats des sénateurs dans les départements de la série 2, y compris aux opérations préparatoires à ce
-scrutin.
+Cet article a été modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n° 2013-403 du 17 mai
+2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et
+modifiant le calendrier électoral. Conformément à son article 71, l’article dans sa version modifiée par le décret du 18
+octobre 2013 s’applique à compter du prochain renouvellement des mandats des sénateurs dans les départements de la série 2
+prévu en 2014, y compris aux opérations préparatoires à ce scrutin. Le décret n° 2014-532 du 26 mai 2014 a fixé cette date au
+28 septembre 2014.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+  - Décret n°2013-938 du 18 octobre 2013 - art. 49
 
 _Cité par_:
 
@@ -29785,24 +29823,26 @@ jour de ce scrutin.
 Les déclarations de candidatures pour le deuxième tour doivent être déposées à la préfecture le jour du scrutin au plus tard
 à quinze heures et affichées dans la salle de vote avant quinze heures trente.
 
+Les candidatures ne peuvent être retirées après l'expiration du délai prévu pour le dépôt des déclarations de candidature.
+
 **Nota:**
 
-Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
-2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
-communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées en 2014 à l’occasion du
-renouvellement des mandats des sénateurs dans les départements de la série 2, y compris aux opérations préparatoires à ce
-scrutin.
+Cet article a été modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n° 2013-403 du 17 mai
+2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et
+modifiant le calendrier électoral. Conformément à son article 71, l’article dans sa version modifiée par le décret du 18
+octobre 2013 s’applique à compter du prochain renouvellement des mandats des sénateurs dans les départements de la série 2
+prévu en 2014, y compris aux opérations préparatoires à ce scrutin. Le décret n° 2014-532 du 26 mai 2014 a fixé cette date au
+28 septembre 2014.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 3 () JORF 13 octobre 2006
+  - Décret n°2013-938 du 18 octobre 2013 - art. 50
 
 _Cité par_:
 
@@ -29905,8 +29945,8 @@ _Cite_:
 Au plus tard le troisième lundi précédant le scrutin, un arrêté préfectoral institue une commission de propagande qui est
 chargée : 
 
-1° D'adresser, au plus tard le mercredi précédant le scrutin, à tous les membres du collège électoral, sous enveloppe fermée,
-une circulaire accompagnée d'un bulletin de vote de chaque candidat ou de chaque liste de candidats ; 
+1° D'adresser, au plus tard le mercredi précédant le scrutin, à tous les membres du collège électoral une circulaire
+accompagnée d'un bulletin de vote de chaque candidat ou de chaque liste de candidats ; 
 
 2° De mettre en place au lieu de l'élection et avant l'ouverture du scrutin les bulletins de vote de chaque candidat ou liste
 de candidats, en nombre au moins égal au nombre des membres du collège électoral ; 
@@ -29920,17 +29960,18 @@ départements où il est fait utilisation d'une machine à voter.
 
 **Nota:**
 
-Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
-2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
-communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées en 2014 à l’occasion du
-renouvellement des mandats des sénateurs dans les départements de la série 2, y compris aux opérations préparatoires à ce
-scrutin.
+Cet article a été modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n° 2013-403 du 17 mai
+2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et
+modifiant le calendrier électoral. Conformément à son article 71, l’article dans sa version modifiée par le décret du 18
+octobre 2013 s’applique à compter du prochain renouvellement des mandats des sénateurs dans les départements de la série 2
+prévu en 2014, y compris aux opérations préparatoires à ce scrutin. Le décret n° 2014-532 du 26 mai 2014 a fixé cette date au
+28 septembre 2014.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Cité par_:
 
@@ -29942,12 +29983,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 6 () JORF 13 octobre 2006
+  - Décret n°2013-938 du 18 octobre 2013 - art. 51
 
 _Cite_:
 
-  - Code électoral - art. R155 (V)
+  - Code électoral - art. R*155
 
 
 ###### Article R158
@@ -29958,9 +29998,9 @@ Cette commission, instituée par arrêté préfectoral, comprend :
 
 - un fonctionnaire désigné par préfet ;
 
-- un fonctionnaire désigné par le directeur des postes et télécommunications.
+- un représentant de l'opérateur chargé de l'envoi de la propagande. 
 
-Un suppléant du président peut être désigné dans les mêmes conditions.
+Un suppléant du président et de chaque membre peut être désigné dans les mêmes conditions.
 
 Chaque candidat ou liste de candidats peut désigner un mandataire qui participe aux travaux de la commission avec voix
 consultative.
@@ -29969,11 +30009,12 @@ Le secrétariat est assuré par un fonctionnaire désigné par le préfet.
 
 **Nota:**
 
-Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
-2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
-communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées en 2014 à l’occasion du
-renouvellement des mandats des sénateurs dans les départements de la série 2, y compris aux opérations préparatoires à ce
-scrutin.
+Cet article a été modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n° 2013-403 du 17 mai
+2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et
+modifiant le calendrier électoral. Conformément à son article 71, l’article dans sa version modifiée par le décret du 18
+octobre 2013 s’applique à compter du prochain renouvellement des mandats des sénateurs dans les départements de la série 2
+prévu en 2014, y compris aux opérations préparatoires à ce scrutin. Le décret n° 2014-532 du 26 mai 2014 a fixé cette date au
+28 septembre 2014.
 
 **Liens relatifs à cet article**
 
@@ -29983,7 +30024,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2013-703 du 1er août 2013 - art. 3
+  - Décret n°2013-938 du 18 octobre 2013 - art. 52
 
 _Cité par_:
 
@@ -30090,36 +30131,54 @@ _Cité par_:
 ###### Article R162
 
 La liste des électeurs du département est dressée par ordre alphabétique par le préfet. Cette liste comprend les députés, les
-conseillers régionaux, conseillers généraux et les délégués des conseils municipaux désignés dans les conditions prévues au
-titre III du présent livre. 
+conseillers régionaux, conseillers départementaux et les délégués des conseils municipaux désignés dans les conditions
+prévues au titre III du présent livre. 
+
+Sont mentionnés dans cette liste :
+
+- les nom et prénoms des électeurs ;
+
+- les date et lieu de naissance ;
+
+- la qualité ;
+
+- l'adresse ;
+
+- les nom et prénoms du mandataire des délégués autorisés à voter par procuration. 
 
 Le préfet peut modifier la liste jusqu'à sa division en sections de vote mentionnée à l'article R. 164, pour tenir compte des
 remplacements de délégués prévus par la loi. 
 
-Dès qu'elle est arrêtée, la liste peut être communiquée à tout électeur qui en fait la demande. Elle peut être copiée et
-publiée.
+Les suppléants des délégués des conseils municipaux sont portés sur la liste en cas de décès ou de perte des droits civiques
+et politiques du délégué ou en cas d'empêchement majeur invoqué par le délégué au regard des dispositions des a et c de
+l'article L. 71. Le représentant de l'Etat avise immédiatement le délégué dont la demande de remplacement n'est pas valable. 
+
+Dès qu'elle est arrêtée, la liste peut être communiquée à tout membre du collège électoral et à tout candidat qui en fait la
+demande. Elle peut être copiée et publiée.
 
 **Nota:**
 
-Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
-2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
-communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées en 2014 à l’occasion du
-renouvellement des mandats des sénateurs dans les départements de la série 2, y compris aux opérations préparatoires à ce
-scrutin.
+Cet article a été modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n° 2013-403 du 17 mai
+2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et
+modifiant le calendrier électoral. Conformément à son article 71, l’article dans sa version modifiée par le décret du 18
+octobre 2013 s’applique à compter du prochain renouvellement des mandats des sénateurs dans les départements de la série 2
+prévu en 2014, y compris aux opérations préparatoires à ce scrutin. Le décret n° 2014-532 du 26 mai 2014 a fixé cette date au
+28 septembre 2014.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°2007-1670 du 26 novembre 2007 - art. 8 () JORF 28 novembre 2007
+  - Décret n°2013-938 du 18 octobre 2013 - art. 53
 
 _Cite_:
 
-  - Code électoral - art. R164 (V)
+  - Code électoral - art. L71
+  - Code électoral - art. R*164
 
 _Cité par_:
 
@@ -30243,33 +30302,35 @@ _Cité par_:
 
 ###### Article R165
 
-Le bureau du collège électoral constitue le bureau de la première section. Les présidents et assesseurs des autres sections
-sont nommés par le bureau. Ils sont pris, ainsi que le secrétaire, parmi les électeurs de la section. 
+Le bureau du collège électoral constitue le bureau de la première section. Les bureaux des autres sections sont composés d'un
+président, d'au moins deux assesseurs et d'un secrétaire. Ils sont nommés par le bureau du collège électoral parmi les
+électeurs de la section. 
 
 Un assesseur est chargé dans chaque section de vote de veiller à l'application des dispositions prévues au dernier alinéa de
 l'article L. 314-1.
 
 **Nota:**
 
-Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
-2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
-communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées en 2014 à l’occasion du
-renouvellement des mandats des sénateurs dans les départements de la série 2, y compris aux opérations préparatoires à ce
-scrutin.
+Cet article a été modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n° 2013-403 du 17 mai
+2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et
+modifiant le calendrier électoral. Conformément à son article 71, l’article dans sa version modifiée par le décret du 18
+octobre 2013 s’applique à compter du prochain renouvellement des mandats des sénateurs dans les départements de la série 2
+prévu en 2014, y compris aux opérations préparatoires à ce scrutin. Le décret n° 2014-532 du 26 mai 2014 a fixé cette date au
+28 septembre 2014.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+  - Décret n°2013-938 du 18 octobre 2013 - art. 54
 
 _Cite_:
 
-  - Code électoral - art. L314-1 (V)
+  - Code électoral - art. L314-1
 
 
 ###### Article R166
@@ -30277,10 +30338,10 @@ _Cite_:
 Le président de chaque section a la police de l'assemblée qu'il préside. 
 
 Il exerce ses pouvoirs conformément aux dispositions législatives et réglementaires en vigueur, et notamment aux dispositions
-de l'article R. 49. 
+de l'article R. 49, R. 51, R. 52 et R. 60. 
 
-Les membres du bureau et les électeurs composant le collège électoral du département, les candidats ou leurs représentants
-ont seuls accès aux salles de vote. 
+Les membres du bureau et les électeurs composant le collège électoral du département, les candidats ou leurs représentants et
+les représentants du préfet ont seuls accès aux salles de vote. 
 
 Le bureau statue sur toutes les difficultés et contestations qui peuvent s'élever au cours de l'élection. 
 
@@ -30289,26 +30350,28 @@ qualité.
 
 **Nota:**
 
-Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
-2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
-communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées en 2014 à l’occasion du
-renouvellement des mandats des sénateurs dans les départements de la série 2, y compris aux opérations préparatoires à ce
-scrutin.
+Cet article a été modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n° 2013-403 du 17 mai
+2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et
+modifiant le calendrier électoral. Conformément à son article 71, l’article dans sa version modifiée par le décret du 18
+octobre 2013 s’applique à compter du prochain renouvellement des mandats des sénateurs dans les départements de la série 2
+prévu en 2014, y compris aux opérations préparatoires à ce scrutin. Le décret n° 2014-532 du 26 mai 2014 a fixé cette date au
+28 septembre 2014.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 11 () JORF 13 octobre 2006
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+  - Décret n°2013-938 du 18 octobre 2013 - art. 55
 
 _Cite_:
 
-  - Code électoral - art. R49 (V)
+  - Code électoral - art. R49
+  - Code électoral - art. R51
+  - Code électoral - art. R60
 
 
 ###### Article R167
@@ -30451,33 +30514,29 @@ _Cite_:
 ###### Article R171
 
 Les membres du collège électoral qui auront pris part au scrutin bénéficieront, à l'occasion de leur déplacement au chef-lieu
-du département, d'une indemnité forfaitaire représentative de frais égale à l'indemnité pour frais de mission allouée aux
-personnels civils de l'Etat du groupe I, cette allocation ne pouvant en aucun cas être inférieure à une fois le taux de base.
-
-Ils pourront également prétendre au remboursement, dans les mêmes conditions que les fonctionnaires de l'Etat visés à
-l'alinéa précédent, de leurs frais de transport : s'ils sont domiciliés dans le département, de leur domicile au chef-lieu ;
-s'ils n'y sont pas domiciliés, de la commune dont ils sont délégués ou du chef-lieu de canton qu'ils représentent, au chef-
-lieu.
+du département, d'une indemnité forfaitaire destinée à compenser leurs frais de mission et de transport dont le montant est
+déterminé par arrêté conjoint du ministre de l'intérieur et du ministre chargé de l'économie. 
 
 Ces dispositions ne s'appliquent pas aux électeurs de droit qui reçoivent au titre de leur mandat une indemnité annuelle.
 
 **Nota:**
 
-Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
-2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
-communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées en 2014 à l’occasion du
-renouvellement des mandats des sénateurs dans les départements de la série 2, y compris aux opérations préparatoires à ce
-scrutin.
+Cet article a été modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n° 2013-403 du 17 mai
+2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et
+modifiant le calendrier électoral. Conformément à son article 71, l’article dans sa version modifiée par le décret du 18
+octobre 2013 s’applique à compter du prochain renouvellement des mandats des sénateurs dans les départements de la série 2
+prévu en 2014, y compris aux opérations préparatoires à ce scrutin. Le décret n° 2014-532 du 26 mai 2014 a fixé cette date au
+28 septembre 2014.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+  - Décret n°2013-938 du 18 octobre 2013 - art. 56
 
 _Cité par_:
 
@@ -34799,8 +34858,8 @@ _Créé par_:
 ###### Article R271
 
 Sont applicables à l'élection des sénateurs en Nouvelle-Calédonie et en Polynésie française, dans leur rédaction en vigueur à
-la date du décret n° 2012-374 du 16 mars 2012, les dispositions suivantes du livre II du code électoral (partie
-réglementaire) : 
+la date du décret n° 2013-938 du 18 octobre 2013, les dispositions suivantes du livre II du code électoral (partie
+Réglementaire) : 
 
 1° Titre III, à l'exception des articles R. 130-1, R. 150, R. 151, R. 164-1 et R. 169 ; 
 
@@ -34810,32 +34869,31 @@ réglementaire) :
 
 **Nota:**
 
-Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
-2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
-communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées en 2014 à l’occasion du
-renouvellement des mandats des sénateurs dans les départements de la série 2, y compris aux opérations préparatoires à ce
-scrutin.
+Cet article a été modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n° 2013-403 du 17 mai
+2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et
+modifiant le calendrier électoral. Conformément à son article 71, l’article dans sa version modifiée par le décret du 18
+octobre 2013 s’applique à compter du prochain renouvellement des mandats des sénateurs dans les départements de la série 2
+prévu en 2014, y compris aux opérations préparatoires à ce scrutin. Le décret n° 2014-532 du 26 mai 2014 a fixé cette date au
+28 septembre 2014.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Décret n°2012-374 du 16 mars 2012 (V)
-  - Code électoral - art. R*130-1
-  - Code électoral - art. R*150
-  - Code électoral - art. R*151
-  - Code électoral - art. R*164
-  - Code électoral - art. R*164-1
-  - Code électoral - art. R*169
-
 _Modifié par_:
 
-  - Décret n°2012-374 du 16 mars 2012 - art. 4
+  - Décret n°2013-938 du 18 octobre 2013 - art. 64
 
 _Cité par_:
 
   - Arrêté du 3 septembre 2014 (V)
   - Arrêté du 26 septembre 2014 (V)
+
+_Cite_:
+
+  - Code électoral - art. R*130-1
+  - Code électoral - art. R*150
+  - Code électoral - art. R*151
+  - Code électoral - art. R*164-1
+  - Code électoral - art. R*169
 
 
 ###### Article R271-1
@@ -34858,7 +34916,7 @@ _Cite_:
 ###### Article R272
 
 Sont applicables à l'élection des sénateurs dans les îles Wallis et Futuna, dans leur rédaction en vigueur à la date du
-décret n° 2012-220 du 16 février 2012, les dispositions suivantes du livre II du code électoral (partie réglementaire) : 
+décret n° 2013-938 du 18 octobre 2013, les dispositions suivantes du livre II du code électoral (partie réglementaire) : 
 
 1° Chapitres Ier et IV à VII du titre IV, à l'exception de l'article R. 154 ; 
 
@@ -34866,27 +34924,26 @@ décret n° 2012-220 du 16 février 2012, les dispositions suivantes du livre II
 
 **Nota:**
 
-Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
-2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
-communautaires, et modifiant le calendrier électoral s’appliquera aux élections organisées en 2014 à l’occasion du
-renouvellement des mandats des sénateurs dans les départements de la série 2, y compris aux opérations préparatoires à ce
-scrutin.
+Cet article a été modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n° 2013-403 du 17 mai
+2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et
+modifiant le calendrier électoral. Conformément à son article 71, l’article dans sa version modifiée par le décret du 18
+octobre 2013 s’applique à compter du prochain renouvellement des mandats des sénateurs dans les départements de la série 2
+prévu en 2014, y compris aux opérations préparatoires à ce scrutin.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Décret n°2012-220 du 16 février 2012
-  - Code électoral - art. R*154
-
 _Modifié par_:
 
-  - Décret n°2012-220 du 16 février 2012 - art. 4
+  - Décret n°2013-938 du 18 octobre 2013 - art. 66
 
 _Cité par_:
 
   - Arrêté du 3 septembre 2014 (V)
   - Arrêté du 26 septembre 2014 (V)
+
+_Cite_:
+
+  - Code électoral - art. R*154
 
 
 #### Chapitre II : Régime des inéligibilités<a id=284></a>
