@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2014-05-30
+Version Consolidée au 2014-06-20
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires (art. L1 à L273-12)](#2)
@@ -29815,37 +29815,33 @@ _Modifié par_:
 
 ###### Article R130-1
 
-Les personnes appelées à remplacer les députés, les conseillers régionaux, les conseillers à l'Assemblée de Corse et les
-conseillers généraux dans les conditions prévues par l'article L. 282 doivent être désignées préalablement à l'élection des
-délégués des conseils municipaux et de leurs suppléants. 
+Les personnes appelées à remplacer les députés, les sénateurs, les conseillers régionaux, les conseillers à l'Assemblée de
+Corse et les conseillers généraux dans les conditions prévues par l'article L. 282 doivent être désignées préalablement à
+l'élection des délégués des conseils municipaux et de leurs suppléants. 
 
 Le président du conseil général, le président du conseil régional ou le président de l'Assemblée de Corse en accuse réception
-aux députés, aux conseillers régionaux, aux conseillers à l'Assemblée de Corse ou aux conseillers généraux remplacés et les
-notifie au préfet dans les vingt-quatre heures. 
+aux députés, aux sénateurs, aux conseillers régionaux, aux conseillers à l'Assemblée de Corse ou aux conseillers généraux
+remplacés et les notifie au préfet dans les vingt-quatre heures. 
 
 Les désignations faites en vertu du présent article sont de droit.
 
 **Nota:**
 
-Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
-2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
-communautaires, et modifiant le calendrier électoral s'appliquera aux élections organisées en mars 2015 à l'occasion du
-prochain renouvellement général des conseils départementaux, y compris aux opérations préparatoires à ce scrutin (Fin de
-vigueur : date indéterminée).
+
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+  - Décret n°2014-632 du 18 juin 2014 - art. 2
 
 _Cite_:
 
-  - Code électoral - art. L282 (VT)
+  - Code électoral - art. L282
 
 _Cité par_:
 
@@ -29951,39 +29947,35 @@ _Cité par_:
 
 ###### Article R134
 
-Les personnes appelées à remplacer les députés, les conseillers régionaux, les conseillers à l'Assemblée de Corse ou les
-conseillers généraux dans les conditions prévues par l'article L. 287 doivent être désignées préalablement à l'élection des
-délégués ou de leurs suppléants. 
+Les personnes appelées à remplacer les députés, les sénateurs, les conseillers régionaux, les conseillers à l'Assemblée de
+Corse ou les conseillers généraux dans les conditions prévues par l'article L. 287 doivent être désignées préalablement à
+l'élection des délégués ou de leurs suppléants. 
 
-Le maire désigne les remplaçants présentés par les députés, les conseillers régionaux, les conseillers à l'Assemblée de Corse
-ou les conseillers généraux en tant que délégués de droit du conseil municipal. Ces remplaçants doivent être inscrits sur la
-liste électorale de la commune intéressée. 
+Le maire désigne les remplaçants présentés par les députés, les sénateurs, les conseillers régionaux, les conseillers à
+l'Assemblée de Corse ou les conseillers généraux en tant que délégués de droit du conseil municipal. Ces remplaçants doivent
+être inscrits sur la liste électorale de la commune intéressée. 
 
-Les désignations faites en vertu du présent article sont de droit. Le maire en accuse réception aux députés, aux conseillers
-régionaux, aux conseillers à l'Assemblée de Corse ou aux conseillers généraux remplacés et les notifie au préfet dans les
-vingt-quatre heures.
+Les désignations faites en vertu du présent article sont de droit. Le maire en accuse réception aux députés, aux sénateurs,
+aux conseillers régionaux, aux conseillers à l'Assemblée de Corse ou aux conseillers généraux remplacés et les notifie au
+préfet dans les vingt-quatre heures.
 
 **Nota:**
 
-Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
-2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
-communautaires, et modifiant le calendrier électoral s'appliquera aux élections organisées en mars 2015 à l'occasion du
-prochain renouvellement général des conseils départementaux, y compris aux opérations préparatoires à ce scrutin (Fin de
-vigueur : date indéterminée).
+
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+  - Décret n°2014-632 du 18 juin 2014 - art. 2
 
 _Cite_:
 
-  - Code électoral - art. L287 (VT)
+  - Code électoral - art. L287
 
 
 ###### Article R137
@@ -29995,7 +29987,7 @@ Les listes de candidats ainsi déposées doivent indiquer :
 
 1° Le titre de la liste présentée ;
 
-2° Les nom, prénoms, domicile, date et lieu de naissance ainsi que l'ordre de présentation des candidats.
+2° Les nom, prénoms, sexe, domicile, date et lieu de naissance ainsi que l'ordre de présentation des candidats.
 
 **Nota:**
 
@@ -30014,7 +30006,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2013-938 du 18 octobre 2013 - art. 45
+  - Décret n°2014-632 du 18 juin 2014 - art. 3
 
 _Cite_:
 
@@ -30415,17 +30407,17 @@ _Modifié par_:
 ###### Article R152
 
 La liste des candidats et, éventuellement, des remplaçants dont la déclaration de candidature a été définitivement
-enregistrée est arrêtée et publiée par le préfet quatre jours au plus tard avant le scrutin.
+enregistrée est arrêtée et publiée par le préfet au plus tard le deuxième vendredi avant le scrutin.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+  - Décret n°2014-632 du 18 juin 2014 - art. 4
 
 
 ###### Article R153
@@ -30466,21 +30458,18 @@ _Cité par_:
 
 ###### Article R154
 
-L'autorité municipale veille à ce que nulle autre personne que celles désignées à l'article L. 306 n'assiste à ces réunions.
+Le chapitre V bis, intitulé " Financement et plafonnement des dépenses électorales ", du titre Ier du livre Ier (partie
+réglementaire), est applicable aux candidats aux élections sénatoriales.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°2007-1670 du 26 novembre 2007 - art. 8 () JORF 28 novembre 2007
-
-_Cite_:
-
-  - Code électoral - art. L306 (Ab)
+  - Décret n°2014-632 du 18 juin 2014 - art. 5
 
 _Cité par_:
 
@@ -30744,8 +30733,8 @@ _Cité par_:
 ###### Article R162
 
 La liste des électeurs du département est dressée par ordre alphabétique par le préfet. Cette liste comprend les députés, les
-conseillers régionaux, conseillers départementaux et les délégués des conseils municipaux désignés dans les conditions
-prévues au titre III du présent livre. 
+sénateurs, les conseillers régionaux, conseillers départementaux et les délégués des conseils municipaux désignés dans les
+conditions prévues au titre III du présent livre. 
 
 Sont mentionnés dans cette liste :
 
@@ -30755,7 +30744,7 @@ Sont mentionnés dans cette liste :
 
 - la qualité ;
 
-- l'adresse ;
+- l 'adresse ;
 
 - les nom et prénoms du mandataire des délégués autorisés à voter par procuration. 
 
@@ -30786,7 +30775,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2013-938 du 18 octobre 2013 - art. 53
+  - Décret n°2014-632 du 18 juin 2014 - art. 2
 
 _Cite_:
 
@@ -30865,10 +30854,10 @@ _Cité par_:
 
 ###### Article R164-1
 
-Les députés, les conseillers régionaux, les conseillers à l'Assemblée de Corse et les conseillers généraux qui souhaitent
-exercer leur droit de vote par procuration doivent adresser une demande revêtue de leur signature au représentant de l'Etat
-dans le département à qui elle doit parvenir, à peine d'irrecevabilité, quarante-huit heures au moins avant le début du
-scrutin. 
+Les députés, les sénateurs, les conseillers régionaux, les conseillers à l'Assemblée de Corse et les conseillers généraux qui
+souhaitent exercer leur droit de vote par procuration doivent adresser une demande revêtue de leur signature au représentant
+de l'Etat dans le département à qui elle doit parvenir, à peine d'irrecevabilité, quarante-huit heures au moins avant le
+début du scrutin. 
 
 Cette demande doit préciser la nature de l'empêchement majeur invoqué par le mandant, au regard des dispositions des a et c
 de l'article L. 71. 
@@ -30887,25 +30876,21 @@ la procuration est révoquée de plein droit, à moins qu'elle n'ait déjà ét�
 
 **Nota:**
 
-Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
-2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
-communautaires, et modifiant le calendrier électoral s'appliquera aux élections organisées en mars 2015 à l'occasion du
-prochain renouvellement général des conseils départementaux, y compris aux opérations préparatoires à ce scrutin (Fin de
-vigueur : date indéterminée).
+
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+  - Décret n°2014-632 du 18 juin 2014 - art. 2
 
 _Cite_:
 
-  - Code électoral - art. L71 (V)
+  - Code électoral - art. L71
 
 _Cité par_:
 
@@ -31045,21 +31030,21 @@ _Cite_:
 
 ###### Article R169
 
-Dans les départements où sont élus quatre sénateurs ou plus, il est fait application de la représentation proportionnelle
-avec répartition complémentaire suivant la règle de la plus forte moyenne, conformément aux dispositions ci-après.
+Dans les départements visés à l'article L. 295, il est fait application de la représentation proportionnelle avec répartition
+complémentaire suivant la règle de la plus forte moyenne, conformément aux dispositions ci-après. 
 
 Le bureau détermine le quotient électoral, en divisant le nombre de suffrages exprimés dans le département par le nombre des
-sénateurs à élire.
+sénateurs à élire. 
 
 Il est attribué à chaque liste autant de sièges de sénateurs que le nombre des suffrages de la liste contient de fois le
 quotient électoral. Les sièges de sénateurs non répartis par application des dispositions précédentes sont attribués selon la
-règle de la plus forte moyenne.
+règle de la plus forte moyenne. 
 
 A cet effet, les sièges sont conférés successivement à celle des listes pour laquelle la division du nombre de suffrages
-recueillis par le nombre de sièges qui lui ont déjà été attribués, plus un, donne le plus fort résultat.
+recueillis par le nombre de sièges qui lui ont déjà été attribués, plus un, donne le plus fort résultat. 
 
 Au cas où il ne reste qu'un seul siège à attribuer, si deux listes ont la même moyenne, le siège revient à la liste qui a
-obtenu le plus grand nombre de suffrages.
+obtenu le plus grand nombre de suffrages. 
 
 Si les deux listes en cause ont également recueilli le même nombre de suffrages, le siège est donné au plus âgé des deux
 candidats susceptibles d'être proclamés élus.
@@ -31068,7 +31053,7 @@ candidats susceptibles d'être proclamés élus.
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Cité par_:
 
@@ -31079,7 +31064,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+  - Décret n°2014-632 du 18 juin 2014 - art. 6
+
+_Cite_:
+
+  - Code électoral - art. L295
 
 
 ###### Article R170
@@ -35501,14 +35490,12 @@ _Créé par_:
 ###### Article R271
 
 Sont applicables à l'élection des sénateurs en Nouvelle-Calédonie et en Polynésie française, dans leur rédaction en vigueur à
-la date du décret n° 2013-938 du 18 octobre 2013, les dispositions suivantes du livre II du code électoral (partie
-Réglementaire) : 
+la date du décret n° 2014-632 du 18 juin 2014, les dispositions suivantes du livre II du code électoral (partie
+réglementaire) :
 
-1° Titre III, à l'exception des articles R. 130-1, R. 150, R. 151, R. 164-1 et R. 169 ; 
+- le titre III ;
 
-2° Chapitres Ier et IV à VII du titre IV ; 
-
-3° Titre VI.
+- les chapitres IV à VII du titre IV, à l'exception des articles R. 164-1 et R. 169.
 
 **Nota:**
 
@@ -35523,7 +35510,7 @@ prévu en 2014, y compris aux opérations préparatoires à ce scrutin. Le décr
 
 _Modifié par_:
 
-  - Décret n°2013-938 du 18 octobre 2013 - art. 64
+  - Décret n°2014-632 du 18 juin 2014 - art. 7
 
 _Cité par_:
 
@@ -35532,11 +35519,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code électoral - art. R*130-1
-  - Code électoral - art. R*150
-  - Code électoral - art. R*151
-  - Code électoral - art. R*164-1
-  - Code électoral - art. R*169
+  - Code électoral - art. R164-1 (V)
+  - Code électoral - art. R169 (V)
 
 
 ###### Article R271-1
@@ -35563,11 +35547,14 @@ _Cite_:
 ###### Article R272
 
 Sont applicables à l'élection des sénateurs dans les îles Wallis et Futuna, dans leur rédaction en vigueur à la date du
-décret n° 2013-938 du 18 octobre 2013, les dispositions suivantes du livre II du code électoral (partie réglementaire) : 
+décret n° 2014-632 du 18 juin 2014, les dispositions suivantes du titre IV du livre II du code électoral (partie
+réglementaire) :
 
-1° Chapitres Ier et IV à VII du titre IV, à l'exception de l'article R. 154 ; 
+- le chapitre IV, à l'exception des articles R. 150 et R. 151 ;
 
-2° Titre VI.
+- les chapitres V et VI ;
+
+- le chapitre VII, à l'exception des articles R. 164-1 et R. 169.
 
 **Nota:**
 
@@ -35581,7 +35568,7 @@ prévu en 2014, y compris aux opérations préparatoires à ce scrutin.
 
 _Modifié par_:
 
-  - Décret n°2013-938 du 18 octobre 2013 - art. 66
+  - Décret n°2014-632 du 18 juin 2014 - art. 7
 
 _Cité par_:
 
@@ -35590,7 +35577,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code électoral - art. R*154
+  - Code électoral - art. R150 (V)
+  - Code électoral - art. R164-1 (V)
+  - Code électoral - art. R169 (V)
 
 
 #### Chapitre II : Régime des inéligibilités<a id=284></a>
@@ -35619,28 +35608,28 @@ _Cite_:
 
 ###### Article R274
 
-Les personnes appelées à remplacer dans les conditions prévues à l'article L. 444 les députés et, en Nouvelle-Calédonie, les
-membres d'une assemblée de province ou, en Polynésie française, les membres de l'assemblée de Polynésie française doivent
-être désignés préalablement à l'élection des délégués et de leurs suppléants.
+Les personnes appelées à remplacer dans les conditions prévues à l'article L. 444 les députés, les sénateurs, et, en
+Nouvelle-Calédonie, les membres d'une assemblée de province ou, en Polynésie française, les membres de l'assemblée de
+Polynésie française doivent être désignés préalablement à l'élection des délégués et de leurs suppléants. 
 
-Le maire désigne les remplaçants présentés par les députés et ceux désignés, en Nouvelle-Calédonie, par les membres des
-assemblées de province ou, en Polynésie française, par les membres de l'assemblée de la Polynésie française, en tant que
-délégués de droit du conseil municipal. Ces remplaçants doivent être inscrits sur la liste électorale de la commune
-intéressée.
+Le maire désigne les remplaçants présentés par les députés, les sénateurs, et ceux désignés, en Nouvelle-Calédonie, par les
+membres des assemblées de province ou, en Polynésie française, par les membres de l'assemblée de la Polynésie française, en
+tant que délégués de droit du conseil municipal. Ces remplaçants doivent être inscrits sur la liste électorale de la commune
+intéressée. 
 
-Les désignations faites en vertu du présent article sont de droit. Le maire en accuse réception aux députés et en Nouvelle-
-Calédonie aux membres des assemblées de province ou en Polynésie française, aux membres de l'assemblée de Polynésie française
-remplacés, et les notifie au haut-commissaire dans les vingt-quatre heures.
+Les désignations faites en vertu du présent article sont de droit. Le maire en accuse réception aux députés, aux sénateurs,
+et en Nouvelle-Calédonie aux membres des assemblées de province ou en Polynésie française, aux membres de l'assemblée de
+Polynésie française remplacés, et les notifie au haut-commissaire dans les vingt-quatre heures.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+  - Décret n°2014-632 du 18 juin 2014 - art. 2
 
 _Cite_:
 
@@ -35649,26 +35638,26 @@ _Cite_:
 
 ###### Article R275
 
-Les députés, les membres d'une assemblée de province de Nouvelle-Calédonie et les membres de l'assemblée de Polynésie
-française peuvent voter par procuration, dans les conditions prévues pour la Nouvelle-Calédonie, par l'article L. 121-12 du
-code des communes de la Nouvelle-Calédonie et, pour la Polynésie française, par l'article L. 121-12 du code des communes
-applicable localement, soit en cas de maladie dûment constatée, soit lorsqu'ils sont retenus hors de la commune par des
-obligations découlant de l'exercice de leur mandat ou de missions qui leur ont été confiées par le gouvernement de la
+Les députés, les sénateurs, les membres d'une assemblée de province de Nouvelle-Calédonie et les membres de l'assemblée de
+Polynésie française peuvent voter par procuration, dans les conditions prévues pour la Nouvelle-Calédonie, par l'article L.
+121-12 du code des communes de la Nouvelle-Calédonie et, pour la Polynésie française, par l'article L. 121-12 du code des
+communes applicable localement, soit en cas de maladie dûment constatée, soit lorsqu'ils sont retenus hors de la commune par
+des obligations découlant de l'exercice de leur mandat ou de missions qui leur ont été confiées par le gouvernement de la
 République.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+  - Décret n°2014-632 du 18 juin 2014 - art. 2
 
 _Cite_:
 
-  - CODE DES COMMUNES. - art. L121-12 (M)
+  - Code des communes de la Nouvelle-Calédonie - art. L121-12 (V)
 
 
 ###### Article R276
@@ -35808,9 +35797,10 @@ _Cite_:
 
 ###### Article R282
 
-Conformément à l'article L. 448, les députés, les membres des assemblées de province en Nouvelle-Calédonie, les membres de
-l'assemblée de la Polynésie française ou les membres de l'assemblée territoriale des îles Wallis et Futuna qui peuvent
-exercer leur droit de vote par procuration doivent adresser une demande revêtue de leur signature au représentant de l'Etat. 
+Conformément à l'article L. 448, les députés, les sénateurs, les membres des assemblées de province en Nouvelle-Calédonie,
+les membres de l'assemblée de la Polynésie française ou les membres de l'assemblée territoriale des îles Wallis et Futuna qui
+peuvent exercer leur droit de vote par procuration doivent adresser une demande revêtue de leur signature au représentant de
+l'Etat. 
 
 Cette demande doit préciser que l'intéressé sera, le jour de l'élection, absent du territoire. 
 
@@ -35834,15 +35824,15 @@ la procuration est révoquée de plein droit, à moins qu'elle n'ait déjà ét�
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°2004-900 2004-08-30 art. 9 JORF 1er septembre 2004
+  - Décret n°2014-632 du 18 juin 2014 - art. 2
 
 _Cite_:
 
-  - Code électoral - art. L448 (V)
+  - Code électoral - art. L448
 
 
 ###### Article R283
