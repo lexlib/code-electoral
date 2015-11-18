@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2015-11-01
+Version Consolidée au 2015-11-19
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires (art. L1 à L273-12)](#2)
@@ -19993,12 +19993,12 @@ _Modifié par_:
 
 ###### Article LO493
 
-I.-Le mandat de conseiller territorial est incompatible : 
+I. - Le mandat de conseiller territorial est incompatible : 
 
 1° Avec les fonctions de représentant de l'Etat, secrétaire général, secrétaire général adjoint, directeur de cabinet et
 directeur de préfecture ; 
 
-2° Avec la qualité de membre du conseil économique, social et culturel de Saint-Barthélemy ; 
+2° Avec la qualité de membre du conseil économique, social, culturel et environnemental  de Saint-Barthélemy ; 
 
 3° Avec la qualité de membre d'une assemblée ou d'un exécutif d'une collectivité à statut particulier régie par le premier
 alinéa de l'article 72 de la Constitution, d'une collectivité mentionnée au dernier alinéa de l'article 73 de la
@@ -20019,7 +20019,7 @@ publics de coopération dont la collectivité fait partie ;
 
 8° Avec la qualité d'entrepreneur des services de la collectivité. 
 
-II.-Un conseiller territorial ne peut cumuler son mandat avec plus d'un des mandats suivants : député ou sénateur,
+II. - Un conseiller territorial ne peut cumuler son mandat avec plus d'un des mandats suivants : député ou sénateur,
 représentant au Parlement européen. 
 
 Si le candidat appelé à remplacer un conseiller territorial se trouve dans l'un des cas d'incompatibilité mentionnés au
@@ -20031,10 +20031,10 @@ constate l'incompatibilité et le remplacement est assuré par le candidat suiva
 
 _Cite_:
 
-  - Constitution du 4 octobre 1958 - art. 72 (V)
-  - Constitution du 4 octobre 1958 - art. 73 (V)
-  - Constitution du 4 octobre 1958 - art. 74 (V)
-  - Code électoral - art. LO489 (V)
+  - Constitution du 4 octobre 1958 - art. 72
+  - Constitution du 4 octobre 1958 - art. 73
+  - Constitution du 4 octobre 1958 - art. 74
+  - Code électoral - art. LO489
 
 _Codifié par_:
 
@@ -20042,7 +20042,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi organique n°2013-402 du 17 mai 2013 - art. 3 (V)
+  - Loi n°2015-1485 du 17 novembre 2015 - art. 12
 
 _Cité par_:
 
