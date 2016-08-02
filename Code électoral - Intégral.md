@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2016-07-11
+Version Consolidée au 2016-08-03
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires (art. L1 à L273-12)](#2)
@@ -14695,7 +14695,7 @@ Après la clôture du scrutin, les résultats sont immédiatement affichés dans
 intéressés. 
 
 Ces résultats, ainsi qu'un exemplaire des procès-verbaux, et les documents mentionnés à l'article L. 68 sont transmis à la
-commission électorale mentionnée à l'article 7 de la loi organique du 31 janvier 1976 susmentionnée. Les transmissions à la
+commission électorale mentionnée à l'article 14 de la loi organique du 31 janvier 1976 susmentionnée. Les transmissions à la
 préfecture prévues aux premier et dernier alinéas de l'article L. 68 s'entendent des transmissions à cette commission.
 
 **Liens relatifs à cet article**
@@ -14705,16 +14705,16 @@ _Cite_:
   - Loi n°76-97 du 31 janvier 1976 - art. 7
   - Code électoral - art. L68
 
-_Créé par_:
-
-  - Ordonnance n°2009-936 du 29 juillet 2009 - art. 1
-
 _Cité par_:
 
   - Loi n°2013-659 du 22 juillet 2013 - art. 15 (V)
   - Code électoral - art. R173-1 (V)
   - Code électoral - art. R177-3 (V)
   - Code électoral - art. R177-6 (V)
+
+_Modifié par_:
+
+  - Loi n°2016-1048 du 1er août 2016 - art. 13
 
 
 ###### Article L330-15
