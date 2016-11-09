@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2016-07-11
+Version Consolidée au 2016-11-10
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires (art. L1 à L273-12)](#2)
@@ -13543,6 +13543,47 @@ _Cite_:
 _Modifié par_:
 
   - Loi n°2013-702 du 2 août 2013 - art. 9 (V)
+
+
+###### Article L290-2
+
+I. - Dans les communes de moins de 9 000 habitants, lorsque le conseil municipal est composé selon les modalités fixées à
+l'article L. 2113-7 du code général des collectivités territoriales, il élit parmi ses membres un nombre de délégués
+déterminé dans les conditions prévues à l'article L. 284 du présent code pour une commune appartenant à la strate
+démographique immédiatement supérieure. 
+
+Dans les communes de moins de 9 000 habitants, lorsque le conseil municipal est composé selon les modalités fixées à
+l'article L. 2113-8 du code général des collectivités territoriales, il élit parmi ses membres un nombre de délégués
+déterminé dans les conditions fixées à l'article L. 284 du présent code. 
+
+Dans les communes mentionnées aux deux premiers alinéas du présent I, le nombre de délégués ne peut excéder le nombre total
+de délégués auquel les anciennes communes avaient droit avant la création de la commune nouvelle. Toutefois, ce nombre de
+délégués ne peut être inférieur à celui auquel aurait droit une commune comptant la même population. 
+
+II. - Dans les communes de moins de 9 000 habitants dont le conseil municipal est composé de plus de 30 membres et dans
+celles de 9 000 habitants et plus, lorsque le conseil municipal est composé selon les modalités fixées aux articles L. 2113-7
+ou L. 2113-8 du code général des collectivités territoriales, tous les conseillers municipaux sont désignés délégués, dans
+les conditions fixées à l'article L. 285 du présent code. 
+
+Toutefois, le nombre de délégués ne peut ni excéder le nombre total de délégués auquel les anciennes communes avaient droit
+avant la création de la commune nouvelle, ni être inférieur à celui auquel aurait droit une commune comptant la même
+population. 
+
+Si, en application des deux premiers alinéas du présent II, tous les conseillers municipaux ne peuvent être désignés
+délégués, le conseil municipal élit ses délégués parmi ses membres.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-1500 du 8 novembre 2016 - art. 15
+
+_Cite_:
+
+  - Code électoral - art. L284
+  - Code électoral - art. L285
+  - Code général des collectivités territoriales - art. L2113-7
+  - Code général des collectivités territoriales - art. L2113-8
 
 
 ###### Article L291
