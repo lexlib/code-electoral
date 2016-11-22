@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2016-11-10
+Version Consolidée au 2016-11-23
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires (art. L1 à L273-12)](#2)
@@ -117,7 +117,7 @@ de moins de 1 000 habitants (art. L273-11 à L273-12)](#74)
       - [Titre II : Election des conseillers à l'Assemblée de Corse (art. L364 à L383)](#112)
         - [Chapitre Ier : Composition de l'assemblée et durée du mandat de ses membres (art. L364)](#113)
         - [Chapitre II : Mode de scrutin (art. L365 à L366)](#114)
-        - [Chapitre III : Conditions d'éligibilité et inéligibilités (art. L367)](#115)
+        - [Chapitre III : Conditions d'éligibilité et inéligibilités (art. L367 à L367-1)](#115)
         - [Chapitre IV : Incompatibilités (art. L368 à L369)](#116)
         - [Chapitre V : Déclarations de candidature (art. L370 à L374)](#117)
         - [Chapitre VI : Propagande (art. L375 à L377)](#118)
@@ -16260,6 +16260,23 @@ _Cite_:
 _Cité par_:
 
   - Code électoral - art. L372 (V)
+
+
+###### Article L367-1
+
+Ne peuvent être élus conseillers à l'Assemblée de Corse : les membres du  cabinet du président de l'assemblée et les membres
+du cabinet du  président du conseil exécutif de Corse, les directeurs généraux, les  directeurs, directeurs adjoints, chefs
+de service et chefs de bureau de  la collectivité de Corse et de ses établissements publics dans les  départements de la
+Corse-du-Sud et de la Haute-Corse s'ils y exercent  leurs fonctions ou les ont exercées depuis moins d'un an. 
+
+Le délai mentionné au précédent alinéa n'est pas opposable aux  candidats qui, au jour de l'élection, auront été admis à
+faire valoir  leurs droits à la retraite.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2016-1563 du 21 novembre 2016 - art. 4
 
 
 #### Chapitre IV : Incompatibilités<a id=116></a>
