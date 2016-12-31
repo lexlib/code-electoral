@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2016-12-24
+Version Consolidée au 2017-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires (art. L1 à L273-12)](#2)
@@ -8735,11 +8735,20 @@ l'audiovisuel.
 V. - En ce qui concerne les émissions destinées à être reçues hors métropole, le conseil supérieur de l'audiovisuel tient
 compte des délais d'acheminement et des différences d'heures.
 
+VI.-Les dépenses liées à la campagne audiovisuelle officielle sont à la charge de l'Etat.
+
+**Nota:**
+
+Dans sa décision n° 2017-651 QPC du 31 mai 2017 (NOR: CSCX1715978S), le Conseil constitutionnel a déclaré les paragraphes II
+et III de l'article L. 167-1 du code électoral, dans sa rédaction résultant de la loi n° 2016-1917 du 29 décembre 2016 de
+finances pour 2017, contraires à la Constitution. La déclaration d'inconstitutionnalité de l'article 1er prend effet dans les
+conditions fixées par les paragraphes 14 et 15 (30 juin 2018).
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Cité par_:
 
@@ -8749,14 +8758,9 @@ _Cité par_:
   - Ordonnance n°2000-350 du 19 avril 2000 - art. 20 (V)
   - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
 
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 2003-1165 2003-12-08 art. 38 I, II, III :
-  - SPEC_APPLI: Le titre IV de la présente ordonnance est applicable en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna
-
 _Modifié par_:
 
-  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 16 () JORF 9 décembre 2003
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 114
 
 _Cite_:
 
@@ -14899,19 +14903,20 @@ _Cite_:
 
 ###### Article L330-10
 
-Les montants en euros fixés par le chapitre V bis du titre Ier sont remplacés par leur contre-valeur exprimée dans la ou les
-devises qui ont cours dans la circonscription. Le taux de change utilisé pour procéder aux opérations prévues à l'article L.
-52-12 est celui en vigueur le premier jour du douzième mois précédant l'élection.
+Les montants en euros fixés par le chapitre V bis du titre Ier du livre Ier sont remplacés par leur contre-valeur exprimée
+dans la ou les devises qui ont cours dans la circonscription. Le taux de change utilisé pour procéder aux opérations prévues
+à l'article L. 52-12 est celui en vigueur le dernier jour du mois précédant le paiement de la dépense ou l'encaissement de la
+recette.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2011-411 du 14 avril 2011 - art. 2
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 115
 
 _Cite_:
 
-  - Code électoral - art. L52-12
+  - Code électoral - art. L52-12 (V)
 
 
 ### Section 5 : Opérations de vote<a id=97></a>
