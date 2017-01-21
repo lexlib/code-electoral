@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2017-01-07
+Version Consolidée au 2017-01-22
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires (art. L1 à L273-12)](#2)
@@ -15,7 +15,7 @@ Version Consolidée au 2017-01-07
         - [Chapitre III : Conditions d'éligibilité et inéligibilités (art. L44 à L45-1)](#12)
         - [Chapitre IV : Incompatibilités (art. L46 à L46-2)](#13)
         - [Chapitre V : Propagande (art. L47 à L52-3)](#14)
-        - [Chapitre V bis : Financement et plafonnement des dépenses électorales (art. L52-3-1 à L52-18)](#15)
+        - [Chapitre V bis : Financement et plafonnement des dépenses électorales (art. L52-3-1 à L52-17)](#15)
         - [Chapitre VI : Vote (art. L52-19 à L85-1)](#16)
           - [Section 1 : Opérations préparatoires au scrutin (art. L53)](#17)
           - [Section 2 : Opérations de vote (art. L54 à L70)](#18)
@@ -4094,40 +4094,27 @@ cassation, après avis du bureau ;
 - trois membres ou membres honoraires de la Cour des comptes, désignés sur proposition du premier président de la Cour des
 comptes, après avis des présidents de chambres. 
 
-En cas de vacance survenant plus de six mois avant l'expiration du mandat, il est pourvu à la nomination, dans les conditions
-prévues au présent article, d'un nouveau membre, de même sexe que la personne qu'il remplace. Par dérogation aux dispositions
-du deuxième alinéa, son mandat expire à la date à laquelle se serait terminé le mandat de la personne qu'il remplace. 
+En cas de vacance, il est pourvu à la nomination, dans les conditions prévues au présent article, d'un nouveau membre, de
+même sexe que la personne qu'il remplace. 
 
-Lors du premier renouvellement intégral des membres de la commission postérieur au 30 avril 2020, les membres émanant de deux
-des institutions désignées aux troisième à cinquième alinéas sont deux femmes et un homme. La répartition entre les deux
-sexes est inverse pour les membres de la troisième institution. Lors de chaque renouvellement intégral ultérieur, la
-répartition entre sexes des membres émanant de chaque institution est l'inverse de celle que présentait cette institution
-lors du renouvellement précédent. 
+Le mandat de membre est renouvelable une fois. 
 
-La commission élit son président. 
+Le président de la commission est nommé par décret du Président de la République parmi les membres pour la durée de son
+mandat. 
 
-Les crédits et les emplois nécessaires au fonctionnement de la Commission nationale des comptes de campagne et des
-financements politiques sont inscrits au budget général de l'Etat. 
+Le président de la commission exerce ses fonctions à temps plein. 
 
-Les dispositions de la loi du 10 août 1922 relative à l'organisation du contrôle des dépenses engagées ne sont pas
-applicables aux dépenses de la commission. 
+La commission peut recourir à des experts à même d'évaluer les coûts des services et des prestations retracés dans les
+comptes de campagne et de l'assister dans l'exercice de sa mission de contrôle mentionnée à l'article 11-7 de la loi n°
+88-227 du 11 mars 1988 relative à la transparence financière de la vie politique. 
 
-La commission peut recruter des agents contractuels pour les besoins de son fonctionnement et recourir à des experts à même
-d'évaluer les coûts des services et des prestations retracés dans les comptes de campagne et de l'assister dans l'exercice de
-sa mission de contrôle mentionnée à l'article 11-7 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière
-de la vie politique. 
-
-Les personnels des services de la commission, qu'ils soient fonctionnaires ou contractuels, sont tenus au secret
-professionnel pour les faits, actes et renseignements dont ils ont pu avoir connaissance en raison de leurs fonctions. 
+Les personnels des services de la commission sont tenus au secret professionnel pour les faits, actes et renseignements dont
+ils ont pu avoir connaissance en raison de leurs fonctions. 
 
 La commission peut demander à des officiers de police judiciaire de procéder à toute investigation qu'elle juge nécessaire
 pour l'exercice de sa mission.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi du 10 août 1922
 
 _Cité par_:
 
@@ -4157,7 +4144,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-508 du 25 avril 2016 - art. 3
+  - ORDONNANCE n°2015-948 du 31 juillet 2015 - art. 13 (V)
+  - Loi n°2017-55 du 20 janvier 2017 - art. 41
 
 
 ###### Article L52-15
@@ -4272,31 +4260,6 @@ _Modifié par_:
 _Cite_:
 
   - Code électoral - art. L52-8 (V)
-
-
-###### Article L52-18
-
-Dans l'année qui suit des élections générales auxquelles sont applicables les dispositions de l'article L. 52-4, la
-Commission nationale des comptes de campagne et des financements politiques dépose sur le bureau des assemblées un rapport
-retraçant le bilan de son action et comportant toutes les observations qu'elle juge utile de formuler.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 du 27 octobre 1964
-
-_Créé par_:
-
-  - Loi n°90-55 du 15 janvier 1990 - art. 1 () JORF 16 janvier 1990 en vigueur le 1er septembre 1990
-
-_Abrogé par_:
-
-  - Loi n°2017-55 du 20 janvier 2017 - art. 41
-
-_Cite_:
-
-  - Code électoral - art. L52-4
 
 
 #### Chapitre VI : Vote<a id=16></a>
