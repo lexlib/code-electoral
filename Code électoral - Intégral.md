@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2017-03-08
+Version Consolidée au 2017-03-12
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires (art. L1 à L273-12)](#2)
@@ -31751,14 +31751,14 @@ _Cite_:
 Chaque candidat peut remettre au président de la commission électorale une version électronique de sa circulaire, du même
 modèle et dans les mêmes conditions que les exemplaires imprimés. 
 
-La commission électorale transmet ces documents dématérialisés aux ambassades et aux postes consulaires qui procèdent sans
-délai à leur mise à disposition par téléchargement par voie électronique.
+La  commission électorale transmet ces documents au ministre des affaires  étrangères qui procède sans délai à leur mise à
+disposition par voie  électronique.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+  - Décret n°2017-306 du 10 mars 2017 - art. 1
 
 
 ###### Article R174-3
@@ -31845,24 +31845,19 @@ _Cite_:
 
 ###### Article R175-2
 
-Pour l'application de l'article R. 39-1 : 
-
-1° Les souches des reçus mentionnées au deuxième alinéa sont accompagnées, le cas échéant, du relevé du ou des comptes
-spéciaux ouverts en application de l'article L. 330-6-1 ; 
-
-2° Le montant en euros fixé par le quatrième alinéa est remplacé par sa contre-valeur exprimée dans la ou les devises qui ont
-cours dans la circonscription, au taux de change en vigueur le premier jour du douzième mois précédant l'élection.
+Pour l'application de l'article R. 39-1, les souches des reçus mentionnés au deuxième alinéa de cet article sont
+accompagnées, le cas échéant, du relevé du ou des comptes spéciaux ouverts en application de l'article L. 330-6-1.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+  - Décret n°2017-306 du 10 mars 2017 - art. 2
 
 _Cite_:
 
-  - Code électoral - art. L330-6-1
-  - Code électoral - art. R39-1
+  - Code électoral - art. L330-6-1 (V)
+  - Code électoral - art. R39-1 (V)
 
 
 ###### Article R175-3
@@ -32358,7 +32353,7 @@ _Cite_:
 
 ###### Article R176-3
 
-I. - Pour l'élection de députés par les Français établis hors de France, les électeurs mentionnés à l'article R. 172 peuvent
+I. – Pour l'élection de députés par les Français établis hors de France, les électeurs mentionnés à l'article R. 172 peuvent
 voter par correspondance électronique. A cette fin, il est créé un traitement automatisé de données à caractère personnel,
 placé sous la responsabilité du ministre de l'intérieur et du ministre des affaires étrangères. 
 
@@ -32366,15 +32361,19 @@ Ce traitement automatisé garantit la séparation, dans des fichiers distincts, 
 part, et aux votes, d'autre part. 
 
 Les droits d'accès et de rectification prévus aux articles 39 et 40 de la loi n° 78-17 du 6 janvier 1978 relative à
-l'informatique, aux fichiers et aux libertés s'exercent auprès de l'ambassadeur ou du chef de poste consulaire chargé
-d'organiser les opérations de vote. Le droit d'opposition prévu à l'article 38 de la même loi ne s'applique pas à ce
-traitement automatisé. 
+l'informatique, aux fichiers et aux libertés s'exercent auprès du ministre des affaires étrangères. Le droit d'opposition
+prévu à l'article 38 de la même loi ne s'applique pas à ce traitement automatisé. 
 
-II. - Préalablement à sa mise en place, ou à toute modification substantielle de sa conception, le système de vote
+II. – Préalablement à sa mise en place, ou à toute modification substantielle de sa conception, le système de vote
 électronique fait l'objet d'une expertise indépendante destinée à vérifier le respect des garanties prévues par la présente
 sous-section. 
 
-III. - Un arrêté conjoint du ministre de l'intérieur et du ministre des affaires étrangères précise les caractéristiques du
+Si, au vu de cette expertise ou des circonstances de l'élection, il apparaît que les matériels et les logiciels ne permettent
+pas de garantir le secret du vote et la sincérité du scrutin au sens de l'article L. 330-13, le ministre des affaires
+étrangères peut, par arrêté pris après avis de l'Agence nationale de la sécurité des systèmes d'information, décider de ne
+pas mettre en œuvre le système de vote électronique. 
+
+III. – Un arrêté conjoint du ministre de l'intérieur et du ministre des affaires étrangères précise les caractéristiques du
 traitement prévu au I. 
 
 Il fixe notamment : 
@@ -32388,7 +32387,7 @@ résultant de la présente sous-section, de la maîtrise d'œuvre du traitement 
 intervention ; 
 
 4° Les modalités de transmission de l'identifiant et de l'authentifiant prévues à l'article R. 176-3-7 ainsi que les
-modalités de récupération par l'électeur de son authentifiant ; 
+modalités de récupération en cas de perte par l'électeur de son identifiant ou de son authentifiant ; 
 
 5° Les conditions de mise en œuvre d'un dispositif de secours en cas de défaillance.
 
@@ -32402,11 +32401,8 @@ _Cite_:
 
   - Loi n°78-17 du 6 janvier 1978 - art. 38
   - Loi n°78-17 du 6 janvier 1978 - art. 39
+  - Code électoral - art. L330-13 (V)
   - Code électoral - art. R*172
-
-_Modifié par_:
-
-  - Décret n°2011-843 du 15 juillet 2011 - art. 1
 
 _Cité par_:
 
@@ -32426,6 +32422,10 @@ _Cité par_:
   - Code électoral - art. R176-3-4 (V)
   - Code électoral - art. R176-3-7 (V)
   - Code électoral - art. R179-1 (V)
+
+_Modifié par_:
+
+  - Décret n°2017-306 du 10 mars 2017 - art. 3
 
 
 ###### Article R176-3-1
@@ -32606,18 +32606,13 @@ instruments, sans lien avec l'état civil de l'électeur, sont créés de maniè
 prévu à l'article R. 176-3. Ils sont transmis séparément à l'électeur, par des modes d'acheminement différents, de façon à
 garantir leur confidentialité et à prévenir toute usurpation d'identité. 
 
-L'identifiant est envoyé entre le sixième et le troisième mercredi précédant la date du scrutin. Il est valable pour le
-premier et, le cas échéant, le second tour. 
+Avant  chaque tour de scrutin, l'identifiant et l'authentifiant sont envoyés  au plus tard à l'ouverture de la période de
+vote prévue à l'article R.  176-3-8, selon des modalités précisées par l'arrêté mentionné au III de  l'article R. 176-3. 
 
-L'authentifiant est envoyé entre le deuxième et le quatrième mardi précédant la date du scrutin. En cas de second tour, un
-nouvel authentifiant est transmis entre le troisième mercredi précédant la date du scrutin et le début de la période de vote
-prévu à l'article R. 176-3-8. En cas de perte, seul l'authentifiant peut être récupéré par l'électeur.
+En cas de perte de  l'identifiant ou de l'authentifiant, chacun de ces instruments ne peut  être récupéré par l'électeur
+qu'au moyen de l'autre.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2011-843 du 15 juillet 2011 - art. 1
 
 _Cité par_:
 
@@ -32627,17 +32622,21 @@ _Cité par_:
   - Arrêté du 4 mars 2014 - art. 5 (V)
   - Décret n°2014-290 du 4 mars 2014 - art. 18 (V)
   - Décret n°2019-1429 du 23 décembre 2019 - art. 1
-  - Code électoral - art. R176-3 (M)
+  - Code électoral - art. R176-3 (V)
   - Code électoral - art. R176-3-9 (V)
+
+_Modifié par_:
+
+  - Décret n°2017-306 du 10 mars 2017 - art. 4
 
 _Cite_:
 
-  - Code électoral - art. R176-3-8
+  - Code électoral - art. R176-3-8 (V)
 
 
 ###### Article R176-3-8
 
-Pour l'ensemble des circonscriptions électorales, le vote par voie électronique est ouvert le deuxième mercredi précédant la
+Pour l'ensemble des circonscriptions électorales, le vote par voie électronique est ouvert le deuxième vendredi précédant la
 date du scrutin, à douze heures (heure légale de Paris). 
 
 Avant l'ouverture du vote par voie électronique, une clé de dépouillement distincte, confidentielle et strictement
@@ -32646,22 +32645,23 @@ personnelle est remise à chacun des membres titulaires et suppléants du bureau
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+  - Décret n°2017-306 du 10 mars 2017 - art. 5
 
 _Cité par_:
 
   - Décret n°2020-83 du 4 février 2020 (Ab)
   - Code électoral - art. R176-3-3 (V)
-  - Code électoral - art. R176-3-7 (M)
+  - Code électoral - art. R176-3-7 (V)
   - Code électoral - art. R177-5 (V)
 
 
 ###### Article R176-3-9
 
 Pour voter par voie électronique, l'électeur, après s'être connecté au système de vote et identifié à l'aide de l'identifiant
-et de l'authentifiant prévus à l'article R. 176-3-7, exprime puis valide son vote. 
+et de l'authentifiant prévus à l'article R. 176-3-7, exprime puis valide son vote au  moyen d'un mot de passe unique qui lui
+est communiqué selon des  modalités précisées par l'arrêté mentionné au III de l'article R. 176-3.
 
 Tant qu'il n'a pas validé son vote par voie électronique, l'électeur conserve la possibilité de voter à l'urne, par
 procuration ou par correspondance sous pli fermé, dans les conditions prévues à la présente section. 
@@ -32670,20 +32670,20 @@ La validation du vote le rend définitif et empêche toute modification. Le vote
 intégrité. Il fait l'objet d'un chiffrement dès son émission sur le terminal utilisé par l'électeur. La liaison entre ce
 terminal et le serveur hébergeant l'urne électronique est également chiffrée. 
 
-L'enregistrement du vote et l'émargement de l'électeur donnent lieu à l'envoi par voie électronique d'un récépissé lui
-permettant de vérifier, en ligne, la prise en compte de son vote.
+L'enregistrement du vote et l'émargement de l'électeur donnent lieu à l'affichage d'un récépissé électronique sur le système
+de vote lui permettant de vérifier, en ligne, la prise en compte de son vote.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2011-843 du 15 juillet 2011 - art. 1
 
 _Cité par_:
 
   - Arrêté du 27 avril 2012 - art. 3 (V)
   - Arrêté du 4 mars 2014 - art. 4 (V)
   - Décret n°2014-290 du 4 mars 2014 - art. 19 (V)
+
+_Modifié par_:
+
+  - Décret n°2017-306 du 10 mars 2017 - art. 6
 
 _Cite_:
 
@@ -32692,7 +32692,7 @@ _Cite_:
 
 ###### Article R176-3-10
 
-Pour l'ensemble des circonscriptions électorales, le vote par voie électronique est clos le mardi précédant la date du
+Pour l'ensemble des circonscriptions électorales, le vote par voie électronique est clos le mercredi précédant la date du
 scrutin, à douze heures (heure légale de Paris). 
 
 Les responsables du traitement automatisé prévu à l'article R. 176-3 extraient et enregistrent sur supports scellés le
@@ -32701,18 +32701,14 @@ le contrôle du bureau du vote électronique. Les supports ainsi créés sont re
 lieu sécurisé. 
 
 Le bureau du vote électronique vérifie que le nombre de votes exprimés dans l'urne électronique correspond au nombre de
-votants figurant sur les listes d'émargement. Pour chaque circonscription consulaire, il transmet par courrier électronique
-au bureau centralisateur mentionné à l'article R. 40 les listes d'émargement correspondant aux bureaux de vote mentionnés à
-l'article R. 176-1-3. Les listes ainsi transmises se substituent, dans chaque bureau de vote, à la copie de la liste
-électorale mentionnée à l'article L. 62-1. 
+votants figurant sur les listes d'émargement. Pour chaque circonscription consulaire, il transmet par voie électronique au
+bureau centralisateur mentionné à l'article R. 40 les listes d'émargement correspondant aux bureaux de vote mentionnés à
+l'article R. 176-1-3. Ces listes se substituent, dans chaque bureau de vote, à la copie de la liste électorale mentionnée à
+l'article L. 62-1. 
 
 Le support contenant les listes d'émargement est ensuite annexé au procès-verbal du vote électronique.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2011-843 du 15 juillet 2011 - art. 1
 
 _Cité par_:
 
@@ -32720,11 +32716,15 @@ _Cité par_:
   - Décret n°2020-83 du 4 février 2020 (Ab)
   - Code électoral - art. R176-3-3 (V)
 
+_Modifié par_:
+
+  - Décret n°2017-306 du 10 mars 2017 - art. 7
+
 _Cite_:
 
   - Code électoral - art. L62-1
-  - Code électoral - art. R176-1-3 (V)
-  - Code électoral - art. R176-3 (V)
+  - Code électoral - art. R176-1-3
+  - Code électoral - art. R176-3
   - Code électoral - art. R40
 
 
@@ -32735,7 +32735,8 @@ _Cite_:
 L'électeur souhaitant voter par correspondance sans user de la faculté qui lui est ouverte par la sous-section 4 peut
 demander à recevoir le matériel de vote lui permettant de voter par correspondance sous pli fermé au premier tour et, le cas
 échéant, au second tour. Sa demande, formulée auprès de l'ambassadeur ou du chef de poste consulaire, doit être reçue au plus
-tard le 1er mars de l'année de l'élection. 
+tard à une date fixée par le ministre des affaires étrangères qui ne peut précéder de plus de dix semaines celle du premier
+tour de l'élection. 
 
 L'électeur qui n'a pas fait usage de son droit de vote par correspondance sous pli fermé conserve la possibilité de voter à
 l'urne, par procuration ou par correspondance électronique, dans les conditions prévues à la présente section.
@@ -32752,7 +32753,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+  - Décret n°2017-306 du 10 mars 2017 - art. 8
 
 
 ###### Article R176-4-1
@@ -32782,15 +32783,15 @@ _Cite_:
 
 L'enveloppe d'identification revêtue des nom, prénoms et signature de l'électeur et renfermant l'enveloppe électorale
 contenant le bulletin de vote doit parvenir à l'ambassadeur ou au chef de poste consulaire chargé d'organiser les opérations
-de vote, au plus tard le vendredi précédant le jour du scrutin, à douze heures (heure légale locale). Dans les
-circonscriptions électorales d'Amérique, elle doit lui parvenir au plus tard le jeudi précédant le jour du scrutin, à douze
-heures (heure légale locale).
+de vote, au plus tard le vendredi précédant le jour du scrutin, à dix-huit heures (heure légale locale). Dans les
+circonscriptions électorales d'Amérique, elle doit lui parvenir au plus tard le jeudi précédant le jour du scrutin, à dix-
+huit heures (heure légale locale).
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+  - Décret n°2017-306 du 10 mars 2017 - art. 9
 
 _Cité par_:
 
@@ -33076,20 +33077,20 @@ _Cite_:
 
 ###### Article R177-5
 
-Après clôture du scrutin dans l'ensemble des circonscriptions, les membres du bureau du vote électronique procèdent
-publiquement à l'ouverture de l'urne électronique en activant les clés mentionnées à l'article R. 176-3-8. L'urne ne peut
-être ouverte que si quatre clés au moins sont actionnées, chacune par le membre du bureau du vote par voie électronique
-auquel elle a été remise dans les conditions prévues au même article. 
+Au plus tôt trois heures avant la clôture du scrutin dans l'ensemble des circonscriptions, les membres du bureau du vote
+électronique procèdent publiquement à l'ouverture de l'urne électronique en activant les clés mentionnées à l'article R.
+176-3-8. L'urne ne peut être ouverte que si quatre clés au moins sont actionnées, chacune par le membre du bureau du vote par
+voie électronique auquel elle a été remise dans les conditions prévues au même article. 
 
-Le décompte des suffrages est réalisé par circonscription consulaire et fait l'objet d'une édition sécurisée afin d'être
-porté au procès-verbal du vote par voie électronique. Les membres du bureau du vote électronique paraphent le procès-verbal
-puis le remettent à la commission électorale.
+Le  décompte des suffrages par circonscription consulaire est réalisé par  voie informatique sécurisée et fait l'objet d'une
+édition sécurisée sur  un support informatique confié au président du bureau de vote  électronique sans que personne d'autre
+ne puisse avoir accès à son  contenu. 
+
+Après la clôture du scrutin dans  l'ensemble des circonscriptions consulaires, le décompte des suffrages  est porté au
+procès-verbal du vote par voie électronique par le  président du bureau de vote électronique. Les membres du bureau du vote
+électronique signent le procès-verbal, qui est remis à la commission  électorale.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2011-843 du 15 juillet 2011 - art. 1
 
 _Cité par_:
 
@@ -33097,6 +33098,10 @@ _Cité par_:
   - Arrêté du 27 avril 2012 - art. 9 (V)
   - Arrêté du 4 mars 2014 - art. 4 (V)
   - Code électoral - art. R176-3-3 (V)
+
+_Modifié par_:
+
+  - Décret n°2017-306 du 10 mars 2017 - art. 10
 
 _Cite_:
 
@@ -33125,20 +33130,19 @@ _Cite_:
 Le ministre des affaires étrangères prend toutes mesures pour que les bureaux centralisateurs et la commission électorale
 soient en possession en temps utile des procès-verbaux et des pièces annexes émanant des bureaux de vote. 
 
-Au cas où, en raison de l'éloignement des bureaux de vote, des difficultés de communication ou pour toute autre cause, les
-procès-verbaux ne parviendraient pas au bureau centralisateur ou à la commission en temps utile, ceux-ci sont habilités à se
-prononcer au vu des télégrammes, des télécopies ou courriers électroniques des présidents des bureaux de vote, des
-ambassadeurs et des chefs de poste consulaire transmettant les résultats du scrutin et contenant les contestations formulées
-avec l'indication de leurs motifs et de leurs auteurs. 
+Au  cas où, en raison de l'éloignement, de difficultés de communication ou  de toute autre cause, les procès-verbaux de
+certains bureaux de vote ne  parviennent pas au bureau centralisateur en temps utile, celui-ci est  habilité à établir le
+procès-verbal récapitulatif au vu de reproductions  ou de retranscriptions des procès-verbaux originaux, transmis par les
+présidents des bureaux de vote concernés par tout moyen disponible.
 
 Par dérogation à l'article R. 69, le bureau centralisateur peut, pour les mêmes motifs, procéder au recensement général des
 votes de la circonscription consulaire en l'absence des présidents des bureaux de vote.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2011-843 du 15 juillet 2011 - art. 1
+  - Décret n°2017-306 du 10 mars 2017 - art. 11
 
 _Cite_:
 
