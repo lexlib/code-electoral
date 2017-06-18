@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2017-03-12
+Version Consolidée au 2017-06-19
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires (art. L1 à L273-12)](#2)
@@ -7575,19 +7575,19 @@ sincérité du scrutin.
 L'inéligibilité déclarée sur le fondement du premier alinéa s'applique à toutes les élections. Toutefois, elle n'a pas
 d'effet sur les mandats acquis antérieurement à la date de la décision. 
 
-Lorsque le Conseil constitutionnel a déclaré inéligible un candidat proclamé élu, il annule son élection ou, si l'élection
-n'a pas été contestée, le déclare démissionnaire d'office.
+Lorsque le Conseil constitutionnel a déclaré inéligible un candidat proclamé élu, il annule son élection.
 
 **Nota:**
 
-Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
-général de l'Assemblée nationale suivant sa promulgation.
+En vertu de l'article 12 de la loi organique n° 2014-125 du 14 février 2014 interdisant le cumul de fonctions exécutives
+locales avec le mandat de député ou de sénateur, le présent article s'applique à tout parlementaire à compter du premier
+renouvellement de l'assemblée à laquelle il appartient suivant le 31 mars 2017.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi organique n°2011-410 du 14 avril 2011 - art. 5
+  - Loi organique n°2014-125 du 14 février 2014 - art. 7
 
 _Cité par_:
 
@@ -7610,13 +7610,24 @@ Tout député élu sénateur ou tout sénateur élu député cesse, de ce fait m
 était membre. Toutefois, en cas de contestation, la vacance du siège n'est proclamée qu'après décision du Conseil
 constitutionnel confirmant l'élection.
 
-Il ne peut en aucun cas participer aux travaux de deux assemblées.
+Il ne peut en aucun cas participer aux travaux de deux assemblées. Il ne perçoit que l'indemnité attachée au dernier mandat
+acquis.
+
+**Nota:**
+
+En vertu de l'article 12 de la loi organique n° 2014-125 du 14 février 2014 interdisant le cumul de fonctions exécutives
+locales avec le mandat de député ou de sénateur, le présent article s'applique à tout parlementaire à compter du premier
+renouvellement de l'assemblée à laquelle il appartient suivant le 31 mars 2017.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
+
+_Modifié par_:
+
+  - Loi organique n°2014-125 du 14 février 2014 - art. 2
 
 _Cité par_:
 
@@ -7631,17 +7642,24 @@ Le mandat de député est incompatible avec celui de représentant au Parlement 
 
 Tout député élu membre du Parlement européen cesse de ce fait même d'exercer son mandat de parlementaire national. Toutefois,
 en cas de contestation, la vacance du siège n'est proclamée qu'après la décision juridictionnelle confirmant l'élection. En
-attendant cette décision, l'intéressé ne peut participer aux travaux de l'Assemblée nationale.
+attendant cette décision, l'intéressé ne peut participer aux travaux de l'Assemblée nationale. Il ne perçoit que l'indemnité
+attachée au dernier mandat acquis.
+
+**Nota:**
+
+En vertu de l'article 12 de la loi organique n° 2014-125 du 14 février 2014 interdisant le cumul de fonctions exécutives
+locales avec le mandat de député ou de sénateur, le présent article s'applique à tout parlementaire à compter du premier
+renouvellement de l'assemblée à laquelle il appartient suivant le 31 mars 2017.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2000-294 du 5 avril 2000 - art. 2 ()
+  - Loi organique n°2014-125 du 14 février 2014 - art. 2
 
 _Cité par_:
 
@@ -7681,41 +7699,49 @@ _Modifié par_:
 Ainsi qu'il est dit à l'article 9 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de
 la magistrature, l'exercice des fonctions de magistrat est incompatible avec l'exercice d'un mandat à l'Assemblée nationale.
 
+Le mandat de député est également incompatible avec l'exercice de fonctions juridictionnelles autres que celles prévues par
+la Constitution et avec l'exercice de fonctions d'arbitre, de médiateur ou de conciliateur.
+
+**Nota:**
+
+Conformément à la loi organique n° 2013-906 du 11 octobre 2013, article 2 (X) : ces dispositions entrent en vigueur à
+compter, s'agissant des députés, du prochain renouvellement général de l'Assemblée nationale.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°58-1270 du 22 décembre 1958 - art. 9 (VT)
+  - Ordonnance n°58-1270 du 22 décembre 1958 - art. 9
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Cité par_:
 
   - Loi n°77-729 du 7 juillet 1977 - art. 6 (V)
 
+_Modifié par_:
+
+  - Loi organique n°2013-906 du 11 octobre 2013 - art. 2 (V)
+
 
 ###### Article LO141
 
 Le mandat de député est incompatible avec l'exercice de plus d'un des mandats énumérés ci-après : conseiller régional,
-conseiller à l'Assemblée de Corse, conseiller général, conseiller de Paris, conseiller à l'assemblée de Guyane, conseiller à
-l'assemblée de Martinique, conseiller municipal d'une commune soumise au mode de scrutin prévu au chapitre III du titre IV du
-présent livre.
+conseiller à l'Assemblée de Corse, conseiller départemental, conseiller de Paris, conseiller à l'assemblée de Guyane,
+conseiller à l'assemblée de Martinique, conseiller municipal d'une commune soumise au mode de scrutin prévu au chapitre III
+du titre IV du présent livre. 
+
+Tant qu'il n'est pas mis fin, dans les conditions prévues au I de l'article LO 151, à l'incompatibilité mentionnée au premier
+alinéa du présent article, l'élu concerné ne perçoit que l'indemnité attachée à son mandat parlementaire et l'indemnité
+attachée à un autre de ses mandats de son choix.
 
 **Nota:**
 
-Conformément à l'article 10 de la loi organique n° 2011-883 du 27 juillet 2011, la présente loi organique entre en vigueur :
-
-1° En ce qui concerne les dispositions applicables à la Guyane, à compter de la première réunion de l'Assemblée de Guyane ;
-
-2° En ce qui concerne les dispositions applicables à la Martinique, à compter de la première réunion de l'Assemblée de
-Martinique.
-
-Cet article a été modifié par la loi organique n° 2013-402 du 17 mai 2013 relative à l'élection des conseillers municipaux,
-des conseillers communautaires et des conseillers départementaux. Conformément à son article 8, l’article dans sa version
-modifiée par la loi organique du 17 mai 2013 s’applique à compter du prochain renouvellement général des conseils municipaux
-et communautaires prévu les 23 et 30 mars 2014, y compris aux opérations préparatoires à ce scrutin.
+En vertu de l'article 12 de la loi organique n° 2014-125 du 14 février 2014 interdisant le cumul de fonctions exécutives
+locales avec le mandat de député ou de sénateur, le présent article s'applique à tout parlementaire à compter du premier
+renouvellement de l'assemblée à laquelle il appartient suivant le 31 mars 2017.
 
 **Liens relatifs à cet article**
 
@@ -7738,8 +7764,66 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi organique n°2013-402 du 17 mai 2013 - art. 3 (V)
   - Loi organique n°2013-402 du 17 mai 2013 - art. 1
+  - Loi organique n°2014-125 du 14 février 2014 - art. 2
+
+
+###### Article LO141-1
+
+Le mandat de député est incompatible avec : 
+
+1° Les fonctions de maire, de maire d'arrondissement, de maire délégué et d'adjoint au maire ; 
+
+2° Les fonctions de président et de vice-président d'un établissement public de coopération intercommunale ; 
+
+3° Les fonctions de président et de vice-président de conseil départemental ; 
+
+4° Les fonctions de président et de vice-président de conseil régional ; 
+
+5° Les fonctions de président et de vice-président d'un syndicat mixte ; 
+
+6° Les fonctions de président, de membre du conseil exécutif de Corse et de président de l'assemblée de Corse ; 
+
+7° Les fonctions de président et de vice-président de l'assemblée de Guyane ou de l'assemblée de Martinique ; de président et
+de membre du conseil exécutif de Martinique ; 
+
+8° Les fonctions de président, de vice-président et de membre du gouvernement de la Nouvelle-Calédonie ; de président et de
+vice-président du congrès de la Nouvelle-Calédonie ; de président et de vice-président d'une assemblée de province de la
+Nouvelle-Calédonie ; 
+
+9° Les fonctions de président, de vice-président et de membre du gouvernement de la Polynésie française ; de président et de
+vice-président de l'assemblée de la Polynésie française ; 
+
+10° Les fonctions de président et de vice-président de l'assemblée territoriale des îles Wallis et Futuna ; 
+
+11° Les fonctions de président et de vice-président du conseil territorial de Saint-Barthélemy, de Saint-Martin, de Saint-
+Pierre-et-Miquelon ; de membre du conseil exécutif de Saint-Barthélemy, de Saint-Martin, de Saint-Pierre-et-Miquelon ; 
+
+12° Les fonctions de président et de vice-président de l'organe délibérant de toute autre collectivité territoriale créée par
+la loi ; 
+
+13° Les fonctions de président de l'Assemblée des Français de l'étranger, de membre du bureau de l'Assemblée des Français de
+l'étranger et de vice-président de conseil consulaire. 
+
+Tant qu'il n'est pas mis fin, dans les conditions prévues au II de l'article LO 151, à une incompatibilité mentionnée au
+présent article, l'élu concerné ne perçoit que l'indemnité attachée à son mandat parlementaire.
+
+**Nota:**
+
+En vertu de l'article 12 de la loi organique n° 2014-125 du 14 février 2014 interdisant le cumul de fonctions exécutives
+locales avec le mandat de député ou de sénateur, le présent article s'applique à tout parlementaire à compter du premier
+renouvellement de l'assemblée à laquelle il appartient suivant le 31 mars 2017.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°77-729 du 7 juillet 1977 - art. 6-3 (VD)
+  - Code électoral - art. LO151 (VD)
+
+_Créé par_:
+
+  - Loi organique n°2014-125 du 14 février 2014 - art. 1
 
 
 ###### Article LO142
@@ -7790,30 +7874,52 @@ _Cité par_:
 
 ###### Article LO144
 
-Les personnes chargées par le Gouvernement d'une mission temporaire peuvent cumuler l'exercice de cette mission avec leur
+Les personnes chargées par le gouvernement d'une mission temporaire peuvent cumuler l'exercice de cette mission avec leur
 mandat de député pendant une durée n'excédant pas six mois.
+
+L'exercice de cette mission ne peut donner lieu au versement d'aucune rémunération, gratification ou indemnité.
+
+**Nota:**
+
+Conformément à la loi organique n° 2013-906 du 11 octobre 2013, article 2 (X) : ces dispositions entrent en vigueur à
+compter, s'agissant des députés, du prochain renouvellement général de l'Assemblée nationale.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Cité par_:
 
   - Loi n°77-729 du 7 juillet 1977 - art. 6 (V)
 
+_Modifié par_:
+
+  - Loi organique n°2013-906 du 11 octobre 2013 - art. 2 (V)
+
 
 ###### Article LO145
 
-Sont incompatibles avec le mandat de député les fonctions de président et de membre de conseil d'administration ainsi que
-celles de directeur général et de directeur général adjoint exercées dans les entreprises nationales et établissements
-publics nationaux ; il en est de même de toute fonction exercée de façon permanente en qualité de conseil auprès de ces
-entreprises ou établissements.
+I. - Sont incompatibles avec le mandat de député les fonctions de président ainsi que celles de directeur général et de
+directeur général adjoint exercées dans les entreprises nationales et établissements publics nationaux ; il en est de même de
+toute fonction exercée de façon permanente en qualité de conseil auprès de ces entreprises ou établissements.
 
-L'incompatibilité édictée au présent article ne s'applique pas aux députés désignés soit en cette qualité soit du fait d'un
-mandat électoral local comme présidents ou membres de conseils d'administration d'entreprises nationales ou d'établissements
-publics nationaux en application des textes organisant ces entreprises ou établissements.
+Sauf si le député y est désigné en cette qualité, sont incompatibles avec le mandat de député les fonctions de membre de
+conseil d'administration exercées dans les entreprises nationales et établissements publics nationaux, ainsi que les
+fonctions exercées au sein d'une autorité administrative indépendante ou d'une autorité publique indépendante. 
+
+Est incompatible avec le mandat de député la fonction de président d'une autorité administrative indépendante ou d'une
+autorité publique indépendante. 
+
+II. - Un député désigné en cette qualité dans une institution ou un organisme extérieur ne peut percevoir à ce titre aucune
+rémunération, gratification ou indemnité.
+
+**Nota:**
+
+Conformément à la loi organique n° 2013-906 du 11 octobre 2013, article 2 (X) : ces dispositions entrent en vigueur à
+compter, s'agissant des députés, du prochain renouvellement général de l'Assemblée nationale et, s'agissant des sénateurs, du
+prochain renouvellement de la série à laquelle appartient le sénateur.
 
 **Liens relatifs à cet article**
 
@@ -7829,42 +7935,61 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
+
+_Modifié par_:
+
+  - Loi organique n°2013-906 du 11 octobre 2013 - art. 2 (V)
 
 
 ###### Article LO146
 
 Sont incompatibles avec le mandat parlementaire les fonctions de chef d'entreprise, de président de conseil d'administration,
 de président et de membre de directoire, de président de conseil de surveillance, d'administrateur délégué, de directeur
-général, directeur général adjoint ou gérant exercées dans :
+général, directeur général délégué ou gérant exercées dans :
 
-1° Les sociétés, entreprises ou établissements jouissant, sous forme de garanties d'intérêts, de subventions ou, sous forme
+1° les sociétés, entreprises ou établissements jouissant, sous forme de garanties d'intérêts, de subventions ou, sous forme
 équivalente, d'avantages assurés par l'Etat ou par une collectivité publique sauf dans le cas où ces avantages découlent de
 l'application automatique d'une législation générale ou d'une réglementation générale ;
 
-2° Les sociétés ayant exclusivement un objet financier et faisant publiquement appel à l'épargne, ainsi que les sociétés
+2° les sociétés ayant principalement un objet financier et faisant publiquement appel à l'épargne, ainsi que les sociétés
 civiles autorisées à faire publiquement appel à l'épargne et les organes de direction, d'administration ou de gestion de ces
 sociétés ;
 
-3° Les sociétés ou entreprises dont l'activité consiste principalement dans l'exécution de travaux, la prestation de
-fournitures ou de services pour le compte ou sous le contrôle de l'Etat, d'une collectivité ou d'un établissement public ou
-d'une entreprise nationale ou d'un Etat étranger ;
+3° les sociétés ou entreprises dont l'activité consiste dans l'exécution de travaux, la prestation de fournitures ou de
+services destinés spécifiquement à ou devant faire l'objet d'une autorisation discrétionnaire de la part de l'Etat, d'une
+collectivité ou d'un établissement public ou d'une entreprise nationale ou d'un Etat étranger ;
 
-4° Les sociétés ou entreprises à but lucratif dont l'objet est l'achat ou la vente de terrains destinés à des constructions,
+4° les sociétés ou entreprises à but lucratif dont l'objet est l'achat ou la vente de terrains destinés à des constructions,
 quelle que soit leur nature, ou qui exercent une activité de promotion immobilière ou, à titre habituel, de construction
 d'immeubles en vue de leur vente ;
 
-5° Les sociétés dont plus de la moitié du capital est constituée par des participations de sociétés, entreprises ou
-établissements visés aux 1°, 2°, 3° et 4° ci-dessus.
+5° les sociétés dont plus de la moitié du capital est constituée par des participations de sociétés, entreprises ou
+établissements visés aux 1° à 4° ;
+
+6° Les sociétés et organismes exerçant un contrôle effectif sur une société, une entreprise ou un établissement mentionnés
+aux 1° à 4° ;
+
+7° Les sociétés d'économie mixte. 
 
 Les dispositions du présent article sont applicables à toute personne qui, directement ou par personne interposée, exerce en
 fait la direction de l'un des établissements, sociétés ou entreprises ci-dessus visés.
+
+**Nota:**
+
+Conformément à la loi organique n° 2013-906 du 11 octobre 2013, article 2 (X) : ces dispositions entrent en vigueur à
+compter, s'agissant des députés, du prochain renouvellement général de l'Assemblée nationale et, s'agissant des sénateurs, du
+prochain renouvellement de la série à laquelle appartient le sénateur (date indéterminée). 
+
+En vertu de l'article 12 de la loi organique n° 2014-125 du 14 février 2014 interdisant le cumul de fonctions exécutives
+locales avec le mandat de député ou de sénateur, le présent article s'applique à tout parlementaire à compter du premier
+renouvellement de l'assemblée à laquelle il appartient suivant le 31 mars 2017.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Cité par_:
 
@@ -7887,6 +8012,11 @@ _Cité par_:
   - Code électoral - art. LO147 (V)
   - Code électoral - art. LO148 (VD)
   - Code électoral - art. LO149 (M)
+
+_Modifié par_:
+
+  - Loi organique n°2013-906 du 11 octobre 2013 - art. 2 (V)
+  - Loi organique n°2014-125 du 14 février 2014 - art. 3
 
 
 ###### Article LO146-1
@@ -7940,47 +8070,37 @@ _Cite_:
   - Code électoral - art. LO146 (VT)
 
 
-###### Article LO148
+###### Article LO147-1
 
-Nonobstant les dispositions des articles LO 146 et LO 147, les députés membres d'un conseil régional, d'un conseil
-départemental, de l'assemblée de Guyane, de l'assemblée de Martinique ou d'un conseil municipal peuvent être désignés par ces
-conseils pour représenter la région, le département, la collectivité ou la commune dans des organismes d'intérêt régional ou
-local, à la condition que ces organismes n'aient pas pour objet propre de faire ni de distribuer des bénéfices et que les
-intéressés n'y occupent pas de fonctions rémunérées. 
+Le mandat de député est incompatible avec les fonctions de président et de vice-président : 
 
-En outre, les députés, même non membres d'un conseil régional, d'un conseil départemental, de l'assemblée de Guyane, de
-l'assemblée de Martinique ou d'un conseil municipal, peuvent exercer les fonctions de président du conseil d'administration,
-d'administrateur délégué ou de membre du conseil d'administration des sociétés d'économie mixte d'équipement régional ou
-local, ou des sociétés ayant un objet exclusivement social lorsque ces fonctions ne sont pas rémunérées.
+1° Du conseil d'administration d'un établissement public local ; 
+
+2° Du conseil d'administration du Centre national de la fonction publique territoriale ou d'un centre de gestion de la
+fonction publique territoriale ; 
+
+3° Du conseil d'administration ou du conseil de surveillance d'une société d'économie mixte locale ; 
+
+4° Du conseil d'administration ou du conseil de surveillance d'une société publique locale ou d'une société publique locale
+d'aménagement ; 
+
+5° D'un organisme d'habitations à loyer modéré.
 
 **Nota:**
 
-Cet article a été modifié par la loi organique n° 2013-402 du 17 mai 2013 relative à l'élection des conseillers municipaux,
-des conseillers communautaires et des conseillers départementaux. Conformément à son article 8, l’article dans sa version
-modifiée par la loi du 17 mai 2013 s’applique à compter du prochain renouvellement général des conseils départementaux prévu
-en mars 2015, y compris aux opérations préparatoires à ce scrutin. 
-
-Conformément à la loi organique n° 2014-125, article 12, ces dispositions seront abrogées à compter du premier renouvellement
-de chaque assemblée à laquelle appartient tout parlementaire suivant le 31 mars 2017.
+En vertu de l'article 12 de la loi organique n° 2014-125 du 14 février 2014 interdisant le cumul de fonctions exécutives
+locales avec le mandat de député ou de sénateur, le présent article s'applique à tout parlementaire à compter du premier
+renouvellement de l'assemblée à laquelle il appartient suivant le 31 mars 2017.
 
 **Liens relatifs à cet article**
 
 _Cité par_:
 
-  - Loi n°77-729 du 7 juillet 1977 - art. 6 (V)
-  - Code électoral - art. LO151-2 (V)
+  - Loi n°77-729 du 7 juillet 1977 - art. 6-3 (VD)
 
-_Modifié par_:
+_Créé par_:
 
-  - Loi organique n°2013-402 du 17 mai 2013 - art. 3 (V)
-
-_Abrogé par_:
-
-  - Loi organique n°2014-125 du 14 février 2014 - art. 5
-
-_Cite_:
-
-  - Code électoral - art. LO146
+  - Loi organique n°2014-125 du 14 février 2014 - art. 4
 
 
 ###### Article LO149
@@ -7990,22 +8110,26 @@ indirectement par l'intermédiaire d'un associé, d'un collaborateur ou d'un sec
 et la cour de justice de la République, aucun acte de sa profession dans les affaires à l'occasion desquelles des poursuites
 pénales sont engagées devant les juridictions répressives pour crimes ou délits contre la nation, l'Etat et la paix publique
 ou en matière de presse ou d'atteinte au crédit ou à l'épargne ; il lui est interdit, dans les mêmes conditions, de plaider
-ou de consulter pour le compte de l'une de ces sociétés, entreprises ou établissements visés aux articles L. O. 145 et L. O.
-146 dont il n'était pas habituellement le conseil avant son élection, ou contre l'Etat, les sociétés nationales, les
-collectivités ou établissements publics, à l'exception des affaires visées par la loi n° 57-1424 du 31 décembre 1957
-attribuant aux tribunaux judiciaires compétence pour statuer sur les actions en responsabilité des dommages causés par tout
-véhicule et dirigées contre une personne morale de droit public.
+ou de consulter pour le compte de l'une de ces sociétés, entreprises ou établissements visés aux articles LO. 145 et LO. 146
+ou contre l'Etat, les sociétés nationales, les collectivités ou établissements publics, à l'exception des affaires visées par
+la loi n° 57-1424 du 31 décembre 1957 attribuant aux tribunaux judiciaires compétence pour statuer sur les actions en
+responsabilité des dommages causés par tout véhicule et dirigées contre une personne morale de droit public.
+
+**Nota:**
+
+Conformément à la loi organique n° 2013-906 du 11 octobre 2013, article 2 (X) : ces dispositions entrent en vigueur à
+compter, s'agissant des députés, du prochain renouvellement général de l'Assemblée nationale.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°57-1424 du 31 décembre 1957 (V)
-  - Code électoral - art. LO145 (VT)
+  - Loi n°57-1424 du 31 décembre 1957
+  - Code électoral - art. LO145 (V)
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Cité par_:
 
@@ -8016,8 +8140,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°95-63 du 19 janvier 1995 - art. 4 ()
-  - Loi organique 95-63 1995-01-19 art. 4, 5 jorf 20 janvier 1995
+  - Loi organique n°2013-906 du 11 octobre 2013 - art. 2 (V)
 
 
 ###### Article LO150
@@ -8049,25 +8172,34 @@ _Modifié par_:
 
 ###### Article LO151
 
-Le député qui se trouve dans un des cas d'incompatibilité mentionnés à l'article LO 141 est tenu de faire cesser cette
-incompatibilité en démissionnant du mandat de son choix, au plus tard le trentième jour qui suit la date de la proclamation
-des résultats de l'élection qui l'a mis en situation d'incompatibilité ou, en cas de contestation, la date à laquelle le
-jugement confirmant cette élection est devenu définitif. 
-
-A défaut d'option dans le délai imparti, le mandat local acquis à la date la plus ancienne prend fin de plein droit. 
-
-En cas d'élections acquises le même jour, l'intéressé est déclaré démissionnaire d'office du mandat acquis dans la
+I.-Le député qui se trouve dans un des cas d'incompatibilité mentionnés à l'article LO 141 est tenu de faire cesser cette
+incompatibilité en démissionnant d'un des mandats qu'il détenait antérieurement, au plus tard le trentième jour qui suit la
+date de la proclamation des résultats de l'élection qui l'a mis en situation d'incompatibilité ou, en cas de contestation, la
+date à laquelle le jugement confirmant cette élection est devenu définitif. En cas d'élections acquises le même jour, le
+député est tenu, dans les mêmes conditions, de faire cesser l'incompatibilité en démissionnant du mandat acquis dans la
 circonscription comptant le moins grand nombre d'habitants. 
 
-Si la cause d'incompatibilité survient postérieurement à l'élection à l'Assemblée nationale, le droit d'option est ouvert à
-l'élu dans les mêmes conditions à compter de la date de la proclamation des résultats de l'élection qui l'a mis en situation
-d'incompatibilité ou, en cas de contestation, de la date à laquelle le jugement confirmant cette élection est devenu
-définitif.
+A défaut d'option dans le délai imparti, le mandat acquis à la date la plus ancienne prend fin de plein droit. 
+
+En cas d'élections acquises le même jour, le mandat qui prend fin de plein droit est celui acquis dans la circonscription
+comptant le moins grand nombre d'habitants. 
+
+II.-Le député qui se trouve dans un des cas d'incompatibilité mentionnés à l'article LO 141-1 est tenu de faire cesser cette
+incompatibilité en démissionnant du mandat ou de la fonction qu'il détenait antérieurement, au plus tard le trentième jour
+qui suit la date de la proclamation des résultats de l'élection qui l'a mis en situation d'incompatibilité ou, en cas de
+contestation, la date à laquelle le jugement confirmant cette élection est devenu définitif. En cas d'élections acquises le
+même jour, le député est tenu, dans les mêmes conditions, de faire cesser l'incompatibilité en démissionnant du mandat ou de
+la fonction acquis dans la circonscription comptant le moins grand nombre d'habitants. 
+
+A défaut, le mandat ou la fonction acquis à la date la plus ancienne prend fin de plein droit. En cas d'élections acquises le
+même jour, le mandat ou la fonction qui prend fin de plein droit est celui ou celle acquis dans la circonscription comptant
+le moins grand nombre d'habitants.
 
 **Nota:**
 
-Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
-général de l'Assemblée nationale suivant sa promulgation.
+En vertu de l'article 12 de la loi organique n° 2014-125 du 14 février 2014 interdisant le cumul de fonctions exécutives
+locales avec le mandat de député ou de sénateur, le présent article s'applique à tout parlementaire à compter du premier
+renouvellement de l'assemblée à laquelle il appartient suivant le 31 mars 2017.
 
 **Liens relatifs à cet article**
 
@@ -8091,20 +8223,27 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi organique n°2011-410 du 14 avril 2011 - art. 9
+  - Loi organique n°2014-125 du 14 février 2014 - art. 6
 
 
 ###### Article LO151-1
 
 Au plus tard le trentième jour qui suit son entrée en fonction ou, en cas de contestation de son élection, la date de la
 décision du Conseil constitutionnel, le député qui se trouve dans un cas d'incompatibilité mentionné aux articles LO 139, LO
-140 et LO 142 à LO 148 se démet des fonctions ou mandats incompatibles avec son mandat parlementaire. S'il est titulaire d'un
-emploi public, il demande à être placé dans la position spéciale prévue par son statut.
+140 et LO 142 à LO 147-1 se démet des fonctions ou mandats incompatibles avec son mandat parlementaire. 
+
+Lorsqu'il occupe un emploi public autre que ceux mentionnés aux 1° et 2° de l'article LO 142, il est placé d'office, pendant
+la durée de son mandat, en position de disponibilité ou dans la position équivalente prévue par son statut ne lui permettant
+pas d'acquérir de droits à l'avancement et de droits à pension.
 
 **Nota:**
 
-Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
-général de l'Assemblée nationale suivant sa promulgation.
+Conformément à la loi organique n° 2013-906 du 11 octobre 2013, article 2 (X) : ces dispositions entrent en vigueur à
+compter, s'agissant des députés, du prochain renouvellement général de l'Assemblée nationale. 
+
+En vertu de l'article 12 de la loi organique n° 2014-125 du 14 février 2014 interdisant le cumul de fonctions exécutives
+locales avec le mandat de député ou de sénateur, le présent article s'applique à tout parlementaire à compter du premier
+renouvellement de l'assemblée à laquelle il appartient suivant le 31 mars 2017.
 
 **Liens relatifs à cet article**
 
@@ -8114,7 +8253,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi organique n°2011-410 du 14 avril 2011 - art. 9
+  - Loi organique n°2013-906 du 11 octobre 2013 - art. 2 (V)
+  - Loi organique n°2014-125 du 14 février 2014 - art. 5
 
 _Cité par_:
 
@@ -8127,7 +8267,7 @@ _Cité par_:
 _Cite_:
 
   - Code électoral - art. LO139
-  - Code électoral - art. LO142
+  - Code électoral - art. LO142 (V)
 
 
 ###### Article LO151-2
@@ -8934,13 +9074,20 @@ _Cite_:
 
 ###### Article LO176
 
-Les députés dont le siège devient vacant pour cause de décès, d'acceptation des fonctions de membre du Conseil
-constitutionnel ou de Défenseur des droits ou de prolongation au-delà du délai de six mois d'une mission temporaire confiée
-par le Gouvernement sont remplacés jusqu'au renouvellement de l'Assemblée nationale par les personnes élues en même temps
-qu'eux à cet effet. 
+Sous réserve du second alinéa du présent article, les députés dont le siège devient vacant pour toute autre cause que
+l'annulation de l'élection, la démission d'office prononcée par le Conseil constitutionnel en application de l'article LO
+136-1, la démission intervenue pour tout autre motif qu'une incompatibilité prévue aux articles LO 137, LO 137-1, LO 141 ou
+LO 141-1 ou la déchéance constatée par le Conseil constitutionnel en application de l'article LO 136 sont remplacés jusqu'au
+renouvellement de l'Assemblée nationale par les personnes élues en même temps qu'eux à cet effet. 
 
 Les députés qui acceptent des fonctions gouvernementales sont remplacés, jusqu'à l'expiration d'un délai d'un mois suivant la
 cessation de ces fonctions, par les personnes élues en même temps qu'eux à cet effet.
+
+**Nota:**
+
+En vertu de l'article 12 de la loi organique n° 2014-125 du 14 février 2014 interdisant le cumul de fonctions exécutives
+locales avec le mandat de député ou de sénateur, le présent article s'applique à tout député à compter du premier
+renouvellement de l'Assemblée nationale suivant le 31 mars 2017.
 
 **Liens relatifs à cet article**
 
@@ -8953,7 +9100,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi organique n°2011-333 du 29 mars 2011 - art. 42
+  - Loi organique n°2014-125 du 14 février 2014 - art. 8 (V)
 
 
 ###### Article LO177
@@ -8981,12 +9128,20 @@ _Cité par_:
 
 ###### Article LO178
 
-En cas d'annulation des opérations électorales d'une circonscription, dans les cas de vacance autres que ceux qui sont
-mentionnés à l'article LO 176 ou lorsque les dispositions de cet article ne peuvent plus être appliquées, il est procédé à
-des élections partielles dans un délai de trois mois. 
+En cas d'annulation des opérations électorales, de vacance causée par la démission d'office prononcée par le Conseil
+constitutionnel en application de l'article LO 136-1, par la démission intervenue pour tout autre motif qu'une
+incompatibilité prévue aux articles LO 137, LO 137-1, LO 141 ou LO 141-1 ou par la déchéance constatée par le Conseil
+constitutionnel en application de l'article LO 136, ou lorsque le remplacement prévu à l'article LO 176 ne peut plus être
+effectué, il est procédé à des élections partielles dans un délai de trois mois. 
 
 Toutefois, il n'est procédé à aucune élection partielle dans les douze mois qui précèdent l'expiration des pouvoirs de
 l'Assemblée nationale.
+
+**Nota:**
+
+En vertu de l'article 12 de la loi organique n° 2014-125 du 14 février 2014 interdisant le cumul de fonctions exécutives
+locales avec le mandat de député ou de sénateur, le présent article s'applique à tout député à compter du premier
+renouvellement de l'Assemblée nationale suivant le 31 mars 2017.
 
 **Liens relatifs à cet article**
 
@@ -8997,10 +9152,13 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi organique n°2009-38 du 13 janvier 2009 - art. 2
+  - Loi organique n°2014-125 du 14 février 2014 - art. 8 (V)
 
 _Cite_:
 
+  - Code électoral - art. LO136-1
+  - Code électoral - art. LO137
+  - Code électoral - art. LO137-1
   - Code électoral - art. LO176
 
 
