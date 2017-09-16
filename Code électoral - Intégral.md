@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2017-06-19
+Version Consolidée au 2017-09-17
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires (art. L1 à L273-12)](#2)
@@ -26,7 +26,7 @@ Version Consolidée au 2017-06-19
       - [Titre II : Dispositions spéciales à l'élection des députés (art. LO119 à L190)](#23)
         - [Chapitre Ier : Composition de l'Assemblée nationale et durée du mandat des députés (art. LO119 à LO122)](#24)
         - [Chapitre II : Mode de scrutin (art. L123 à L126)](#25)
-        - [Chapitre III : Conditions d'éligibilité et inéligibilités (art. LO127 à LO136-3)](#26)
+        - [Chapitre III : Conditions d'éligibilité et inéligibilités (art. LO127 à LO136-4)](#26)
         - [Chapitre IV : Incompatibilités (art. LO137 à LO153)](#27)
         - [Chapitre V : Déclarations de candidatures (art. L154 à LO160)](#28)
         - [Chapitre VI : Propagande (art. L164 à L171)](#29)
@@ -3185,18 +3185,18 @@ _Cité par_:
 
 Tout candidat à une élection déclare un mandataire conformément aux articles L. 52-5 et L. 52-6 au plus tard à la date à
 laquelle sa candidature est enregistrée. Ce mandataire peut être une association de financement électoral, ou une personne
-physique dénommée " le mandataire financier ". Un même mandataire ne peut être commun à plusieurs candidats. 
+physique dénommée " le mandataire financier ". Un même mandataire ne peut être commun à plusieurs candidats.
 
-Le mandataire recueille, pendant  les six mois précédant le premier jour du mois de l'élection et jusqu'à la date du dépôt du
-compte de campagne du candidat, les fonds destinés au financement de la campagne. 
+Le mandataire recueille, pendant les six mois précédant le premier jour du mois de l'élection et jusqu'à la date du dépôt du
+compte de campagne du candidat, les fonds destinés au financement de la campagne.
 
 Il règle les dépenses engagées en vue de l'élection et antérieures à la date du tour de scrutin où elle a été acquise, à
 l'exception des dépenses prises en charge par un parti ou groupement politique. Les dépenses antérieures à sa désignation
 payées directement par le candidat ou à son profit, ou par l'un des membres d'un binôme de candidats ou au profit de ce
-membre, font l'objet d'un remboursement par le mandataire et figurent dans son compte bancaire ou postal. 
+membre, font l'objet d'un remboursement par le mandataire et figurent dans son compte de dépôt.
 
 En cas d'élection anticipée ou partielle, ces dispositions ne sont applicables qu'à compter de l'événement qui rend cette
-élection nécessaire. 
+élection nécessaire.
 
 Les dispositions du présent article ne sont applicables ni à l'élection des conseillers municipaux dans les communes de moins
 de 9 000 habitants, ni à l'élection des membres de l'assemblée territoriale de Wallis-et-Futuna et du conseil territorial de
@@ -3245,7 +3245,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-508 du 25 avril 2016 - art. 2
+  - Loi n°2017-1339 du 15 septembre 2017 - art. 27
 
 
 ###### Article L52-5
@@ -3256,11 +3256,11 @@ candidat ne peut être membre de l'association de financement qui le soutient ; 
 membre de la liste ne peut être membre de l'association de financement qui soutient le candidat tête de la liste sur laquelle
 il figure. En cas de scrutin binominal, aucun des membres du binôme et aucun des remplaçants ne peut être membre de
 l'association de financement. L'expert-comptable chargé de la présentation du compte de campagne ne peut exercer les
-fonctions de président ou de trésorier de cette association. 
+fonctions de président ou de trésorier de cette association.
 
-L'association de financement électorale est tenue d'ouvrir un compte bancaire ou postal unique retraçant la totalité de ses
-opérations financières. Les comptes de l'association sont annexés au compte de campagne du candidat qu'elle a soutenu ou au
-compte de campagne du candidat tête de liste lorsque le candidat qu'elle a soutenu figure sur cette liste. 
+L'association de financement électorale est tenue d'ouvrir un compte de dépôt unique retraçant la totalité de ses opérations
+financières. Les comptes de l'association sont annexés au compte de campagne du candidat qu'elle a soutenu ou au compte de
+campagne du candidat tête de liste lorsque le candidat qu'elle a soutenu figure sur cette liste.
 
 L'association ne peut recueillir de fonds que pendant la période prévue au deuxième alinéa de l'article L. 52-4. 
 
@@ -3271,7 +3271,7 @@ candidat ou d'un des membres d'un binôme de candidats. Le solde doit être attr
 de décision de dévolution dans les conditions et délais prévus ci-dessus, à la demande du préfet du département dans lequel
 est situé le siège de l'association de financement électorale, le procureur de la République saisit le président du tribunal
 de grande instance, qui détermine le ou les établissements reconnus d'utilité publique attributaires de l'actif net. Il en va
-de même dans le cas où la dévolution n'est pas acceptée. 
+de même dans le cas où la dévolution n'est pas acceptée.
 
 Si le candidat soutenu par l'association de financement électorale n'a pas déposé sa candidature, l'association est dissoute
 de plein droit à l'expiration du délai de dépôt des candidatures. La dévolution de l'actif net, sur laquelle l'association
@@ -3317,8 +3317,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2017-286 du 6 mars 2017 - art. 1
-  - Loi n°2017-286 du 6 mars 2017 - art. 2
+  - Loi n°2017-1339 du 15 septembre 2017 - art. 27
 
 
 ###### Article L52-6
@@ -3329,26 +3328,8 @@ comptable chargé de la présentation du compte de campagne ne peut exercer cett
 aucun membre de la liste ne peut être le mandataire financier du candidat tête de la liste sur laquelle il figure. En cas de
 scrutin binominal, aucun des membres du binôme et aucun des remplaçants ne peut être désigné mandataire financier du binôme.
 
-Le mandataire financier est tenu d'ouvrir un compte bancaire ou postal unique retraçant la totalité de ses opérations
-financières. L'intitulé du compte précise que le titulaire agit en qualité de mandataire financier du candidat, nommément
-désigné.
-
-Tout mandataire financier a droit à l'ouverture de ce compte, ainsi qu'à la mise à disposition des moyens de paiement
-nécessaires à son fonctionnement, dans l'établissement de crédit de son choix. L'ouverture de ce compte intervient sur
-présentation d'une attestation sur l'honneur du mandataire qu'il ne dispose pas déjà d'un compte en tant que mandataire
-financier du candidat.
-
-En cas de refus de la part de l'établissement choisi, le mandataire peut saisir la Banque de France afin qu'elle lui désigne
-un établissement de crédit situé dans la circonscription dans laquelle se déroule l'élection ou à proximité d'un autre lieu
-de son choix, dans un délai d'un jour ouvré à compter de la réception de la demande du mandataire et des pièces requises.
-Toute décision de clôture de compte à l'initiative de l'établissement de crédit désigné par la Banque de France doit faire
-l'objet d'une notification écrite et motivée adressée au mandataire et à la Banque de France pour information. Un délai
-minimal de deux mois doit être obligatoirement consenti au mandataire. En cas de clôture, le mandataire peut à nouveau
-exercer son droit au compte dans les conditions prévues au présent article. Dans ce cas, l'existence de comptes successifs ne
-constitue pas une violation de l'obligation de disposer d'un compte bancaire ou postal unique prévue au deuxième alinéa. Les
-modalités de mise en œuvre de ce droit sont précisées par décret. Le contrôle du respect de ce droit est assuré par
-l'Autorité de contrôle prudentiel et de résolution et relève de la procédure prévue à l'article L. 612-31 du code monétaire
-et financier.
+Le mandataire financier est tenu d'ouvrir un compte de dépôt unique retraçant la totalité de ses opérations financières.
+L'intitulé du compte précise que le titulaire agit en qualité de mandataire financier du candidat, nommément désigné.
 
 Les comptes du mandataire sont annexés au compte de campagne du candidat qui l'a désigné ou au compte de campagne du candidat
 tête de liste lorsque le candidat qui l'a désigné figure sur cette liste.
@@ -3380,7 +3361,7 @@ _Cité par_:
   - Décret n°2001-213 du 8 mars 2001 - art. 11 (V)
   - Décret n°2001-213 du 8 mars 2001 - art. 12-1 (V)
   - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
-  - Code monétaire et financier - art. L561-22 (VT)
+  - Code monétaire et financier - art. L561-22 (V)
   - Code électoral - art. L298 (V)
   - Code électoral - art. L330-7 (V)
   - Code électoral - art. R39-1-A (VD)
@@ -3392,12 +3373,61 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2017-286 du 6 mars 2017 - art. 1
-  - Loi n°2017-286 du 6 mars 2017 - art. 2
+  - Loi n°2017-1339 du 15 septembre 2017 - art. 27
 
 _Cite_:
 
   - Code électoral - art. L52-4
+  - Code monétaire et financier - art. L612-31
+
+
+###### Article L52-6-1
+
+Tout mandataire déclaré conformément aux articles L. 52-5 et L. 52-6 a droit à l'ouverture d'un compte de dépôt dans
+l'établissement de crédit de son choix ainsi qu'à la mise à disposition des moyens de paiement et services bancaires
+nécessaires à son fonctionnement. L'ouverture de ce compte intervient sur présentation d'une attestation sur l'honneur du
+mandataire qu'il ne dispose pas déjà d'un compte en tant que mandataire du candidat. 
+
+L'établissement de crédit qui a refusé l'ouverture d'un compte remet systématiquement, gratuitement et sans délai au
+demandeur une attestation de refus d'ouverture de compte et l'informe qu'il peut demander à la Banque de France de lui
+désigner un établissement de crédit pour lui ouvrir un compte. A défaut de réponse de l'établissement de crédit dans un délai
+de quinze jours à compter de la demande d'ouverture de ce compte, la demande est réputée refusée. 
+
+En cas de refus de la part de l'établissement choisi, le mandataire peut saisir la Banque de France afin qu'elle lui désigne
+un établissement de crédit situé dans la circonscription dans laquelle se déroule l'élection ou à proximité d'un autre lieu
+de son choix, dans un délai d'un jour ouvré à compter de la réception de la demande du mandataire et des pièces requises. 
+
+Toute décision de clôture de compte à l'initiative de l'établissement de crédit désigné par la Banque de France doit faire
+l'objet d'une notification écrite et motivée adressée gratuitement au mandataire et à la Banque de France pour information.
+La décision ne fait pas l'objet d'une motivation lorsque la notification est de nature à contrevenir aux objectifs de
+sécurité nationale ou de maintien de l'ordre public. Un délai minimal de deux mois doit être obligatoirement consenti au
+mandataire, sauf lorsque celui-ci a délibérément utilisé son compte pour des opérations que l'établissement de crédit a des
+raisons de soupçonner comme poursuivant des fins illégales ou que le client a fourni des informations inexactes. En cas de
+clôture, le mandataire peut à nouveau exercer son droit au compte dans les conditions prévues au présent article. Dans ce
+cas, l'existence de comptes successifs ne constitue pas une violation de l'obligation de disposer d'un compte de dépôt unique
+prévue au deuxième alinéa des articles L. 52-5 et L. 52-6. 
+
+Le contrôle du respect de ce droit est assuré par l'Autorité de contrôle prudentiel et de résolution et relève de la
+procédure prévue à l'article L. 612-31 du code monétaire et financier. 
+
+L'établissement de crédit désigné par la Banque de France est tenu d'offrir gratuitement au titulaire du compte les services
+bancaires de base mentionnés au III de l'article L. 312-1 du même code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2017-1339 du 15 septembre 2017 - art. 27
+
+_Cité par_:
+
+  - Décret n°2018-205 du 27 mars 2018 - art. 6 (V)
+  - Code monétaire et financier - art. L561-22 (V)
+
+_Cite_:
+
+  - Code électoral - art. L52-5 (V)
+  - Code monétaire et financier - art. L312-1 (V)
   - Code monétaire et financier - art. L612-31
 
 
@@ -3408,9 +3438,9 @@ mandataire financier.
 
 Il peut toutefois recourir successivement à deux ou plusieurs intermédiaires. Dans cette hypothèse, le candidat doit mettre
 fin aux fonctions du mandataire ou retirer son accord à l'association de financement électorale dans les mêmes formes que la
-désignation ou l'attribution de l'accord. Le compte bancaire ou postal unique est bloqué jusqu'au moment où le candidat
-désigne un nouveau mandataire financier ou donne son accord à une nouvelle association de financement électorale. Chaque
-association ou chaque mandataire financier, sauf le cas de décès de ce dernier, établit le compte de sa gestion.
+désignation ou l'attribution de l'accord. Le compte de dépôt unique est bloqué jusqu'au moment où le candidat désigne un
+nouveau mandataire financier ou donne son accord à une nouvelle association de financement électorale. Chaque association ou
+chaque mandataire financier, sauf le cas de décès de ce dernier, établit le compte de sa gestion.
 
 **Nota:**
 
@@ -3429,7 +3459,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2013-403 du 17 mai 2013 - art. 17
+  - Loi n°2017-1339 du 15 septembre 2017 - art. 27
 
 
 ###### Article L52-8
@@ -6804,21 +6834,20 @@ _Modifié par_:
 
 ###### Article LO128
 
-Ne peuvent pas faire acte de candidature : 
+Ne peuvent pas faire acte de candidature :
 
 1° Pendant une durée maximale de trois ans suivant la date de sa décision, les personnes déclarées inéligibles par le juge
-administratif en application des articles L. 118-3 et L. 118-4 ; 
+administratif en application des articles L. 118-3 et L. 118-4 ;
 
 2° Pendant une durée maximale de trois ans suivant la date de sa décision, les personnes déclarées inéligibles par le Conseil
-constitutionnel en application des articles LO 136-1 et LO 136-3 ; 
+constitutionnel en application des articles LO 136-1 , LO 136-3  et LO 136-4;
 
 3° Pendant un an suivant la date de sa décision, les personnes déclarées inéligibles par le Conseil constitutionnel en
 application de l'article LO 136-2.
 
 **Nota:**
 
-Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
-général de l'Assemblée nationale suivant sa promulgation.
+
 
 **Liens relatifs à cet article**
 
@@ -6845,14 +6874,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi organique n°2011-410 du 14 avril 2011 - art. 1
+  - Loi n°2017-1338 du 15 septembre 2017 - art. 4
 
 _Cite_:
 
   - Code électoral - art. L118-3
-  - Code électoral - art. LO136-1 (V)
-  - Code électoral - art. LO136-2 (V)
-  - Code électoral - art. LO136-3 (V)
+  - Code électoral - art. LO136-1
+  - Code électoral - art. LO136-2
+  - Code électoral - art. LO136-3
 
 
 ###### Article LO129
@@ -7063,8 +7092,8 @@ _Modifié par_:
 
 ###### Article LO135-1
 
-I.-Dans les deux mois qui suivent son entrée en fonction, le député adresse personnellement au président de la Haute Autorité
-pour la transparence de la vie publique une déclaration exhaustive, exacte, sincère et certifiée sur l'honneur de sa
+I. – Dans les deux mois qui suivent son entrée en fonction, le député adresse personnellement au président de la Haute
+Autorité pour la transparence de la vie publique une déclaration exhaustive, exacte, sincère et certifiée sur l'honneur de sa
 situation patrimoniale concernant la totalité de ses biens propres ainsi que, le cas échéant, ceux de la communauté ou les
 biens indivis. Ces biens sont évalués à la date du fait générateur de la déclaration comme en matière de droits de mutation à
 titre gratuit. Dans les mêmes conditions, il adresse au président de la Haute Autorité ainsi qu'au bureau de l'Assemblée
@@ -7082,10 +7111,10 @@ dans les deux mois qui suivent la fin des fonctions. Cette déclaration comporte
 perçus par le député et, le cas échéant, par la communauté depuis le début du mandat parlementaire en cours. Le député peut
 joindre à sa déclaration ses observations sur l'évolution de son patrimoine. 
 
-Lorsque le député a établi depuis moins de six mois une déclaration de situation patrimoniale en application du présent
-article ou des articles 4 et 11 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique,
-aucune nouvelle déclaration mentionnée à la première phrase du premier alinéa du présent I n'est exigée et la déclaration
-prévue au troisième alinéa du même I est limitée à la récapitulation mentionnée à la deuxième phrase du même alinéa et à la
+Lorsque le député a établi depuis moins d'un an une déclaration de situation patrimoniale en application du présent article
+ou des articles 4 et 11 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, aucune
+nouvelle déclaration mentionnée à la première phrase du premier alinéa du présent I n'est exigée et la déclaration prévue au
+troisième alinéa du même I est limitée à la récapitulation mentionnée à la deuxième phrase du même alinéa et à la
 présentation mentionnée au dernier alinéa du II. 
 
 Le fait pour un député d'omettre de déclarer une partie substantielle de son patrimoine ou de ses intérêts ou de fournir une
@@ -7097,7 +7126,7 @@ et 131-26-1 du code pénal, ainsi que l'interdiction d'exercer une fonction publ
 Sans préjudice de l'article LO 136-2, tout manquement aux obligations prévues au troisième alinéa est puni de 15 000 €
 d'amende. 
 
-II.-La déclaration de situation patrimoniale porte sur les éléments suivants : 
+II. – La déclaration de situation patrimoniale porte sur les éléments suivants : 
 
 1° Les immeubles bâtis et non bâtis ; 
 
@@ -7126,7 +7155,7 @@ Les déclarations de situation patrimoniale déposées en application du troisi�
 mentionnés aux mêmes 1° à 10°, une présentation des événements majeurs ayant affecté la composition du patrimoine depuis la
 précédente déclaration. 
 
-III.-La déclaration d'intérêts et d'activités porte sur les éléments suivants : 
+III. – La déclaration d'intérêts et d'activités porte sur les éléments suivants : 
 
 1° Les activités professionnelles donnant lieu à rémunération ou gratification exercées à la date de l'élection ; 
 
@@ -7138,7 +7167,9 @@ années ;
 4° Les participations aux organes dirigeants d'un organisme public ou privé ou d'une société à la date de l'élection ou lors
 des cinq dernières années ; 
 
-5° Les participations financières directes dans le capital d'une société à la date de l'élection ; 
+5° Les participations financières directes dans le capital d'une société à la date de l'élection, ainsi que les
+participations directes ou indirectes qui confèrent le contrôle d'une société, d'une entreprise ou d'un organisme dont
+l'activité consiste principalement dans la fourniture de prestations de conseil ; 
 
 6° Les activités professionnelles exercées à la date de l'élection par le conjoint, le partenaire lié par un pacte civil de
 solidarité ou le concubin ; 
@@ -7158,21 +7189,14 @@ l'exercice de son mandat.
 La déclaration précise le montant des rémunérations, indemnités ou gratifications perçues par le député au titre des éléments
 mentionnés aux 1° à 5°, 9° et 11° du présent III. 
 
-IV.-Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, précise le
+IV. – Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, précise le
 modèle et le contenu des déclarations prévues au présent article et fixe leurs conditions de mise à jour et de conservation.
-
-**Nota:**
-
-Loi organique n° 2013-906 du 11 octobre 2013, article 1 : Le présent article entre en vigueur à compter de la date de
-publication au Journal officiel du décret nommant le président de la Haute Autorité pour la transparence de la vie publique.
-Le décret portant nomination du président de la Haute Autorité pour la  transparence de la vie publique a été publié le 20
-décembre 2013.
 
 **Liens relatifs à cet article**
 
 _Cité par_:
 
-  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (VD)
+  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (VT)
   - Loi n°88-227 du 11 mars 1988 - art. 1 (Ab)
   - Loi n°88-227 du 11 mars 1988 - art. 2 (Ab)
   - Loi n°88-227 du 11 mars 1988 - art. 4 (Ab)
@@ -7219,116 +7243,107 @@ _Codifié par_:
 
   - Décret n°64-1086 du 27 octobre 1964
 
-_Modifié par_:
-
-  - Loi organique n°2013-906 du 11 octobre 2013 - art. 1 (V)
-
 _Cite_:
 
+  - Décision n°2013-675 DC du 9 octobre 2013, v. init.
   - Code pénal - art. 131-27
+
+_Modifié par_:
+
+  - Loi n°2017-1338 du 15 septembre 2017 - art. 16
+  - Loi n°2017-1338 du 15 septembre 2017 - art. 6
 
 
 ###### Article LO135-2
 
-I. - Les déclarations d'intérêts et d'activités déposées par le député en application de l'article LO 135-1 ainsi que, le cas
+I. – Les déclarations d'intérêts et d'activités déposées par le député en application de l'article LO 135-1 ainsi que, le cas
 échéant, les observations qu'il a formulées sont rendues publiques, dans les limites définies au III du présent article, par
 la Haute Autorité pour la transparence de la vie publique. Les électeurs peuvent adresser à la Haute Autorité toute
-observation écrite relative à ces déclarations d'intérêts et d'activités. 
+observation écrite relative à ces déclarations d'intérêts et d'activités.
 
 Les déclarations de situation patrimoniale déposées par le député en application du même article LO 135-1 sont transmises par
 la Haute Autorité pour la transparence de la vie publique à l'administration fiscale. Celle-ci fournit à la Haute Autorité,
 dans les trente jours suivant cette transmission, tous les éléments lui permettant d'apprécier l'exhaustivité, l'exactitude
 et la sincérité de la déclaration de situation patrimoniale, notamment les avis d'imposition de l'intéressé à l'impôt sur le
-revenu et, le cas échéant, à l'impôt de solidarité sur la fortune. 
+revenu et, le cas échéant, à l'impôt de solidarité sur la fortune.
 
 Dans un délai de trois mois suivant la réception des éléments mentionnés au deuxième alinéa du présent I, les déclarations de
 situation patrimoniale peuvent, avant d'être rendues publiques dans les limites définies au III du présent article, être
 assorties de toute appréciation de la Haute Autorité qu'elle estime utile quant à leur exhaustivité, leur exactitude et leur
-sincérité, après avoir mis le député concerné à même de présenter ses observations. 
+sincérité, après avoir mis le député concerné à même de présenter ses observations.
 
 Les déclarations de situation patrimoniale sont, aux seules fins de consultation, tenues à la disposition des électeurs
-inscrits sur les listes électorales : 
+inscrits sur les listes électorales :
 
-1° A la préfecture du département d'élection du député ; 
+1° A la préfecture du département d'élection du député ;
 
-2° Au haut-commissariat, pour les députés élus en Nouvelle-Calédonie ou en Polynésie française ; 
+2° Au haut-commissariat, pour les députés élus en Nouvelle-Calédonie ou en Polynésie française ;
 
 3° A la préfecture, pour les députés élus dans les autres collectivités d'outre-mer régies par l'article 74 de la
-Constitution ; 
+Constitution ;
 
-4° A la préfecture de Paris, pour les députés élus par les Français établis hors de France. 
+4° A la préfecture de Paris, pour les députés élus par les Français établis hors de France.
 
-Ces électeurs peuvent adresser à la Haute Autorité toute observation écrite relative aux déclarations qu'ils ont consultées. 
+Ces électeurs peuvent adresser à la Haute Autorité toute observation écrite relative aux déclarations qu'ils ont consultées.
 
-Sauf si le déclarant a lui-même rendu publique sa déclaration de situation patrimoniale, le fait de publier ou de divulguer,
-de quelque manière que ce soit, tout ou partie des déclarations de situation patrimoniale, des observations ou des
-appréciations prévues aux deuxième à avant-dernier alinéas du présent I est puni de 45 000 € d'amende. 
+II. – La procédure prévue aux huit derniers alinéas du I du présent article est applicable à la déclaration de situation
+patrimoniale déposée en fin de mandat en application du troisième alinéa du I de l'article LO 135-1.
 
-II. - La procédure prévue aux neuf derniers alinéas du I du présent article est applicable à la déclaration de situation
-patrimoniale déposée en fin de mandat en application du troisième alinéa du I de l'article LO 135-1. 
-
-III. - Ne peuvent être rendus publics les éléments suivants : les adresses personnelles de la personne soumise à déclaration,
-les noms du conjoint, du partenaire lié par un pacte civil de solidarité ou du concubin et des autres membres de sa famille. 
+III. – Ne peuvent être rendus publics les éléments suivants : les adresses personnelles de la personne soumise à déclaration,
+les noms du conjoint, du partenaire lié par un pacte civil de solidarité ou du concubin et des autres membres de sa famille.
 
 Pour la déclaration de situation patrimoniale, ne peuvent être rendus publics, s'agissant des biens immobiliers : les
 indications, autres que le nom du département, relatives à la localisation des biens ; les noms des personnes qui possédaient
 auparavant les biens mentionnés dans la déclaration ; pour les biens qui sont en situation d'indivision, les noms des autres
 propriétaires indivis ; pour les biens en nue-propriété, les noms des usufruitiers ; pour les biens en usufruit, les noms des
-nus-propriétaires. 
+nus-propriétaires.
 
 Pour la déclaration d'intérêts et d'activités, ne peuvent être rendus publics, s'agissant des biens immobiliers : les
 indications, autres que le nom du département, relatives à la localisation des biens. S'il s'agit du conjoint, du partenaire
-lié par un pacte civil de solidarité, du concubin : 
+lié par un pacte civil de solidarité, du concubin :
 
-1° Les noms des personnes qui possédaient auparavant des biens mentionnés dans cette déclaration ; 
+1° Les noms des personnes qui possédaient auparavant des biens mentionnés dans cette déclaration ;
 
-2° Pour les biens qui sont en situation d'indivision, les noms des autres propriétaires indivis ; 
+2° Pour les biens qui sont en situation d'indivision, les noms des autres propriétaires indivis ;
 
-3° Pour les biens en nue-propriété, les noms des usufruitiers ; 
+3° Pour les biens en nue-propriété, les noms des usufruitiers ;
 
-4° Pour les biens en usufruit, les noms des nus-propriétaires. 
+4° Pour les biens en usufruit, les noms des nus-propriétaires.
 
 Ne peuvent être rendus publics, s'agissant des biens mobiliers : les noms des personnes qui détenaient auparavant les biens
 mobiliers mentionnés dans la déclaration de situation patrimoniale ; les noms des personnes qui détenaient auparavant des
 biens mobiliers mentionnés dans la déclaration d'intérêts et d'activités s'il s'agit du conjoint, du partenaire lié par un
-pacte civil de solidarité, du concubin. 
+pacte civil de solidarité, du concubin.
 
 Ne peuvent être rendus publics, s'agissant des instruments financiers : les adresses des établissements financiers et les
-numéros des comptes détenus. 
+numéros des comptes détenus.
 
-Le cas échéant : 
+Le cas échéant :
 
-1° L'évaluation rendue publique de la valeur des biens détenus en communauté correspond à la moitié de leur valeur vénale ; 
+1° L'évaluation rendue publique de la valeur des biens détenus en communauté correspond à la moitié de leur valeur vénale ;
 
 2° L'évaluation rendue publique de la valeur des biens indivis correspond à la part des droits indivis détenus par le
-déclarant. 
+déclarant.
 
 Les éléments mentionnés au présent III ne peuvent être communiqués qu'à la demande expresse du déclarant ou de ses ayants
 droit ou sur requête des autorités judiciaires lorsque leur communication est nécessaire à la solution du litige ou utile
-pour la découverte de la vérité. 
+pour la découverte de la vérité.
 
-IV. - Les informations contenues dans les déclarations d'intérêts et d'activités rendues publiques conformément et dans les
+IV. – Les informations contenues dans les déclarations d'intérêts et d'activités rendues publiques conformément et dans les
 limites fixées au présent article sont réutilisables dans les conditions prévues aux articles L. 321-1, L. 321-2, L. 322-1 et
-L. 322-2 du code des relations entre le public et l'administration. 
+L. 322-2 du code des relations entre le public et l'administration.
 
-V. - Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, précise les
+V. – Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, précise les
 modalités d'application du présent article.
-
-**Nota:**
-
-Loi organique n° 2013-906 du 11 octobre 2013, article 1 : Le présent article entre en vigueur à compter de la date de
-publication au Journal officiel du décret nommant le président de la Haute Autorité pour la transparence de la vie publique.
-Le décret portant nomination du président de la Haute Autorité pour la  transparence de la vie publique a été publié le 20
-décembre 2013.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Constitution du 4 octobre 1958 - art. 74 (V)
-  - Code électoral - art. LO135-1 (V)
-  - Code des relations entre le public et l'adminis... - art. L321-1 (V)
-  - Code des relations entre le public et l'adminis... - art. L322-1 (V)
+  - Constitution du 4 octobre 1958 - art. 74
+  - Code électoral - art. LO135-1
+  - Code des relations entre le public et l'administration - art. L321-1
+  - Code des relations entre le public et l'administration - art. L322-1
 
 _Cité par_:
 
@@ -7348,7 +7363,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-307 du 17 mars 2016 - art. 4 (V)
+  - Loi n°2017-1338 du 15 septembre 2017 - art. 5
 
 
 ###### Article LO135-3
@@ -7627,6 +7642,53 @@ _Cité par_:
   - Code électoral - art. LO489 (V)
   - Code électoral - art. LO516 (V)
   - Code électoral - art. LO544 (V)
+
+
+###### Article LO136-4
+
+I. – Dans le mois suivant la date d'entrée en fonction d'un député, l'administration fiscale lui transmet une attestation
+constatant s'il a satisfait ou non, en l'état des informations dont elle dispose et à cette date, aux obligations de
+déclaration et de paiement des impôts dont il est redevable. Cette attestation ne constitue pas une prise de position
+formelle de l'administration fiscale sur la situation fiscale du député. Est réputé satisfaire à ces obligations de paiement
+le député qui a, en l'absence de toute mesure d'exécution du comptable, acquitté ses impôts ou constitué des garanties jugées
+suffisantes par le comptable ou, à défaut, conclu un accord contraignant avec le comptable en vue de payer ses impôts, ainsi
+que les éventuels intérêts échus, pénalités, majorations ou amendes, à condition qu'il respecte cet accord.
+
+Lorsque l'attestation fait état d'une non-conformité, le député est invité, dans un délai d'un mois à compter de la réception
+de cette invitation, à se mettre en conformité ou à contester cette appréciation. Au terme de ce délai, l'administration
+fiscale transmet l'attestation au bureau de l'Assemblée nationale et l'informe également, le cas échéant, de l'existence
+d'une contestation.
+
+II. – Dans le mois suivant une décision administrative ou juridictionnelle devenue définitive faisant état d'un manquement du
+député aux obligations mentionnées au I, l'administration fiscale lui transmet une nouvelle attestation et l'invite à se
+mettre en conformité dans un délai d'un mois suivant la réception de cette invitation. Au terme de ce délai, l'administration
+fiscale transmet l'attestation au bureau de l'Assemblée nationale.
+
+III. – Toute transmission d'attestation au député sur le fondement des I et II donne lieu à l'envoi d'une copie à l'organe
+chargé de la déontologie parlementaire de l'Assemblée nationale.
+
+IV. – Lorsqu'il constate une absence de mise en conformité et de contestation, le bureau de l'Assemblée nationale saisit le
+Conseil constitutionnel qui peut, en fonction de la gravité du manquement, déclarer le député inéligible à toutes les
+élections pour une durée maximale de trois ans et démissionnaire d'office de son mandat par la même décision.
+
+**Nota:**
+
+Conformément à l'article 19 de la loi organique n° 2017-1338 du 15 septembre 2017, les dispositions du présent article sont
+applicables aux députés à la date de publication de ladite loi et aux sénateurs à compter du 2 octobre 2017.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°2017-1338 du 15 septembre 2017 - art. 19 (V)
+  - Loi n°2017-1338 du 15 septembre 2017 - art. 22 (V)
+  - Code électoral - art. LO176 (V)
+  - Code électoral - art. LO178 (V)
+  - Code électoral - art. LO319 (VD)
+
+_Créé par_:
+
+  - Loi n°2017-1338 du 15 septembre 2017 - art. 4
 
 
 #### Chapitre IV : Incompatibilités<a id=27></a>
@@ -7936,19 +7998,20 @@ toute fonction exercée de façon permanente en qualité de conseil auprès de c
 
 Sauf si le député y est désigné en cette qualité, sont incompatibles avec le mandat de député les fonctions de membre de
 conseil d'administration exercées dans les entreprises nationales et établissements publics nationaux, ainsi que les
-fonctions exercées au sein d'une autorité administrative indépendante ou d'une autorité publique indépendante. 
+fonctions exercées au sein d'une autorité administrative indépendante ou d'une autorité publique indépendante.
 
 Est incompatible avec le mandat de député la fonction de président d'une autorité administrative indépendante ou d'une
-autorité publique indépendante. 
+autorité publique indépendante.
 
 II. - Un député désigné en cette qualité dans une institution ou un organisme extérieur ne peut percevoir à ce titre aucune
 rémunération, gratification ou indemnité.
 
+III. - Le I n'est pas applicable aux fonctions de président ou de membre de la commission de surveillance de la Caisse des
+dépôts et consignations.
+
 **Nota:**
 
-Conformément à la loi organique n° 2013-906 du 11 octobre 2013, article 2 (X) : ces dispositions entrent en vigueur à
-compter, s'agissant des députés, du prochain renouvellement général de l'Assemblée nationale et, s'agissant des sénateurs, du
-prochain renouvellement de la série à laquelle appartient le sénateur.
+
 
 **Liens relatifs à cet article**
 
@@ -7970,7 +8033,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi organique n°2013-906 du 11 octobre 2013 - art. 2 (V)
+  - Loi n°2017-1338 du 15 septembre 2017 - art. 13
 
 
 ###### Article LO146
@@ -8052,27 +8115,101 @@ _Modifié par_:
 
 ###### Article LO146-1
 
-Il est interdit à tout député de commencer à exercer une fonction de conseil qui n'était pas la sienne avant le début de son
-mandat.
+Il est interdit à tout député de : 
 
-Cette interdiction n'est pas applicable aux membres des professions libérales soumises à un statut législatif ou
-réglementaire ou dont le titre est protégé.
+1° Commencer à exercer une fonction de conseil qui n'était pas la sienne avant le début de son mandat ; 
+
+2° Poursuivre une telle activité lorsque celle-ci a débuté dans les douze mois précédant le premier jour du mois de son
+entrée en fonction ; 
+
+3° Fournir des prestations de conseil aux sociétés, entreprises, établissements ou organismes mentionnés aux 1° à 7° de
+l'article LO 146 ; 
+
+4° Fournir des prestations de conseil à des gouvernements, entreprises publiques, autorités administratives ou toute autre
+structure publique étrangers.
+
+**Nota:**
+
+Conformément aux III et V de l'article 20 de la loi organique n° 2017-1338 du 15 septembre 2017, les interdictions
+mentionnées aux 1°, 3° et 4° du présent article s'appliquent à tout député ou sénateur à compter de la publication de ladite
+loi organique et les interdictions mentionnées au 2° s'appliquent à tout député ou sénateur à compter du premier
+renouvellement de l'assemblée à laquelle il appartient suivant le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Créé par_:
-
-  - Loi n°95-63 du 19 janvier 1995 - art. 3 ()
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Cité par_:
 
   - Loi n°2004-192 du 27 février 2004 - art. 75 (V)
   - Loi n°2017-1338 du 15 septembre 2017 - art. 20 (V)
   - Loi n°2017-1339 du 15 septembre 2017 - art. 33 (V)
+
+_Modifié par_:
+
+  - Loi n°2017-1338 du 15 septembre 2017 - art. 8
+
+_Cite_:
+
+  - Code électoral - art. LO146 (VT)
+
+
+###### Article LO146-2
+
+Il est interdit à tout député d'acquérir le contrôle d'une société, d'une entreprise ou d'un organisme dont l'activité
+consiste principalement dans la fourniture de prestations de conseil. 
+
+Il est interdit à tout député d'exercer le contrôle d'une société, d'une entreprise ou d'un organisme : 
+
+1° Dont l'activité consiste principalement dans la fourniture de prestations de conseil, s'il en a acquis le contrôle dans
+les douze mois précédant le premier jour du mois de son entrée en fonction ; 
+
+2° Dont l'activité consiste principalement dans la fourniture de prestations de conseil aux sociétés, entreprises,
+établissements ou organismes mentionnés aux 1° à 7° de l'article LO 146.
+
+**Nota:**
+
+Conformément aux III et V de l'article 20 de la loi organique n° 2017-1338 du 15 septembre 2017, les interdictions
+mentionnées au premier alinéa et au 2° du présent article s'appliquent à tout député ou sénateur à compter de la publication
+de ladite loi organique et les interdictions mentionnées au 1° s'appliquent à tout député ou sénateur à compter du premier
+renouvellement de l'assemblée à laquelle il appartient suivant le 1er janvier 2019.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°2017-1338 du 15 septembre 2017 - art. 20 (V)
+  - Loi n°2017-1339 du 15 septembre 2017 - art. 33 (V)
+  - Code électoral - art. LO151-1 (V)
+
+_Créé par_:
+
+  - Loi n°2017-1338 du 15 septembre 2017 - art. 9
+
+_Cite_:
+
+  - Code électoral - art. LO146 (VT)
+
+
+###### Article LO146-3
+
+Il est interdit à tout député d'exercer l'activité de représentant d'intérêts à titre individuel ou au sein des personnes
+morales, établissements, groupements ou organismes inscrits au répertoire des représentants d'intérêts rendu public par la
+Haute Autorité pour la transparence de la vie publique.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°2017-1338 du 15 septembre 2017 - art. 20 (V)
+  - Loi n°2017-1339 du 15 septembre 2017 - art. 33 (V)
+  - Code électoral - art. LO151-1 (V)
+
+_Créé par_:
+
+  - Loi n°2017-1338 du 15 septembre 2017 - art. 10
 
 
 ###### Article LO147
@@ -8261,31 +8398,28 @@ _Modifié par_:
 
 Au plus tard le trentième jour qui suit son entrée en fonction ou, en cas de contestation de son élection, la date de la
 décision du Conseil constitutionnel, le député qui se trouve dans un cas d'incompatibilité mentionné aux articles LO 139, LO
-140 et LO 142 à LO 147-1 se démet des fonctions ou mandats incompatibles avec son mandat parlementaire. 
+140, LO 142 à LO 146-1, au premier alinéa de l'article LO 146-2 et aux articles LO 146-3, LO 147 et LO 147-1 se démet des
+fonctions ou mandats incompatibles avec son mandat parlementaire. 
 
 Lorsqu'il occupe un emploi public autre que ceux mentionnés aux 1° et 2° de l'article LO 142, il est placé d'office, pendant
 la durée de son mandat, en position de disponibilité ou dans la position équivalente prévue par son statut ne lui permettant
-pas d'acquérir de droits à l'avancement et de droits à pension.
+pas d'acquérir de droits à l'avancement et de droits à pension. 
+
+Au plus tard trois mois après son entrée en fonction ou, en cas de contestation de son élection, la date de la décision du
+Conseil constitutionnel, le député qui se trouve dans un des cas d'incompatibilité mentionnés aux 1° et 2° de l'article LO
+146-2 met fin à la situation d'incompatibilité soit en cédant tout ou partie de la participation, soit en prenant les
+dispositions nécessaires pour que tout ou partie de celle-ci soit gérée, pendant la durée de son mandat, dans des conditions
+excluant tout droit de regard de sa part.
 
 **Nota:**
 
-Conformément à la loi organique n° 2013-906 du 11 octobre 2013, article 2 (X) : ces dispositions entrent en vigueur à
-compter, s'agissant des députés, du prochain renouvellement général de l'Assemblée nationale. 
 
-En vertu de l'article 12 de la loi organique n° 2014-125 du 14 février 2014 interdisant le cumul de fonctions exécutives
-locales avec le mandat de député ou de sénateur, le présent article s'applique à tout parlementaire à compter du premier
-renouvellement de l'assemblée à laquelle il appartient suivant le 31 mars 2017.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1086 du 27 octobre 1964
-
-_Modifié par_:
-
-  - Loi organique n°2013-906 du 11 octobre 2013 - art. 2 (V)
-  - Loi organique n°2014-125 du 14 février 2014 - art. 5
 
 _Cité par_:
 
@@ -8295,35 +8429,37 @@ _Cité par_:
   - Code électoral - art. L221 (V)
   - Code électoral - art. LO151-2 (V)
 
+_Modifié par_:
+
+  - Loi n°2017-1338 du 15 septembre 2017 - art. 11
+
 _Cite_:
 
   - Code électoral - art. LO139
   - Code électoral - art. LO142 (V)
+  - Code électoral - art. LO146-2 (V)
+  - Code électoral - art. LO146-3 (V)
+  - Code électoral - art. LO147 (V)
 
 
 ###### Article LO151-2
 
-Le bureau de l'Assemblée nationale examine si les activités professionnelles ou d'intérêt général mentionnées par les députés
-dans la déclaration d'intérêts et d'activités, en application du 11° du III de l'article LO 135-1, sont compatibles avec le
-mandat parlementaire. S'il y a doute sur la compatibilité des fonctions ou activités exercées, le bureau de l'Assemblée
-nationale, le garde des sceaux, ministre de la justice, ou le député lui-même saisit le Conseil constitutionnel. 
+Le bureau de l'Assemblée nationale examine si les activités professionnelles ou d'intérêt général ou les participations
+financières mentionnées par les députés dans la déclaration d'intérêts et d'activités, en application du 5° et du 11° du III
+de l'article LO 135-1, sont compatibles avec le mandat parlementaire. S'il y a doute sur la compatibilité des fonctions ou
+activités exercées ou des participations détenues, le bureau de l'Assemblée nationale, le garde des sceaux, ministre de la
+justice, ou le député lui-même saisit le Conseil constitutionnel.
 
 Si le Conseil constitutionnel décide que le député est en situation d'incompatibilité, ce dernier régularise sa situation au
-plus tard le trentième jour qui suit la notification de la décision du Conseil constitutionnel. 
+plus tard le trentième jour qui suit la notification de la décision du Conseil constitutionnel.
 
 A défaut, le Conseil constitutionnel le déclare démissionnaire d'office de son mandat.
-
-**Nota:**
-
-En vertu de l'article 12 de la loi organique n° 2014-125 du 14 février 2014 interdisant le cumul de fonctions exécutives
-locales avec le mandat de député ou de sénateur, le présent article s'applique à tout parlementaire à compter du premier
-renouvellement de l'assemblée à laquelle il appartient suivant le 31 mars 2017.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi organique n°2013-906 du 11 octobre 2013 - art. 2 (V)
+  - Loi n°2017-1338 du 15 septembre 2017 - art. 12
 
 _Cite_:
 
@@ -9109,19 +9245,13 @@ _Cite_:
 ###### Article LO176
 
 Sous réserve du second alinéa du présent article, les députés dont le siège devient vacant pour toute autre cause que
-l'annulation de l'élection, la démission d'office prononcée par le Conseil constitutionnel en application de l'article LO
-136-1, la démission intervenue pour tout autre motif qu'une incompatibilité prévue aux articles LO 137, LO 137-1, LO 141 ou
-LO 141-1 ou la déchéance constatée par le Conseil constitutionnel en application de l'article LO 136 sont remplacés jusqu'au
-renouvellement de l'Assemblée nationale par les personnes élues en même temps qu'eux à cet effet. 
+l'annulation de l'élection, la démission d'office prononcée par le Conseil constitutionnel en application des articles LO
+136-1 ou LO 136-4, la démission intervenue pour tout autre motif qu'une incompatibilité prévue aux articles LO 137, LO 137-1,
+LO 141 ou LO 141-1 ou la déchéance constatée par le Conseil constitutionnel en application de l'article LO 136 sont remplacés
+jusqu'au renouvellement de l'Assemblée nationale par les personnes élues en même temps qu'eux à cet effet. 
 
 Les députés qui acceptent des fonctions gouvernementales sont remplacés, jusqu'à l'expiration d'un délai d'un mois suivant la
 cessation de ces fonctions, par les personnes élues en même temps qu'eux à cet effet.
-
-**Nota:**
-
-En vertu de l'article 12 de la loi organique n° 2014-125 du 14 février 2014 interdisant le cumul de fonctions exécutives
-locales avec le mandat de député ou de sénateur, le présent article s'applique à tout député à compter du premier
-renouvellement de l'Assemblée nationale suivant le 31 mars 2017.
 
 **Liens relatifs à cet article**
 
@@ -9129,12 +9259,20 @@ _Cité par_:
 
   - Loi n°77-729 du 7 juillet 1977 - art. 24 (VT)
   - Code électoral - art. LO135 (V)
-  - Code électoral - art. LO178 (VD)
+  - Code électoral - art. LO178 (V)
   - Code électoral - art. R103 (V)
 
 _Modifié par_:
 
-  - Loi organique n°2014-125 du 14 février 2014 - art. 8 (V)
+  - Loi n°2017-1338 du 15 septembre 2017 - art. 4
+
+_Cite_:
+
+  - Code électoral - art. LO136 (V)
+  - Code électoral - art. LO136-1 (V)
+  - Code électoral - art. LO136-4 (V)
+  - Code électoral - art. LO137 (V)
+  - Code électoral - art. LO141 (V)
 
 
 ###### Article LO177
@@ -9163,19 +9301,13 @@ _Cité par_:
 ###### Article LO178
 
 En cas d'annulation des opérations électorales, de vacance causée par la démission d'office prononcée par le Conseil
-constitutionnel en application de l'article LO 136-1, par la démission intervenue pour tout autre motif qu'une
+constitutionnel en application des articles LO 136-1 ou LO 136-4, par la démission intervenue pour tout autre motif qu'une
 incompatibilité prévue aux articles LO 137, LO 137-1, LO 141 ou LO 141-1 ou par la déchéance constatée par le Conseil
 constitutionnel en application de l'article LO 136, ou lorsque le remplacement prévu à l'article LO 176 ne peut plus être
 effectué, il est procédé à des élections partielles dans un délai de trois mois. 
 
 Toutefois, il n'est procédé à aucune élection partielle dans les douze mois qui précèdent l'expiration des pouvoirs de
 l'Assemblée nationale.
-
-**Nota:**
-
-En vertu de l'article 12 de la loi organique n° 2014-125 du 14 février 2014 interdisant le cumul de fonctions exécutives
-locales avec le mandat de député ou de sénateur, le présent article s'applique à tout député à compter du premier
-renouvellement de l'Assemblée nationale suivant le 31 mars 2017.
 
 **Liens relatifs à cet article**
 
@@ -9187,14 +9319,16 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi organique n°2014-125 du 14 février 2014 - art. 8 (V)
+  - Loi n°2017-1338 du 15 septembre 2017 - art. 4
 
 _Cite_:
 
-  - Code électoral - art. LO136-1
+  - Code électoral - art. LO136-1 (V)
+  - Code électoral - art. LO136-4 (V)
   - Code électoral - art. LO137
   - Code électoral - art. LO137-1
-  - Code électoral - art. LO176
+  - Code électoral - art. LO141 (V)
+  - Code électoral - art. LO176 (V)
 
 
 #### Chapitre X : Contentieux<a id=33></a>
