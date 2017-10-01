@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2017-09-17
+Version Consolidée au 2017-10-02
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires (art. L1 à L273-12)](#2)
@@ -8073,20 +8073,18 @@ d'immeubles en vue de leur vente ;
 6° Les sociétés et organismes exerçant un contrôle effectif sur une société, une entreprise ou un établissement mentionnés
 aux 1° à 4° ;
 
-7° Les sociétés d'économie mixte. 
+7° Les sociétés d'économie mixte ;
+
+8° Les sociétés, entreprises ou organismes dont l'activité consiste principalement à fournir des prestations de conseil aux
+sociétés, entreprises, établissements ou organismes mentionnés aux 1° à 7°.
 
 Les dispositions du présent article sont applicables à toute personne qui, directement ou par personne interposée, exerce en
 fait la direction de l'un des établissements, sociétés ou entreprises ci-dessus visés.
 
 **Nota:**
 
-Conformément à la loi organique n° 2013-906 du 11 octobre 2013, article 2 (X) : ces dispositions entrent en vigueur à
-compter, s'agissant des députés, du prochain renouvellement général de l'Assemblée nationale et, s'agissant des sénateurs, du
-prochain renouvellement de la série à laquelle appartient le sénateur (date indéterminée). 
-
-En vertu de l'article 12 de la loi organique n° 2014-125 du 14 février 2014 interdisant le cumul de fonctions exécutives
-locales avec le mandat de député ou de sénateur, le présent article s'applique à tout parlementaire à compter du premier
-renouvellement de l'assemblée à laquelle il appartient suivant le 31 mars 2017.
+Conformément au II de l'article 20 de la loi organique n° 2017-1338 du 15 septembre 2017, l'interdiction mentionnée au 8° du
+présent article s'applique à tout député ou sénateur à compter du 2 octobre 2017.
 
 **Liens relatifs à cet article**
 
@@ -8118,8 +8116,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi organique n°2013-906 du 11 octobre 2013 - art. 2 (V)
-  - Loi organique n°2014-125 du 14 février 2014 - art. 3
+  - Loi n°2017-1338 du 15 septembre 2017 - art. 7
 
 
 ###### Article LO146-1
@@ -14635,12 +14632,20 @@ _Cite_:
 
 ###### Article LO319
 
-Les sénateurs élus au scrutin majoritaire dont le siège devient vacant pour cause de décès, d'acceptation des fonctions de
-membre du Conseil constitutionnel ou de Défenseur des droits ou de prolongation au-delà du délai de six mois d'une mission
-temporaire confiée par le Gouvernement sont remplacés par les personnes élues en même temps qu'eux à cet effet. 
+Sous réserve du second alinéa du présent article, les sénateurs élus au scrutin majoritaire dont le siège devient vacant pour
+toute autre cause que l'annulation de l'élection, la démission d'office prononcée par le Conseil constitutionnel en
+application des articles LO 136-1 ou LO 136-4, la démission intervenue pour tout autre motif qu'une incompatibilité prévue
+aux articles LO 137, LO 137-1, LO 141 ou LO 141-1 ou la déchéance constatée par le Conseil constitutionnel en application de
+l'article LO 136 sont remplacés par les personnes élues en même temps qu'eux à cet effet.
 
 Les sénateurs élus au scrutin majoritaire qui acceptent des fonctions gouvernementales sont remplacés, jusqu'à l'expiration
 d'un délai d'un mois suivant la cessation de ces fonctions, par les personnes élues en même temps qu'eux à cet effet.
+
+**Nota:**
+
+En vertu de l'article 12 de la loi organique n° 2014-125 du 14 février 2014 interdisant le cumul de fonctions exécutives
+locales avec le mandat de député ou de sénateur, le présent article s'applique à tout sénateur élu au scrutin majoritaire à
+compter du premier renouvellement du Sénat suivant le 31 mars 2017, soit le 2 octobre 2017.
 
 **Liens relatifs à cet article**
 
@@ -14655,7 +14660,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi organique n°2011-333 du 29 mars 2011 - art. 42
+  - Loi n°2017-1338 du 15 septembre 2017 - art. 4
+
+_Cite_:
+
+  - Code électoral - art. LO136-1 (V)
+  - Code électoral - art. LO136-4 (V)
+  - Code électoral - art. LO137
+  - Code électoral - art. LO141
 
 
 ###### Article LO320
