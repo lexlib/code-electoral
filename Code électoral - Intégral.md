@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2017-10-02
+Version Consolidée au 2017-12-31
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires (art. L1 à L273-12)](#2)
@@ -34061,8 +34061,8 @@ _Modifié par_:
 ###### Article R204
 
 Les dispositions du titre Ier du livre Ier du présent code (partie réglementaire), à l'exclusion des mots : " sur papier
-blanc " figurant à l'article R. 30, sont applicables, dans leur rédaction résultant du décret n° 2016-1819 du 22 décembre
-2016 : 
+blanc " figurant à l'article R. 30, sont applicables, dans leur rédaction résultant du décret n° 2017-1795 du 28 décembre
+2017 : 
 
 1° A l'élection des députés en Nouvelle-Calédonie et en Polynésie française et, à l'exception des articles R. 20 à R. 22, R.
 43 et R. 60, à l'élection du député dans les îles Wallis et Futuna ; 
@@ -34084,32 +34084,27 @@ _Cité par_:
   - Décret n°2016-1819 du 22 décembre 2016 - art. 4
   - Code électoral - art. R210 (V)
 
-_Cite_:
-
-  - Décret n°2016-1819 du 22 décembre 2016
-  - Code électoral - art. R*20
-  - Code électoral - art. R43
-  - Code électoral - art. R60
-
 _Modifié par_:
 
-  - Décret n°2016-1819 du 22 décembre 2016 - art. 4
+  - Décret n°2017-1795 du 28 décembre 2017 - art. 3 (V)
+
+_Cite_:
+
+  - Code électoral - art. R*20
+  - Code électoral - art. R30 (V)
+  - Code électoral - art. R43
+  - Code électoral - art. R60
 
 
 ###### Article R205
 
-Pour l'application de l'article R. 39-1 : 
-
-1° La référence au 2 bis de l'article 200 du code général des impôts est remplacée par la référence aux dispositions
-correspondantes applicables localement ; 
-
-2° La somme de 3 000 euros est remplacée par la somme de 363 636 F CFP.
+Pour l'application de l'article R. 39-11, la somme de 15 000 € est remplacée par sa contre-valeur en F CFP.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Cité par_:
 
@@ -34117,14 +34112,14 @@ _Cité par_:
   - Décret n°79-160 du 28 février 1979 - art. 22 (VD)
   - Décret n°79-160 du 28 février 1979 - art. 23 (VD)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
+  - Décret n°2017-1795 du 28 décembre 2017 - art. 3 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 200 (VT)
-  - Code électoral - art. R39-1 (V)
+  - Code général des impôts, CGI. - art. 200
+  - Code électoral - art. R39-1
 
 
 ###### Article R207
