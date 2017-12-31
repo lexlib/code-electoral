@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2017-12-31
+Version Consolidée au 2018-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires (art. L1 à L273-12)](#2)
@@ -197,7 +197,7 @@ et durée du mandat (art. L558-1 à L558-2)](#158)
           - [Section 6 : Cartes électorales (art. R23 à R25)](#190)
         - [Chapitre II bis : Dispositions générales en matière électorale (art. R25-1 à R25-3)](#191)
         - [Chapitre V : Propagande (art. R26 à R39)](#192)
-        - [Chapitre V bis : Financement et plafonnement des dépenses électorales (art. R39-1 à R39-10)](#193)
+        - [Chapitre V bis : Financement et plafonnement des dépenses électorales (art. R39-1 à R39-10-1)](#193)
         - [Chapitre VI : Vote (art. R40 à R93-3)](#194)
           - [Section 1 : Opérations préparatoires au scrutin (art. R40 à R41)](#195)
           - [Section 2 : Opérations de vote (art. D56-1 à R71)](#196)
@@ -3445,27 +3445,68 @@ _Modifié par_:
   - Loi n°2017-1339 du 15 septembre 2017 - art. 27
 
 
+###### Article L52-7-1
+
+Les personnes physiques peuvent consentir des prêts à un candidat dès lors que ces prêts ne sont pas effectués à titre
+habituel.
+
+La durée de ces prêts ne peut excéder cinq ans. Un décret en Conseil d'Etat fixe le plafond et les conditions d'encadrement
+du prêt consenti pour garantir que ce prêt ne constitue pas un don déguisé.
+
+Le candidat bénéficiaire du prêt fournit au prêteur les informations concernant les caractéristiques du prêt s'agissant du
+taux d'intérêt applicable, du montant total du prêt, de sa durée ainsi que de ses modalités et de ses conditions de
+remboursement.
+
+Le candidat bénéficiaire du prêt informe le prêteur des conséquences liées à la défaillance de l'emprunteur.
+
+Il adresse chaque année à la Commission nationale des comptes de campagne et des financements politiques un état du
+remboursement du prêt.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (VT)
+  - Décret n°2017-1795 du 28 décembre 2017 - art. 1
+  - Code électoral - art. L113-1 (VD)
+  - Code électoral - art. R39-2-1 (V)
+
+_Créé par_:
+
+  - Loi n°2017-1339 du 15 septembre 2017 - art. 26 (V)
+
+
 ###### Article L52-8
 
-Les dons consentis par une personne physique dûment identifiée pour le financement de la campagne d'un ou plusieurs candidats
-lors des mêmes élections ne peuvent excéder 4 600 euros. 
+Une personne physique peut verser un don à un candidat si elle est de nationalité française ou si elle réside en France. Les
+dons consentis par une personne physique dûment identifiée pour le financement de la campagne d'un ou plusieurs candidats
+lors des mêmes élections ne peuvent excéder 4 600 euros.
 
 Les personnes morales, à l'exception des partis ou groupements politiques, ne peuvent participer au financement de la
 campagne électorale d'un candidat, ni en lui consentant des dons sous quelque forme que ce soit, ni en lui fournissant des
-biens, services ou autres avantages directs ou indirects à des prix inférieurs à ceux qui sont habituellement pratiqués. 
+biens, services ou autres avantages directs ou indirects à des prix inférieurs à ceux qui sont habituellement pratiqués.Les
+personnes morales, à l'exception des partis et groupements politiques ainsi que des établissements de crédit ou sociétés de
+financement ayant leur siège social dans un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique
+européen, ne peuvent ni consentir des prêts à un candidat ni apporter leur garantie aux prêts octroyés aux partis et
+groupements politiques.
 
 Tout don de plus de 150 euros consenti à un candidat en vue de sa campagne doit être versé par chèque, virement, prélèvement
-automatique ou carte bancaire. 
+automatique ou carte bancaire.
+
+Un candidat ne peut contracter auprès d'un parti ou groupement politique des prêts avec intérêts que si ce dernier a lui-même
+souscrit des prêts à cette fin et dans la limite des intérêts y afférents.
 
 Le montant global des dons en espèces faits au candidat ne peut excéder 20 % du montant des dépenses autorisées lorsque ce
-montant est égal ou supérieur à 15 000 euros en application de l'article L. 52-11. 
+montant est égal ou supérieur à 15 000 euros en application de l'article L. 52-11.
 
 Aucun candidat ne peut recevoir, directement ou indirectement, pour quelque dépense que ce soit, des contributions ou aides
-matérielles d'un Etat étranger ou d'une personne morale de droit étranger. 
+matérielles d'un Etat étranger ou d'une personne morale de droit étranger. Il ne peut recevoir des prêts d'un Etat étranger
+ou d'une personne morale de droit étranger, à l'exception des établissements de crédit ou sociétés de financement mentionnés
+au deuxième alinéa du présent article.
 
 Par dérogation au premier alinéa de l'article L. 52-1, les candidats ou les listes de candidats peuvent recourir à la
 publicité par voie de presse pour solliciter les dons autorisés par le présent article. La publicité ne peut contenir
-d'autres mentions que celles propres à permettre le versement du don. 
+d'autres mentions que celles propres à permettre le versement du don.
 
 Les montants prévus au présent article sont actualisés tous les ans par décret. Ils évoluent comme l'indice des prix à la
 consommation des ménages, hors tabac.
@@ -3483,7 +3524,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 200 (V)
   - Code électoral - art. L113-1 (VD)
   - Code électoral - art. L308-1 (V)
-  - Code électoral - art. L392 (V)
+  - Code électoral - art. L392 (VD)
   - Code électoral - art. L52-12 (VD)
   - Code électoral - art. L52-17 (V)
   - Code électoral - art. L52-9 (VD)
@@ -3494,7 +3535,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-412 du 14 avril 2011 - art. 8
+  - Loi n°2017-1339 du 15 septembre 2017 - art. 26 (V)
 
 _Cite_:
 
@@ -3519,10 +3560,11 @@ _Créé par_:
 Les actes et documents émanant d'une association de financement électorale ou d'un mandataire financier et destinés aux
 tiers, notamment ceux utilisés pour des appels à des dons, doivent indiquer le candidat, le binôme de candidats ou la liste
 de candidats destinataires des sommes collectées ainsi que la dénomination de l'association et la date à laquelle elle a été
-déclarée ou le nom du mandataire financier et la date à laquelle il a été désigné. 
+déclarée ou le nom du mandataire financier et la date à laquelle il a été désigné.
 
 Ils doivent indiquer que le candidat, le binôme de candidats ou la liste de candidats ne peuvent recueillir de dons que par
-l'intermédiaire de ladite association ou dudit mandataire et reproduire les dispositions des articles L. 52-8 et L. 113-1.
+l'intermédiaire de ladite association ou dudit mandataire et reproduire les dispositions des trois premiers alinéas de
+l'article L. 52-8 et du III de l'article L. 113-1.
 
 **Nota:**
 
@@ -3536,12 +3578,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2017-286 du 6 mars 2017 - art. 3
+  - Loi n°2017-1339 du 15 septembre 2017 - art. 26 (V)
 
 _Cite_:
 
-  - Code électoral - art. L113-1 (V)
-  - Code électoral - art. L52-8 (V)
+  - Code électoral - art. L113-1
+  - Code électoral - art. L52-8
 
 _Cité par_:
 
@@ -3550,24 +3592,25 @@ _Cité par_:
 
 ###### Article L52-10
 
-L'association de financement électorale ou le mandataire financier délivre au donateur un reçu dont un décret en Conseil
-d'Etat fixe les conditions d'établissement et d'utilisation. Ce décret détermine également les modalités selon lesquelles les
-reçus délivrés pour les dons d'un montant égal ou inférieur à 3 000 euros consentis par les personnes physiques ne
-mentionnent pas le nom du ou des candidats bénéficiaires ou la dénomination de la liste bénéficiaire.
+L'association de financement électorale ou le mandataire financier délivre au donateur un reçu pour chaque don. Un décret en
+Conseil d'Etat fixe les conditions d'établissement, d'utilisation et de transmission du reçu à la Commission nationale des
+comptes de campagne et des financements politiques. Dans les conditions fixées par un décret en Conseil d'Etat pris après
+avis de la Commission nationale de l'informatique et des libertés, le candidat communique à la Commission nationale des
+comptes de campagne et des financements politiques la liste des donateurs et le montant des dons.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Ordonnance 2000-916 2000-09-19 annexe II JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2017-1339 du 15 septembre 2017 - art. 26 (V)
 
 _Cité par_:
 
-  - Code électoral - art. L392 (V)
+  - Code électoral - art. L392 (VD)
 
 
 ###### Article L52-11
@@ -3939,29 +3982,34 @@ compte les dépenses exposées directement au profit du candidat et avec l'accor
 lui apportent leur soutien, ainsi que par les partis et groupements politiques qui ont été créés en vue de lui apporter leur
 soutien ou qui lui apportent leur soutien. Le candidat estime et inclut, en recettes et en dépenses, les avantages directs ou
 indirects, les prestations de services et dons en nature dont il a bénéficié. Le compte de campagne doit être en équilibre ou
-excédentaire et ne peut présenter un déficit. 
+excédentaire et ne peut présenter un déficit.
 
 Au plus tard avant 18 heures le dixième vendredi suivant le premier tour de scrutin, chaque candidat ou candidat tête de
 liste présent au premier tour dépose à la Commission nationale des comptes de campagne et des financements politiques son
-compte de campagne et ses annexes accompagné des justificatifs de ses recettes ainsi que des factures, devis et autres
-documents de nature à établir le montant des dépenses payées ou engagées par le candidat ou pour son compte. Le compte de
-campagne est présenté par un membre de l'ordre des experts-comptables et des comptables agréés ; celui-ci met le compte de
-campagne en état d'examen et s'assure de la présence des pièces justificatives requises. Cette présentation n'est pas
-nécessaire lorsque aucune dépense ou recette ne figure au compte de campagne. Dans ce cas, le mandataire établit une
-attestation d'absence de dépense et de recette. Cette présentation n'est pas non plus nécessaire lorsque le candidat ou la
-liste dont il est tête de liste a obtenu moins de 1 % des suffrages exprimés et qu'il n'a pas bénéficié de dons de personnes
-physiques selon les modalités prévues à l'article 200 du code général des impôts. 
+compte de campagne et ses annexes accompagné des justificatifs de ses recettes, notamment d'une copie des contrats de prêts
+conclus en application de l'article L. 52-7-1 du présent code, ainsi que des factures, devis et autres documents de nature à
+établir le montant des dépenses payées ou engagées par le candidat ou pour son compte. Le compte de campagne est présenté par
+un membre de l'ordre des experts-comptables et des comptables agréés ; celui-ci met le compte de campagne en état d'examen et
+s'assure de la présence des pièces justificatives requises. Cette présentation n'est pas nécessaire lorsque aucune dépense ou
+recette ne figure au compte de campagne. Dans ce cas, le mandataire établit une attestation d'absence de dépense et de
+recette. Cette présentation n'est pas non plus nécessaire lorsque le candidat ou la liste dont il est tête de liste a obtenu
+moins de 1 % des suffrages exprimés et qu'il n'a pas bénéficié de dons de personnes physiques selon les modalités prévues à
+l'article 200 du code général des impôts.
 
 Sous réserve du règlement de dépenses engagées avant le premier tour de scrutin, le compte de campagne des candidats présents
 au seul premier tour ne peut retracer de dépenses postérieures à la date de celui-ci. La valeur vénale résiduelle des
 immobilisations éventuellement constituées au cours de la période mentionnée à l'article L. 52-4 doit être déduite des
-charges retracées dans le compte de campagne. 
+charges retracées dans le compte de campagne.
 
-La commission assure la publication des comptes de campagne dans une forme simplifiée. 
+La commission assure la publication des comptes de campagne dans un standard ouvert, aisément réutilisable et exploitable par
+un système de traitement automatisé, et assure leur publication au Journal officiel. Elle indique notamment les montants
+consolidés des emprunts souscrits par le candidat ou le candidat tête de liste pour financer cette campagne, répartis par
+catégories de prêteurs, types de prêts et pays d'établissement ou de résidence des prêteurs, ainsi que l'identité des
+prêteurs personnes morales.
 
 Pour l'application de l'article L. 52-11, les frais de transport aérien, maritime et fluvial dûment justifiés, exposés par
 les candidats aux élections législatives, aux élections sénatoriales et aux élections régionales à l'intérieur de chacun des
-départements d'outre-mer, ne sont pas inclus dans le plafond des dépenses. 
+départements d'outre-mer, ne sont pas inclus dans le plafond des dépenses.
 
 Par dérogation aux dispositions du deuxième alinéa, en Guadeloupe, en Guyane, en Martinique et à La Réunion, le compte de
 campagne peut également être déposé à la préfecture ou la sous-préfecture.
@@ -3970,7 +4018,8 @@ Pour l'application du présent article, en cas de scrutin binominal, le candidat
 
 **Nota:**
 
-
+Conformément aux dispositions du I de l'article 10 de la loi n° 2017-286 du 6 mars 2017, ces dispositions s'appliquent aux
+élections se déroulant après le 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
@@ -4006,13 +4055,9 @@ _Cité par_:
   - Code électoral - art. LO136-1 (V)
   - Code électoral - art. R39-2 (M)
 
-_Codifié par_:
-
-  - Décret n°64-1086 du 27 octobre 1964
-
 _Modifié par_:
 
-  - Loi n°2013-403 du 17 mai 2013 - art. 17
+  - Loi n°2017-1339 du 15 septembre 2017 - art. 26 (V)
 
 _Cite_:
 
@@ -6223,35 +6268,41 @@ _Modifié par_:
 
 ###### Article L113-1
 
-I. – Sera puni d'une amende de 3 750 euros et d'un emprisonnement d'un an, ou de l'une de ces deux peines seulement, tout
-candidat en cas de scrutin uninominal ou binominal, ou tout candidat tête de liste en cas de scrutin de liste, qui :
+I. – Sera puni de trois ans d'emprisonnement et de 45 000 € d'amende tout candidat, en cas de scrutin uninominal ou
+binominal, ou tout candidat tête de liste, en cas de scrutin de liste, qui :
 
-1° Aura, en vue de financer une campagne électorale, recueilli des fonds en violation des prescriptions de l'article L.
-52-4 ;
+1° Aura, en vue de financer une campagne électorale, recueilli des fonds en violation de l'article L. 52-4 ;
 
-2° Aura accepté des fonds en violation des dispositions de l'article L. 52-8 ou L. 308-1 ;
+2° Aura accepté des fonds en violation des articles L. 52-7-1, L. 52-8 ou L. 308-1 ;
 
 3° Aura dépassé le plafond des dépenses électorales fixé en application de l'article L. 52-11 ;
 
-4° N'aura pas respecté les formalités d'établissement du compte de campagne prévues par les articles L. 52-12 et L. 52-13 ;
+4° N'aura pas respecté les formalités d'établissement du compte de campagne prévues aux articles L. 52-12 et L. 52-13 ;
 
-5° Aura fait état, dans le compte de campagne ou dans ses annexes, d'éléments comptables sciemment minorés ;
+5° Aura fait état, dans le compte de campagne ou dans ses annexes, d'éléments comptables sciemment minorés.
 
-6° Aura bénéficié, sur sa demande ou avec son accord exprès, d'affichages ou de publicité commerciale ne respectant pas les
-dispositions des articles L. 51 et L. 52-1 ;
+II. – Sera puni d'un an d'emprisonnement et de 15 000 € d'amende tout candidat, en cas de scrutin uninominal ou binominal, ou
+tout candidat tête de liste, en cas de scrutin de liste, qui :
 
-7° Aura bénéficié, sur sa demande ou avec son accord exprès, de la diffusion auprès du public d'un numéro d'appel
+1° Aura bénéficié, sur sa demande ou avec son accord exprès, d'affichages ou de publicité commerciale ne respectant pas les
+articles L. 51 et L. 52-1 ;
+
+2° Aura bénéficié, sur sa demande ou avec son accord exprès, de la diffusion auprès du public d'un numéro d'appel
 téléphonique ou télématique gratuit.
 
-II. – Sera puni d'une amende de 3 750 euros et d'un emprisonnement d'un an, ou de l'une de ces deux peines seulement,
-quiconque aura, en vue d'une campagne électorale, accordé un don en violation des dispositions de l'article L. 52-8.
+III. – Sera puni de trois ans d'emprisonnement et de 45 000 € d'amende quiconque aura, en vue d'une campagne électorale,
+accordé un don ou un prêt en violation des articles L. 52-7-1 et L. 52-8.
 
-Lorsque le donateur sera une personne morale, les dispositions de l'alinéa ci-dessus seront applicables à ses dirigeants de
-droit ou de fait.
+Lorsque le donateur ou le prêteur sera une personne morale, le premier alinéa du présent III sera applicable à ses dirigeants
+de droit ou de fait.
 
-III. – Sera puni d'une amende de 3 750 euros et d'un emprisonnement d'un an, ou de l'une de ces deux peines seulement,
-quiconque aura, pour le compte d'un candidat, d'un binôme de candidats ou d'un candidat tête de liste, sans agir sur sa
-demande, ou sans avoir recueilli son accord exprès, effectué une dépense de la nature de celles prévues à l'article L. 52-12.
+IV. – Sera puni de trois ans d'emprisonnement et de 45 000 € d'amende quiconque aura, pour le compte d'un candidat, d'un
+binôme de candidats ou d'un candidat tête de liste, sans agir sur sa demande ou sans avoir recueilli son accord exprès,
+effectué une dépense de la nature de celles prévues à l'article L. 52-12.
+
+V. – Sera puni d'un an d'emprisonnement et de 15 000 € d'amende le fait, pour un candidat bénéficiaire d'un prêt conclu dans
+les conditions prévues à l'article L. 52-7-1, de ne pas transmettre à la Commission nationale des comptes de campagne et des
+financements politiques le document mentionné au dernier alinéa du même article L. 52-7-1.
 
 **Nota:**
 
@@ -6276,17 +6327,18 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-403 du 17 mai 2013 - art. 19
+  - Loi n°2017-1339 du 15 septembre 2017 - art. 26 (V)
 
 _Cite_:
 
   - Code électoral - art. L308-1 (V)
-  - Code électoral - art. L51 (VT)
+  - Code électoral - art. L51 (V)
   - Code électoral - art. L52-1 (V)
-  - Code électoral - art. L52-11 (VT)
+  - Code électoral - art. L52-11 (V)
   - Code électoral - art. L52-12 (VT)
-  - Code électoral - art. L52-4 (VT)
-  - Code électoral - art. L52-8 (V)
+  - Code électoral - art. L52-4 (V)
+  - Code électoral - art. L52-7-1 (VD)
+  - Code électoral - art. L52-8 (VT)
 
 
 ###### Article L114
@@ -9831,12 +9883,9 @@ ou ont exercé leurs fonctions depuis moins d'un an ;
 généraux, les directeurs, les directeurs adjoints, les chefs de service et les chefs de bureau de conseil départemental et de
 conseil régional dans la circonscription où ils exercent ou ont exercé leurs fonctions depuis moins d'un an ;
 
-19° Les membres du cabinet du président de l'Assemblée et les membres du cabinet du président du conseil exécutif de Corse,
-les directeurs généraux, les directeurs, directeurs adjoints, chefs de service et chefs de bureau de la collectivité
-territoriale de Corse et de ses établissements publics dans les départements de la Corse-du-Sud et de la Haute-Corse, s'ils y
-exercent leurs fonctions ou les ont exercées depuis moins d'un an.
+19° (abrogé)
 
-Les délais mentionnés aux troisième (2°) à vingtième (19°) alinéas ci-dessus ne sont pas opposables aux candidats qui, au
+Les délais mentionnés aux troisième (2°) à dix-neuvième (18°) alinéas ci-dessus ne sont pas opposables aux candidats qui, au
 jour de l'élection, auront été admis à faire valoir leurs droits à la retraite.
 
 **Nota:**
@@ -9866,8 +9915,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
-  - Loi n°2013-403 du 17 mai 2013 - art. 7
+  - Ordonnance n°2016-1563 du 21 novembre 2016 - art. 1
 
 _Anciens textes_:
 
@@ -11060,12 +11108,12 @@ territorial ;
 
 7° Les directeurs et les chefs de bureau de préfecture et les secrétaires en chef de sous-préfecture ;
 
-8° Les personnes exerçant, au sein du conseil régional, du conseil départemental, de la collectivité territoriale de Corse,
-de Guyane ou de Martinique, d'un établissement public de coopération intercommunale à fiscalité propre ou de leurs
-établissements publics, les fonctions de directeur général des services, directeur général adjoint des services, directeur
-des services, directeur adjoint des services ou chef de service, ainsi que les fonctions de directeur de cabinet, directeur
-adjoint de cabinet ou chef de cabinet en ayant reçu délégation de signature du président, du président de l'assemblée ou du
-président du conseil exécutif ; 
+8° Les personnes exerçant, au sein du conseil régional, du conseil départemental, de la collectivité de Corse, de la
+collectivité de Guyane ou de Martinique, d'un établissement public de coopération intercommunale à fiscalité propre ou de
+leurs établissements publics, les fonctions de directeur général des services, directeur général adjoint des services,
+directeur des services, directeur adjoint des services ou chef de service, ainsi que les fonctions de directeur de cabinet,
+directeur adjoint de cabinet ou chef de cabinet en ayant reçu délégation de signature du président, du président de
+l'assemblée ou du président du conseil exécutif ; 
 
 9° En tant que chargés d'une circonscription territoriale de voirie : les ingénieurs en chef, ingénieurs divisionnaires et
 ingénieurs des travaux publics de l'Etat, les chefs de section principaux et chefs de section des travaux publics de l'Etat.
@@ -11079,14 +11127,11 @@ saisonnière ou occasionnelle.
 Les délais mentionnés aux alinéas ci-dessus ne sont pas opposables aux candidats qui, au jour de l'élection, auront été admis
 à faire valoir leurs droits à la retraite.
 
-**Nota:**
-
-Cet article a été modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des
-conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral. Conformément à son article
-51, l’article dans sa version modifiée par la loi du 17 mai 2013 s’applique à compter du prochain renouvellement général des
-conseils municipaux et communautaires prévu les 23 et 30 mars 2014, y compris aux opérations préparatoires à ce scrutin.
-
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Cité par_:
 
@@ -11102,7 +11147,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-403 du 17 mai 2013 - art. 22 (V)
+  - Ordonnance n°2016-1563 du 21 novembre 2016 - art. 8
 
 
 ###### Article L233
@@ -13444,8 +13489,8 @@ _Modifié par_:
 
 ###### Article L282
 
-Dans le cas où un conseiller départemental est député, sénateur, conseiller régional ou conseiller à l'Assemblée de Corse, un
-remplaçant lui est désigné, sur sa présentation, par le président du conseil départemental.
+Dans le cas où un conseiller départemental est député, sénateur ou conseiller régional, un remplaçant lui est désigné, sur sa
+présentation, par le président du conseil départemental.
 
 Dans le cas où un conseiller régional, un conseiller à l'Assemblée de Corse, un conseiller à l'assemblée de Guyane ou un
 conseiller à l'assemblée de Martinique est député ou sénateur, un remplaçant lui est désigné, sur sa présentation, par le
@@ -13467,8 +13512,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
-  - Loi n°2013-702 du 2 août 2013 - art. 5
+  - Ordonnance n°2016-1563 du 21 novembre 2016 - art. 2
 
 
 ### Titre III : Désignation des délégués des conseils municipaux<a id=78></a>
@@ -13879,7 +13923,7 @@ Dans le mois qui suit son élection, l'Assemblée de Corse procède à la répar
 de l'élection des sénateurs dans les départements de Corse-du-Sud et de Haute-Corse.
 
 Le nombre de membres de l'Assemblée de Corse à désigner pour faire partie des collèges électoraux sénatoriaux de la Corse-du-
-Sud et de la Haute-Corse est respectivement de vingt-quatre et de vingt-sept.
+Sud et de la Haute-Corse est respectivement de vingt-neuf et de trente-quatre.
 
 **Liens relatifs à cet article**
 
@@ -13891,17 +13935,17 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Loi n°2003-327 du 11 avril 2003 - art. 11 () JORF 12 avril 2003
+  - Ordonnance n°2016-1563 du 21 novembre 2016 - art. 3
 
 
 ###### Article L293-2
 
-L'Assemblée de Corse désigne d'abord ses membres appelés à représenter la collectivité territoriale au sein du collège
-électoral du département de Corse-du-Sud.
+L'Assemblée de Corse désigne d'abord ses membres appelés à représenter la collectivité de Corse au sein du collège électoral
+du département de Corse-du-Sud.
 
 Chaque conseiller ou groupe de conseillers peut présenter avec l'accord des intéressés une liste de candidats en nombre au
 plus égal à celui des sièges à pourvoir.
@@ -13924,32 +13968,32 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Loi n°2003-327 du 11 avril 2003 - art. 11 () JORF 12 avril 2003
+  - Ordonnance n°2016-1563 du 21 novembre 2016 - art. 8
 
 
 ###### Article L293-3
 
 Le représentant de l'Etat dans la collectivité territoriale de Corse notifie au représentant de l'Etat dans chaque
-département de la collectivité territoriale les noms des conseillers désignés pour son département en vue de l'établissement
-du tableau des électeurs sénatoriaux mentionné à l'article L. 292.
+département de la collectivité de Corse les noms des conseillers désignés pour son département en vue de l'établissement du
+tableau des électeurs sénatoriaux mentionné à l'article L. 292.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Loi n°2003-327 du 11 avril 2003 - art. 11 () JORF 12 avril 2003
+  - Ordonnance n°2016-1563 du 21 novembre 2016 - art. 8
 
 _Cite_:
 
-  - Code électoral - art. L292 (V)
+  - Code électoral - art. L292
 
 _Cité par_:
 
@@ -16347,7 +16391,7 @@ _Modifié par_:
 
 ###### Article L364
 
-L'Assemblée de Corse est composée de cinquante et un membres élus pour la même durée que les conseillers régionaux. Ils sont
+L'Assemblée de Corse est composée de soixante-trois membres élus pour la même durée que les conseillers régionaux. Ils sont
 rééligibles.
 
 Elle se renouvelle intégralement.
@@ -16368,15 +16412,7 @@ La loi n° 2010-145 du 16 février 2010 a été abrogée par le 1° de l'article
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
-_Modifié par_:
-
-  - Loi n°99-36 du 19 janvier 1999 - art. 15 ()
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Cité par_:
 
@@ -16385,6 +16421,10 @@ _Cité par_:
   - Loi n°2015-991 du 7 août 2015 - art. 30 (V)
   - Décret n°2017-1464 du 11 octobre 2017 (V)
   - Code général des collectivités territoriales - art. L4422-2 (V)
+
+_Modifié par_:
+
+  - Loi n°2015-991 du 7 août 2015 - art. 30
 
 
 #### Chapitre II : Mode de scrutin<a id=114></a>
@@ -16419,13 +16459,13 @@ _Cite_:
 
 ###### Article L366
 
-Au premier tour de scrutin, il est attribué neuf sièges à la liste qui a obtenu la majorité absolue des suffrages. Les autres
+Au premier tour de scrutin, il est attribué onze sièges à la liste qui a obtenu la majorité absolue des suffrages. Les autres
 sièges sont répartis entre toutes les listes en présence, à la représentation proportionnelle à la plus forte moyenne, sous
 réserve de l'application des dispositions du troisième alinéa.
 
 Si aucune liste n'a recueilli au premier tour la majorité absolue des suffrages exprimés, il est procédé à un second tour. Il
-est attribué neuf sièges à la liste qui a obtenu le plus de suffrages. En cas d'égalité de suffrages entre les listes
-arrivées en tête, ces neuf sièges sont attribués à la liste dont les candidats ont la moyenne d'âge la plus élevée. Cette
+est attribué onze sièges à la liste qui a obtenu le plus de suffrages. En cas d'égalité de suffrages entre les listes
+arrivées en tête, ces onze sièges sont attribués à la liste dont les candidats ont la moyenne d'âge la plus élevée. Cette
 attribution opérée, les autres sièges sont répartis conformément aux dispositions de la deuxième phrase de l'alinéa
 précédent.
 
@@ -16441,7 +16481,7 @@ proclamés élus.
 
 _Modifié par_:
 
-  - Loi n°2009-832 du 7 juillet 2009 - art. 1
+  - Loi n°2015-991 du 7 août 2015 - art. 30
 
 
 #### Chapitre III : Conditions d'éligibilité et inéligibilités<a id=115></a>
@@ -16503,28 +16543,24 @@ _Créé par_:
 
 Les dispositions des articles L. 342 à L. 344 sont applicables aux conseillers à l'Assemblée de Corse. 
 
-Cependant, pour cette application, il y a lieu de lire " en Corse " à la place de " dans la région ", " de la collectivité
-territoriale " à la place de " de la région " et de " régionaux ", " de l'Assemblée de Corse " à la place de " du conseil
-régional ", " conseiller à l'Assemblée de Corse " à la place de " conseiller régional " et la " collectivité territoriale " à
-la place de " les régions ".
+Cependant, pour cette application, il y a lieu de lire " en Corse " à la place de " dans la région ", " de la collectivité de
+Corse " à la place de " de la région " et de " régionaux ", " de l'Assemblée de Corse " à la place de " du conseil régional
+", " conseiller à l'Assemblée de Corse " à la place de " conseiller régional " et la " collectivité de Corse " à la place de
+" les régions ".
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
-_Créé par_:
-
-  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
+  - Ordonnance n°2016-1563 du 21 novembre 2016 - art. 8
 
 _Cite_:
 
-  - Code électoral - art. L342 (V)
+  - Code électoral - art. L342
 
 
 ###### Article L369
@@ -16560,7 +16596,7 @@ listes, l'écart entre le nombre des candidats de chaque sexe ne peut être sup�
 alternativement d'un candidat de chaque sexe. 
 
 La déclaration de candidature est faite collectivement pour chaque liste par le candidat tête de liste ou par un mandataire
-porteur d'un mandat écrit établi par ce candidat à la préfecture de la collectivité territoriale. 
+porteur d'un mandat écrit établi par ce candidat à la préfecture de la collectivité de Corse. 
 
 Pour le premier tour de scrutin, sont également jointes les pièces de nature à prouver que le candidat a procédé à la
 déclaration d'un mandataire conformément aux articles L. 52-5 et L. 52-6 ou, s'il n'a pas procédé à cette déclaration, les
@@ -16574,7 +16610,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-412 du 14 avril 2011 - art. 12
+  - Ordonnance n°2016-1563 du 21 novembre 2016 - art. 8
 
 _Cité par_:
 
@@ -16635,27 +16671,26 @@ présentent pas au second tour. En cas de modification de la composition d'une l
 candidats peuvent également être modifiés.
 
 Les candidats ayant figuré sur une même liste au premier tour ne peuvent figurer au second tour que sur une même liste. Le
-choix de la liste sur laquelle ils seront candidats est notifié au représentant de l'Etat dans la collectivité territoriale
-de Corse par le candidat placé en tête de la liste constituée pour le premier tour.
+choix de la liste sur laquelle ils seront candidats est notifié au représentant de l'Etat dans la collectivité de Corse par
+le candidat placé en tête de la liste constituée pour le premier tour.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2009-832 du 7 juillet 2009 - art. 1
+  - Ordonnance n°2016-1563 du 21 novembre 2016 - art. 8
 
 _Cité par_:
 
   - Code électoral - art. L365 (V)
-  - Code électoral - art. L374 (V)
+  - Code électoral - art. L374 (VD)
 
 
 ###### Article L374
 
-Les déclarations de candidature en vue du second tour doivent être déposées à la préfecture de la collectivité territoriale
-de Corse au plus tard le mardi suivant le premier tour à dix-huit heures. Un récépissé définitif est délivré immédiatement
-aux listes répondant aux conditions fixées à l'article L. 373. Il vaut enregistrement. Tout refus d'enregistrement est
-motivé. 
+Les déclarations de candidature en vue du second tour doivent être déposées à la préfecture de la collectivité de Corse au
+plus tard le mardi suivant le premier tour à dix-huit heures. Un récépissé définitif est délivré immédiatement aux listes
+répondant aux conditions fixées à l'article L. 373. Il vaut enregistrement. Tout refus d'enregistrement est motivé. 
 
 En cas de refus de délivrance du récépissé, tout candidat de la liste intéressée dispose d'un délai de vingt-quatre heures
 pour saisir le tribunal administratif qui statue en premier et dernier ressort, dans les trois jours du dépôt de la requête.
@@ -16665,20 +16700,15 @@ Faute par le tribunal d'avoir statué dans ce délai, le récépissé est déliv
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
-_Créé par_:
-
-  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-  - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
+  - Ordonnance n°2016-1563 du 21 novembre 2016 - art. 8
 
 _Cite_:
 
-  - Code électoral - art. L373 (V)
+  - Code électoral - art. L373 (VD)
 
 _Cité par_:
 
@@ -16703,20 +16733,17 @@ Ces durées sont réparties également entre les listes.
 
 Les horaires des émissions et les modalités de leur réalisation sont fixés par le Conseil supérieur de l'audiovisuel.
 
+Les dépenses liées à la campagne audiovisuelle officielle sont à la charge de l'Etat.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
-_Créé par_:
-
-  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-  - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 118
 
 
 ###### Article L376
@@ -16802,9 +16829,9 @@ _Créé par_:
 
 ###### Article L379
 
-Le recensement général des votes est effectué au chef-lieu de la collectivité territoriale le lundi qui suit le scrutin,
-avant midi, en présence des représentants des listes, par une commission dont la composition et le fonctionnement sont fixés
-par un décret en Conseil d'Etat. 
+Le recensement général des votes est effectué au chef-lieu de la collectivité de Corse le lundi qui suit le scrutin, avant
+midi, en présence des représentants des listes, par une commission dont la composition et le fonctionnement sont fixés par un
+décret en Conseil d'Etat. 
 
 Les dispositions de l'article L. 358 sont applicables à l'élection des conseillers à l'Assemblée de Corse.
 
@@ -16812,20 +16839,15 @@ Les dispositions de l'article L. 358 sont applicables à l'élection des conseil
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
-_Créé par_:
-
-  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-  - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
+  - Ordonnance n°2016-1563 du 21 novembre 2016 - art. 8
 
 _Cite_:
 
-  - Code électoral - art. L358 (V)
+  - Code électoral - art. L358
 
 _Cité par_:
 
@@ -16848,7 +16870,8 @@ le délai imparti, le remplacement est assuré par le candidat suivant dans l'or
 Le représentant de l'Etat en Corse notifie le nom de ce remplaçant au président de l'Assemblée de Corse. 
 
 Le mandat de la personne ayant remplacé un conseiller de l'Assemblée de Corse dont le siège était devenu vacant expire lors
-du renouvellement de l'Assemblée de Corse qui suit son entrée en fonction. 
+du renouvellement de l'Assemblée de Corse qui suit son entrée en fonction, sauf dans le cas prévu au dernier alinéa de
+l'article L. 4422-18 du code général des collectivités territoriales. 
 
 Lorsque les dispositions des premier et deuxième alinéas ne peuvent être appliquées, le siège demeure vacant jusqu'au
 prochain renouvellement de l'Assemblée de Corse. Toutefois, si le tiers des sièges de l'Assemblée de Corse vient à être
@@ -16860,7 +16883,7 @@ Corse doit intervenir dans les trois mois suivant ladite vacance.
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Cité par_:
 
@@ -16871,11 +16894,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2003-327 du 11 avril 2003 - art. 9 () JORF 12 avril 2003
+  - Loi n°2015-991 du 7 août 2015 - art. 30
 
 _Cite_:
 
-  - Code électoral - art. L46-1 (VT)
+  - Code électoral - art. L46-1
 
 
 #### Chapitre X : Contentieux<a id=122></a>
@@ -16885,8 +16908,8 @@ _Cite_:
 Les élections à l'Assemblée de Corse peuvent être contestées dans les dix jours suivant la proclamation des résultats par
 tout candidat ou tout électeur d'une commune de Corse devant le Conseil d'Etat statuant au contentieux. 
 
-Le même droit est ouvert au représentant de l'Etat dans la collectivité territoriale de Corse s'il estime que les conditions
-et les formes légalement prescrites n'ont pas été respectées. 
+Le même droit est ouvert au représentant de l'Etat dans la collectivité de Corse s'il estime que les conditions et les formes
+légalement prescrites n'ont pas été respectées. 
 
 L'éligibilité d'un candidat devenu conseiller à l'Assemblée de Corse par application des dispositions du premier alinéa de
 l'article L. 360 et de l'article L. 380 peut être contestée dans le délai de dix jours à compter de la date à laquelle ce
@@ -16898,16 +16921,11 @@ Les dispositions du dernier alinéa de l'article L. 361 sont applicables.
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
-_Créé par_:
-
-  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-  - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
+  - Ordonnance n°2016-1563 du 21 novembre 2016 - art. 8
 
 _Cité par_:
 
@@ -16915,9 +16933,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code électoral - art. L360 (V)
-  - Code électoral - art. L361 (V)
-  - Code électoral - art. L380 (V)
+  - Code électoral - art. L360
+  - Code électoral - art. L361
+  - Code électoral - art. L380
 
 
 ###### Article L382
@@ -17145,23 +17163,36 @@ _Modifié par_:
 
 ###### Article L388
 
-Les dispositions du titre Ier du livre Ier du présent code, dans leur rédaction résultant de la loi n° 2017-286 du 6 mars
-2017 tendant à renforcer les obligations comptables des partis politiques et des candidats, à l'exception des articles L. 15,
-L. 15-1, L. 46-1 et L. 66, sont applicables à l'élection : 
+Les dispositions du titre Ier du livre Ier du présent code, dans leur rédaction résultant de la loi n° 2017-1339 du 15
+septembre 2017 pour la confiance dans la vie politique, à l'exception des articles L. 15, L. 15-1, L. 46-1 et L. 66, sont
+applicables à l'élection :
 
-1° Des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna ; 
+1° Des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna ;
 
 2° Des membres du congrès et des assemblées de province de la Nouvelle-Calédonie, sous réserve de l'application des
-dispositions du titre V de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie ; 
+dispositions du titre V de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie ;
 
 3° Des représentants à l'assemblée de la Polynésie française, sous réserve des dispositions de la loi organique n° 2004-192
-du 27 février 2004 portant statut d'autonomie de la Polynésie française ; 
+du 27 février 2004 portant statut d'autonomie de la Polynésie française ;
 
 4° Des membres de l'assemblée territoriale des îles Wallis et Futuna, sous réserve des dispositions de la section III du
-titre III de la loi n° 61-814 du 29 juillet 1961 conférant aux îles de Wallis et Futuna le statut de territoire d'outre-
-mer ; 
+titre III de la loi n° 61-814 du 29 juillet 1961 conférant aux îles de Wallis et Futuna le statut de territoire d'outre-mer ;
 
 5° Des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française.
+
+**Nota:**
+
+Aux termes de l'article 64 XV C de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à
+compter du prochain renouvellement général des conseils municipaux :
+
+1° Si celui-ci intervient avant l'entrée en vigueur de la loi n° 2016-1048 du 1er août 2016 rénovant les modalités
+d'inscription sur les listes électorales :
+
+a) Le livre V du code électoral est ainsi modifié :
+
+- au premier alinéa de l'article L. 388, la référence : "n° 2017-1339 du 15 septembre 2017 pour la confiance dans la vie
+politique" est remplacée par la référence : "n° 2018-607 du 13 juillet 2018 relative à la programmation militaire pour les
+années 2019 à 2025 et portant diverses dispositions intéressant la défense".
 
 **Liens relatifs à cet article**
 
@@ -17183,7 +17214,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-286 du 6 mars 2017 - art. 10 (M)
+  - Loi n°2017-286 du 6 mars 2017 - art. 10 (V)
+  - Loi n°2017-1339 du 15 septembre 2017 - art. 26 (V)
+
+_Abrogé par_:
+
+  - Loi n°2017-1339 du 15 septembre 2017 - art. 26 (V)
 
 
 ###### Article L389
@@ -17315,52 +17351,49 @@ _Cite_:
 
 ###### Article L392
 
-Pour l'application des dispositions du chapitre V bis du titre Ier du livre Ier : 
+Pour l'application des dispositions du chapitre V bis du titre Ier du livre Ier :
 
-1° Dans l'article L. 52-8, les sommes de 4 600 euros, 150 euros et 15 000 euros sont respectivement remplacées par les sommes
-de 545 000 francs CFP, de 18 180 francs CFP et de 1 818 000 francs CFP. 
-
-2° Dans l'article L. 52-10, la somme de 3 000 euros est remplacée par la somme de 363 600 francs CFP. 
+1° et 2° (abrogés)
 
 3° Pour la Nouvelle-Calédonie, le tableau du deuxième alinéa de l'article L. 52-11 est remplacé par le tableau suivant :
 
-<table cellpadding="0" cellspacing="0" align="center" border="1" width="720">
+<table cellpadding="0" align="center" border="1" cellspacing="0">
   <tbody>
     <tr>
-      <td rowspan="3" width="227">
+      <td rowspan="3">
 
 Fraction de la population
 
 de la circonscription
 
 </td>
-      <td width="454" colspan="3">
+      <td colspan="3">
 
 Plafond par habitant des dépenses électorales (en Francs CFP)
 
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="227">
+      <td colspan="2">
 
 Election des conseillers municipaux
 
 </td>
-      <td width="227" valign="top" rowspan="2">
+      <td rowspan="2">
 
 Election des membres du congrès et des assemblées de province de la Nouvelle-Calédonie
 
 </td>
     </tr>
     <tr>
-      <td width="113">
+      <td>
 
 Listes présentes
 
 au premier tour
 
 </td>
-      <td width="113">
+      <td>
 
 Listes présentes
 
@@ -17369,88 +17402,88 @@ au second tour
 </td>
     </tr>
     <tr>
-      <td valign="top" width="227">
+      <td>
 
 N'excédant pas 15 000 habitants
 
 </td>
-      <td width="113" valign="top">
+      <td>
 
 146
 
 </td>
-      <td valign="top" width="113">
+      <td>
 
 200
 
 </td>
-      <td valign="top" width="227">
+      <td>
 
 127
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="227">
+      <td>
 
 De 15 001 à 30 000 habitants
 
 </td>
-      <td valign="top" width="113">
+      <td>
 
 128
 
 </td>
-      <td width="113" valign="top">
+      <td>
 
 182
 
 </td>
-      <td width="227" valign="top">
+      <td>
 
 100
 
 </td>
     </tr>
     <tr>
-      <td width="227" valign="top">
+      <td>
 
 De 30 001 à 60 000 habitants
 
 </td>
-      <td width="113" valign="top">
+      <td>
 
 110
 
 </td>
-      <td width="113" valign="top">
+      <td>
 
 146
 
 </td>
-      <td valign="top" width="227">
+      <td>
 
 91
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="227">
+      <td>
 
 Plus de 60 000 habitants
 
 </td>
-      <td width="113" valign="top">
+      <td>
 
 100
 
 </td>
-      <td width="113" valign="top">
+      <td>
 
 137
 
 </td>
-      <td width="227" valign="top">
+      <td>
 
 64
 
@@ -17459,9 +17492,9 @@ Plus de 60 000 habitants
   </tbody>
 </table>
 
-4° Pour la Polynésie française, le tableau du deuxième alinéa de l'article L. 52-11 est remplacé par le tableau suivant : 
+4° Pour la Polynésie française, le tableau du deuxième alinéa de l'article L. 52-11 est remplacé par le tableau suivant :
 
-<table border="1" align="center" width="720">
+<table align="center" border="1">
   <tbody>
     <tr>
       <td rowspan="3">
@@ -17524,29 +17557,21 @@ au second tour
     <tr>
       <td align="center">
 
-N'excédant pas 15 000 habitants 
+N'excédant pas 15 000 habitants
 
 </td>
       <td align="center">
 
-156 
-
-</td>
+156</td>
       <td align="center">
 
-214 
-
-</td>
+214</td>
       <td align="center">
 
-136 
-
-</td>
+136</td>
       <td align="center">
 
-186 
-
-</td>
+186</td>
     </tr>
     <tr>
       <td align="center">
@@ -17556,24 +17581,16 @@ De 15 001 à 30 000 habitants
 </td>
       <td align="center">
 
-137 
-
-</td>
+137</td>
       <td align="center">
 
-195 
-
-</td>
+195</td>
       <td align="center">
 
-107 
-
-</td>
+107</td>
       <td align="center">
 
-152 
-
-</td>
+152</td>
     </tr>
     <tr>
       <td align="center">
@@ -17583,24 +17600,16 @@ De 30 001 à 60 000 habitants
 </td>
       <td align="center">
 
-118 
-
-</td>
+118</td>
       <td align="center">
 
-156 
-
-</td>
+156</td>
       <td align="center">
 
-97 
-
-</td>
+97</td>
       <td align="center">
 
-129 
-
-</td>
+129</td>
     </tr>
     <tr>
       <td align="center">
@@ -17610,47 +17619,39 @@ De plus de 60 000 habitants
 </td>
       <td align="center">
 
-107 
-
-</td>
+107</td>
       <td align="center">
 
-147 
-
-</td>
+147</td>
       <td align="center">
 
-68 
-
-</td>
+68</td>
       <td align="center">
 
-94 
-
-</td>
+94</td>
     </tr>
   </tbody>
 </table>
 
 5° Le plafond des dépenses pour l'élection des députés mentionné au troisième alinéa de l'article L. 52-11 est de 4 545 000
-francs CFP ; il est majoré de 20 francs CFP par habitant de la circonscription. 
+francs CFP ; il est majoré de 20 francs CFP par habitant de la circonscription.
 
 6° Aux articles L. 52-8 et L. 52-11, la référence à l'indice du coût de la vie de l'Institut national de la statistique et
-des études économiques est remplacée : 
+des études économiques est remplacée :
 
 a) En Nouvelle-Calédonie, par la référence à l'indice du coût de la vie (hors tabac) de l'Institut territorial de la
-statistique et des études économiques ; 
+statistique et des études économiques ;
 
 b) En Polynésie française, par la référence à l'indice des prix à la consommation des ménages de l'Institut territorial de la
-statistique et des études économiques ; 
+statistique et des études économiques ;
 
-c) Dans les îles Wallis et Futuna, par la référence à l'indice local des prix à la consommation. 
+c) Dans les îles Wallis et Futuna, par la référence à l'indice local des prix à la consommation.
 
 7° Les frais de transport aérien et maritime dûment justifiés, exposés à l'intérieur de la collectivité intéressée par les
 candidats aux élections législatives et aux élections sénatoriales en Nouvelle-Calédonie, en Polynésie française et aux îles
 Wallis et Futuna et aux élections au congrès et aux assemblées de province de Nouvelle-Calédonie ou à l'assemblée de la
 Polynésie française ou à l'assemblée territoriale des îles Wallis et Futuna, ne sont pas inclus dans le plafond des dépenses
-électorales fixé par l'article L. 52-11. 
+électorales fixé par l'article L. 52-11.
 
 8° Par dérogation aux dispositions du deuxième alinéa de l'article L. 52-12, le compte de campagne peut également être déposé
 auprès des services du représentant de l'Etat.
@@ -17665,14 +17666,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1029 du 15 novembre 2013 - art. 26
+  - Loi n°2017-1339 du 15 septembre 2017 - art. 26 (V)
 
 _Cite_:
 
-  - Code électoral - art. L52-10
+  - Code électoral - art. L52-10 (VD)
   - Code électoral - art. L52-11
   - Code électoral - art. L52-12
-  - Code électoral - art. L52-8
+  - Code électoral - art. L52-8 (VD)
 
 
 ###### Article L392-2
@@ -17695,101 +17696,8 @@ _Créé par_:
 
 ###### Article L393
 
-Pour l'application en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna des dispositions du
-chapitre VII du titre Ier du livre Ier du présent code, le montant des amendes est fixé comme suit :
-
-<table cellspacing="0" border="1" cellpadding="0" align="center">
-  <tbody>
-    <tr>
-      <td width="161">
-
-Montant des amendes
-
-(en euros)
-
-</td>
-      <td width="158">
-
-Montant des amendes
-
-(en francs CFP)
-
-</td>
-    </tr>
-    <tr>
-      <td width="161">
-
-3 750
-
-</td>
-      <td width="158">
-
-454 500
-
-</td>
-    </tr>
-    <tr>
-      <td width="161">
-
-7 500
-
-</td>
-      <td width="158">
-
-909 000
-
-</td>
-    </tr>
-    <tr>
-      <td width="161">
-
-9 000
-
-</td>
-      <td width="158">
-
-1 090 800
-
-</td>
-    </tr>
-    <tr>
-      <td width="161">
-
-15 000
-
-</td>
-      <td width="158">
-
-1 818 000
-
-</td>
-    </tr>
-    <tr>
-      <td width="161">
-
-22 500
-
-</td>
-      <td width="158">
-
-2 727 000
-
-</td>
-    </tr>
-    <tr>
-      <td width="161">
-
-75 000
-
-</td>
-      <td width="158">
-
-9 090 000
-
-</td>
-    </tr>
-  </tbody>
-</table>
+En Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, les sanctions pécuniaires encourues en vertu
+du présent code sont prononcées en monnaie locale, compte tenu de la contre-valeur dans cette monnaie de l'euro.
 
 **Liens relatifs à cet article**
 
@@ -17800,11 +17708,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
+  - Loi n°2017-1339 du 15 septembre 2017 - art. 26 (V)
 
 
 ###### Article LO384-1
@@ -23366,38 +23274,54 @@ _Créé par_:
 
 Les dons consentis par une personne physique dûment identifiée pour le financement d'actions tendant à favoriser ou
 défavoriser le recueil des soutiens à une proposition de loi présentée en application de l'article 11 de la Constitution ne
-peuvent excéder 4 600 €. 
+peuvent excéder 4 600 €.
 
 Tout don de plus de 150 € consenti à un parti ou groupement politique en vue du financement d'actions tendant à favoriser ou
 défavoriser le recueil des soutiens doit être versé par chèque, virement, prélèvement automatique ou carte bancaire. Le parti
-ou groupement politique délivre un reçu pour chaque don. 
+ou groupement politique délivre un reçu pour chaque don.
 
 Le montant global des dons en espèces faits au parti ou groupement politique en vue du financement d'actions tendant à
-favoriser ou défavoriser le recueil des soutiens ne peut excéder 20 % du total des fonds récoltés. 
+favoriser ou défavoriser le recueil des soutiens ne peut excéder 20 % du total des fonds récoltés.
+
+Les personnes physiques peuvent consentir des prêts pour le financement d'actions tendant à favoriser ou défavoriser le
+recueil des soutiens dès lors que ces prêts ne sont pas effectués à titre habituel.
+
+La durée de ces prêts ne peut excéder cinq ans. Un décret en Conseil d'Etat fixe le plafond et les conditions d'encadrement
+du prêt consenti pour garantir que ce prêt ne constitue pas un don déguisé.
+
+Le parti ou groupement politique bénéficiaire du prêt en vue du financement d'actions tendant à favoriser ou défavoriser le
+recueil des soutiens fournit au prêteur les informations concernant les caractéristiques du prêt s'agissant du taux d'intérêt
+applicable, du montant total du prêt, de sa durée ainsi que de ses modalités et de ses conditions de remboursement.
+
+Le parti ou groupement politique bénéficiaire du prêt informe le prêteur des conséquences liées à la défaillance de
+l'emprunteur.
 
 L'ensemble des opérations financières conduites par un parti ou groupement en vue de la campagne de collecte de soutiens fait
-l'objet d'une comptabilité annexe et détaillée dans les comptes de ce parti ou groupement politique. 
+l'objet d'une comptabilité annexe et détaillée dans les comptes de ce parti ou groupement politique.
 
 A l'exception des partis ou groupements politiques, les personnes morales ne peuvent participer au financement d'actions
 tendant à favoriser ou défavoriser le recueil des soutiens à une proposition de loi présentée en application de l'article 11
 de la Constitution ni en consentant des dons sous quelque forme que ce soit, ni en fournissant des biens, services ou autres
-avantages, directs ou indirects, à des prix inférieurs à ceux qui sont habituellement pratiqués. 
+avantages, directs ou indirects, à des prix inférieurs à ceux qui sont habituellement pratiqués. Les personnes morales, à
+l'exception des partis et groupements politiques ainsi que des établissements de crédit ou sociétés de financement ayant leur
+siège social dans un Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen, ne peuvent
+consentir des prêts en vue du financement de telles actions.
 
 Aucun Etat étranger ou personne morale de droit étranger ne peut participer, directement ou indirectement, au financement de
-telles actions. 
+telles actions.
 
-La violation du présent article est passible des peines prévues au II de l'article L. 113-1.
+La violation du présent article est passible des peines prévues au III de l'article L. 113-1.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Constitution du 4 octobre 1958 - art. 11 (V)
+  - Constitution du 4 octobre 1958 - art. 11
   - Code électoral - art. L113-1
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2013-1116 du 6 décembre 2013 - art. 1
+  - Loi n°2017-1339 du 15 septembre 2017 - art. 26 (V)
 
 _Cité par_:
 
@@ -23534,24 +23458,28 @@ _Créé par_:
 
 ###### Article L558-46
 
-Sont applicables aux opérations référendaires régies par le présent titre : 
+Sont applicables aux opérations référendaires régies par le présent titre :
 
 1° Les chapitres Ier, II, V, VI et VII du titre Ier du livre Ier, à l'exception des articles L. 52-3, L. 55, L. 56, L. 57, L.
 58, des deux derniers alinéas de l'article L. 65, de l'article L. 66, des deux derniers alinéas de l'article L. 68, des
-articles L. 85-1, L. 88-1, L. 95, des 1° à 5° du I de l'article L. 113-1 et du II du même article ; 
+articles L. 85-1, L. 88-1, L. 95 et des I, III et V de l'article L. 113-1 ;
 
-2° Les articles L. 385, L. 386, L. 387, L. 389, L. 390-1 et L. 393 ; 
+2° Les articles L. 385, L. 386, L. 387, L. 389, L. 390-1 et L. 393 ;
 
-3° Les articles L. 451, L. 477, L. 504 et L. 531. 
+3° Les articles L. 451, L. 477, L. 504 et L. 531.
 
 Pour l'application de ces dispositions, il y a lieu de lire : " parti " ou " groupement habilité à participer à la campagne "
 au lieu de : " candidat " ou " liste de candidats ".
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Abrogé par_:
 
-  - Loi n°2013-1116 du 6 décembre 2013 - art. 5
+  - Loi n°2017-1339 du 15 septembre 2017 - art. 26 (V)
+
+_Modifié par_:
+
+  - Loi n°2017-1339 du 15 septembre 2017 - art. 26 (V)
 
 _Cite_:
 
@@ -23698,14 +23626,14 @@ _Créé par_:
 
 ###### Article L562
 
-Les dispositions suivantes sont applicables aux consultations régies par le présent livre : 
+Les dispositions suivantes sont applicables aux consultations régies par le présent livre :
 
 1° Livre Ier, titre Ier : chapitres Ier, II, V, VI et VII, à l'exception des articles L. 52-3, L. 56, L. 57, L. 57-1, L. 58,
-L. 65 (quatrième alinéa), L. 85-1, L. 88-1, L. 95 et L. 113-1 (1° à 5° du I et II) ; 
+L. 65 (quatrième alinéa), L. 85-1, L. 88-1, L. 95  et des I, III et V de l'article L. 113-1 ;
 
-2° Livre V : articles L. 386 et L. 390-1 ; 
+2° Livre V : articles L. 386 et L. 390-1 ;
 
-3° Livre VI : L. 451, L. 477, L. 504 et L. 531. 
+3° Livre VI : L. 451, L. 477, L. 504 et L. 531.
 
 Pour l'application de ces dispositions, il y a lieu de lire : " parti ou groupement habilité à participer à la campagne " au
 lieu de : " candidat ", " binôme de candidats " ou " liste de candidats ".
@@ -23718,7 +23646,11 @@ lieu de : " candidat ", " binôme de candidats " ou " liste de candidats ".
 
 _Modifié par_:
 
-  - Loi n°2013-403 du 17 mai 2013 - art. 19
+  - Loi n°2017-1339 du 15 septembre 2017 - art. 26 (V)
+
+_Abrogé par_:
+
+  - Loi n°2017-1339 du 15 septembre 2017 - art. 26 (V)
 
 _Cite_:
 
@@ -26319,20 +26251,17 @@ _Cite_:
 
 ###### Article R39-1
 
-Le mandataire prévu par le premier alinéa de l'article L. 52-4 délivre à chaque donateur, quel que soit le montant du don
-consenti, un reçu détaché d'une formule numérotée, éditée par la Commission nationale des comptes de campagne et des
-financements politiques. Le reçu est produit à l'appui de toute déclaration qui ouvre droit à une réduction de l'impôt sur le
-revenu, au titre du 2 bis de l'article 200 du code général des impôts. 
+Lors de la perception d'un don, le mandataire prévu par le premier alinéa de l'article L. 52-4 enregistre les informations
+suivantes qui doivent figurer dans une annexe du compte de campagne du candidat sur support papier ou numérique : le montant
+du don, sa date de versement, son mode de règlement, l'identité, la nationalité et l'adresse du domicile fiscal du donateur.
 
-Les souches des reçus utilisés sont jointes aux comptes de campagne soumis au contrôle de la commission nationale ; elles
-sont accompagnées d'un relevé du compte bancaire unique ouvert par le mandataire, attestant la réalité de l'encaissement des
-fonds correspondants ; les reçus non utilisés sont retournés à la commission, avec les souches correspondantes. 
+Ces informations doivent être reportées soit sur un reçu détaché d'une formule numérotée éditée par la Commission nationale
+des comptes de campagne et des financements politiques, soit sur un reçu numéroté édité dans le cadre d'un téléservice mis en
+œuvre par la commission.
 
-La souche et le reçu mentionnent le montant et la date du versement ainsi que l'identité et l'adresse du domicile fiscal du
-donateur. Le reçu est signé par le donateur. 
-
-Le reçu ne comporte le nom et l'adresse du mandataire prévu au premier alinéa de l'article L. 52-4 que lorsque le montant du
-don excède 3 000 euros. 
+Le reçu est délivré au donateur par le mandataire. Le reçu est signé par le donateur. Le reçu est produit à l'appui de toute
+déclaration qui ouvre droit à une réduction de l'impôt sur le revenu, au titre du 3 de l'article 200 du code général des
+impôts.
 
 La Commission nationale des comptes de campagne et des financements politiques peut mettre en cause la validité du reçu
 délivré par le mandataire et enregistré par elle si elle constate, lors du contrôle du compte de campagne, une irrégularité
@@ -26342,17 +26271,17 @@ au regard des dispositions des articles L. 52-4 à L. 52-13 et L. 52-16.
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°2006-1115 du 5 septembre 2006 - art. 2 () JORF 7 septembre 2006
+  - Décret n°2017-1795 du 28 décembre 2017 - art. 1
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 200 (VT)
-  - Code électoral - art. L52-16 (V)
-  - Code électoral - art. L52-4 (VT)
+  - Code électoral - art. L52-13
+  - Code électoral - art. L52-16
+  - Code électoral - art. L52-4
 
 _Cité par_:
 
@@ -26443,6 +26372,39 @@ _Codifié par_:
 _Modifié par_:
 
   - Décret n°2004-134 du 12 février 2004 - art. 1 () JORF 13 février 2004
+
+
+###### Article R39-2-1
+
+I.-Les candidats auxquels sont applicables les 
+dispositions de l'article L. 52-7-1 du code électoral
+peuvent emprunter auprès de personnes physiques à un taux d'intérêt compris entre zéro et le taux d'intérêt légal en vigueur
+au moment du consentement des prêts. Le taux d'intérêt légal est celui applicable aux créances des personnes physiques
+n'agissant pas pour des besoins professionnels. Ces prêts sont consentis aux conditions suivantes :
+
+1° La durée de chaque prêt est inférieure ou égale à 18 mois ;
+
+2° Le montant total dû par le candidat à des personnes physiques est inférieur ou égal à 47,5 % du plafond de remboursement
+forfaitaire des dépenses de campagne mentionné à l'
+article L. 52-11-1 du code électoral
+ ;
+
+II.-Les dispositions du présent article sont applicables :
+
+1° Lors des scrutins de liste aux candidats têtes de liste et à chacun des candidats de la liste ;
+
+2° Lors des scrutins uninominaux et binominaux, aux candidats titulaires et aux personnes appelées à les remplacer.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1795 du 28 décembre 2017 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. L52-11-1
+  - Code électoral - art. L52-7-1
 
 
 ###### Article R39-3
@@ -26586,6 +26548,29 @@ fonctionnement du compte et des engagements réciproques de l'établissement et 
 _Créé par_:
 
   - Décret n°2011-1854 du 9 décembre 2011 - art. 1
+
+
+###### Article R39-10-1
+
+Pour l'application de l'article L. 558-37, les partis ou groupements politiques peuvent emprunter auprès de personnes
+physiques à un taux compris entre zéro et le taux d'intérêt légal en vigueur au moment du consentement des prêts. Le taux
+d'intérêt légal est celui applicable aux créances des personnes physiques n'agissant pas pour des besoins professionnels. Ces
+prêts sont consentis aux conditions suivantes : 
+
+1° La durée de chaque prêt est inférieure ou égale à 18 mois ; 
+
+2° Le montant total dû par chaque parti ou groupement politique dans le cadre des prêts consentis par les personnes physiques
+est inférieur ou égal à 9 200 €.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1795 du 28 décembre 2017 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. L558-37
 
 
 #### Chapitre VI : Vote<a id=194></a>
@@ -29119,16 +29104,19 @@ _Cite_:
 
 Le recensement général des votes est effectué dès la fermeture du scrutin et au fur et à mesure de l'arrivée des procès-
 verbaux. Il est achevé au plus tard le lundi qui suit le scrutin à minuit. Il est opéré, pour chaque circonscription
-électorale, par une commission instituée par arrêté du préfet. 
+électorale, par une commission instituée par arrêté du préfet.
 
 Cette commission comprend un magistrat désigné par le premier président de la cour d'appel, président, deux juges désignés
-par la même autorité, un conseiller départemental et un fonctionnaire de préfecture désignés par le préfet. 
+par la même autorité, un conseiller départemental et un fonctionnaire de préfecture désignés par le préfet.
 
-Un suppléant de chaque membre peut être désigné dans les mêmes conditions. 
+Un suppléant de chaque membre peut être désigné dans les mêmes conditions.
 
-Un représentant de chacun des candidats peut assister aux opérations de la commission. 
+Un représentant de chacun des candidats peut assister aux opérations de la commission.
 
 Une même commission peut effectuer le recensement des votes de plusieurs circonscriptions.
+
+Pour l'application du deuxième alinéa en Corse, il y a lieu de lire : “un conseiller à l'Assemblée de Corse représentant le
+département conformément aux dispositions de l'article L. 293-1” au lieu de : “un conseiller départemental”.
 
 **Liens relatifs à cet article**
 
@@ -29145,14 +29133,14 @@ _Cité par_:
   - Code électoral - art. D293 (Ab)
   - Code électoral - art. R*179-5 (Ab)
   - Code électoral - art. R177-1 (Ab)
-  - Code électoral - art. R199 (M)
+  - Code électoral - art. R199 (V)
   - Code électoral - art. R214 (V)
   - Code électoral - art. R292 (VT)
   - Code électoral - art. R357 (V)
 
 _Modifié par_:
 
-  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+  - Décret n°2017-1777 du 27 décembre 2017 - art. 2
 
 
 ###### Article R108
@@ -31241,7 +31229,7 @@ _Cité par_:
 
 La liste des électeurs du département est dressée par ordre alphabétique par le préfet. Cette liste comprend les députés, les
 sénateurs, les conseillers régionaux, conseillers départementaux et les délégués des conseils municipaux désignés dans les
-conditions prévues au titre III du présent livre. 
+conditions prévues au titre III du présent livre.
 
 Sont mentionnés dans cette liste :
 
@@ -31253,26 +31241,21 @@ Sont mentionnés dans cette liste :
 
 - l 'adresse ;
 
-- les nom et prénoms du mandataire des délégués autorisés à voter par procuration. 
+- les nom et prénoms du mandataire des délégués autorisés à voter par procuration.
 
 Le préfet peut modifier la liste jusqu'à sa division en sections de vote mentionnée à l'article R. 164, pour tenir compte des
-remplacements de délégués prévus par la loi. 
+remplacements de délégués prévus par la loi.
 
 Les suppléants des délégués des conseils municipaux sont portés sur la liste en cas de décès ou de perte des droits civiques
 et politiques du délégué ou en cas d'empêchement majeur invoqué par le délégué au regard des dispositions des a et c de
-l'article L. 71. Le représentant de l'Etat avise immédiatement le délégué dont la demande de remplacement n'est pas valable. 
+l'article L. 71. Le représentant de l'Etat avise immédiatement le délégué dont la demande de remplacement n'est pas valable.
 
 Dès qu'elle est arrêtée, la liste peut être communiquée à tout membre du collège électoral et à tout candidat qui en fait la
 demande. Elle peut être copiée et publiée.
 
-**Nota:**
-
-Cet article a été modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n° 2013-403 du 17 mai
-2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et
-modifiant le calendrier électoral. Conformément à son article 71, l’article dans sa version modifiée par le décret du 18
-octobre 2013 s’applique à compter du prochain renouvellement des mandats des sénateurs dans les départements de la série 2
-prévu en 2014, y compris aux opérations préparatoires à ce scrutin. Le décret n° 2014-532 du 26 mai 2014 a fixé cette date au
-28 septembre 2014.
+Pour l'application du premier alinéa en Corse, il y a lieu de lire : “les conseillers à l'Assemblée de Corse représentant le
+département conformément aux dispositions de l'article L. 293-1” au lieu de : “les conseillers régionaux, conseillers
+départementaux”.
 
 **Liens relatifs à cet article**
 
@@ -31282,7 +31265,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-632 du 18 juin 2014 - art. 2
+  - Décret n°2017-1777 du 27 décembre 2017 - art. 2
 
 _Cite_:
 
@@ -31300,9 +31283,12 @@ _Cité par_:
 
 Le collège électoral est présidé par le président du tribunal de grande instance, assisté de deux juges audit tribunal
 désignés par le premier président de la cour d'appel et des deux conseillers départementaux les plus âgés présents à
-l'ouverture du scrutin et non candidats. 
+l'ouverture du scrutin et non candidats.
 
 En cas d'empêchement, le premier président de la cour d'appel désignera des suppléants.
+
+Pour l'application du premier alinéa en Corse, il y a lieu de lire : “conseillers à l'Assemblée de Corse représentant le
+département conformément aux dispositions de l'article L. 293-1” au lieu de : “conseillers départementaux”.
 
 **Liens relatifs à cet article**
 
@@ -31312,7 +31298,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+  - Décret n°2017-1777 du 27 décembre 2017 - art. 2
 
 _Cité par_:
 
@@ -33713,30 +33699,33 @@ _Cite_:
 
 ###### Article R199
 
-Les dispositions des articles R. 107 à R. 109 sont applicables à la composition et au fonctionnement de la commission
-instituée par l'article L. 379. 
+Le recensement général des votes est effectué par la commission dès la fermeture du scrutin et au fur et à mesure de
+l'arrivée des procès-verbaux.
 
-Pour l'application des dispositions de l'article R. 107, les attributions dévolues au préfet sont exercées par le préfet de
-Corse.
+La commission comprend un magistrat désigné par le premier président de la cour d'appel, président, deux juges désignés par
+la même autorité, un conseiller à l'Assemblée de Corse et un fonctionnaire de la préfecture de Corse-du-Sud désignés par le
+préfet de Corse.
+
+Un suppléant de chaque membre peut être désigné dans les mêmes conditions.
+
+Un représentant de chacune des listes peut assister aux opérations de la commission.
+
+Les dispositions des articles R. 108 et R. 109 sont applicables.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°91-653 1991-07-15 art. 16
-
-_Créé par_:
-
-  - Décret n°91-653 du 15 juillet 1991 - art. 4 () JORF 16 juillet 1991
+  - Décret n°2017-1777 du 27 décembre 2017 - art. 2
 
 _Cite_:
 
-  - Code électoral - art. L379 (V)
-  - Code électoral - art. R107 (VT)
+  - Code électoral - art. L379
+  - Code électoral - art. R107 (V)
 
 
 #### Chapitre X : Contentieux<a id=258></a>
