@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2018-01-01
+Version Consolidée au 2018-02-02
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires (art. L1 à L273-12)](#2)
@@ -8621,19 +8621,14 @@ _Cité par_:
 ###### Article L154
 
 Les candidats sont tenus de faire une déclaration revêtue de leur signature, énonçant leurs nom, prénoms, sexe, date et lieu
-de naissance, domicile et profession. 
+de naissance, domicile et profession.
 
-A cette déclaration sont jointes les pièces de nature à prouver que le candidat est âgé de dix-huit ans révolus et possède la
-qualité d'électeur. 
+A cette déclaration sont jointes une copie du justificatif d'identité du candidat et les pièces de nature à prouver qu'il
+possède la qualité d'électeur.
 
 Pour le premier tour de scrutin, sont également jointes les pièces de nature à prouver que le candidat a procédé à la
 déclaration d'un mandataire conformément aux articles L. 52-5 et L. 52-6 ou, s'il n'a pas procédé à cette déclaration, les
 pièces prévues au premier alinéa de ces mêmes articles.
-
-**Nota:**
-
-Loi organique n° 2011-410 du 14 avril 2011 article 24 : La présente loi organique prend effet lors du premier renouvellement
-général de l'Assemblée nationale suivant sa promulgation.
 
 **Liens relatifs à cet article**
 
@@ -8652,20 +8647,21 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-412 du 14 avril 2011 - art. 12
-  - Loi organique n°2011-410 du 14 avril 2011 - art. 20
+  - Loi n°2018-51 du 31 janvier 2018 - art. 1
 
 _Cite_:
 
-  - Code électoral - art. L52-5 (V)
+  - Code électoral - art. L52-5
 
 
 ###### Article L155
 
 Cette déclaration doit également indiquer les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de la
 personne appelée à remplacer le candidat élu en cas de vacance du siège. Elle doit être accompagnée de l'acceptation écrite
-du remplaçant ; celui-ci doit remplir les conditions d'éligibilité exigées des candidats. Il joint les pièces de nature à
-prouver qu'il répond à ces conditions.
+du remplaçant, revêtue de sa signature suivie de la mention manuscrite suivante : “ La présente signature marque mon
+consentement à être remplaçant (e) de (indication des nom et prénoms du candidat) à l'élection à l'Assemblée nationale. ” Ce
+remplaçant doit remplir les conditions d'éligibilité exigées des candidats. Il joint les pièces de nature à prouver qu'il
+répond à ces conditions ainsi que la copie d'un justificatif d'identité.
 
 Nul ne peut figurer en qualité de remplaçant sur plusieurs déclarations de candidatures.
 
@@ -8675,7 +8671,7 @@ Nul ne peut être à la fois candidat et remplaçant d'un autre candidat.
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Cité par_:
 
@@ -8686,14 +8682,9 @@ _Cité par_:
   - Code électoral - art. L460 (VT)
   - Code électoral - art. R99 (M)
 
-**Liens**:
-
-  - SPEC_APPLI: Le titre IV de la présente ordonnance est applicable en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna
-  - SPEC_APPLI: Ordonnance 2003-1165 2003-12-08 art. 38 I, II, III :
-
 _Modifié par_:
 
-  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 12 () JORF 9 décembre 2003
+  - Loi n°2018-51 du 31 janvier 2018 - art. 1
 
 
 ###### Article L156
@@ -10341,38 +10332,41 @@ une déclaration conjointe de candidature dans les conditions prévues par décr
 de la signature des deux candidats, énonce les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de
 chacun d'entre eux. Elle mentionne également pour chaque candidat la personne appelée à le remplacer comme conseiller
 départemental dans le cas prévu au II l'article L. 221. Les articles L. 155 et L. 163 sont applicables à la désignation du
-remplaçant. 
+remplaçant. Pour l'application du premier alinéa de l'article L. 155, la mention manuscrite est la suivante : “ La présente
+signature marque mon consentement à être remplaçant (e) de (indication des nom et prénoms du candidat de même sexe), candidat
+à l'élection au conseil départemental. ”
 
-Le candidat et son remplaçant sont de même sexe. 
+Le candidat et son remplaçant sont de même sexe.
 
 A la déclaration prévue au premier alinéa du présent article sont jointes les pièces propres à prouver que les candidats
-présentés en binôme et leurs remplaçants répondent aux conditions d'éligibilité prévues à l'article L. 194. 
+présentés en binôme et leurs remplaçants répondent aux conditions d'éligibilité prévues à l'article L. 194 et la copie d'un
+justificatif d'identité de chacun d'entre eux.
 
 Pour le premier tour de scrutin, sont également jointes les pièces de nature à prouver que le binôme a procédé à la
 déclaration d'un mandataire en application des articles L. 52-3-1, 
 L. 52-5 et L. 52-6 ou, s'il n'a pas procédé à cette déclaration, les pièces prévues au premier alinéa des mêmes articles L.
-52-5 et L. 52-6. 
+52-5 et L. 52-6.
 
 Si la déclaration de candidature n'est pas conforme aux deux premiers alinéas du présent article ou n'est pas accompagnée des
 pièces mentionnées aux troisième et quatrième alinéas ou si un candidat ou un remplaçant figurant sur cette déclaration est
-inéligible, elle n'est pas enregistrée. 
+inéligible, elle n'est pas enregistrée.
 
-Nul ne peut être candidat dans plus d'un canton. 
+Nul ne peut être candidat dans plus d'un canton.
 
 Si, contrairement au sixième alinéa, un candidat fait acte de candidature dans plusieurs cantons, la candidature du binôme de
-candidats au sein duquel il se présente n'est pas enregistrée. 
+candidats au sein duquel il se présente n'est pas enregistrée.
 
 Le refus d'enregistrement d'un binôme de candidats est motivé. Chaque candidat du binôme qui s'est vu opposer un refus
 d'enregistrement dispose d'un délai de vingt-quatre heures pour saisir le tribunal administratif. Le tribunal administratif
-statue sous trois jours. 
+statue sous trois jours.
 
-Faute pour le tribunal administratif d'avoir statué dans ce délai, la candidature du binôme de candidats est enregistrée. 
+Faute pour le tribunal administratif d'avoir statué dans ce délai, la candidature du binôme de candidats est enregistrée.
 
 Nul binôme ne peut être candidat au second tour s'il ne s'est présenté au premier tour et s'il n'a obtenu un nombre de
-suffrages égal au moins à 12,5 % du nombre des électeurs inscrits. 
+suffrages égal au moins à 12,5 % du nombre des électeurs inscrits.
 
 Dans le cas où un seul binôme de candidats remplit ces conditions, le binôme ayant obtenu après celui-ci le plus grand nombre
-de suffrages au premier tour peut se maintenir au second. 
+de suffrages au premier tour peut se maintenir au second.
 
 Dans le cas où aucun binôme de candidats ne remplit ces conditions, les deux binômes ayant obtenu le plus grand nombre de
 suffrages au premier tour peuvent se maintenir au second.
@@ -10387,11 +10381,6 @@ _Codifié par_:
 
   - Décret n°64-1086 du 27 octobre 1964
 
-_Modifié par_:
-
-  - Loi n°2013-403 du 17 mai 2013 - art. 14
-  - Loi n°2015-29 du 16 janvier 2015 - art. 8
-
 _Cité par_:
 
   - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
@@ -10401,13 +10390,17 @@ _Cité par_:
   - Code électoral - art. L328-4 (M)
   - Code électoral - art. R109-1 (V)
 
+_Modifié par_:
+
+  - Loi n°2018-51 du 31 janvier 2018 - art. 4
+
 _Cite_:
 
-  - Code électoral - art. L155 (V)
-  - Code électoral - art. L163 (V)
-  - Code électoral - art. L194 (VT)
-  - Code électoral - art. L52-3-1 (VD)
-  - Code électoral - art. L52-5 (VD)
+  - Code électoral - art. L155
+  - Code électoral - art. L163
+  - Code électoral - art. L194
+  - Code électoral - art. L52-3-1
+  - Code électoral - art. L52-5
 
 
 #### Chapitre V : Propagande<a id=41></a>
@@ -12058,11 +12051,16 @@ Elle est déposée à la préfecture ou à la sous-préfecture au plus tard :
 Il en est délivré récépissé. 
 
 La déclaration de candidature indique expressément les nom, prénoms, sexe, date et lieu de naissance, domicile et profession
-du candidat et comporte sa signature. Elle est assortie des documents officiels qui justifient qu'il satisfait aux conditions
-d'éligibilité prévues aux deux premiers alinéas de l'article L. 228. 
+du candidat et comporte sa signature. En cas de candidature groupée, chaque candidat appose, à la suite de sa signature, la
+mention manuscrite suivante : “ La présente signature marque mon consentement à me porter candidat à l'élection municipale
+dans la candidature groupée menée par (indication des nom et prénoms du candidat mandaté pour mener la candidature groupée).
+” 
+
+Cette déclaration est assortie de la copie d'un justificatif d'identité du candidat et des documents officiels qui justifient
+qu'il satisfait aux conditions d'éligibilité prévues aux deux premiers alinéas de l'article L. 228. 
 
 Le récépissé ne peut être délivré que si les conditions énumérées au présent article sont remplies et si les documents
-officiels prévus au sixième alinéa du présent article établissent que le candidat satisfait aux conditions d'éligibilité
+officiels prévus au septième alinéa du présent article établissent que le candidat satisfait aux conditions d'éligibilité
 prévues aux deux premiers alinéas de l'article L. 228. 
 
 En cas de refus de délivrance du récépissé, le candidat dispose de vingt-quatre heures pour saisir le tribunal administratif,
@@ -12070,26 +12068,19 @@ qui statue en premier et dernier ressort dans les trois jours du dépôt de la r
 
 Faute pour le tribunal administratif d'avoir statué dans ce délai, le récépissé est délivré.
 
-**Nota:**
-
-Conformément à l’article 51 de la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des
-conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral, cet article est applicable
-aux élections aux conseils municipaux et communautaires prévues les 23 et 30 mars 2014, y compris aux opérations
-préparatoires à ce scrutin.
-
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2013-403 du 17 mai 2013 - art. 25
 
 _Cité par_:
 
   - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
 
+_Modifié par_:
+
+  - Loi n°2018-51 du 31 janvier 2018 - art. 2
+
 _Cite_:
 
-  - Code électoral - art. L228 (VT)
+  - Code électoral - art. L228
 
 
 ###### Article LO255-5
@@ -12250,32 +12241,31 @@ _Cite_:
 
 ###### Article L260
 
-Les conseillers municipaux sont élus au scrutin de liste à deux tours, avec dépôt de listes comportant autant de candidats
-que de sièges à pourvoir, sans adjonction ni suppression de noms et sans modification de l'ordre de présentation, sous
-réserve de l'application des dispositions prévues au deuxième alinéa de l'article L. 264.
+Les conseillers municipaux sont élus au scrutin de liste à deux tours, avec dépôt de listes comportant au moins autant de
+candidats que de sièges à pourvoir, et au plus deux candidats supplémentaires, sans adjonction ni suppression de noms et sans
+modification de l'ordre de présentation, sous réserve de l'application des dispositions prévues au deuxième alinéa de
+l'article L. 264.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Loi n°70-1297 1970-12-31 art. 35 II JORF 1er janvier 1971
-  - Loi n°76-665 1976-07-19 art. 4 JORF 30 juillet 1976
-  - Loi n°82-974 1982-11-19 art. 4 JORF 20 novembre 1982 en vigueur le 13 mars 1983
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Cité par_:
 
   - Loi n°2014-58 du 27 janvier 2014 - art. 39 (V)
-  - Code électoral - art. L265 (M)
+  - Code électoral - art. L265 (V)
   - Code électoral - art. L268 (VD)
   - Code électoral - art. L438 (VD)
 
+_Modifié par_:
+
+  - Loi n°2018-51 du 31 janvier 2018 - art. 3
+
 _Cite_:
 
-  - Code électoral - art. L264 (V)
+  - Code électoral - art. L264
 
 
 ###### Article L261
@@ -12419,38 +12409,40 @@ _Cité par_:
 ###### Article L265
 
 La déclaration de candidature résulte du dépôt à la préfecture ou à la sous-préfecture d'une liste répondant aux conditions
-fixées aux articles L. 260, L. 263, L. 264 et LO. 265-1. Il en est délivré récépissé. 
+fixées aux articles L. 260, L. 263, L. 264 et LO. 265-1. Il en est délivré récépissé.
 
 Elle est faite collectivement pour chaque liste par la personne ayant la qualité de responsable de liste. A cet effet, chaque
 candidat établit un mandat signé de lui, confiant au responsable de liste le soin de faire ou de faire faire, par une
 personne déléguée par lui, toutes déclarations et démarches utiles à l'enregistrement de la liste, pour le premier et le
-second tours. La liste déposée indique expressément : 
+second tours. La liste déposée indique expressément :
 
-1° Le titre de la liste présentée ; 
+1° Le titre de la liste présentée ;
 
-2° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chacun des candidats. 
+2° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chacun des candidats.
 
 Le dépôt de la liste doit être assorti, pour le premier tour, de l'ensemble des mandats des candidats qui y figurent ainsi
 que des documents officiels qui justifient qu'ils satisfont aux conditions posées par les deux premiers alinéas de l'article
-L. 228. 
+L. 228 et de la copie d'un justificatif d'identité de chacun des candidats.
 
 Pour chaque tour de scrutin, cette déclaration comporte la signature de chaque candidat, sauf le droit pour tout candidat de
 compléter la déclaration collective non signée de lui par une déclaration individuelle faite dans le même délai et portant sa
-signature. 
+signature. A la suite de sa signature, chaque candidat appose la mention manuscrite suivante : “ La présente signature marque
+mon consentement à me porter candidat à l'élection municipale sur la liste menée par (indication des nom et prénoms du
+candidat tête de liste). ”
 
-Toutefois, les signatures de chaque candidat ne sont pas exigées pour la déclaration de candidature des listes qui ne
-procèdent à aucune modification de leur composition au second tour. 
+Toutefois, les signatures et les mentions manuscrites de chaque candidat ne sont pas exigées pour la déclaration de
+candidature des listes qui ne procèdent à aucune modification de leur composition au second tour.
 
 Pour le premier tour de scrutin dans les communes de 9 000 habitants et plus, sont également jointes les pièces de nature à
 prouver que le candidat a procédé à la déclaration d'un mandataire conformément aux articles L. 52-5 et L. 52-6 ou, s'il n'a
-pas procédé à cette déclaration, les pièces prévues au premier alinéa de ces mêmes articles. 
+pas procédé à cette déclaration, les pièces prévues au premier alinéa de ces mêmes articles.
 
 Récépissé ne peut être délivré que si les conditions énumérées au présent article sont remplies et si les documents officiels
-visés au quatrième alinéa établissent que les candidats satisfont aux conditions d'éligibilité posées par les deux premiers
-alinéas de l'article L. 228. 
+visés au cinquième alinéa établissent que les candidats satisfont aux conditions d'éligibilité posées par les deux premiers
+alinéas de l'article L. 228.
 
 En cas de refus de délivrance du récépissé, tout candidat de la liste intéressée dispose de vingt-quatre heures pour saisir
-le tribunal administratif qui statue, en premier et dernier ressort, dans les trois jours du dépôt de la requête. 
+le tribunal administratif qui statue, en premier et dernier ressort, dans les trois jours du dépôt de la requête.
 
 Faute par le tribunal administratif d'avoir statué dans ce délai, le récépissé est délivré.
 
@@ -12471,12 +12463,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-412 du 14 avril 2011 - art. 12
+  - Loi n°2018-51 du 31 janvier 2018 - art. 2
 
 _Cite_:
 
   - Code électoral - art. L228
-  - Code électoral - art. L260
+  - Code électoral - art. L260 (V)
   - Code électoral - art. L263
   - Code électoral - art. L52-5
   - Code électoral - art. LO265-1
@@ -14152,7 +14144,11 @@ _Créé par_:
 ###### Article L298
 
 Les candidats sont tenus de faire une déclaration revêtue de leur signature énonçant leurs nom, prénoms, sexe, date et lieu
-de naissance, domicile et profession.
+de naissance, domicile et profession. 
+
+Ils joignent la copie d'un justificatif d'identité ainsi que les pièces de nature à prouver qu'il a été procédé à la
+déclaration d'un mandataire conformément aux articles L. 52-5 et L. 52-6 ou, s'il n'a pas été procédé à cette déclaration,
+les pièces prévues au premier alinéa des mêmes articles L. 52-5 et L. 52-6.
 
 **Liens relatifs à cet article**
 
@@ -14160,26 +14156,33 @@ _Cité par_:
 
   - Ordonnance n°59-260 du 4 février 1959 - art. 15 (Ab)
   - Loi n°2013-659 du 22 juillet 2013 - art. 46 (V)
-  - Code électoral - art. L300 (M)
+  - Code électoral - art. L300 (V)
   - Code électoral - art. L305 (V)
   - Code électoral - art. R149 (M)
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Loi n°2000-493 du 6 juin 2000 - art. 14 ()
+  - Loi n°2018-51 du 31 janvier 2018 - art. 6
+
+_Cite_:
+
+  - Code électoral - art. L52-5
+  - Code électoral - art. L52-6
 
 
 ###### Article L299
 
 Dans les départements où les élections ont lieu au scrutin majoritaire, chaque candidat doit mentionner dans sa déclaration
 de candidature les nom, sexe, prénoms, date et lieu de naissance, domicile et profession de la personne appelée à le
-remplacer comme sénateur dans les cas prévus à l'article LO. 319. Il doit y joindre l'acceptation écrite du remplaçant,
-lequel doit remplir les conditions d'éligibilité exigées des candidats. Le candidat et son remplaçant sont de sexe
-différent. 
+remplacer comme sénateur dans les cas prévus à l'article LO. 319. Il doit y joindre l'acceptation écrite du remplaçant
+revêtue de la signature de ce dernier, suivie de la mention manuscrite suivante : “ La présente signature marque mon
+consentement à être remplaçant (e) de (indication des nom et prénoms du candidat) à l'élection au Sénat. ” Ce remplaçant doit
+remplir les conditions d'éligibilité exigées des candidats et transmettre la copie d'un justificatif d'identité. Le candidat
+et son remplaçant sont de sexe différent.
 
 Nul ne peut figurer en qualité de remplaçant sur plusieurs déclarations de candidature. Nul ne peut être à la fois candidat
 et remplaçant d'un autre candidat. Nul ne peut désigner pour le second tour de scrutin une personne autre que celle qui
@@ -14193,7 +14196,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2013-702 du 2 août 2013 - art. 10
+  - Loi n°2018-51 du 31 janvier 2018 - art. 6
 
 _Cité par_:
 
@@ -14202,23 +14205,25 @@ _Cité par_:
 
 _Cite_:
 
-  - Code électoral - art. LO319 (V)
+  - Code électoral - art. LO319
 
 
 ###### Article L300
 
 Dans les départements où les élections ont lieu à la représentation proportionnelle, chaque liste de candidats doit comporter
 deux noms de plus qu'il y a de sièges à pourvoir. Sur chacune des listes, l'écart entre le nombre des candidats de chaque
-sexe ne peut être supérieur à un. Chaque liste est composée alternativement d'un candidat de chaque sexe. 
+sexe ne peut être supérieur à un. Chaque liste est composée alternativement d'un candidat de chaque sexe.
 
 Outre les renseignements mentionnés à l'article L. 298, la déclaration doit indiquer le titre de la liste et l'ordre de
-présentation des candidats. 
+présentation des candidats. La déclaration de chaque candidat comporte la mention manuscrite suivante : “ La présente
+signature marque mon consentement à me porter candidat à l'élection au Sénat sur la liste menée par (indication des nom et
+prénoms du candidat tête de liste). ”
 
 Une déclaration collective pour chaque liste est faite par un mandataire de celle-ci. Tout changement de composition d'une
 liste ne peut être effectué que par retrait de celle-ci et le dépôt d'une nouvelle déclaration. La déclaration de retrait
-doit comporter la signature de l'ensemble des candidats de la liste. 
+doit comporter la signature de l'ensemble des candidats de la liste.
 
-Le retrait d'une liste ne peut intervenir après l'expiration du délai prévu pour le dépôt des déclarations de candidatures. 
+Le retrait d'une liste ne peut intervenir après l'expiration du délai prévu pour le dépôt des déclarations de candidatures.
 
 En cas de décès de l'un des candidats au cours de la campagne électorale, les autres candidats de la liste auront le droit de
 le remplacer jusqu'à la veille de l'ouverture du scrutin par un nouveau candidat au rang qui leur conviendra.
@@ -14233,11 +14238,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Loi n°2004-404 du 10 mai 2004 - art. 8 () JORF 11 mai 2004
+  - Loi n°2018-51 du 31 janvier 2018 - art. 6
 
 _Cite_:
 
@@ -15917,19 +15922,23 @@ _Cité par_:
 ###### Article L347
 
 La déclaration de candidature résulte du dépôt à la préfecture chef-lieu de la région d'une liste répondant aux conditions
-fixées aux articles L. 338, L. 346 et L. 348. 
+fixées aux articles L. 338, L. 346 et L. 348.
 
 Elle est faite collectivement pour chaque liste par le candidat tête de liste ou par un mandataire porteur d'un mandat écrit
-établi par ce candidat. Elle indique expressément : 
+établi par ce candidat. Elle indique expressément :
 
-1° Le titre de la liste présentée ; 
+1° Le titre de la liste présentée ;
 
-2° Les nom et prénoms du candidat tête de liste ; 
+2° Les nom et prénoms du candidat tête de liste ;
 
-3° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chacun des candidats. 
+3° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chacun des candidats.
 
 Pour chaque tour de scrutin, la déclaration comporte la signature de chaque candidat, sauf, pour le second tour, lorsque la
-composition d'une liste n'a pas été modifiée. 
+composition d'une liste n'a pas été modifiée. A la suite de sa signature, chaque candidat appose la mention manuscrite
+suivante : “ La présente signature marque mon consentement à me porter candidat à l'élection au conseil régional sur la liste
+menée par (indication des nom et prénoms du candidat tête de liste). ”
+
+Le dépôt de la liste est par ailleurs assorti de la copie d'un justificatif d'identité de chacun des candidats.
 
 Pour le premier tour de scrutin, sont également jointes les pièces de nature à prouver que le candidat a procédé à la
 déclaration d'un mandataire conformément aux articles L. 52-5 et L. 52-6 ou, s'il n'a pas procédé à cette déclaration, les
@@ -15941,21 +15950,21 @@ _Codifié par_:
 
   - Décret n°64-1086 du 27 octobre 1964
 
-_Modifié par_:
-
-  - Loi n°2011-412 du 14 avril 2011 - art. 12
-
 _Cité par_:
 
   - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
   - Code électoral - art. L350 (V)
-  - Code électoral - art. L372 (M)
+  - Code électoral - art. L372 (V)
+
+_Modifié par_:
+
+  - Loi n°2018-51 du 31 janvier 2018 - art. 7
 
 _Cite_:
 
   - Code électoral - art. L338
-  - Code électoral - art. L346 (V)
-  - Code électoral - art. L348 (V)
+  - Code électoral - art. L346
+  - Code électoral - art. L348
   - Code électoral - art. L52-5
 
 
@@ -16655,24 +16664,19 @@ _Cite_:
 ###### Article L372
 
 Les déclarations de candidature sont déposées selon les modalités et dans les délais prévus à l'article L. 350. Elles sont
-enregistrées si elles satisfont aux conditions prévues aux articles L. 339, L. 340, L. 347, L. 348, L. 367 et L. 370. 
+enregistrées si elles satisfont aux conditions prévues aux articles L. 339, L. 340, L. 347, L. 348, L. 367 et L. 370.
+
+Pour l'application du sixième alinéa de l'article L. 347, la mention manuscrite est la suivante : “ La présente signature
+marque mon consentement à me porter candidat à l'élection à l'Assemblée de Corse sur la liste menée par (indication des nom
+et prénoms du candidat tête de liste). ”
 
 Les dispositions des articles L. 351 et L. 352 sont applicables.
-
-**Nota:**
-
-Loi 2000-493 2000-06-06 art. 17 : Les dispositions de cet article entreront en vigueur lors du prochain renouvellement
-intervenant à échéance normale des conseils et assemblées auxquels elles s'appliquent
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Cité par_:
 
@@ -16680,15 +16684,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2000-493 du 6 juin 2000 - art. 6 ()
+  - Loi n°2018-51 du 31 janvier 2018 - art. 7
 
 _Cite_:
 
-  - Code électoral - art. L339 (V)
+  - Code électoral - art. L339
   - Code électoral - art. L347 (V)
-  - Code électoral - art. L351 (V)
-  - Code électoral - art. L367 (V)
-  - Code électoral - art. L370 (V)
+  - Code électoral - art. L351
+  - Code électoral - art. L367
+  - Code électoral - art. L370
 
 
 ###### Article L373
@@ -17821,21 +17825,21 @@ _Créé par_:
 
 ###### Article L395
 
-Les dispositions du titre II du livre Ier du présent code, dans leur rédaction en vigueur à la date de promulgation de la loi
-n° 2011-412 du 14 avril 2011 portant simplification de dispositions du code électoral et relative à la transparence
-financière de la vie politique, sont applicables à l'élection des députés en Nouvelle-Calédonie, en Polynésie française et
-dans les îles Wallis et Futuna, à l'exception de l'article L. 175.
+Les dispositions du titre II du livre Ier du présent code, dans leur rédaction en vigueur à la date de promulgation de loi n°
+2018-51 du 31 janvier 2018 relative aux modalités de dépôt de candidature aux élections, sont applicables à l'élection des
+députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, à l'exception de l'article L. 175.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi n°2009-39 du 13 janvier 2009 - art. 3 (V)
-
 _Cite_:
 
-  - Loi n°2011-412 du 14 avril 2011 (V)
+  - Loi n°2011-412 du 14 avril 2011
+  - Loi n°2018-51 du 31 janvier 2018
   - Code électoral - art. L175
+
+_Modifié par_:
+
+  - Loi n°2018-51 du 31 janvier 2018 - art. 10 (V)
 
 
 ###### Article L396
@@ -17954,19 +17958,24 @@ _Cité par_:
 
 I. - Toute liste fait l'objet d'une déclaration de candidature collective revêtue de la signature de tous les candidats et
 déposée, par le candidat tête de liste ou par un mandataire porteur d'un mandat écrit établi par ce candidat, auprès des
-services du haut-commissaire de la République au plus tard le vingt et unième jour précédant la date du scrutin. A défaut de
-signature, une procuration du candidat doit être produite. Il est donné au déposant un reçu provisoire de la déclaration. 
+services du haut-commissaire de la République au plus tard le vingt et unième jour précédant la date du scrutin. A la suite
+de sa signature, chaque candidat appose la mention manuscrite suivante : “ La présente signature marque mon consentement à me
+porter candidat à l'élection du congrès et des assemblées de province de la Nouvelle-Calédonie sur la liste menée par
+(indication des nom et prénoms du candidat tête de liste). ” A défaut de signature, une procuration du candidat doit être
+produite. Il est donné au déposant un reçu provisoire de la déclaration.
 
-II. - La déclaration mentionne : 
+II. - La déclaration mentionne :
 
-1° La circonscription électorale dans laquelle la liste se présente ; 
+1° La circonscription électorale dans laquelle la liste se présente ;
 
-2° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chaque candidat ; 
+2° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chaque candidat ;
 
-3° Le titre de la liste ; plusieurs listes ne peuvent avoir, dans la même circonscription, le même titre ; 
+3° Le titre de la liste ; plusieurs listes ne peuvent avoir, dans la même circonscription, le même titre ;
 
 4° Le cas échéant, la couleur et l'emblème choisis par la liste pour l'impression de ses bulletins de vote en application de
-l'article L. 390. 
+l'article L. 390.
+
+La déclaration est assortie de la copie d'un justificatif d'identité de chacun des candidats.
 
 III. - En cas de scrutin uninominal, toute candidature est soumise aux mêmes conditions d'enregistrement, sous réserve des
 adaptations imposées par ce mode de scrutin.
@@ -17975,15 +17984,15 @@ adaptations imposées par ce mode de scrutin.
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
+  - Loi n°2018-51 du 31 janvier 2018 - art. 10 (V)
 
 _Cite_:
 
-  - Code électoral - art. L390 (V)
+  - Code électoral - art. L390
 
 
 ###### Article L399
@@ -18178,44 +18187,47 @@ _Cité par_:
 
 La déclaration de candidature résulte du dépôt auprès des services du haut-commissaire d'une liste répondant aux conditions
 fixées à l'article 106 de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie
-française. Il en est délivré récépissé. 
+française. Il en est délivré récépissé.
 
 Elle est faite collectivement pour chaque liste par le candidat placé en tête de liste. A cet effet, chaque candidat établit
 un mandat signé de lui, confiant au responsable de liste le soin de faire ou de faire faire, par une personne déléguée par
 lui, toutes déclarations et démarches utiles à l'enregistrement de la liste, pour le premier et le second tour. Le dépôt de
-la liste par son responsable doit être assorti de l'ensemble des mandats des candidats qui y figurent. 
+la liste par son responsable doit être assorti de l'ensemble des mandats des candidats qui y figurent.
 
-La liste déposée indique expressément : 
+La liste déposée indique expressément :
 
-1° Le titre de la liste présentée ; plusieurs listes ne peuvent avoir, dans la même circonscription, le même titre ; 
+1° Le titre de la liste présentée ; plusieurs listes ne peuvent avoir, dans la même circonscription, le même titre ;
 
-2° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chacun des candidats ; 
+2° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chacun des candidats ;
 
 3° Le cas échéant, la couleur et l'emblème choisis par la liste pour l'impression de ses bulletins de vote en application de
-l'article L. 390. 
+l'article L. 390.
 
-A cette déclaration sont jointes les pièces propres à prouver que les candidats répondent aux conditions d'éligibilité. 
+A cette déclaration sont jointes les pièces propres à prouver que les candidats répondent aux conditions d'éligibilité et la
+copie de leur justificatif d'identité.
 
 Pour le premier tour de scrutin, cette déclaration comporte la signature de chaque candidat, sauf le droit pour tout candidat
 de compléter la déclaration collective non signée de lui par une déclaration individuelle faite dans le même délai et portant
-sa signature. 
+sa signature. A la suite de sa signature, chaque candidat appose la mention manuscrite suivante : “ La présente signature
+marque mon consentement à me porter candidat à l'élection de l'assemblée de la Polynésie française sur la liste menée par
+(indication des nom et prénoms du candidat tête de liste). ”
 
-Pour le second tour de scrutin, la signature prévue à l'alinéa précédent peut être produite par télécopie ou par voie
-électronique. 
+Pour le second tour de scrutin, la signature et la mention manuscrite prévues au huitième alinéa peuvent être produites par
+télécopie ou par voie électronique.
 
-Toutefois, les signatures de chaque candidat ne sont pas exigées pour la déclaration de candidature des listes qui ne
-procèdent à aucune modification de leur composition au second tour.
+Toutefois, les signatures et les mentions manuscrites de chaque candidat ne sont pas exigées pour la déclaration de
+candidature des listes qui ne procèdent à aucune modification de leur composition au second tour.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°2004-192 du 27 février 2004 - art. 106 (V)
-  - Code électoral - art. L390 (V)
+  - Loi organique n°2004-192 du 27 février 2004 - art. 106
+  - Code électoral - art. L390
 
 _Modifié par_:
 
-  - Loi n°2007-1720 du 7 décembre 2007 - art. 1
+  - Loi n°2018-51 du 31 janvier 2018 - art. 10 (V)
 
 _Cité par_:
 
@@ -18495,25 +18507,30 @@ _Modifié par_:
 
 I. - Toute liste fait l'objet d'une déclaration de candidature collective revêtue de la signature de tous les candidats et
 déposée, par le candidat tête de liste ou par un mandataire porteur d'un mandat écrit établi par ce candidat, auprès des
-services de l'administrateur supérieur au plus tard le vingt et unième jour précédant la date du scrutin. A défaut de
-signature, une procuration du candidat doit être produite. Il est donné au déposant un reçu provisoire de la déclaration. 
+services de l'administrateur supérieur au plus tard le vingt et unième jour précédant la date du scrutin. A la suite de sa
+signature, chaque candidat appose la mention manuscrite suivante : “ La présente signature marque mon consentement à me
+porter candidat à l'élection de l'assemblée territoriale des îles Wallis et Futuna sur la liste menée par (indication des nom
+et prénoms du candidat tête de liste). ” A défaut de signature, une procuration du candidat doit être produite. Il est donné
+au déposant un reçu provisoire de la déclaration.
 
-II. - La déclaration mentionne : 
+II. - La déclaration mentionne :
 
-1° La circonscription électorale dans laquelle la liste se présente ; 
+1° La circonscription électorale dans laquelle la liste se présente ;
 
-2° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chaque candidat ; 
+2° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chaque candidat ;
 
-3° Le titre de la liste ; plusieurs listes ne peuvent avoir, dans la même circonscription, le même titre ; 
+3° Le titre de la liste ; plusieurs listes ne peuvent avoir, dans la même circonscription, le même titre ;
 
 4° Le cas échéant, la couleur et l'emblème choisis par la liste pour l'impression de ses bulletins de vote en application de
-l'article L. 390. 
+l'article L. 390.
 
-III. - Nul ne peut être candidat sur plusieurs listes ni dans plusieurs circonscriptions. 
+La déclaration est assortie de la copie d'un justificatif d'identité de chacun des candidats.
+
+III. - Nul ne peut être candidat sur plusieurs listes ni dans plusieurs circonscriptions.
 
 IV. - Chaque liste doit comprendre un nombre de candidats égal à celui des sièges à pourvoir. Sur chacune des listes, l'écart
 entre le nombre des candidats de chaque sexe ne peut être supérieur à un. Chaque liste est composée alternativement d'un
-candidat de chaque sexe. 
+candidat de chaque sexe.
 
 V. - En cas de scrutin uninominal, toute candidature est soumise aux mêmes conditions d'enregistrement, sous réserve des
 adaptations imposées par ce mode de scrutin.
@@ -18522,19 +18539,15 @@ adaptations imposées par ce mode de scrutin.
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Loi n°2000-612 du 4 juillet 2000 - art. 2 () JORF 5 juillet 2000
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2000-612 du 4 juillet 2000 - art. 4 (V)
+  - Loi n°2018-51 du 31 janvier 2018 - art. 10 (V)
 
 _Cite_:
 
-  - Code électoral - art. L390 (V)
+  - Code électoral - art. L390
 
 
 ###### Article L419
@@ -18836,18 +18849,19 @@ _Cité par_:
 
 ###### Article L431
 
-Nul ne peut être candidat sur plus d'une liste ni dans plus d'une circonscription électorale. Chaque liste doit comprendre
-autant de noms qu'il y a de sièges à pourvoir. Une déclaration de candidature est obligatoire.
+Nul ne peut être candidat sur plus d'une liste ni dans plus d'une circonscription électorale. Chaque liste doit comprendre au
+moins autant de candidats que de sièges à pourvoir, et au plus deux candidats supplémentaires. Une déclaration de candidature
+est obligatoire.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
+  - Loi n°2018-51 du 31 janvier 2018 - art. 10 (V)
 
 
 ###### Article L432
@@ -18871,8 +18885,10 @@ _Créé par_:
 ###### Article L433
 
 La déclaration comporte la signature de chaque candidat, sous réserve de la possibilité pour tout candidat de compléter la
-déclaration collective non signée par une déclaration individuelle faite dans le même délai et portant sa signature. Elle
-désigne expressément :
+déclaration collective non signée par une déclaration individuelle faite dans le même délai et portant sa signature ainsi que
+la mention manuscrite suivante : “ La présente signature marque mon consentement à me porter candidat à l'élection municipale
+sur la liste menée par (indication des nom et prénoms du candidat tête de liste). ” Elle est assortie de la copie d'un
+justificatif d'identité de chacun des candidats. Elle désigne expressément :
 
 1° Le titre de la liste présentée ;
 
@@ -18890,11 +18906,11 @@ délivre récépissé, par le candidat tête de liste ou par son mandataire.
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
+  - Loi n°2018-51 du 31 janvier 2018 - art. 10 (V)
 
 
 ###### Article L434
@@ -19011,30 +19027,23 @@ _Cite_:
 ###### Article L438
 
 Les dispositions du chapitre II du titre IV du livre Ier du présent code, dans leur rédaction à la date d'entrée en vigueur
-de la loi n° 2014-172 du 21 février 2014 visant à reconnaître le vote blanc aux élections, sont applicables en Polynésie
-française dans les communes de moins de 1 000 habitants, dans les communes de moins de 3 500 habitants composées de communes
-associées, ainsi que dans les communes de 3 500 habitants et plus composées d'au moins une commune associée de moins de 1 000
-habitants. 
+de la loi n° 2018-51 du 31 janvier 2018 relative aux modalités de dépôt de candidature aux élections, sont applicables en
+Polynésie française dans les communes de moins de 1 000 habitants, dans les communes de moins de 3 500 habitants composées de
+communes associées, ainsi que dans les communes de 3 500 habitants et plus composées d'au moins une commune associée de moins
+de 1 000 habitants. 
 
 Pour l'application en Polynésie française de l'article L. 255-1, les mots : " comprises dans une commune de 20 000 habitants
 ou plus " sont supprimés. 
 
 Les dispositions du chapitre III du titre IV du livre Ier du présent code, dans leur rédaction à la date d'entrée en vigueur
-de la loi n° 2014-172 du 21 février 2014 visant à reconnaître le vote blanc aux élections sont applicables en Polynésie
-française dans les communes de 1 000 habitants et plus, ainsi que dans les communes de 3 500 habitants et plus composées de
-communes associées dont chaque commune associée compte 1 000 habitants et plus. 
+de la loi n° 2018-51 du 31 janvier 2018 relative aux modalités de dépôt de candidature aux élections sont applicables en
+Polynésie française dans les communes de 1 000 habitants et plus, ainsi que dans les communes de 3 500 habitants et plus
+composées de communes associées dont chaque commune associée compte 1 000 habitants et plus. 
 
 Pour leur application en Polynésie française, les deuxième et troisième alinéas de l'article L. 261 sont remplacés par un
 alinéa ainsi rédigé : 
 
 " L'article L. 255-1 est applicable. "
-
-**Nota:**
-
-Cet article a été modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des
-conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral. Conformément à son article
-51, l’article dans sa version modifiée par la loi du 17 mai 2013 s’applique à compter du prochain renouvellement général des
-conseils municipaux et communautaires prévu les 23 et 30 mars 2014, y compris aux opérations préparatoires à ce scrutin.
 
 **Liens relatifs à cet article**
 
@@ -19045,14 +19054,15 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2573-5 (VD)
   - Code électoral - art. R269 (Ab)
 
-_Modifié par_:
-
-  - Loi n°2014-172 du 21 février 2014 - art. 5
-
 _Cite_:
 
-  - Code électoral - art. L255-1 (V)
-  - Code électoral - art. L261 (V)
+  - Loi n°2018-51 du 31 janvier 2018
+  - Code électoral - art. L255-1
+  - Code électoral - art. L261
+
+_Modifié par_:
+
+  - Loi n°2018-51 du 31 janvier 2018 - art. 10 (V)
 
 
 ### Titre VII : Dispositions applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna<a id=133></a>
@@ -19061,8 +19071,8 @@ _Cite_:
 
 Les dispositions du titre III, des chapitres Ier à VII du titre IV et du titre VI du livre II, à l'exception de l'article L.
 301, ainsi que celles des articles L. 385 à L. 387, sont applicables, dans leur rédaction en vigueur le lendemain de la
-publication de la loi n° 2013-702 du 2 août 2013 relative à l'élection des sénateurs, à l'élection des sénateurs en Polynésie
-française, en Nouvelle-Calédonie et dans les îles Wallis et Futuna.
+publication de la loi n° 2018-51 du 31 janvier 2018 relative aux modalités de dépôt de candidature aux élections, à
+l'élection des sénateurs en Polynésie française, en Nouvelle-Calédonie et dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
 
@@ -19073,17 +19083,18 @@ _Codifié par_:
 _Cite_:
 
   - Loi n°2013-702 du 2 août 2013
+  - Loi n°2018-51 du 31 janvier 2018
   - Code électoral - art. L301
   - Code électoral - art. L385
-
-_Modifié par_:
-
-  - Loi n°2013-702 du 2 août 2013 - art. 15
 
 _Cité par_:
 
   - Arrêté du 3 septembre 2014 (V)
   - Arrêté du 26 septembre 2014 (V)
+
+_Modifié par_:
+
+  - Loi n°2018-51 du 31 janvier 2018 - art. 10 (V)
 
 
 ###### Article L439-1
@@ -19834,41 +19845,44 @@ _Cite_:
 ###### Article L487
 
 I. - La déclaration de candidature résulte du dépôt auprès des services du représentant de l'Etat d'une liste répondant aux
-conditions fixées aux articles LO. 484 et LO. 486. Il en est délivré récépissé. 
+conditions fixées aux articles LO. 484 et LO. 486. Il en est délivré récépissé.
 
 Elle est faite collectivement pour chaque liste par le candidat placé en tête de liste. A cet effet, chaque candidat établit
 un mandat signé de lui, confiant au responsable de liste le soin de faire ou de faire faire, par une personne déléguée par
 lui, toutes déclarations et démarches utiles à l'enregistrement de la liste, pour le premier et le second tour. Le dépôt de
-la liste par son responsable doit être assorti de l'ensemble des mandats des candidats qui y figurent. 
+la liste par son responsable doit être assorti de l'ensemble des mandats des candidats qui y figurent.
 
-La liste déposée indique expressément : 
+La liste déposée indique expressément :
 
-1° Le titre de la liste présentée ; 
+1° Le titre de la liste présentée ;
 
-2° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chacun des candidats. 
+2° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chacun des candidats.
 
-A cette déclaration sont jointes les pièces propres à prouver que les candidats répondent aux conditions d'éligibilité. 
+A cette déclaration sont jointes les pièces propres à prouver que les candidats répondent aux conditions d'éligibilité et la
+copie de leur justificatif d'identité.
 
 Pour chaque tour de scrutin, cette déclaration comporte la signature de chaque candidat, sauf le droit pour tout candidat de
 compléter la déclaration collective non signée de lui par une déclaration individuelle faite dans le même délai et portant sa
-signature. 
+signature. A la suite de sa signature, chaque candidat appose la mention manuscrite suivante : “ La présente signature marque
+mon consentement à me porter candidat à l'élection du conseil territorial de Saint-Barthélemy sur la liste menée par
+(indication des nom et prénoms du candidat tête de liste). ”
 
-Toutefois, les signatures de chaque candidat ne sont pas exigées pour la déclaration de candidature des listes qui ne
-procèdent à aucune modification de leur composition au second tour. 
+Toutefois, les signatures et les mentions manuscrites de chaque candidat ne sont pas exigées pour la déclaration de
+candidature des listes qui ne procèdent à aucune modification de leur composition au second tour.
 
 II. - La déclaration est enregistrée si les conditions prévues au présent chapitre sont remplies. Le refus d'enregistrement
-est motivé. 
+est motivé.
 
 Le candidat placé en tête de liste ou son mandataire dispose d'un délai de quarante-huit heures pour contester le refus
 d'enregistrement devant le tribunal administratif, qui statue dans les trois jours. La décision du tribunal administratif ne
-peut être contestée qu'à l'occasion d'un recours contre l'élection. 
+peut être contestée qu'à l'occasion d'un recours contre l'élection.
 
 Lorsque le refus d'enregistrement est motivé par l'inobservation des dispositions relatives aux inéligibilités prévues à
 l'article LO. 489 ou par la présence d'un candidat sur plusieurs listes, un délai de quarante-huit heures est accordé pour
-compléter la liste, à compter de ce refus ou de la décision du tribunal administratif confirmant le refus. 
+compléter la liste, à compter de ce refus ou de la décision du tribunal administratif confirmant le refus.
 
 Dans le cas prévu à l'alinéa précédent, la candidature est enregistrée si le tribunal administratif, saisi par le candidat
-tête de liste ou son mandataire, n'a pas statué dans le délai prévu au deuxième alinéa. 
+tête de liste ou son mandataire, n'a pas statué dans le délai prévu au deuxième alinéa.
 
 Récépissé ne peut être délivré que si les conditions énumérées au présent article sont remplies.
 
@@ -19876,17 +19890,17 @@ Récépissé ne peut être délivré que si les conditions énumérées au prés
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+  - Loi n°2018-51 du 31 janvier 2018 - art. 10 (V)
 
 _Cite_:
 
-  - Code électoral - art. LO484 (V)
-  - Code électoral - art. LO486 (V)
-  - Code électoral - art. LO489 (V)
+  - Code électoral - art. LO484
+  - Code électoral - art. LO486
+  - Code électoral - art. LO489
 
 
 ###### Article L488
@@ -20659,41 +20673,44 @@ _Cite_:
 ###### Article L514
 
 I. - La déclaration de candidature résulte du dépôt auprès des services du représentant de l'Etat d'une liste répondant aux
-conditions fixées aux articles LO. 511 et LO. 513. Il en est délivré récépissé. 
+conditions fixées aux articles LO. 511 et LO. 513. Il en est délivré récépissé.
 
 Elle est faite collectivement pour chaque liste par le candidat placé en tête de liste. A cet effet, chaque candidat établit
 un mandat signé de lui, confiant au responsable de liste le soin de faire ou de faire faire, par une personne déléguée par
 lui, toutes déclarations et démarches utiles à l'enregistrement de la liste, pour le premier et le second tour. Le dépôt de
-la liste par son responsable doit être assorti de l'ensemble des mandats des candidats qui y figurent. 
+la liste par son responsable doit être assorti de l'ensemble des mandats des candidats qui y figurent.
 
-La liste déposée indique expressément : 
+La liste déposée indique expressément :
 
-1° Le titre de la liste présentée ; 
+1° Le titre de la liste présentée ;
 
-2° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chacun des candidats. 
+2° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chacun des candidats.
 
-A cette déclaration sont jointes les pièces propres à prouver que les candidats répondent aux conditions d'éligibilité. 
+A cette déclaration sont jointes les pièces propres à prouver que les candidats répondent aux conditions d'éligibilité et la
+copie de leur justificatif d'identité.
 
 Pour chaque tour de scrutin, cette déclaration comporte la signature de chaque candidat, sauf le droit pour tout candidat de
 compléter la déclaration collective non signée de lui par une déclaration individuelle faite dans le même délai et portant sa
-signature. 
+signature. A la suite de sa signature, chaque candidat appose la mention manuscrite suivante : “ La présente signature marque
+mon consentement à me porter candidat à l'élection du conseil territorial de Saint-Martin sur la liste menée par (indication
+des nom et prénoms du candidat tête de liste). ”
 
-Toutefois, les signatures de chaque candidat ne sont pas exigées pour la déclaration de candidature des listes qui ne
-procèdent à aucune modification de leur composition au second tour. 
+Toutefois, les signatures et les mentions manuscrites de chaque candidat ne sont pas exigées pour la déclaration de
+candidature des listes qui ne procèdent à aucune modification de leur composition au second tour.
 
 II. - La déclaration est enregistrée si les conditions prévues au présent chapitre sont remplies. Le refus d'enregistrement
-est motivé. 
+est motivé.
 
 Le candidat placé en tête de liste ou son mandataire dispose d'un délai de quarante-huit heures pour contester le refus
 d'enregistrement devant le tribunal administratif, qui statue dans les trois jours. La décision du tribunal administratif ne
-peut être contestée qu'à l'occasion d'un recours contre l'élection. 
+peut être contestée qu'à l'occasion d'un recours contre l'élection.
 
 Lorsque le refus d'enregistrement est motivé par l'inobservation des dispositions relatives aux inéligibilités prévues à
 l'article LO. 516 ou par la présence d'un candidat sur plusieurs listes, un délai de quarante-huit heures est accordé pour
-compléter la liste, à compter de ce refus ou de la décision du tribunal administratif confirmant le refus. 
+compléter la liste, à compter de ce refus ou de la décision du tribunal administratif confirmant le refus.
 
 Dans le cas prévu à l'alinéa précédent, la candidature est enregistrée si le tribunal administratif, saisi par le candidat
-tête de liste ou son mandataire, n'a pas statué dans le délai prévu au deuxième alinéa. 
+tête de liste ou son mandataire, n'a pas statué dans le délai prévu au deuxième alinéa.
 
 Récépissé ne peut être délivré que si les conditions énumérées au présent article sont remplies.
 
@@ -20701,17 +20718,17 @@ Récépissé ne peut être délivré que si les conditions énumérées au prés
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+  - Loi n°2018-51 du 31 janvier 2018 - art. 10 (V)
 
 _Cite_:
 
-  - Code électoral - art. LO511 (V)
-  - Code électoral - art. LO513 (V)
-  - Code électoral - art. LO516 (V)
+  - Code électoral - art. LO511
+  - Code électoral - art. LO513
+  - Code électoral - art. LO516
 
 
 ###### Article L515
@@ -21554,42 +21571,45 @@ _Cite_:
 ###### Article L542
 
 I.-La déclaration de candidature résulte du dépôt auprès des services du représentant de l'Etat d'une liste répondant aux
-conditions fixées aux articles LO. 539 et LO. 541. Il en est délivré récépissé. 
+conditions fixées aux articles LO. 539 et LO. 541. Il en est délivré récépissé.
 
 Elle est faite collectivement pour chaque liste par le candidat placé en tête de liste. A cet effet, chaque candidat établit
 un mandat signé de lui, confiant au responsable de liste le soin de faire ou de faire faire, par une personne déléguée par
 lui, toutes déclarations et démarches utiles à l'enregistrement de la liste, pour le premier et le second tour. Le dépôt de
-la liste par son responsable doit être assorti de l'ensemble des mandats des candidats qui y figurent. 
+la liste par son responsable doit être assorti de l'ensemble des mandats des candidats qui y figurent.
 
-La liste déposée indique expressément : 
+La liste déposée indique expressément :
 
-1° Le titre de la liste présentée ; 
+1° Le titre de la liste présentée ;
 
-2° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chacun des candidats. 
+2° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chacun des candidats.
 
-A cette déclaration sont jointes les pièces propres à prouver que les candidats répondent aux conditions d'éligibilité. 
+A cette déclaration sont jointes les pièces propres à prouver que les candidats répondent aux conditions d'éligibilité et la
+copie de leur justificatif d'identité.
 
 Pour chaque tour de scrutin, cette déclaration comporte la signature de chaque candidat, sauf le droit pour tout candidat de
 compléter la déclaration collective non signée de lui par une déclaration individuelle faite dans le même délai et portant sa
-signature. 
+signature. A la suite de sa signature, chaque candidat appose la mention manuscrite suivante : “ La présente signature marque
+mon consentement à me porter candidat à l'élection du conseil territorial de Saint-Pierre-et-Miquelon sur la liste menée par
+(indication des nom et prénoms du candidat tête de liste). ”
 
-Toutefois, les signatures de chaque candidat ne sont pas exigées pour la déclaration de candidature des listes qui ne
-procèdent à aucune modification de leur composition au second tour. 
+Toutefois, les signatures et les mentions manuscrites de chaque candidat ne sont pas exigées pour la déclaration de
+candidature des listes qui ne procèdent à aucune modification de leur composition au second tour.
 
 II.-La déclaration est enregistrée si les conditions prévues au présent chapitre sont remplies. Le refus d'enregistrement est
-motivé. 
+motivé.
 
 Le candidat placé en tête de liste ou son mandataire dispose d'un délai de quarante-huit heures pour contester le refus
 d'enregistrement devant le tribunal administratif, qui statue dans les trois jours. La décision du tribunal administratif ne
-peut être contestée qu'à l'occasion d'un recours contre l'élection. 
+peut être contestée qu'à l'occasion d'un recours contre l'élection.
 
 Lorsque le refus d'enregistrement est motivé par l'inobservation des dispositions relatives aux inéligibilités prévues à
 l'article LO. 544 ou par la présence d'un candidat sur plusieurs listes ou dans plus d'une circonscription, un délai de
 quarante-huit heures est accordé pour compléter la liste, à compter de ce refus ou de la décision du tribunal administratif
-confirmant le refus. 
+confirmant le refus.
 
 Dans le cas prévu à l'alinéa précédent, la candidature est enregistrée si le tribunal administratif, saisi par le candidat
-tête de liste ou son mandataire, n'a pas statué dans le délai prévu au deuxième alinéa. 
+tête de liste ou son mandataire, n'a pas statué dans le délai prévu au deuxième alinéa.
 
 Récépissé ne peut être délivré que si les conditions énumérées au présent article sont remplies.
 
@@ -21597,17 +21617,17 @@ Récépissé ne peut être délivré que si les conditions énumérées au prés
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+  - Loi n°2018-51 du 31 janvier 2018 - art. 10 (V)
 
 _Cite_:
 
-  - Code électoral - art. LO539 (V)
-  - Code électoral - art. LO541 (V)
-  - Code électoral - art. LO544 (V)
+  - Code électoral - art. LO539
+  - Code électoral - art. LO541
+  - Code électoral - art. LO544
 
 
 ###### Article L543
@@ -22933,27 +22953,31 @@ _Cité par_:
 ###### Article L558-20
 
 La déclaration de candidature résulte du dépôt à la préfecture de la collectivité territoriale d'une liste répondant aux
-conditions fixées aux articles L. 558-4 ou L. 558-8, selon le cas, et aux articles L. 558-19 et L. 558-21. 
+conditions fixées aux articles L. 558-4 ou L. 558-8, selon le cas, et aux articles L. 558-19 et L. 558-21.
 
 Elle est faite collectivement pour chaque liste par le candidat tête de liste ou par un mandataire porteur d'un mandat écrit
-établi par ce candidat. 
+établi par ce candidat.
 
-Elle indique expressément : 
+Elle indique expressément :
 
-1° Le titre de la liste présentée ; 
+1° Le titre de la liste présentée ;
 
-2° Les nom et prénoms du candidat tête de liste ; 
+2° Les nom et prénoms du candidat tête de liste ;
 
-3° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chacun des candidats. 
+3° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chacun des candidats.
 
 Pour chaque tour de scrutin, la déclaration comporte la signature de chaque candidat, sauf, pour le second tour, lorsque la
-composition d'une liste n'a pas été modifiée.
+composition d'une liste n'a pas été modifiée. A la suite de sa signature, chaque candidat appose la mention manuscrite
+suivante : “ La présente signature marque mon consentement à me porter candidat à l'élection des conseillers à l'assemblée de
+(mention de la collectivité concernée) sur la liste menée par (indication des nom et prénoms du candidat tête de liste). ”
+
+Le dépôt de la liste est par ailleurs assorti de la copie d'un justificatif d'identité de chacun des candidats.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+  - Loi n°2018-51 du 31 janvier 2018 - art. 10 (V)
 
 _Cite_:
 
