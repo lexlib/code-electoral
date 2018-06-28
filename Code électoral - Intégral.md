@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2018-06-27
+Version Consolidée au 2018-06-29
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires (art. L1 à L273-12)](#2)
@@ -27735,17 +27735,20 @@ _Modifié par_:
 
 ###### Article R63
 
-Le dépouillement suit immédiatement le dénombrement des émargements. Il doit être conduit sans désemparer jusqu'à son
-achèvement complet.
+Le dépouillement suit immédiatement le dénombrement des émargements. Il doit être conduit sans désemparer sous les yeux des
+électeurs jusqu'à son achèvement complet. Les tables sur lesquelles s'effectue le dépouillement sont disposées de telle sorte
+que les électeurs puissent circuler autour.
 
-Les tables sur lesquelles s'effectue le dépouillement sont disposées de telle sorte que les électeurs puissent circuler
-autour.
+**Nota:**
+
+Conformément à l'article 6 du décret n° 2018-518 du 27 juin 2018, ces dispositions peuvent être modifiées par décret en
+Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Cité par_:
 
@@ -27765,7 +27768,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°89-80 du 8 février 1989 - art. 4 () JORF 10 février 1989
+  - Décret n°2018-518 du 27 juin 2018 - art. 5
 
 
 ###### Article R64
