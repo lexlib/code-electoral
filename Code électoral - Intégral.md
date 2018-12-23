@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2018-12-21
+Version Consolidée au 2018-12-24
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires (art. L1 à L273-12)](#2)
@@ -29,7 +29,7 @@ Version Consolidée au 2018-12-21
         - [Chapitre III : Conditions d'éligibilité et inéligibilités (art. LO127 à LO136-4)](#26)
         - [Chapitre IV : Incompatibilités (art. LO137 à LO153)](#27)
         - [Chapitre V : Déclarations de candidatures (art. L154 à LO160)](#28)
-        - [Chapitre VI : Propagande (art. L164 à L171)](#29)
+        - [Chapitre VI : Propagande (art. L163-1 à L171)](#29)
         - [Chapitre VII : Opérations préparatoires au scrutin (art. L172 à L173)](#30)
         - [Chapitre VIII : Opérations de vote (art. L174 à L175)](#31)
         - [Chapitre IX : Remplacement des députés (art. L178-1 à LO178)](#32)
@@ -87,7 +87,7 @@ de moins de 1 000 habitants (art. L273-11 à L273-12)](#74)
         - [Chapitre II : Conditions d'éligibilité et inéligibilités (art. LO296)](#82)
         - [Chapitre III : Incompatibilités (art. LO297)](#83)
         - [Chapitre IV : Déclarations de candidatures (art. L298 à LO304)](#84)
-        - [Chapitre V : Propagande (art. L307 à L308-1)](#85)
+        - [Chapitre V : Propagande (art. L306 à L308-1)](#85)
         - [Chapitre VI : Opérations préparatoires au scrutin (art. L309 à L311)](#86)
         - [Chapitre VII : Opérations de vote (art. L312 à L318)](#87)
         - [Chapitre VIII : Remplacement des sénateurs (art. L324 à LO323)](#88)
@@ -6228,6 +6228,31 @@ _Cite_:
   - Code électoral - art. L71 (V)
 
 
+###### Article L112
+
+Toute infraction aux dispositions de l'article L. 163-1 est punie d'un an d'emprisonnement et de 75 000 € d'amende.
+
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du code pénal, de
+l'infraction définie au premier alinéa du présent article encourent, outre l'amende suivant les modalités prévues à l'article
+131-38 du même code, les peines prévues aux 2° et 9° de l'article 131-39 dudit code. L'interdiction prévue au 2° du même
+article 131-39 est prononcée pour une durée de cinq ans au plus et porte sur l'activité professionnelle dans l'exercice ou à
+l'occasion de laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 du 27 octobre 1964, v. init.
+
+_Modifié par_:
+
+  - Loi n°2018-1202 du 22 décembre 2018 - art. 1
+
+_Cite_:
+
+  - Code pénal - art. 121-2
+
+
 ###### Article L113
 
 En dehors des cas spécialement prévus par les dispositions des lois et décrets en vigueur, quiconque, soit dans une
@@ -8917,6 +8942,83 @@ _Modifié par_:
 
 
 #### Chapitre VI : Propagande<a id=29></a>
+
+###### Article L163-1
+
+Pendant les trois mois précédant le premier jour du mois d'élections générales et jusqu'à la date du tour de scrutin où
+celles-ci sont acquises, les opérateurs de plateforme en ligne au sens de l'article L. 111-7 du code de la consommation dont
+l'activité dépasse un seuil déterminé de nombre de connexions sur le territoire français sont tenus, au regard de l'intérêt
+général attaché à l'information éclairée des citoyens en période électorale et à la sincérité du scrutin :
+
+1° De fournir à l'utilisateur une information loyale, claire et transparente sur l'identité de la personne physique ou sur la
+raison sociale, le siège social et l'objet social de la personne morale et de celle pour le compte de laquelle, le cas
+échéant, elle a déclaré agir, qui verse à la plateforme des rémunérations en contrepartie de la promotion de contenus
+d'information se rattachant à un débat d'intérêt général ;
+
+2° De fournir à l'utilisateur une information loyale, claire et transparente sur l'utilisation de ses données personnelles
+dans le cadre de la promotion d'un contenu d'information se rattachant à un débat d'intérêt général ;
+
+3° De rendre public le montant des rémunérations reçues en contrepartie de la promotion de tels contenus d'information
+lorsque leur montant est supérieur à un seuil déterminé.
+
+Ces informations sont agrégées au sein d'un registre mis à la disposition du public par voie électronique, dans un format
+ouvert, et régulièrement mis à jour au cours de la période mentionnée au premier alinéa du présent article.
+
+Les modalités d'application du présent article sont définies par décret.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°77-729 du 7 juillet 1977 - art. 14-2 (V)
+  - Décret n°2019-297 du 10 avril 2019 (V)
+
+_Créé par_:
+
+  - Loi n°2018-1202 du 22 décembre 2018 - art. 1
+
+
+###### Article L163-2
+
+I.-Pendant les trois mois précédant le premier jour du mois d'élections générales et jusqu'à la date du tour de scrutin où
+celles-ci sont acquises, lorsque des allégations ou imputations inexactes ou trompeuses d'un fait de nature à altérer la
+sincérité du scrutin à venir sont diffusées de manière délibérée, artificielle ou automatisée et massive par le biais d'un
+service de communication au public en ligne, le juge des référés peut, à la demande du ministère public, de tout candidat, de
+tout parti ou groupement politique ou de toute personne ayant intérêt à agir, et sans préjudice de la réparation du dommage
+subi, prescrire aux personnes physiques ou morales mentionnées au 2 du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004
+pour la confiance dans l'économie numérique ou, à défaut, à toute personne mentionnée au 1 du même I toutes mesures
+proportionnées et nécessaires pour faire cesser cette diffusion.
+
+II.-Le juge des référés se prononce dans un délai de quarante-huit heures à compter de la saisine.
+
+En cas d'appel, la cour se prononce dans un délai de quarante-huit heures à compter de la saisine.
+
+III.-Les actions fondées sur le présent article sont exclusivement portées devant un tribunal de grande instance et une cour
+d'appel déterminés par décret.
+
+**Nota:**
+
+Par décision du Conseil constitutionnel n° 2018-773 DC du 20 décembre 2018 publiée au Journal officiel du 23 décembre 2018,
+l'article L. 163-2 du code électoral, dans sa rédaction issue de l'article 1er de la loi n°2018-1202 relative à la
+manipulation de l'information, a été déclaré conforme à la Constitution sous les réserves énoncées au paragraphe 23.
+Conformément à ce paragraphe : "compte tenu des conséquences d'une procédure pouvant avoir pour effet de faire cesser la
+diffusion de certains contenus d'information, les allégations ou imputations mises en cause ne sauraient, sans que soit
+méconnue la liberté d'expression et de communication, justifier une telle mesure que si leur caractère inexact ou trompeur
+est manifeste. Il en est de même pour le risque d'altération de la sincérité du scrutin, qui doit également être manifeste."
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°77-729 du 7 juillet 1977 - art. 14-2 (V)
+  - Décret n°2019-53 du 30 janvier 2019 (V)
+  - Décret n°2019-53 du 30 janvier 2019 - art. 1
+  - Code de l'organisation judiciaire - art. D211-7-2 (V)
+
+_Créé par_:
+
+  - Loi n°2018-1202 du 22 décembre 2018 - art. 1
+
 
 ###### Article L164
 
@@ -14388,6 +14490,25 @@ _Cite_:
 
 #### Chapitre V : Propagande<a id=85></a>
 
+###### Article L306
+
+Les articles L. 163-1 et L. 163-2 sont applicables.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°64-1086 du 27 octobre 1964
+
+_Modifié par_:
+
+  - Loi n°2018-1202 du 22 décembre 2018 - art. 2
+
+_Cité par_:
+
+  - Code électoral - art. R154 (V)
+
+
 ###### Article L307
 
 Sont applicables :
@@ -14885,18 +15006,22 @@ _Codifié par_:
 
 ###### Article L327
 
-Les dispositions des articles L. 106 à L. 110 et L. 113 à L. 117 sont applicables.
+Les dispositions des articles L. 106 à L. 110 et L. 112 à L. 117 sont applicables.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
+
+_Modifié par_:
+
+  - Loi n°2018-1202 du 22 décembre 2018 - art. 2
 
 _Cite_:
 
-  - Code électoral - art. L106 (V)
-  - Code électoral - art. L113 (V)
+  - Code électoral - art. L106
+  - Code électoral - art. L113
 
 
 ## Livre III : Dispositions spécifiques aux députés élus par les Français établis hors de France<a id=92></a>
@@ -17242,9 +17367,9 @@ _Modifié par_:
 
 ###### Article L388
 
-Les dispositions du titre Ier du livre Ier du présent code, dans leur rédaction résultant de la loi n° 2017-1339 du 15
-septembre 2017 pour la confiance dans la vie politique, à l'exception des articles L. 15, L. 15-1, L. 46-1 et L. 66, sont
-applicables à l'élection :
+Les dispositions du titre Ier du livre Ier du présent code, dans leur rédaction résultant de la loi n° 2018-1202 du 22
+décembre 2018 relative à la lutte contre la manipulation de l'information, à l'exception des articles L. 15, L. 15-1, L. 46-1
+et L. 66, sont applicables à l'élection :
 
 1° Des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna ;
 
@@ -17258,20 +17383,6 @@ du 27 février 2004 portant statut d'autonomie de la Polynésie française ;
 titre III de la loi n° 61-814 du 29 juillet 1961 conférant aux îles de Wallis et Futuna le statut de territoire d'outre-mer ;
 
 5° Des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française.
-
-**Nota:**
-
-Aux termes de l'article 64 XV C de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à
-compter du prochain renouvellement général des conseils municipaux :
-
-1° Si celui-ci intervient avant l'entrée en vigueur de la loi n° 2016-1048 du 1er août 2016 rénovant les modalités
-d'inscription sur les listes électorales :
-
-a) Le livre V du code électoral est ainsi modifié :
-
-- au premier alinéa de l'article L. 388, la référence : "n° 2017-1339 du 15 septembre 2017 pour la confiance dans la vie
-politique" est remplacée par la référence : "n° 2018-607 du 13 juillet 2018 relative à la programmation militaire pour les
-années 2019 à 2025 et portant diverses dispositions intéressant la défense".
 
 **Liens relatifs à cet article**
 
@@ -17293,12 +17404,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-286 du 6 mars 2017 - art. 10 (V)
-  - Loi n°2017-1339 du 15 septembre 2017 - art. 26 (V)
-
-_Abrogé par_:
-
-  - Loi n°2017-1339 du 15 septembre 2017 - art. 26 (V)
+  - Loi n°2018-1202 du 22 décembre 2018 - art. 20 (V)
 
 
 ###### Article L389
@@ -17874,7 +17980,7 @@ _Abrogé par_:
 ###### Article L395
 
 Les dispositions du titre II du livre Ier du présent code, dans leur rédaction en vigueur à la date de promulgation de loi n°
-2018-51 du 31 janvier 2018 relative aux modalités de dépôt de candidature aux élections, sont applicables à l'élection des
+2018-1202 du 22 décembre 2018 relative à la lutte contre la manipulation de l'information, sont applicables à l'élection des
 députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, à l'exception de l'article L. 175.
 
 **Liens relatifs à cet article**
@@ -17887,7 +17993,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2018-51 du 31 janvier 2018 - art. 10 (V)
+  - Loi n°2018-1202 du 22 décembre 2018 - art. 20 (V)
 
 
 ###### Article L396
@@ -19119,7 +19225,7 @@ _Modifié par_:
 
 Les dispositions du titre III, des chapitres Ier à VII du titre IV et du titre VI du livre II, à l'exception de l'article L.
 301, ainsi que celles des articles L. 385 à L. 387, sont applicables, dans leur rédaction en vigueur le lendemain de la
-publication de la loi n° 2018-51 du 31 janvier 2018 relative aux modalités de dépôt de candidature aux élections, à
+publication de la loi n° 2018-1202 du 22 décembre 2018 relative à la lutte contre la manipulation de l'information, à
 l'élection des sénateurs en Polynésie française, en Nouvelle-Calédonie et dans les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
@@ -19142,7 +19248,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-51 du 31 janvier 2018 - art. 10 (V)
+  - Loi n°2018-1202 du 22 décembre 2018 - art. 20 (V)
 
 
 ###### Article L439-1
@@ -23567,6 +23673,8 @@ Sont applicables aux opérations référendaires régies par le présent titre :
 58, des deux derniers alinéas de l'article L. 65, de l'article L. 66, des deux derniers alinéas de l'article L. 68, des
 articles L. 85-1, L. 88-1, L. 95 et des I, III et V de l'article L. 113-1 ;
 
+1° bis Les articles L. 163-1 et L. 163-2 ;
+
 2° Les articles L. 385, L. 386, L. 387, L. 389, L. 390-1 et L. 393 ;
 
 3° Les articles L. 451, L. 477, L. 504 et L. 531.
@@ -23576,13 +23684,9 @@ au lieu de : " candidat " ou " liste de candidats ".
 
 **Liens relatifs à cet article**
 
-_Abrogé par_:
-
-  - Loi n°2017-1339 du 15 septembre 2017 - art. 26 (V)
-
 _Modifié par_:
 
-  - Loi n°2017-1339 du 15 septembre 2017 - art. 26 (V)
+  - Loi n°2018-1202 du 22 décembre 2018 - art. 4
 
 _Cite_:
 
