@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2018-12-24
+Version Consolidée au 2019-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires (art. L1 à L273-12)](#2)
@@ -8,337 +8,342 @@ Version Consolidée au 2018-12-24
         - [Chapitre II : Listes électorales (art. L9 à L43)](#5)
           - [Section 1 : Conditions d'inscription sur une liste électorale (art. L9 à L15-1)](#6)
           - [Section 2 : Etablissement et révision des listes électorales (art. L16 à L29)](#7)
-          - [Section 3 : Inscription en dehors des périodes de révision (art. L30 à L35)](#8)
-          - [Section 4 : Contrôle des inscriptions sur les listes électorales (art. L36 à L40)](#9)
-          - [Section 5 : Exonération d'impôts et de taxes (art. L41 à L42)](#10)
-          - [Section 6 : Cartes électorales (art. L43)](#11)
-        - [Chapitre III : Conditions d'éligibilité et inéligibilités (art. L44 à L45-1)](#12)
-        - [Chapitre IV : Incompatibilités (art. L46 à L46-2)](#13)
-        - [Chapitre V : Propagande (art. L47 à L52-3)](#14)
-        - [Chapitre V bis : Financement et plafonnement des dépenses électorales (art. L52-3-1 à L52-17)](#15)
-        - [Chapitre VI : Vote (art. L52-19 à L85-1)](#16)
-          - [Section 1 : Opérations préparatoires au scrutin (art. L53)](#17)
-          - [Section 2 : Opérations de vote (art. L54 à L70)](#18)
-          - [Section 3 : Vote par procuration (art. L71 à L78)](#19)
-          - [Section 5 : Commissions de contrôle des opérations de vote (art. L85-1)](#20)
-        - [Chapitre VII : Dispositions pénales (art. L86 à L117-2)](#21)
-        - [Chapitre VIII : Contentieux (art. L118 à L118-4)](#22)
-      - [Titre II : Dispositions spéciales à l'élection des députés (art. LO119 à L190)](#23)
-        - [Chapitre Ier : Composition de l'Assemblée nationale et durée du mandat des députés (art. LO119 à LO122)](#24)
-        - [Chapitre II : Mode de scrutin (art. L123 à L126)](#25)
-        - [Chapitre III : Conditions d'éligibilité et inéligibilités (art. LO127 à LO136-4)](#26)
-        - [Chapitre IV : Incompatibilités (art. LO137 à LO153)](#27)
-        - [Chapitre V : Déclarations de candidatures (art. L154 à LO160)](#28)
-        - [Chapitre VI : Propagande (art. L163-1 à L171)](#29)
-        - [Chapitre VII : Opérations préparatoires au scrutin (art. L172 à L173)](#30)
-        - [Chapitre VIII : Opérations de vote (art. L174 à L175)](#31)
-        - [Chapitre IX : Remplacement des députés (art. L178-1 à LO178)](#32)
-        - [Chapitre X : Contentieux (art. LO179 à LO189)](#33)
-        - [Chapitre XI : Conditions d'application (art. L190)](#34)
-      - [Titre III : Dispositions spéciales à l'élection des conseillers départementaux (art. L191 à L224)](#35)
-        - [Chapitre Ier : Composition des conseils départementaux et durée du mandat des conseillers (art. L191 à L192)](#36)
-        - [Chapitre II : Mode de scrutin (art. L193)](#37)
-        - [Chapitre III : Conditions d'éligibilité et inéligibilités (art. L194 à LO194-2)](#38)
-        - [Chapitre IV : Incompatibilités (art. L206 à L210)](#39)
-        - [Chapitre IV bis : Déclarations de candidature (art. L210-1)](#40)
-        - [Chapitre V : Propagande (art. L211 à L217)](#41)
-        - [Chapitre VI : Opérations préparatoires au scrutin (art. L218 à L220)](#42)
-        - [Chapitre VIII : Remplacement des conseillers  départementaux (art. L221)](#43)
-        - [Chapitre IX : Contentieux (art. L222 à L223-1)](#44)
-        - [Chapitre X : Conditions d'application (art. L224)](#45)
-      - [Titre IV : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris (art. L225 à L273)](#46)
-        - [Chapitre Ier : Dispositions applicables à toutes les communes (art. L225 à L251)](#47)
-          - [Section 1 : Composition des conseils municipaux et durée du mandat des conseillers (art. L225 à L227)](#48)
-          - [Section 1 bis : Dispositions spéciales à l'exercice par les ressortissants d'un Etat membre de l'Union européenne autre que la France du droit de vote pour l'élection des conseillers municipaux et des membres du Conseil de Paris (art. LO227-1 à LO227-5)](#49)
-          - [Section 2 : Conditions d'éligibilité et inéligibilités (art. L228 à LO236-1)](#50)
-          - [Section 3 : Incompatibilités (art. L237 à LO238-1)](#51)
-          - [Section 4 : Propagande (art. L240 à L246)](#52)
-          - [Section 5 : Opérations préparatoires au scrutin (art. L247)](#53)
-          - [Section 6 : Opérations de vote (art. LO247-1)](#54)
-          - [Section 7 : Contentieux (art. L248 à L251)](#55)
-        - [Chapitre II : Dispositions spéciales aux communes de moins de 1 000 habitants (art. L252 à L259)](#56)
-          - [Section 1 : Mode de scrutin (art. L252 à L255-1)](#57)
-          - [Section 1 bis : Déclarations de candidature (art. L255-2 à LO255-5)](#58)
-          - [Section 4  : Opérations de vote (art. L256 à L257)](#59)
-          - [Section 5 : Remplacement des conseillers municipaux (art. L258 à L259)](#60)
-        - [Chapitre III : Dispositions spéciales aux communes de 1 000 habitants et plus (art. L260 à L270)](#61)
-          - [Section 1 : Mode de scrutin (art. L260 à L262)](#62)
-          - [Section 2 : Déclarations de candidatures (art. L263 à LO265-1)](#63)
-          - [Section 3 : Opérations de vote (art. L268 à L269)](#64)
-          - [Section 4 : Remplacement des conseillers municipaux (art. L270)](#65)
-        - [Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille (art. L271 à LO271-1)](#66)
-        - [Chapitre V : Conditions d'application (art. L273)](#67)
-      - [Titre V : Dispositions spéciales à l'élection des conseillers communautaires (art. L273-1 à L273-12)](#68)
-        - [Chapitre Ier : Dispositions communes (art. L273-1 à L273-5)](#69)
-          - [Section 1 : Composition des organes délibérants des établissements publics de coopération intercommunale à fiscalité propre (art. L273-1)](#70)
-          - [Section 2 : Dispositions spéciales à l'exercice par les ressortissants d'un Etat membre de l'Union européenne autre que la France du droit de vote pour l'élection des conseillers communautaires (art. LO273-2)](#71)
+          - [Section 3 : Cas particuliers d'inscription (art. L30 à L32)](#8)
+          - [Section 4 : Contrôle des inscriptions sur les listes électorales (art. L36 à L38)](#9)
+          - [Section 4 : Dispositions communes (art.  à L38)](#10)
+          - [Section 5 : Exonération d'impôts et de taxes (art. L41 à L42)](#11)
+          - [Section 6 : Cartes électorales (art. L43)](#12)
+        - [Chapitre III : Conditions d'éligibilité et inéligibilités (art. L44 à L45-1)](#13)
+        - [Chapitre IV : Incompatibilités (art. L46 à L46-2)](#14)
+        - [Chapitre V : Propagande (art. L47 à L52-3)](#15)
+        - [Chapitre V bis : Financement et plafonnement des dépenses électorales (art. L52-3-1 à L52-17)](#16)
+        - [Chapitre VI : Vote (art. L52-19 à L85-1)](#17)
+          - [Section 1 : Opérations préparatoires au scrutin (art. L53)](#18)
+          - [Section 2 : Opérations de vote (art. L54 à L70)](#19)
+          - [Section 3 : Vote par procuration (art. L71 à L78)](#20)
+          - [Section 5 : Commissions de contrôle des opérations de vote (art. L85-1)](#21)
+        - [Chapitre VII : Dispositions pénales (art. L86 à L117-2)](#22)
+        - [Chapitre VIII : Contentieux (art. L118 à L118-4)](#23)
+      - [Titre II : Dispositions spéciales à l'élection des députés (art. LO119 à L190)](#24)
+        - [Chapitre Ier : Composition de l'Assemblée nationale et durée du mandat des députés (art. LO119 à LO122)](#25)
+        - [Chapitre II : Mode de scrutin (art. L123 à L126)](#26)
+        - [Chapitre III : Conditions d'éligibilité et inéligibilités (art. LO127 à LO136-4)](#27)
+        - [Chapitre IV : Incompatibilités (art. LO137 à LO153)](#28)
+        - [Chapitre V : Déclarations de candidatures (art. L154 à LO160)](#29)
+        - [Chapitre VI : Propagande (art. L163-1 à L171)](#30)
+        - [Chapitre VII : Opérations préparatoires au scrutin (art. L172 à L173)](#31)
+        - [Chapitre VIII : Opérations de vote (art. L174 à L175)](#32)
+        - [Chapitre IX : Remplacement des députés (art. L178-1 à LO178)](#33)
+        - [Chapitre X : Contentieux (art. LO179 à LO189)](#34)
+        - [Chapitre XI : Conditions d'application (art. L190)](#35)
+      - [Titre III : Dispositions spéciales à l'élection des conseillers départementaux (art. L191 à L224)](#36)
+        - [Chapitre Ier : Composition des conseils départementaux et durée du mandat des conseillers (art. L191 à L192)](#37)
+        - [Chapitre II : Mode de scrutin (art. L193)](#38)
+        - [Chapitre III : Conditions d'éligibilité et inéligibilités (art. L194 à LO194-2)](#39)
+        - [Chapitre IV : Incompatibilités (art. L206 à L210)](#40)
+        - [Chapitre IV bis : Déclarations de candidature (art. L210-1)](#41)
+        - [Chapitre V : Propagande (art. L211 à L217)](#42)
+        - [Chapitre VI : Opérations préparatoires au scrutin (art. L218 à L220)](#43)
+        - [Chapitre VIII : Remplacement des conseillers  départementaux (art. L221)](#44)
+        - [Chapitre IX : Contentieux (art. L222 à L223-1)](#45)
+        - [Chapitre X : Conditions d'application (art. L224)](#46)
+      - [Titre IV : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris (art. L225 à L273)](#47)
+        - [Chapitre Ier : Dispositions applicables à toutes les communes (art. L225 à L251)](#48)
+          - [Section 1 : Composition des conseils municipaux et durée du mandat des conseillers (art. L225 à L227)](#49)
+          - [Section 1 bis : Dispositions spéciales à l'exercice par les ressortissants d'un Etat membre de l'Union européenne autre que la France du droit de vote pour l'élection des conseillers municipaux et des membres du Conseil de Paris (art. LO227-1 à LO227-5)](#50)
+          - [Section 2 : Conditions d'éligibilité et inéligibilités (art. L228 à LO236-1)](#51)
+          - [Section 3 : Incompatibilités (art. L237 à LO238-1)](#52)
+          - [Section 4 : Propagande (art. L240 à L246)](#53)
+          - [Section 5 : Opérations préparatoires au scrutin (art. L247)](#54)
+          - [Section 6 : Opérations de vote (art. LO247-1)](#55)
+          - [Section 7 : Contentieux (art. L248 à L251)](#56)
+        - [Chapitre II : Dispositions spéciales aux communes de moins de 1 000 habitants (art. L252 à L259)](#57)
+          - [Section 1 : Mode de scrutin (art. L252 à L255-1)](#58)
+          - [Section 1 bis : Déclarations de candidature (art. L255-2 à LO255-5)](#59)
+          - [Section 4  : Opérations de vote (art. L256 à L257)](#60)
+          - [Section 5 : Remplacement des conseillers municipaux (art. L258 à L259)](#61)
+        - [Chapitre III : Dispositions spéciales aux communes de 1 000 habitants et plus (art. L260 à L270)](#62)
+          - [Section 1 : Mode de scrutin (art. L260 à L262)](#63)
+          - [Section 2 : Déclarations de candidatures (art. L263 à LO265-1)](#64)
+          - [Section 3 : Opérations de vote (art. L268 à L269)](#65)
+          - [Section 4 : Remplacement des conseillers municipaux (art. L270)](#66)
+        - [Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille (art. L271 à LO271-1)](#67)
+        - [Chapitre V : Conditions d'application (art. L273)](#68)
+      - [Titre V : Dispositions spéciales à l'élection des conseillers communautaires (art. L273-1 à L273-12)](#69)
+        - [Chapitre Ier : Dispositions communes (art. L273-1 à L273-5)](#70)
+          - [Section 1 : Composition des organes délibérants des établissements publics de coopération intercommunale à fiscalité propre (art. L273-1)](#71)
+          - [Section 2 : Dispositions spéciales à l'exercice par les ressortissants d'un Etat membre de l'Union européenne autre que la France du droit de vote pour l'élection des conseillers communautaires (art. LO273-2)](#72)
           - [Section 3 : Dispositions relatives au mandat
-des conseillers communautaires (art. L273-3 à L273-5)](#72)
-        - [Chapitre II : Dispositions spéciales aux  communes de 1 000 habitants et plus (art. L273-6 à L273-10)](#73)
+des conseillers communautaires (art. L273-3 à L273-5)](#73)
+        - [Chapitre II : Dispositions spéciales aux  communes de 1 000 habitants et plus (art. L273-6 à L273-10)](#74)
         - [Chapitre III :  Dispositions spéciales aux communes
-de moins de 1 000 habitants (art. L273-11 à L273-12)](#74)
-    - [Livre II : Election des sénateurs des départements (art. LO274 à L327)](#75)
-      - [Titre Ier  : Composition du Sénat et durée du mandat des sénateurs (art. LO274 à LO278)](#76)
-      - [Titre II : Composition du collège électoral (art. L279 à L282)](#77)
-      - [Titre III : Désignation des délégués des conseils municipaux (art. L283 à LO286-2)](#78)
-      - [Titre III bis : Désignation des délégués de l'Assemblée de Corse (art. L293-1 à L293-3)](#79)
-      - [Titre IV : Election des sénateurs (art. L294 à LO325)](#80)
-        - [Chapitre Ier  : Mode de scrutin (art. L294 à L295)](#81)
-        - [Chapitre II : Conditions d'éligibilité et inéligibilités (art. LO296)](#82)
-        - [Chapitre III : Incompatibilités (art. LO297)](#83)
-        - [Chapitre IV : Déclarations de candidatures (art. L298 à LO304)](#84)
-        - [Chapitre V : Propagande (art. L306 à L308-1)](#85)
-        - [Chapitre VI : Opérations préparatoires au scrutin (art. L309 à L311)](#86)
-        - [Chapitre VII : Opérations de vote (art. L312 à L318)](#87)
-        - [Chapitre VIII : Remplacement des sénateurs (art. L324 à LO323)](#88)
-        - [Chapitre IX : Contentieux (art. LO325)](#89)
-      - [Titre V : Conditions d'application (art. L326)](#90)
-      - [Titre VI : Dispositions pénales (art. L327)](#91)
-    - [Livre III : Dispositions spécifiques aux députés élus par les Français établis hors de France (art. L330 à L330-16)](#92)
-      - [Section 1 : Liste électorale (art. L330-2 à L330-4)](#93)
-      - [Section 2 : Déclaration de candidature (art. L330-5)](#94)
-      - [Section 3 : Campagne électorale (art. L330-6)](#95)
-      - [Section 4 : Financement de la campagne électorale (art. L330-6-1 à L330-10)](#96)
-      - [Section 5 : Opérations de vote (art. L330-11 à L330-13)](#97)
-      - [Section 6 : Recensement des votes (art. L330-14 à L330-15)](#98)
-      - [Section 7 : Dispositions pénales (art. L330-16)](#99)
-    - [Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse (art. L335 à L384)](#100)
-      - [Titre Ier : Election des conseillers régionaux (art. L336 à L363)](#101)
-        - [Chapitre Ier : Composition des conseils régionaux et durée du mandat des conseillers (art. L336 à L337)](#102)
-        - [Chapitre II : Mode de scrutin (art. L338 à L338-1)](#103)
-        - [Chapitre III : Conditions d'éligibilité et inéligibilités (art. L339 à LO340-1)](#104)
-        - [Chapitre IV : Incompatibilités (art. L342 à L345)](#105)
-        - [Chapitre V : Déclarations de candidature (art. L346 à L352)](#106)
-        - [Chapitre VI : Propagande (art. L353 à L356)](#107)
-        - [Chapitre VII : Opérations préparatoires au scrutin (art. L357)](#108)
-        - [Chapitre VIII : Opérations de vote (art. L358 à L359)](#109)
-        - [Chapitre IX : Remplacement des conseillers régionaux (art. L360)](#110)
-        - [Chapitre X : Contentieux (art. L361 à L363)](#111)
-      - [Titre II : Election des conseillers à l'Assemblée de Corse (art. L364 à L383)](#112)
-        - [Chapitre Ier : Composition de l'assemblée et durée du mandat de ses membres (art. L364)](#113)
-        - [Chapitre II : Mode de scrutin (art. L365 à L366)](#114)
-        - [Chapitre III : Conditions d'éligibilité et inéligibilités (art. L367 à L367-1)](#115)
-        - [Chapitre IV : Incompatibilités (art. L368 à L369)](#116)
-        - [Chapitre V : Déclarations de candidature (art. L370 à L374)](#117)
-        - [Chapitre VI : Propagande (art. L375 à L377)](#118)
-        - [Chapitre VII : Opérations préparatoires au scrutin (art. L378)](#119)
-        - [Chapitre VIII : Opérations de vote (art. L379)](#120)
-        - [Chapitre IX : Remplacement des conseillers à l'Assemblée de Corse (art. L380)](#121)
-        - [Chapitre X : Contentieux (art. L381 à L383)](#122)
-      - [Titre III : Conditions  d'application des titre Ier et II (art. L384)](#123)
+de moins de 1 000 habitants (art. L273-11 à L273-12)](#75)
+    - [Livre II : Election des sénateurs des départements (art. LO274 à L327)](#76)
+      - [Titre Ier  : Composition du Sénat et durée du mandat des sénateurs (art. LO274 à LO278)](#77)
+      - [Titre II : Composition du collège électoral (art. L279 à L282)](#78)
+      - [Titre III : Désignation des délégués des conseils municipaux (art. L283 à LO286-2)](#79)
+      - [Titre III bis : Désignation des délégués de l'Assemblée de Corse (art. L293-1 à L293-3)](#80)
+      - [Titre IV : Election des sénateurs (art. L294 à LO325)](#81)
+        - [Chapitre Ier  : Mode de scrutin (art. L294 à L295)](#82)
+        - [Chapitre II : Conditions d'éligibilité et inéligibilités (art. LO296)](#83)
+        - [Chapitre III : Incompatibilités (art. LO297)](#84)
+        - [Chapitre IV : Déclarations de candidatures (art. L298 à LO304)](#85)
+        - [Chapitre V : Propagande (art. L306 à L308-1)](#86)
+        - [Chapitre VI : Opérations préparatoires au scrutin (art. L309 à L311)](#87)
+        - [Chapitre VII : Opérations de vote (art. L312 à L318)](#88)
+        - [Chapitre VIII : Remplacement des sénateurs (art. L324 à LO323)](#89)
+        - [Chapitre IX : Contentieux (art. LO325)](#90)
+      - [Titre V : Conditions d'application (art. L326)](#91)
+      - [Titre VI : Dispositions pénales (art. L327)](#92)
+    - [Livre III : Dispositions spécifiques aux députés élus par les Français établis hors de France (art. L330 à L330-16)](#93)
+      - [Section 1 : Liste électorale (art. L330-2 à L330-4)](#94)
+      - [Section 2 : Déclaration de candidature (art. L330-5)](#95)
+      - [Section 3 : Campagne électorale (art. L330-6)](#96)
+      - [Section 4 : Financement de la campagne électorale (art. L330-6-1 à L330-10)](#97)
+      - [Section 5 : Opérations de vote (art. L330-11 à L330-13)](#98)
+      - [Section 6 : Recensement des votes (art. L330-14 à L330-15)](#99)
+      - [Section 7 : Dispositions pénales (art. L330-16)](#100)
+    - [Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse (art. L335 à L384)](#101)
+      - [Titre Ier : Election des conseillers régionaux (art. L336 à L363)](#102)
+        - [Chapitre Ier : Composition des conseils régionaux et durée du mandat des conseillers (art. L336 à L337)](#103)
+        - [Chapitre II : Mode de scrutin (art. L338 à L338-1)](#104)
+        - [Chapitre III : Conditions d'éligibilité et inéligibilités (art. L339 à LO340-1)](#105)
+        - [Chapitre IV : Incompatibilités (art. L342 à L345)](#106)
+        - [Chapitre V : Déclarations de candidature (art. L346 à L352)](#107)
+        - [Chapitre VI : Propagande (art. L353 à L356)](#108)
+        - [Chapitre VII : Opérations préparatoires au scrutin (art. L357)](#109)
+        - [Chapitre VIII : Opérations de vote (art. L358 à L359)](#110)
+        - [Chapitre IX : Remplacement des conseillers régionaux (art. L360)](#111)
+        - [Chapitre X : Contentieux (art. L361 à L363)](#112)
+      - [Titre II : Election des conseillers à l'Assemblée de Corse (art. L364 à L383)](#113)
+        - [Chapitre Ier : Composition de l'assemblée et durée du mandat de ses membres (art. L364)](#114)
+        - [Chapitre II : Mode de scrutin (art. L365 à L366)](#115)
+        - [Chapitre III : Conditions d'éligibilité et inéligibilités (art. L367 à L367-1)](#116)
+        - [Chapitre IV : Incompatibilités (art. L368 à L369)](#117)
+        - [Chapitre V : Déclarations de candidature (art. L370 à L374)](#118)
+        - [Chapitre VI : Propagande (art. L375 à L377)](#119)
+        - [Chapitre VII : Opérations préparatoires au scrutin (art. L378)](#120)
+        - [Chapitre VIII : Opérations de vote (art. L379)](#121)
+        - [Chapitre IX : Remplacement des conseillers à l'Assemblée de Corse (art. L380)](#122)
+        - [Chapitre X : Contentieux (art. L381 à L383)](#123)
+      - [Titre III : Conditions  d'application des titre Ier et II (art. L384)](#124)
     - [Livre V : Dispositions applicables à la 
-Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna (art. L385 à L449)](#124)
-      - [Titre Ier : Dispositions générales (art. L385 à LO392-1)](#125)
-      - [Titre II : Election des députés (art. L395 à LO394-2)](#126)
-      - [Titre III : Dispositions applicables à l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie (art. L398 à L406)](#127)
-      - [Titre IV : Dispositions applicables à l'élection des membres de l'assemblée de la Polynésie française (art. L407 à LO406-1)](#128)
-      - [Titre V : Dispositions applicables à l'élection des membres de l'assemblée territoriale des îles Wallis et Futuna (art. L418 à L427-1)](#129)
-      - [Titre VI : Dispositions applicables à l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française (art. L428 à L438)](#130)
-        - [Chapitre Ier : Nouvelle-Calédonie (art. L428 à L436)](#131)
-        - [Chapitre II : Polynésie Française (art. L437 à L438)](#132)
-      - [Titre VII : Dispositions applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna (art. L439 à LO438-3)](#133)
-      - [Titre VIII : Conditions d'application (art. L449)](#134)
-    - [Livre VI : Dispositions particulières à Mayotte, à Saint-Barthélemy, à Saint-Martin  et à Saint-Pierre-et-Miquelon (art. L451 à L558)](#135)
-      - [Titre Ier : Mayotte (art. L451 à LO473)](#136)
-        - [Chapitre Ier : Dispositions communes à l'élection du député, des conseillers généraux et des conseillers municipaux (art. L451 à L454)](#137)
-        - [Chapitre III : Dispositions applicables à l'élection des conseillers généraux (art. L462 à L463)](#138)
-        - [Chapitre V : Dispositions applicables à l'élection des sénateurs de Mayotte (art. L474 à LO473)](#139)
-      - [Titre II : Saint-Barthélemy (art. L477 à LO500)](#140)
-        - [Chapitre Ier : Dispositions communes à l'élection du député, des conseillers territoriaux et du sénateur (art. L477 à LO476)](#141)
-        - [Chapitre II : Dispositions applicables à l'élection du député (art. L478 à LO477-1)](#142)
-        - [Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux (art. L487 à LO499)](#143)
-        - [Chapitre IV : Dispositions applicables à l'élection du sénateur de Saint-Barthélemy (art. L501 à LO500)](#144)
-      - [Titre III : Saint-Martin (art. L504 à LO527)](#145)
-        - [Chapitre Ier : Dispositions communes à l'élection du député, des conseillers territoriaux et du sénateur (art. L504 à LO503)](#146)
-        - [Chapitre II : Dispositions applicables à l'élection du député (art. L505 à LO504-1)](#147)
-        - [Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux (art. L514 à LO526)](#148)
-        - [Chapitre IV : Dispositions applicables à l'élection du sénateur de Saint-Martin (art. L528 à LO527)](#149)
-      - [Titre IV : Saint-Pierre-et-Miquelon (art. L531 à LO555)](#150)
-        - [Chapitre Ier : Dispositions communes à l'élection du député, des conseillers territoriaux et des conseillers municipaux (art. L531 à LO530)](#151)
-        - [Chapitre II : Dispositions applicables à l'élection du député (art. L534 à LO533)](#152)
-        - [Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux (art. L542 à LO554)](#153)
-        - [Chapitre V : Dispositions applicables à l'élection du sénateur de Saint-Pierre-et-Miquelon (art. L556 à LO555)](#154)
-      - [Titre V : Conditions d'application (art. L558)](#155)
-    - [Livre VI bis : Election des conseillers à l'assemblée de Guyane et des conseillers à l'assemblée de Martinique (art. L558-1 à L558-36)](#156)
-      - [Titre Ier : Election des conseillers à l'assemblée de Guyane (art. L558-1 à L558-4)](#157)
+Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna (art. L385 à L449)](#125)
+      - [Titre Ier : Dispositions générales (art. L385 à LO392-1)](#126)
+      - [Titre II : Election des députés (art. L395 à LO394-2)](#127)
+      - [Titre III : Dispositions applicables à l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie (art. L398 à L406)](#128)
+      - [Titre IV : Dispositions applicables à l'élection des membres de l'assemblée de la Polynésie française (art. L407 à LO406-1)](#129)
+      - [Titre V : Dispositions applicables à l'élection des membres de l'assemblée territoriale des îles Wallis et Futuna (art. L418 à L427-1)](#130)
+      - [Titre VI : Dispositions applicables à l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française (art. L428 à L438)](#131)
+        - [Chapitre Ier : Nouvelle-Calédonie (art. L428 à L436)](#132)
+        - [Chapitre II : Polynésie Française (art. L437 à L438)](#133)
+      - [Titre VII : Dispositions applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna (art. L439 à LO438-3)](#134)
+      - [Titre VIII : Conditions d'application (art. L449)](#135)
+    - [Livre VI : Dispositions particulières à Mayotte, à Saint-Barthélemy, à Saint-Martin  et à Saint-Pierre-et-Miquelon (art. L451 à L558)](#136)
+      - [Titre Ier : Mayotte (art. L451 à LO473)](#137)
+        - [Chapitre Ier : Dispositions communes à l'élection du député, des conseillers généraux et des conseillers municipaux (art. L451 à L454)](#138)
+        - [Chapitre III : Dispositions applicables à l'élection des conseillers généraux (art. L462 à L463)](#139)
+        - [Chapitre V : Dispositions applicables à l'élection des sénateurs de Mayotte (art. L474 à LO473)](#140)
+      - [Titre II : Saint-Barthélemy (art. L477 à LO500)](#141)
+        - [Chapitre Ier : Dispositions communes à l'élection du député, des conseillers territoriaux et du sénateur (art. L477 à LO476)](#142)
+        - [Chapitre II : Dispositions applicables à l'élection du député (art. L478 à LO477-1)](#143)
+        - [Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux (art. L487 à LO499)](#144)
+        - [Chapitre IV : Dispositions applicables à l'élection du sénateur de Saint-Barthélemy (art. L501 à LO500)](#145)
+      - [Titre III : Saint-Martin (art. L504 à LO527)](#146)
+        - [Chapitre Ier : Dispositions communes à l'élection du député, des conseillers territoriaux et du sénateur (art. L504 à LO503)](#147)
+        - [Chapitre II : Dispositions applicables à l'élection du député (art. L505 à LO504-1)](#148)
+        - [Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux (art. L514 à LO526)](#149)
+        - [Chapitre IV : Dispositions applicables à l'élection du sénateur de Saint-Martin (art. L528 à LO527)](#150)
+      - [Titre IV : Saint-Pierre-et-Miquelon (art. L531 à LO555)](#151)
+        - [Chapitre Ier : Dispositions communes à l'élection du député, des conseillers territoriaux et des conseillers municipaux (art. L531 à LO530)](#152)
+        - [Chapitre II : Dispositions applicables à l'élection du député (art. L534 à LO533)](#153)
+        - [Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux (art. L542 à LO554)](#154)
+        - [Chapitre V : Dispositions applicables à l'élection du sénateur de Saint-Pierre-et-Miquelon (art. L556 à LO555)](#155)
+      - [Titre V : Conditions d'application (art. L558)](#156)
+    - [Livre VI bis : Election des conseillers à l'assemblée de Guyane et des conseillers à l'assemblée de Martinique (art. L558-1 à L558-36)](#157)
+      - [Titre Ier : Election des conseillers à l'assemblée de Guyane (art. L558-1 à L558-4)](#158)
         - [Chapitre Ier : Composition de l'assemblée de Guyane 
-et durée du mandat (art. L558-1 à L558-2)](#158)
-        - [Chapitre II : Mode de scrutin (art. L558-3 à L558-4)](#159)
-      - [Titre II : Election des conseillers à l'assemblée de Martinique (art. L558-5 à L558-9)](#160)
-        - [Chapitre Ier : Composition de l'assemblée de Martinique et durée du mandat (art. L558-5 à L558-6)](#161)
-        - [Chapitre II : Mode de scrutin (art. L558-7 à L558-9)](#162)
-      - [Titre III : Dispositions communes (art. L558-10 à L558-35)](#163)
-        - [Chapitre Ier : Conditions d'éligibilité et inéligibilités (art. L558-10 à LO558-12)](#164)
-        - [Chapitre II : Incompatibilités (art. L558-15 à L558-18)](#165)
-        - [Chapitre III : Déclarations de candidature (art. L558-19 à L558-24)](#166)
-        - [Chapitre IV : Propagande (art. L558-25 à L558-28)](#167)
-        - [Chapitre V : Opérations préparatoires au scrutin (art. L558-29)](#168)
-        - [Chapitre VI : Opérations de vote (art. L558-30 à L558-31)](#169)
-        - [Chapitre VII : Remplacement des conseillers à l'assemblée de Guyane et des conseillers à l'assemblée de Martinique (art. L558-32)](#170)
-        - [Chapitre VIII : Contentieux (art. L558-33 à L558-35)](#171)
-      - [Titre IV : Conditions d'application (art. L558-36)](#172)
-    - [Livre VI ter : Dispositions applicables aux opérations référendaires (art. L558-37 à L558-49)](#173)
-      - [Titre Ier : Recueil des soutiens à une proposition de loi présentée en application de l'article 11 de la Constitution (art. L558-37 à L558-43)](#174)
-        - [Chapitre Ier : Financement des actions tendant à favoriser ou défavoriser le recueil des soutiens (art. L558-37)](#175)
-        - [Chapitre II : Dispositions pénales (art. L558-38 à L558-43)](#176)
-      - [Titre II : Organisation du référendum (art. L558-44 à L558-49)](#177)
-        - [Chapitre Ier : Dispositions générales (art. L558-44 à L558-46)](#178)
-        - [Chapitre II : Recensement des votes (art. L558-47 à L558-49)](#179)
-    - [Livre VII : Dispositions applicables aux consultations organisées en application des articles 72-4 et 73 de la Constitution (art. L559 à L567)](#180)
-    - [Livre VIII : Commission prévue par l'article 25 de la Constitution (art. L567-1 à LO567-9)](#181)
-    - [Livre IX : Dispositions finales (art. L568)](#182)
-  - [Partie réglementaire (art. R1 à R358)](#183)
-    - [Livre Ier : Election des députés,   des conseillers départementaux, des conseillers métropolitains de Lyon, des conseillers municipaux et des conseillers communautaires des départements (art. R1 à R130-1-A)](#184)
-      - [Titre Ier : Dispositions communes à l'élection des députés,   des conseillers départementaux, des conseillers métropolitains de Lyon, des conseillers municipaux et des conseillers communautaires (art. R1 à R97)](#185)
-        - [Chapitre II : Listes électorales (art. R1 à R25)](#186)
-          - [Section 1 : Conditions d'inscription sur une liste électorale (art. R1 à R2)](#187)
-          - [Section 2 : Etablissement et révision des listes électorales (art. R3 à R16)](#188)
-          - [Section 4 : Contrôle des inscriptions sur les listes électorales (art. R17 à R22)](#189)
-          - [Section 6 : Cartes électorales (art. R23 à R25)](#190)
-        - [Chapitre II bis : Dispositions générales en matière électorale (art. R25-1 à R25-3)](#191)
-        - [Chapitre V : Propagande (art. R26 à R39)](#192)
-        - [Chapitre V bis : Financement et plafonnement des dépenses électorales (art. R39-1 à R39-10-1)](#193)
-        - [Chapitre VI : Vote (art. R40 à R93-3)](#194)
-          - [Section 1 : Opérations préparatoires au scrutin (art. R40 à R41)](#195)
-          - [Section 2 : Opérations de vote (art. D56-1 à R71)](#196)
-          - [Section 3 : Vote par procuration (art. R72 à R80)](#197)
-          - [Section 5  : Commissions de contrôle des opérations de vote (art. R93-1 à R93-3)](#198)
-        - [Chapitre VII : Dispositions pénales (art. R94 à R96)](#199)
-        - [Chapitre VIII : Contentieux (art. R97)](#200)
-      - [Titre II : Dispositions spéciales à l'élection des députés (art. R98 à R109)](#201)
-        - [Chapitre V : Déclarations de candidatures (art. R98 à R102)](#202)
-        - [Chapitre VI : Propagande (art. R103 à R103-4)](#203)
-        - [Chapitre VIII : Opérations de vote (art. R104 à R109)](#204)
-      - [Titre III : Dispositions spéciales à l'élection des conseillers départementaux (art. R109-1 à R117-1)](#205)
-        - [Chapitre IV bis : Déclarations de candidatures (art. R109-1 à R109-2)](#206)
-        - [Chapitre V : Propagande (art. R110 à R110-1)](#207)
-        - [Chapitre VII : Opérations de vote (art. R111 à R112-1)](#208)
-        - [Chapitre IX : Contentieux (art. R113 à R117-1)](#209)
-      - [Titre IV  : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris (art. R117-2 à R130)](#210)
-        - [Chapitre Ier : Dispositions applicables à toutes les communes (art. R117-2 à R123)](#211)
-          - [Section 1 bis : Dispositions spéciales à l'exercice par les ressortissants d'un Etat membre de l'Union européenne autre que la France du droit de vote pour l'élection des conseillers municipaux et des membres du Conseil de Paris (art. R117-2 à R117-3)](#212)
-          - [Section 4 : Propagande (art. R117-4 à R117-5)](#213)
-          - [Section 6 : Opérations de vote (art. R118)](#214)
-          - [Section 7 : Contentieux (art. R119 à R123)](#215)
-        - [Chapitre II : Dispositions spéciales aux communes de moins de 1 000 habitants (art. R124 à R127)](#216)
-          - [Section 1 : Déclarations de candidature (art. R124)](#217)
-          - [Section 2 : Opérations de vote (art. R126 à R127)](#218)
-        - [Chapitre III : Dispositions spéciales aux communes de 1000 habitants et plus (art. R127-1 à R128-4)](#219)
-          - [Section 1 : Mode de scrutin (art. R127-1)](#220)
-          - [Section 2 : Déclarations de candidature (art. R127-2 à R128-3)](#221)
-          - [Section 3 : Opérations de vote (art. R128-4)](#222)
-        - [Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille (art. R129 à R130)](#223)
-          - [Section 2 : Opérations préparatoires au scrutin (art. R129 à R130)](#224)
-      - [Titre V : DISPOSITIONS SPÉCIALES À L'ÉLECTION DES CONSEILLERS COMMUNAUTAIRES (art. R130-1-A)](#225)
-    - [Livre II  : Election des sénateurs des départements (art. R130-1 à R171)](#226)
-      - [Titre II : Composition du collège électoral (art. R130-1)](#227)
-      - [Titre III : Désignation des délégués des conseils municipaux (art. R*136 à R148)](#228)
-      - [Titre III bis : Désignation des délégués à l'Assemblée de Corse (art. R148-1 à R148-3)](#229)
-      - [Titre IV : Election des sénateurs (art. R149 à R171)](#230)
-        - [Chapitre IV : Déclarations de candidatures (art. R149 à R153)](#231)
-        - [Chapitre V : Propagande (art. R154 à R161)](#232)
-        - [Chapitre VI : Opérations préparatoires au scrutin (art. R162)](#233)
-        - [Chapitre VII : Opérations de vote (art. R163 à R171)](#234)
-    - [Livre III : Dispositions spécifiques aux députés élus par les Français établis hors de France (art. R172 à R179-1)](#235)
-      - [Section 1 : Liste électorale (art. R172)](#236)
-      - [Section 2 : Déclaration de candidature (art. R173 à R173-6)](#237)
-      - [Section 3 : Campagne électorale (art. R174 à R174-4)](#238)
-      - [Section 4 : Financement de la campagne électorale (art. R175 à R175-5)](#239)
-      - [Section 5 : Opérations de vote (art. R176 à R176-4-7)](#240)
-        - [Sous-section 1 : Information des électeurs (art. R176)](#241)
-        - [Sous-section 2 : Vote à l'urne (art. R176-1 à R176-1-13)](#242)
-        - [Sous-section 3 : Vote par procuration (art. R176-2 à R176-2-4)](#243)
-        - [Sous-section 4 : Vote par correspondance électronique (art. R176-3 à R176-3-10)](#244)
-        - [Sous-section 5 : Vote par correspondance sous pli fermé (art. R176-4 à R176-4-7)](#245)
-      - [Section 6 : Dépouillement et recensement des votes (art. R177 à R177-7)](#246)
-      - [Section 7 : Dispositions pénales (art. R178)](#247)
-      - [Section 8 : Contentieux (art. R179 à R179-1)](#248)
-    - [Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse (art. R182 à R200)](#249)
-      - [Titre Ier : Election des conseillers régionaux (art. R183 à R190)](#250)
-        - [Chapitre V : Déclarations de candidatures (art. R183 à R184)](#251)
-        - [Chapitre VI : Propagande (art. R186)](#252)
-        - [Chapitre VIII : Opérations de vote (art. R188 à R189-2)](#253)
-        - [Chapitre X : Contentieux (art. R190)](#254)
-      - [Titre  II : Election des conseillers à l'Assemblée de Corse (art. R191 à R200)](#255)
-        - [Chapitre V : Déclarations de candidature (art. R191 à R192)](#256)
-        - [Chapitre VI : Propagande (art. R195 à R196)](#257)
-        - [Chapitre VII : Opérations de vote (art. R198 à R199)](#258)
-        - [Chapitre X : Contentieux (art. R200)](#259)
-    - [Livre V : Dispositions applicables à la Nouvelle-Calédonie, à la Polynésie française et aux îles  Wallis et Futuna (art. R201 à R283)](#260)
-      - [Titre Ier : Dispositions générales (art. R201 à R213-2)](#261)
-        - [Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna (art. R201 à R212)](#262)
-        - [Chapitre II : Dispositions propres à la Nouvelle-Calédonie (art. R213)](#263)
-        - [Chapitre III : Dispositions propres aux îles Wallis et Futuna (art. R213-1)](#264)
-        - [Chapitre IV : Dispositions propres à la Polynésie française (art. R213-2)](#265)
-      - [Titre II : Election des députés (art. R214 à R218-1)](#266)
-        - [Chapitre Ier : Dispositions générales (art. R214)](#267)
-        - [Chapitre II : Régime des inéligibilités (art. R**215)](#268)
-        - [Chapitre III : Candidatures (art. R216)](#269)
-        - [Chapitre IV : Recensement des votes (art. R217 à R218)](#270)
-        - [Chapitre V :  Dispositions propres à la Polynésie française (art. R218-1)](#271)
-      - [Titre III : Dispositions applicables à l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie (art. R219 à R241)](#272)
-        - [Chapitre Ier : Liste électorale spéciale (art. R219 à R231)](#273)
-          - [Section 1 : Etablissement de la liste électorale spéciale (art. R219 à R228)](#274)
-          - [Section 2 : Inscription en dehors des périodes de révision (art. R229 à R230)](#275)
-          - [Section 3 : Carte électorale spéciale (art. R231)](#276)
-        - [Chapitre II : Candidatures et bulletins de vote (art. R232 à R236)](#277)
-        - [Chapitre III : Propagande (art. R237)](#278)
-        - [Chapitre IV : Opérations de vote et recensement (art. R238 à R241)](#279)
-      - [Titre IV : Dispositions applicables à l'élection des représentants à l'assemblée de la Polynésie française (art. R242 à R253)](#280)
-        - [Chapitre Ier : Candidatures et bulletins de vote (art. R242 à R246)](#281)
-        - [Chapitre II : Propagande (art. R247 à R249-1)](#282)
-        - [Chapitre III : Opérations de vote et recensement (art. R250 à R253)](#283)
-      - [Titre V : Dispositions applicables à l'élection des membres de l'assemblée territoriale des îles  Wallis et Futuna (art. R254 à R264)](#284)
-        - [Chapitre Ier : Candidatures et bulletins de vote (art. R254 à R258)](#285)
-        - [Chapitre II : Propagande (art. R259 à R260)](#286)
-        - [Chapitre III : Opérations de vote et recensement (art. R261 à R264)](#287)
-      - [Titre VI : Dispositions applicables à l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française (art. R265 à R270)](#288)
-        - [Chapitre Ier : Dispositions communes (art. R265)](#289)
-        - [Chapitre II : Dispositions particulières à la Nouvelle-Calédonie (art. R267)](#290)
-        - [Chapitre III : Dispositions particulières à la Polynésie française (art. R268 à R270)](#291)
-      - [Titre VII : Dispositions applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et  Futuna (art. R271 à R283)](#292)
-        - [Chapitre Ier : Dispositions générales (art. R271 à R272)](#293)
-        - [Chapitre II : Régime des inéligibilités (art. R**273)](#294)
-        - [Chapitre III : Election des délégués des conseils municipaux en Nouvelle-Calédonie et en Polynésie française (art. R274 à R276)](#295)
-        - [Chapitre IV : Propagande (art. R277)](#296)
-        - [Chapitre V : Opérations préparatoires au scrutin (art. R278)](#297)
-        - [Chapitre VI : Opérations de vote (art. R279 à R283)](#298)
-    - [Livre VI : Dispositions particulières à Mayotte, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon (art. R284 à R346)](#299)
-      - [Titre Ier : Dispositions particulières à Mayotte (art. R284 à R300)](#300)
-        - [Chapitre Ier : Dispositions générales (art. R284 à R285)](#301)
-        - [Chapitre III :  Dispositions applicables à l'élection des conseillers généraux de Mayotte (art. R298 à R300)](#302)
-      - [Titre II : Dispositions particulières à Saint-Barthélemy (art. R303 à R317)](#303)
-        - [Chapitre Ier : Dispositions générales (art. R303 à R307)](#304)
-        - [Chapitre II : Dispositions applicables à l'élection du député (art. R308)](#305)
-        - [Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Barthélemy (art. R309 à R317)](#306)
-      - [Titre III : Dispositions particulières à Saint-Martin (art. R318 à R332)](#307)
-        - [Chapitre Ier : Dispositions générales (art. R318 à R322)](#308)
-        - [Chapitre II : Dispositions applicables à l'élection du député (art. R323)](#309)
-        - [Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Martin (art. R324 à R332)](#310)
-      - [Titre IV : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R333 à R346)](#311)
-        - [Chapitre Ier : Dispositions générales (art. R333 à R337)](#312)
-        - [Chapitre II : Dispositions applicables à l'élection du député (art. R338)](#313)
-        - [Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Pierre-et-Miquelon (art. R339 à R346)](#314)
-    - [Livre VI bis : Election des conseillers à l'assemblée de Guyane et des conseillers à l'assemblée de Martinique (art. R347 à R358)](#315)
-      - [Titre Ier : Election des conseillers à l'assemblée de Guyane (art. R347 à R348)](#316)
-      - [Titre II : Election des conseillers à l'assemblée de Martinique (art. R349 à R350)](#317)
-      - [Titre III : Dispositions communes (art. R351 à R358)](#318)
-        - [Chapitre III : Déclarations de candidature (art. R351 à R352)](#319)
-        - [Chapitre IV : Propagande (art. R353 à R354)](#320)
-        - [Chapitre VI : Opérations de vote (art. R355 à R357)](#321)
-        - [Chapitre VIII : Contentieux (art. R358)](#322)
-  - [Annexes (art. Annexe tableau n° 1 à Annexe tableau n° 7)](#323)
-    - [Tableau des circonscriptions électorales des départements (élection des députés) (art. Annexe tableau n° 1)](#324)
-    - [Tableau des circonscriptions électorales des départements (élection des députés) (1). (art. Annexe tableau n° 1 (suite))](#325)
-    - [Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés). (art. Annexe tableau n° 1 bis)](#326)
-    - [Tableau des circonscriptions électorales des français établis hors de France (art. Annexe tableau n° 1 ter)](#327)
-    - [Tableau des secteurs pour l'élection des membres du conseil de Paris (art. Annexe tableau n° 2)](#328)
-    - [Tableau des secteurs pour l'élection des conseillers municipaux de Lyon (art. Annexe tableau n° 3)](#329)
-    - [Tableau des secteurs pour l'élection des conseillers municipaux de Marseille. (art. Annexe tableau n° 4)](#330)
-    - [Répartition des sièges de sénateurs entre les séries (art. Annexe tableau n° 5)](#331)
-    - [Election des sénateurs (art. Annexe tableau n° 6)](#332)
-      - [Nombre de sénateurs représentant les départements (art. Annexe tableau n° 6)](#333)
-    - [Effectif des conseils régionaux et nombre de candidats par section départementale (art. Annexe tableau n° 7)](#334)
+et durée du mandat (art. L558-1 à L558-2)](#159)
+        - [Chapitre II : Mode de scrutin (art. L558-3 à L558-4)](#160)
+      - [Titre II : Election des conseillers à l'assemblée de Martinique (art. L558-5 à L558-9)](#161)
+        - [Chapitre Ier : Composition de l'assemblée de Martinique et durée du mandat (art. L558-5 à L558-6)](#162)
+        - [Chapitre II : Mode de scrutin (art. L558-7 à L558-9)](#163)
+      - [Titre III : Dispositions communes (art. L558-10 à L558-35)](#164)
+        - [Chapitre Ier : Conditions d'éligibilité et inéligibilités (art. L558-10 à LO558-12)](#165)
+        - [Chapitre II : Incompatibilités (art. L558-15 à L558-18)](#166)
+        - [Chapitre III : Déclarations de candidature (art. L558-19 à L558-24)](#167)
+        - [Chapitre IV : Propagande (art. L558-25 à L558-28)](#168)
+        - [Chapitre V : Opérations préparatoires au scrutin (art. L558-29)](#169)
+        - [Chapitre VI : Opérations de vote (art. L558-30 à L558-31)](#170)
+        - [Chapitre VII : Remplacement des conseillers à l'assemblée de Guyane et des conseillers à l'assemblée de Martinique (art. L558-32)](#171)
+        - [Chapitre VIII : Contentieux (art. L558-33 à L558-35)](#172)
+      - [Titre IV : Conditions d'application (art. L558-36)](#173)
+    - [Livre VI ter : Dispositions applicables aux opérations référendaires (art. L558-37 à L558-49)](#174)
+      - [Titre Ier : Recueil des soutiens à une proposition de loi présentée en application de l'article 11 de la Constitution (art. L558-37 à L558-43)](#175)
+        - [Chapitre Ier : Financement des actions tendant à favoriser ou défavoriser le recueil des soutiens (art. L558-37)](#176)
+        - [Chapitre II : Dispositions pénales (art. L558-38 à L558-43)](#177)
+      - [Titre II : Organisation du référendum (art. L558-44 à L558-49)](#178)
+        - [Chapitre Ier : Dispositions générales (art. L558-44 à L558-46)](#179)
+        - [Chapitre II : Recensement des votes (art. L558-47 à L558-49)](#180)
+    - [Livre VII : Dispositions applicables aux consultations organisées en application des articles 72-4 et 73 de la Constitution (art. L559 à L567)](#181)
+    - [Livre VIII : Commission prévue par l'article 25 de la Constitution (art. L567-1 à LO567-9)](#182)
+    - [Livre IX : Dispositions finales (art. L568)](#183)
+  - [Partie réglementaire (art. R1 à R358)](#184)
+    - [Livre Ier : Election des députés,   des conseillers départementaux, des conseillers métropolitains de Lyon, des conseillers municipaux et des conseillers communautaires des départements (art. R1 à R130-1-A)](#185)
+      - [Titre Ier : Dispositions communes à l'élection des députés,   des conseillers départementaux, des conseillers métropolitains de Lyon, des conseillers municipaux et des conseillers communautaires (art. R1 à R97)](#186)
+        - [Chapitre II : Listes électorales (art. R1 à R25)](#187)
+          - [Section 1 : Conditions d'inscription sur une liste électorale (art. R1 à R6)](#188)
+          - [Section 2 : Etablissement et révision des listes électorales (art. R7 à R19-6)](#189)
+            - [Sous-section 1 : Commission de contrôle (art. R7 à R11)](#190)
+            - [Sous-section 2 : Etablissement des listes électorales (art. R12 à R15)](#191)
+            - [Sous-section 3 : Notifications (art. R16)](#192)
+            - [Sous-section 4 : Recours contentieux (art. R17 à R19-6)](#193)
+          - [Section 4 : Dispositions communes (art. R20 à R21)](#194)
+          - [Section 6 : Cartes électorales (art. R22 à R25)](#195)
+        - [Chapitre II bis : Dispositions générales en matière électorale (art. R25-1 à R25-3)](#196)
+        - [Chapitre V : Propagande (art. R26 à R39)](#197)
+        - [Chapitre V bis : Financement et plafonnement des dépenses électorales (art. R39-1 à R39-10-1)](#198)
+        - [Chapitre VI : Vote (art. R40 à R93-3)](#199)
+          - [Section 1 : Opérations préparatoires au scrutin (art. R40 à R41)](#200)
+          - [Section 2 : Opérations de vote (art. D56-1 à R71)](#201)
+          - [Section 3 : Vote par procuration (art. R72 à R80)](#202)
+          - [Section 5  : Commissions de contrôle des opérations de vote (art. R93-1 à R93-3)](#203)
+        - [Chapitre VII : Dispositions pénales (art. R94 à R96)](#204)
+        - [Chapitre VIII : Contentieux (art. R97)](#205)
+      - [Titre II : Dispositions spéciales à l'élection des députés (art. R98 à R109)](#206)
+        - [Chapitre V : Déclarations de candidatures (art. R98 à R102)](#207)
+        - [Chapitre VI : Propagande (art. R103 à R103-4)](#208)
+        - [Chapitre VIII : Opérations de vote (art. R104 à R109)](#209)
+      - [Titre III : Dispositions spéciales à l'élection des conseillers départementaux (art. R109-1 à R117-1)](#210)
+        - [Chapitre IV bis : Déclarations de candidatures (art. R109-1 à R109-2)](#211)
+        - [Chapitre V : Propagande (art. R110 à R110-1)](#212)
+        - [Chapitre VII : Opérations de vote (art. R111 à R112-1)](#213)
+        - [Chapitre IX : Contentieux (art. R113 à R117-1)](#214)
+      - [Titre IV  : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris (art. R117-2 à R130)](#215)
+        - [Chapitre Ier : Dispositions applicables à toutes les communes (art. R117-2 à R123)](#216)
+          - [Section 1 bis : Dispositions spéciales à l'exercice par les ressortissants d'un Etat membre de l'Union européenne autre que la France du droit de vote pour l'élection des conseillers municipaux et des membres du Conseil de Paris (art. R117-2 à R117-3)](#217)
+          - [Section 4 : Propagande (art. R117-4 à R117-5)](#218)
+          - [Section 6 : Opérations de vote (art. R118)](#219)
+          - [Section 7 : Contentieux (art. R119 à R123)](#220)
+        - [Chapitre II : Dispositions spéciales aux communes de moins de 1 000 habitants (art. R124 à R127)](#221)
+          - [Section 1 : Déclarations de candidature (art. R124)](#222)
+          - [Section 2 : Opérations de vote (art. R126 à R127)](#223)
+        - [Chapitre III : Dispositions spéciales aux communes de 1000 habitants et plus (art. R127-1 à R128-4)](#224)
+          - [Section 1 : Mode de scrutin (art. R127-1)](#225)
+          - [Section 2 : Déclarations de candidature (art. R127-2 à R128-3)](#226)
+          - [Section 3 : Opérations de vote (art. R128-4)](#227)
+        - [Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille (art. R129 à R130)](#228)
+          - [Section 2 : Opérations préparatoires au scrutin (art. R129 à R130)](#229)
+      - [Titre V : DISPOSITIONS SPÉCIALES À L'ÉLECTION DES CONSEILLERS COMMUNAUTAIRES (art. R130-1-A)](#230)
+    - [Livre II  : Election des sénateurs des départements (art. R130-1 à R171)](#231)
+      - [Titre II : Composition du collège électoral (art. R130-1)](#232)
+      - [Titre III : Désignation des délégués des conseils municipaux (art. R*136 à R148)](#233)
+      - [Titre III bis : Désignation des délégués à l'Assemblée de Corse (art. R148-1 à R148-3)](#234)
+      - [Titre IV : Election des sénateurs (art. R149 à R171)](#235)
+        - [Chapitre IV : Déclarations de candidatures (art. R149 à R153)](#236)
+        - [Chapitre V : Propagande (art. R154 à R161)](#237)
+        - [Chapitre VI : Opérations préparatoires au scrutin (art. R162)](#238)
+        - [Chapitre VII : Opérations de vote (art. R163 à R171)](#239)
+    - [Livre III : Dispositions spécifiques aux députés élus par les Français établis hors de France (art. R172 à R179-1)](#240)
+      - [Section 1 : Liste électorale (art. R172)](#241)
+      - [Section 2 : Déclaration de candidature (art. R173 à R173-6)](#242)
+      - [Section 3 : Campagne électorale (art. R174 à R174-4)](#243)
+      - [Section 4 : Financement de la campagne électorale (art. R175 à R175-5)](#244)
+      - [Section 5 : Opérations de vote (art. R176 à R176-4-7)](#245)
+        - [Sous-section 1 : Information des électeurs (art. R176)](#246)
+        - [Sous-section 2 : Vote à l'urne (art. R176-1 à R176-1-13)](#247)
+        - [Sous-section 3 : Vote par procuration (art. R176-2 à R176-2-4)](#248)
+        - [Sous-section 4 : Vote par correspondance électronique (art. R176-3 à R176-3-10)](#249)
+        - [Sous-section 5 : Vote par correspondance sous pli fermé (art. R176-4 à R176-4-7)](#250)
+      - [Section 6 : Dépouillement et recensement des votes (art. R177 à R177-7)](#251)
+      - [Section 7 : Dispositions pénales (art. R178)](#252)
+      - [Section 8 : Contentieux (art. R179 à R179-1)](#253)
+    - [Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse (art. R182 à R200)](#254)
+      - [Titre Ier : Election des conseillers régionaux (art. R183 à R190)](#255)
+        - [Chapitre V : Déclarations de candidatures (art. R183 à R184)](#256)
+        - [Chapitre VI : Propagande (art. R186)](#257)
+        - [Chapitre VIII : Opérations de vote (art. R188 à R189-2)](#258)
+        - [Chapitre X : Contentieux (art. R190)](#259)
+      - [Titre  II : Election des conseillers à l'Assemblée de Corse (art. R191 à R200)](#260)
+        - [Chapitre V : Déclarations de candidature (art. R191 à R192)](#261)
+        - [Chapitre VI : Propagande (art. R195 à R196)](#262)
+        - [Chapitre VII : Opérations de vote (art. R198 à R199)](#263)
+        - [Chapitre X : Contentieux (art. R200)](#264)
+    - [Livre V : Dispositions applicables à la Nouvelle-Calédonie, à la Polynésie française et aux îles  Wallis et Futuna (art. R201 à R283)](#265)
+      - [Titre Ier : Dispositions générales (art. R201 à R213-2)](#266)
+        - [Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna (art. R201 à R212)](#267)
+        - [Chapitre II : Dispositions propres à la Nouvelle-Calédonie (art. R213)](#268)
+        - [Chapitre III : Dispositions propres aux îles Wallis et Futuna (art. R213-1 à R213-1-1)](#269)
+        - [Chapitre IV : Dispositions propres à la Polynésie française (art. R213-2)](#270)
+      - [Titre II : Election des députés (art. R214 à R218-1)](#271)
+        - [Chapitre Ier : Dispositions générales (art. R214)](#272)
+        - [Chapitre II : Régime des inéligibilités (art. R**215)](#273)
+        - [Chapitre III : Candidatures (art. R216)](#274)
+        - [Chapitre IV : Recensement des votes (art. R217 à R218)](#275)
+        - [Chapitre V :  Dispositions propres à la Polynésie française (art. R218-1)](#276)
+      - [Titre III : Dispositions applicables à l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie (art. R219 à R241)](#277)
+        - [Chapitre Ier : Liste électorale spéciale (art. R219 à R231)](#278)
+          - [Section 1 : Etablissement de la liste électorale spéciale (art. R219 à R228)](#279)
+          - [Section 2 : Inscription en dehors des périodes de révision (art. R229 à R230)](#280)
+          - [Section 3 : Carte électorale spéciale (art. R231)](#281)
+        - [Chapitre II : Candidatures et bulletins de vote (art. R232 à R236)](#282)
+        - [Chapitre III : Propagande (art. R237)](#283)
+        - [Chapitre IV : Opérations de vote et recensement (art. R238 à R241)](#284)
+      - [Titre IV : Dispositions applicables à l'élection des représentants à l'assemblée de la Polynésie française (art. R242 à R253)](#285)
+        - [Chapitre Ier : Candidatures et bulletins de vote (art. R242 à R246)](#286)
+        - [Chapitre II : Propagande (art. R247 à R249-1)](#287)
+        - [Chapitre III : Opérations de vote et recensement (art. R250 à R253)](#288)
+      - [Titre V : Dispositions applicables à l'élection des membres de l'assemblée territoriale des îles  Wallis et Futuna (art. R254 à R264)](#289)
+        - [Chapitre Ier : Candidatures et bulletins de vote (art. R254 à R258)](#290)
+        - [Chapitre II : Propagande (art. R259 à R260)](#291)
+        - [Chapitre III : Opérations de vote et recensement (art. R261 à R264)](#292)
+      - [Titre VI : Dispositions applicables à l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française (art. R265 à R270)](#293)
+        - [Chapitre Ier : Dispositions communes (art. R265)](#294)
+        - [Chapitre II : Dispositions particulières à la Nouvelle-Calédonie (art. R267)](#295)
+        - [Chapitre III : Dispositions particulières à la Polynésie française (art. R268 à R270)](#296)
+      - [Titre VII : Dispositions applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et  Futuna (art. R271 à R283)](#297)
+        - [Chapitre Ier : Dispositions générales (art. R271 à R272)](#298)
+        - [Chapitre II : Régime des inéligibilités (art. R**273)](#299)
+        - [Chapitre III : Election des délégués des conseils municipaux en Nouvelle-Calédonie et en Polynésie française (art. R274 à R276)](#300)
+        - [Chapitre IV : Propagande (art. R277)](#301)
+        - [Chapitre V : Opérations préparatoires au scrutin (art. R278)](#302)
+        - [Chapitre VI : Opérations de vote (art. R279 à R283)](#303)
+    - [Livre VI : Dispositions particulières à Mayotte, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon (art. R284 à R346)](#304)
+      - [Titre Ier : Dispositions particulières à Mayotte (art. R284 à R300)](#305)
+        - [Chapitre Ier : Dispositions générales (art. R284 à R285)](#306)
+        - [Chapitre III :  Dispositions applicables à l'élection des conseillers généraux de Mayotte (art. R298 à R300)](#307)
+      - [Titre II : Dispositions particulières à Saint-Barthélemy (art. R303 à R317)](#308)
+        - [Chapitre Ier : Dispositions générales (art. R303 à R307)](#309)
+        - [Chapitre II : Dispositions applicables à l'élection du député (art. R308)](#310)
+        - [Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Barthélemy (art. R309 à R317)](#311)
+      - [Titre III : Dispositions particulières à Saint-Martin (art. R318 à R332)](#312)
+        - [Chapitre Ier : Dispositions générales (art. R318 à R322)](#313)
+        - [Chapitre II : Dispositions applicables à l'élection du député (art. R323)](#314)
+        - [Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Martin (art. R324 à R332)](#315)
+      - [Titre IV : Dispositions particulières à Saint-Pierre-et-Miquelon (art. R333 à R346)](#316)
+        - [Chapitre Ier : Dispositions générales (art. R333 à R337)](#317)
+        - [Chapitre II : Dispositions applicables à l'élection du député (art. R338)](#318)
+        - [Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Pierre-et-Miquelon (art. R339 à R346)](#319)
+    - [Livre VI bis : Election des conseillers à l'assemblée de Guyane et des conseillers à l'assemblée de Martinique (art. R347 à R358)](#320)
+      - [Titre Ier : Election des conseillers à l'assemblée de Guyane (art. R347 à R348)](#321)
+      - [Titre II : Election des conseillers à l'assemblée de Martinique (art. R349 à R350)](#322)
+      - [Titre III : Dispositions communes (art. R351 à R358)](#323)
+        - [Chapitre III : Déclarations de candidature (art. R351 à R352)](#324)
+        - [Chapitre IV : Propagande (art. R353 à R354)](#325)
+        - [Chapitre VI : Opérations de vote (art. R355 à R357)](#326)
+        - [Chapitre VIII : Contentieux (art. R358)](#327)
+  - [Annexes (art. Annexe tableau n° 1 à Annexe tableau n° 7)](#328)
+    - [Tableau des circonscriptions électorales des départements (élection des députés) (art. Annexe tableau n° 1)](#329)
+    - [Tableau des circonscriptions électorales des départements (élection des députés) (1). (art. Annexe tableau n° 1 (suite))](#330)
+    - [Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés). (art. Annexe tableau n° 1 bis)](#331)
+    - [Tableau des circonscriptions électorales des français établis hors de France (art. Annexe tableau n° 1 ter)](#332)
+    - [Tableau des secteurs pour l'élection des membres du conseil de Paris (art. Annexe tableau n° 2)](#333)
+    - [Tableau des secteurs pour l'élection des conseillers municipaux de Lyon (art. Annexe tableau n° 3)](#334)
+    - [Tableau des secteurs pour l'élection des conseillers municipaux de Marseille. (art. Annexe tableau n° 4)](#335)
+    - [Répartition des sièges de sénateurs entre les séries (art. Annexe tableau n° 5)](#336)
+    - [Election des sénateurs (art. Annexe tableau n° 6)](#337)
+      - [Nombre de sénateurs représentant les départements (art. Annexe tableau n° 6)](#338)
+    - [Effectif des conseils régionaux et nombre de candidats par section départementale (art. Annexe tableau n° 7)](#339)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires<a id=2></a>
@@ -828,13 +833,16 @@ _Modifié par_:
 
 L'inscription sur les listes électorales est obligatoire.
 
-Des décrets en Conseil d'Etat règlent les conditions d'application du présent article.
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Cité par_:
 
@@ -843,7 +851,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1231 du 9 octobre 2006 - art. 1 () JORF 10 octobre 2006
+  - Loi n°2016-1048 du 1er août 2016 - art. 1
 
 
 ###### Article L10
@@ -879,33 +887,41 @@ _Cité par_:
 
 ###### Article L11
 
-Sont inscrits sur la liste électorale, sur leur demande :
+I.- Sont inscrits sur la liste électorale de la commune, sur leur demande :
 
-1° Tous les électeurs qui ont leur domicile réel dans la commune ou y habitent depuis six mois au moins ;
+1° Tous les électeurs qui ont leur domicile réel dans la commune ou y habitent depuis six mois au moins et leurs enfants de
+moins de 26 ans ;
 
-2° Ceux qui figurent pour la cinquième fois sans interruption, l'année de la demande d'inscription, au rôle d'une des
+2° Ceux qui figurent pour la deuxième fois sans interruption, l'année de la demande d'inscription, au rôle d'une des
 contributions directes communales et, s'ils ne résident pas dans la commune, ont déclaré vouloir y exercer leurs droits
 électoraux. Tout électeur ou toute électrice peut être inscrit sur la même liste que son conjoint au titre de la présente
 disposition ;
 
-3° Ceux qui sont assujettis à une résidence obligatoire dans la commune en qualité de fonctionnaires publics.
+2° bis Ceux qui, sans figurer au rôle d'une des contributions directes communales, ont, pour la deuxième fois sans
+interruption l'année de la demande d'inscription, la qualité de gérant ou d'associé majoritaire ou unique d'une société
+figurant au rôle, dans des conditions déterminées par décret en Conseil d'Etat ;
 
-Sont également inscrits, dans les mêmes conditions, les citoyens qui, ne remplissant pas les conditions d'âge et de résidence
-ci-dessus indiquées lors de la formation des listes, les rempliront avant la clôture définitive.
+3° Ceux qui sont assujettis à une résidence obligatoire dans la commune en qualité de fonctionnaires.
 
-L'absence de la commune résultant du service national ne porte aucune atteinte aux règles ci-dessus édictées pour
-l'inscription sur les listes électorales.
+II.-Sous réserve qu'elles répondent aux autres conditions exigées par la loi, sont inscrites d'office sur la liste électorale
+de la commune de leur domicile réel, en vue de participer à un scrutin : 
+
+1° Sans préjudice du 3° de l'article L. 30, les personnes qui ont atteint l'âge prévu par la loi pour être électeur à la date
+de ce scrutin ou, lorsque le mode de scrutin permet un second tour, à la date à laquelle ce second tour a vocation à être
+organisé ; 
+
+2° Sans préjudice du 4° du même article L. 30, les personnes qui viennent d'acquérir la nationalité française.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Loi n°66-1022 1966-12-29 art. 1 JORF 30 décembre 1966
-  - Loi n°75-1329 1975-12-31 art. 1 JORF 1er janvier 1976
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Cité par_:
 
@@ -934,146 +950,9 @@ _Cité par_:
   - Code électoral - art. R5 (VD)
   - Code électoral - art. R6 (VD)
 
-
-###### Article L11-1
-
-Sans préjudice de l'application des dispositions de l'article L. 11, sont inscrites d'office sur la liste électorale de la
-commune de leur domicile réel les personnes qui remplissent la condition d'âge depuis la dernière clôture définitive des
-listes électorales ou la rempliront avant la prochaine clôture définitive de ces listes, sous réserve qu'elles répondent aux
-autres conditions prescrites par la loi.
-
-**Nota:**
-
-Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
-n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Créé par_:
-
-  - Loi n°97-1027 du 10 novembre 1997 - art. 1 () JORF 11 novembre 1997
-
-**Liens**:
-
-  - TXT_SOURCE: Arrêté du 28 novembre 1997
-  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 5 (V)
-  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 6 (V)
-  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 7 (V)
-
-_Cité par_:
-
-  - Arrêté du 28 novembre 1997 - art. 1 (V)
-  - Arrêté du 28 novembre 1997 - art. 6 (V)
-  - Décret n°97-1109 du 28 novembre 1997 - art. 3 (V)
-  - Loi organique n°99-209 du 19 mars 1999 - art. 189 (V)
-  - Loi n°2007-1720 du 7 décembre 2007 - art. 5 (V)
-  - Code électoral - art. L11-2 (VT)
-  - Code électoral - art. L17-1 (VT)
-  - Code électoral - art. R6 (V)
-
-_Abrogé par_:
+_Modifié par_:
 
   - Loi n°2016-1048 du 1er août 2016 - art. 1
-
-_Cite_:
-
-  - Code électoral - art. L11
-
-
-###### Article L11-2
-
-Lors de la révision des listes électorales précédant la tenue d'élections générales organisées à leur terme normal au mois de
-mars, les dispositions de l'article L. 11-1 sont applicables aux personnes qui rempliront la condition d'âge entre la clôture
-définitive des listes électorales et la date du scrutin. 
-
-Au cas où des élections générales arrivant à leur terme normal sont organisées postérieurement au mois de mars, sont
-inscrites d'office sur la liste électorale de leur domicile réel les personnes qui remplissent la condition d'âge entre la
-dernière clôture définitive des listes et la date du scrutin, sous réserve qu'elles répondent aux autres conditions
-prescrites par la loi.
-
-**Nota:**
-
-Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
-n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
-
-Se reporter aux dispositions du III dudit article 5 en ce qui concerne les dérogations aux I et I du même article.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 du 27 octobre 1964
-
-_Créé par_:
-
-  - Loi n°97-1027 du 10 novembre 1997 - art. 2 () JORF 11 novembre 1997
-
-_Cité par_:
-
-  - Décret n°2002-346 du 13 mars 2002 - art. 2 (V)
-  - Décret n°2002-825 du 3 mai 2002 - art. 4 (V)
-  - Décret n°2002-888 du 8 mai 2002 - art. 4 (V)
-  - Décret n°2002-1328 du 5 novembre 2002 - art. 3 (V)
-  - Décret n°2002-1329 du 5 novembre 2002 - art. 3 (V)
-  - Décret n°2002-1505 du 23 décembre 2002 - art. 3 (V)
-  - Décret n°2002-1506 du 23 décembre 2002 - art. 3 (V)
-  - Décret n°2004-396 du 6 mai 2004 - art. 6 (V)
-  - Décret n°2007-227 du 21 février 2007 - art. 2 (V)
-  - Décret n°2007-589 du 24 avril 2007 - art. 4 (V)
-  - Décret n°2007-1468 du 15 octobre 2007 - art. 2 (V)
-  - Décret n°2007-1469 du 15 octobre 2007 - art. 2 (V)
-  - Décret n°2007-1523 du 25 octobre 2007 - art. 2 (V)
-  - Décret n°2007-1751 du 14 décembre 2007 - art. 2 (V)
-  - Décret n°2008-153 du 20 février 2008 - art. 2 (V)
-  - Décret n°2008-307 du 3 avril 2008 - art. 2 (V)
-  - Décret n°2008-329 du 9 avril 2008 - art. 2 (V)
-  - Décret n°2008-725 du 22 juillet 2008 - art. 2 (V)
-  - Décret n°2008-1039 du 8 octobre 2008 - art. 2 (V)
-  - Décret n°2008-1079 du 22 octobre 2008 - art. 2 (V)
-  - Décret n°2009-456 du 23 avril 2009 - art. 5 (V)
-  - Décret n°2009-1021 du 26 août 2009 - art. 2 (V)
-  - Décret n°2012-256 du 22 février 2012 - art. 2 (V)
-  - Décret n°2012-558 du 25 avril 2012 - art. 3 (V)
-  - Décret n°2013-857 du 26 septembre 2013 - art. 3 (V)
-  - Décret n°2014-379 du 29 mars 2014 - art. 5 (V)
-  - Décret n°2014-396 du 11 avril 2014 - art. 2 (V)
-  - Décret n°2014-458 du 7 mai 2014 - art. 2 (V)
-  - Décret n°2014-468 du 9 mai 2014 - art. 2 (V)
-  - Décret n°2014-491 du 16 mai 2014 - art. 2 (V)
-  - Décret n°2014-1233 du 23 octobre 2014 - art. 2 (V)
-  - Décret n°2014-1424 du 28 novembre 2014 - art. 2 (V)
-  - Décret n°2014-1506 du 15 décembre 2014 - art. 2 (V)
-  - Décret n°2015-939 du 30 juillet 2015 - art. 2 (V)
-  - Décret n°2017-223 du 24 février 2017 - art. 2 (V)
-  - Décret n°2017-1464 du 11 octobre 2017 (V)
-  - Décret n°2017-1464 du 11 octobre 2017 - art. 2 (V)
-  - Décret n°2017-1685 du 14 décembre 2017 - art. 2 (V)
-  - Décret n°2017-1693 du 15 décembre 2017 - art. 2 (V)
-  - Décret n°2018-350 du 14 mai 2018 - art. 5 (V)
-  - Décret n°2018-844 du 5 octobre 2018 - art. 2 (V)
-  - Décret n°2019-188 du 13 mars 2019 - art. 5 (V)
-  - Code électoral - art. L16 (V)
-  - Code électoral - art. L17 (VD)
-  - Code électoral - art. L17-1 (VT)
-  - Code électoral - art. R10 (V)
-  - Code électoral - art. R17 (V)
-  - Code électoral - art. R7-1 (VT)
-
-_Abrogé par_:
-
-  - Loi n°2016-1048 du 1er août 2016 - art. 1
-
-_Cite_:
-
-  - Code électoral - art. L11-1
 
 
 ###### Article L12
@@ -1259,22 +1138,60 @@ _Cite_:
 
 ###### Article L16
 
-Les listes électorales sont permanentes. 
+I.-La liste électorale de la commune est extraite d'un répertoire électoral unique et permanent. Ce répertoire est tenu par
+l'Institut national de la statistique et des études économiques aux seules fins de gestion du processus électoral. A Paris,
+Marseille et Lyon, la liste électorale est extraite par arrondissement. 
 
-Elles sont l'objet d'une révision annuelle. 
+Le répertoire électoral unique comprend les nom, prénoms, date et lieu de naissance, domicile ou lieu de résidence de chaque
+électeur, ainsi que toutes autres informations définies par décret en Conseil d'Etat, pris après avis de la Commission
+nationale de l'informatique et des libertés, nécessaires à la bonne tenue du répertoire. 
 
-Un décret détermine les règles et les formes de cette opération. 
+L'indication du domicile ou de la résidence comporte celle de la rue et du numéro, là où il en existe, ainsi que l'indication
+du bureau de vote correspondant au périmètre géographique dont relève l'électeur et qui lui a été attribué par le maire. 
 
-L'élection est faite sur la liste révisée pendant toute l'année qui suit la clôture de la liste. 
+Pour les électeurs mentionnés à l'article L. 15-1, l'indication du domicile ou de la résidence est remplacée par celle de
+l'adresse de l'organisme d'accueil au titre duquel ils ont été inscrits sur la liste électorale de la commune. 
 
-Toutefois, quand il a été fait application des dispositions du deuxième alinéa de l'article L. 11-2, la liste électorale
-complétée en conséquence entre en vigueur à la date des élections générales.
+II.-Le maire transmet l'ensemble des informations mentionnées au I du présent article à l'Institut national de la statistique
+et des études économiques. En cas de déménagement d'un électeur au sein de la commune, le maire informe dans un délai de sept
+jours l'Institut national de la statistique et des études économiques de son changement d'adresse ainsi que, le cas échéant,
+du changement d'affectation de bureau de vote. 
+
+Pour l'application du II de l'article L. 11, l'Institut national de la statistique et des études économiques reçoit les
+informations nominatives portant sur les nom, prénoms, nationalité, date et lieu de naissance et adresse des personnes
+concernées et procède directement aux inscriptions dans le répertoire électoral unique. 
+
+III.-L'Institut national de la statistique et des études économiques procède directement dans le répertoire électoral
+unique : 
+
+1° Aux inscriptions et radiations ordonnées par l'autorité judiciaire ; 
+
+2° Aux radiations des électeurs décédés et des électeurs qui n'ont plus le droit de vote. 
+
+Lorsqu'une personne déjà inscrite dans le répertoire électoral unique s'inscrit comme électeur dans une nouvelle commune ou
+circonscription consulaire, l'Institut national de la statistique et des études économiques met à jour ce répertoire en ne
+retenant que la dernière inscription de cet électeur. 
+
+L'Institut national de la statistique et des études économiques transmet les informations prévues au présent III au maire des
+communes concernées. 
+
+IV.-Les informations nécessaires à la tenue et à la mise à jour du répertoire électoral unique sont transmises par voie
+électronique. 
+
+Les règles relatives au traitement de ces informations sont fixées dans les conditions définies par la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés. Un décret en Conseil d'Etat, pris après avis de la
+Commission nationale de l'informatique et des libertés, fixe les conditions d'application du présent article.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Cité par_:
 
@@ -1294,38 +1211,29 @@ _Cité par_:
   - Code électoral - art. L62-1 (VD)
   - Code électoral - art. LO227-3 (VD)
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Loi n°97-1027 1997-11-10 art. 2 IV
+  - Loi n°78-17 du 6 janvier 1978
+  - Code électoral - art. L11
+  - Code électoral - art. L15-1
 
 _Modifié par_:
 
-  - Loi n°97-1027 du 10 novembre 1997 - art. 2 ()
-
-_Cite_:
-
-  - Code électoral - art. L11-2 (V)
+  - Loi n°2016-1048 du 1er août 2016 - art. 2
 
 
 ###### Article L17
 
-A chaque bureau de vote est affecté un périmètre géographique. 
+Les listes électorales sont permanentes. Les demandes d'inscription sur les listes électorales, en vue de participer à un
+scrutin, sont déposées au plus tard le sixième vendredi précédant ce scrutin.
 
-Une liste électorale est dressée pour chaque bureau de vote par une commission administrative constituée pour chacun de ces
-bureaux et composée du maire ou de son représentant, du délégué de l'administration désigné par le préfet, ou le sous-préfet,
-et d'un délégué désigné par le président du tribunal de grande instance. 
+**Nota:**
 
-Dans les villes et communes comprenant plus de 10 000 habitants, le délégué de l'administration est choisi par le préfet en
-dehors des membres du conseil municipal de la collectivité intéressée. 
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
 
-Lorsqu'il est fait application des dispositions du deuxième alinéa de l'article L. 11-2, la commission administrative est
-réunie et procède aux inscriptions au plus tard le premier jour du deuxième mois précédant celui des élections générales. 
-
-En outre, une liste générale des électeurs de la commune est dressée, d'après les listes spéciales à chaque bureau de vote,
-par une commission administrative composée du maire, d'un délégué de l'administration désigné par le préfet ou le sous-
-préfet, et d'un délégué désigné par le président du tribunal de grande instance. 
-
-A Paris, Lyon et Marseille, cette liste générale est dressée par arrondissement.
+Se reporter aux dispositions de l'article 6 du décret n° 2018-350 du 14 mai 2018 en ce qui concerne l'application des
+dispositions de la loi n° 2016-1048 du 1er août 2016 entre le 1er janvier 2019 et le 9 janvier 2019.
 
 **Liens relatifs à cet article**
 
@@ -1357,36 +1265,49 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°97-1027 1997-11-10 art. 1 IV
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Loi n°97-1027 du 10 novembre 1997 - art. 2 ()
+  - Loi n°2016-1048 du 1er août 2016 - art. 2
 
 _Cite_:
 
-  - Code électoral - art. L11-2 (V)
+  - Code électoral - art. L11-2
 
 
-###### Article L17-1
+###### Article L18
 
-Pour l'application des dispositions des articles L. 11-1 et L. 11-2, les autorités gestionnaires du fichier du recensement
-établi en application du code du service national et des fichiers des organismes servant les prestations de base des régimes
-obligatoires d'assurance maladie transmettent aux commissions administratives les informations nominatives portant
-exclusivement sur les nom, prénoms, nationalité, date et lieu de naissance et adresse des personnes remplissant la condition
-d'âge mentionnée auxdits articles. Les informations contenues dans les fichiers sont transmises aux commissions
-administratives par l'intermédiaire de l'Institut national de la statistique et des études économiques. 
+I. - Le maire vérifie si la demande d'inscription de l'électeur répond aux conditions mentionnées au I de l'article L. 11 ou
+aux articles L. 12 à L. 15-1. Il statue sur cette demande dans un délai de cinq jours à compter de son dépôt. 
 
-Les commissions administratives font détruire les informations qui leur sont transmises soit à l'expiration des délais des
-recours prévus aux articles L. 20 et L. 25, soit, dans le cas où un recours a été introduit, après l'intervention de la
-décision définitive. 
+Le maire radie les électeurs qui ne remplissent plus aucune des conditions mentionnées au premier alinéa du présent I à
+l'issue d'une procédure contradictoire. 
 
-Les règles relatives au traitement des informations nominatives prévues au présent article sont fixées dans les conditions
-définies par la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+II.-Les décisions prises par le maire en application du I du présent article sont notifiées aux électeurs intéressés dans un
+délai de deux jours. Elles sont transmises dans le même délai à l'Institut national de la statistique et des études
+économiques, aux fins de mise à jour du répertoire électoral unique. 
+
+III.-Tout recours contentieux formé par l'électeur intéressé contre une décision prise au titre du présent article est
+précédé d'un recours administratif préalable, à peine d'irrecevabilité du recours contentieux. 
+
+Ce recours administratif préalable est formé dans un délai de cinq jours à compter de la notification de la décision prévue
+au II du présent article. Le recours est examiné par la commission mentionnée à l'article L. 19. 
+
+La décision de la commission est notifiée dans un délai de deux jours à l'électeur intéressé, au maire et à l'Institut
+national de la statistique et des études économiques. 
+
+Si la commission de contrôle n'a pas statué dans les trente jours sur un recours administratif préalable, elle est réputée
+l'avoir rejeté. Si, lors de la réunion prévue au III du même article L. 19, la commission de contrôle n'a pas statué sur les
+recours administratifs préalables formés devant elle, elle est réputée les avoir rejetés. 
+
+IV.-Le recours contentieux est formé dans un délai de sept jours à compter de : 
+
+1° La notification de la décision de la commission de contrôle ; 
+
+2° La décision implicite de rejet mentionnée au dernier alinéa du III du présent article. 
+
+Le recours contentieux est examiné dans les conditions prévues aux deux derniers alinéas du I de l'article L. 20.
 
 **Nota:**
 
@@ -1398,63 +1319,6 @@ n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
 _Codifié par_:
 
   - Décret n°64-1086 du 27 octobre 1964
-
-_Cite_:
-
-  - Loi n°78-17 du 6 janvier 1978
-  - Code électoral - art. L11-1
-  - Code électoral - art. L11-2
-  - Code électoral - art. L20 (VD)
-  - Code électoral - art. L25 (VT)
-
-_Cité par_:
-
-  - Décret n°85-420 du 3 avril 1985 - art. 2 (V)
-  - Arrêté du 12 février 1996 - art. 3 (V)
-  - Arrêté du 28 novembre 1997 - art. 1 (V)
-  - Décret n°98-733 du 20 août 1998 - art. 9 (V)
-  - Loi organique n°99-209 du 19 mars 1999 - art. 189 (V)
-  - Loi organique n°99-209 du 19 mars 1999 - art. 218-2 (V)
-  - Décret n°2018-286 du 19 avril 2018 - art. 3 (V)
-  - Code électoral - art. R213-2 (V)
-  - Code électoral - art. R6 (V)
-  - Code électoral - art. R7-1 (VT)
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°97-1027 1997-11-10 art. 1 IV
-  - TXT_SOURCE: Arrêté du 28 novembre 1997
-  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 4 (V)
-  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 5 (V)
-  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 6 (V)
-  - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 7 (V)
-
-_Créé par_:
-
-  - Loi n°97-1027 du 10 novembre 1997 - art. 3 ()
-
-_Abrogé par_:
-
-  - Loi n°2016-1048 du 1er août 2016 - art. 2
-
-
-###### Article L18
-
-La commission administrative chargée de la révision de la liste électorale doit faire figurer sur cette dernière les nom,
-prénoms, domicile ou résidence de tous les électeurs. L'indication de domicile ou de résidence comporte obligatoirement
-l'indication de la rue et du numéro là où il en existe. 
-
-Toutefois, pour les électeurs mentionnés à l'article L. 15-1, l'indication du domicile ou de la résidence est remplacée par
-celle de l'adresse de l'organisme d'accueil au titre duquel ils ont été inscrits sur la liste électorale.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 _Cité par_:
 
@@ -1485,22 +1349,106 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°98-657 du 29 juillet 1998 - art. 81 ()
+  - Loi n°2016-1048 du 1er août 2016 - art. 2
 
 _Cite_:
 
-  - Code électoral - art. L15-1 (V)
+  - Code électoral - art. L11
+  - Code électoral - art. L12
 
 
 ###### Article L19
 
-La date et le lieu de naissance de chaque électeur doivent obligatoirement être portés sur les listes électorales.
+I. - Dans chaque commune ou, à Paris, Marseille et Lyon, dans chaque arrondissement, une commission de contrôle statue sur
+les recours administratifs préalables prévus au III de l'article L. 18. 
+
+II.-La commission s'assure également de la régularité de la liste électorale. A cette fin, elle a accès à la liste des
+électeurs inscrits dans la commune extraite du répertoire électoral unique et permanent. 
+
+Elle peut, à la majorité de ses membres, au plus tard le vingt-et-unième jour avant chaque scrutin, réformer les décisions
+prévues au II de l'article L. 18 ou procéder à l'inscription ou à la radiation d'un électeur omis ou indûment inscrit.
+Lorsqu'elle radie un électeur, sa décision est soumise à une procédure contradictoire. 
+
+La décision de la commission est notifiée dans un délai de deux jours à l'électeur intéressé, au maire et à l'Institut
+national de la statistique et des études économiques. 
+
+Le recours contentieux est formé dans un délai de sept jours à compter de la notification de la décision de la commission. Il
+est examiné dans les conditions prévues aux deux derniers alinéas du I de l'article L. 20. 
+
+III.-La commission se réunit au moins une fois par an et, en tout état de cause, entre le vingt-quatrième et le vingt-et-
+unième jour avant chaque scrutin. 
+
+Sa composition est rendue publique dans des conditions fixées par décret en Conseil d'Etat, au moins une fois par an et, en
+tout état de cause, avant sa réunion. Ses réunions sont publiques. 
+
+Le maire, à sa demande ou à l'invitation de la commission, présente ses observations. 
+
+IV.-Dans les communes de moins de 1 000 habitants, la commission est composée : 
+
+1° D'un conseiller municipal pris dans l'ordre du tableau parmi les membres prêts à participer aux travaux de la commission,
+ou, à défaut, du plus jeune conseiller municipal. Le maire, les adjoints titulaires d'une délégation et les conseillers
+municipaux titulaires d'une délégation en matière d'inscription sur la liste électorale ne peuvent siéger au sein de la
+commission en application du présent 1° ; 
+
+2° D'un délégué de l'administration désigné par le représentant de l'Etat dans le département ; 
+
+3° D'un délégué désigné par le président du tribunal de grande instance. 
+
+Lorsqu'une délégation spéciale est nommée en application de l'article L. 2121-36 du code général des collectivités
+territoriales, le conseiller municipal mentionné au 1° du présent IV est remplacé par un membre de la délégation spéciale
+désigné par le représentant de l'Etat dans le département. 
+
+Les conseillers municipaux et les agents municipaux de la commune, de l'établissement public de coopération intercommunale ou
+des communes membres de celui-ci ne peuvent pas être désignés en application des 2° et 3° du présent IV. 
+
+V.-Dans les communes de 1 000 habitants et plus dans lesquelles trois listes au moins ont obtenu des sièges au conseil
+municipal lors de son dernier renouvellement, la commission est composée : 
+
+1° De trois conseillers municipaux appartenant à la liste ayant obtenu le plus grand nombre de sièges, pris dans l'ordre du
+tableau parmi les membres prêts à participer aux travaux de la commission, à l'exception du maire, des adjoints titulaires
+d'une délégation et des conseillers municipaux titulaires d'une délégation en matière d'inscription sur la liste
+électorale ; 
+
+2° De deux conseillers municipaux appartenant respectivement à la deuxième et à la troisième listes ayant obtenu le plus
+grand nombre de sièges, pris dans l'ordre du tableau parmi les membres prêts à participer aux travaux de la commission, à
+l'exception du maire, des adjoints titulaires d'une délégation et des conseillers municipaux titulaires d'une délégation en
+matière d'inscription sur la liste électorale. 
+
+En cas d'égalité en nombre de sièges entre plusieurs listes, l'ordre de priorité est déterminé par la moyenne d'âge la plus
+élevée des conseillers municipaux élus de chaque liste. 
+
+A Paris, Marseille et Lyon, les commissions de chaque arrondissement sont composées de membres du conseil d'arrondissement
+désignés dans les mêmes conditions. 
+
+VI.-Dans les communes de 1 000 habitants et plus dans lesquelles deux listes ont obtenu des sièges au conseil municipal lors
+de son dernier renouvellement, la commission est composée : 
+
+1° De trois conseillers municipaux appartenant à la liste ayant obtenu le plus grand nombre de sièges, pris dans l'ordre du
+tableau parmi les membres prêts à participer aux travaux de la commission, à l'exception du maire, des adjoints titulaires
+d'une délégation et des conseillers municipaux titulaires d'une délégation en matière d'inscription sur la liste
+électorale ; 
+
+2° De deux conseillers municipaux appartenant à la deuxième liste ayant obtenu le plus grand nombre de sièges, pris dans
+l'ordre du tableau parmi les membres prêts à participer aux travaux de la commission, à l'exception du maire, des adjoints
+titulaires d'une délégation et des conseillers municipaux titulaires d'une délégation en matière d'inscription sur la liste
+électorale. 
+
+VII.-La commission est composée conformément au IV dans les communes de 1 000 habitants et plus : 
+
+1° Dans lesquelles une seule liste a obtenu des sièges au conseil municipal lors de son dernier renouvellement ; 
+
+2° Ou dans lesquelles il est impossible de constituer une commission complète selon les règles prévues aux V et VI.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Cité par_:
 
@@ -1529,19 +1477,68 @@ _Cité par_:
   - Code électoral - art. R7 (VD)
   - Code électoral - art. R99 (V)
 
+_Modifié par_:
+
+  - Loi n°2016-1048 du 1er août 2016 - art. 3
+
+
+###### Article L19-1
+
+La liste électorale est rendue publique dans des conditions fixées par décret en Conseil d'Etat, au moins une fois par an et,
+en tout état de cause, le lendemain de la réunion de la commission de contrôle, préalable à chaque scrutin, prévue au III de
+l'article L. 19.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-1048 du 1er août 2016 - art. 3
+
+_Cite_:
+
+  - Code électoral - art. L19
+
 
 ###### Article L20
 
-Le préfet peut, dans les deux jours qui suivent la réception du tableau contenant les additions et retranchements faits à la
-liste électorale, déférer au tribunal administratif les opérations de la commission administrative, s'il estime que les
-formalités prescrites à l'article L. 18 n'ont pas été observées. Le tout sans préjudice, en cas de fraude, de l'application
-de l'article L. 113.
+I.-Tout électeur inscrit sur la liste électorale de la commune peut demander, auprès du tribunal d'instance, l'inscription ou
+la radiation d'un électeur omis ou indûment inscrit ou contester la décision de radiation ou d'inscription d'un électeur. Le
+représentant de l'Etat dans le département dispose du même droit. 
+
+Le recours est formé dans un délai de sept jours à compter de la publication de la liste électorale. 
+
+Le jugement du tribunal d'instance, qui se prononce en dernier ressort dans un délai de huit jours à compter du recours, est
+notifié dans un délai de deux jours aux parties, au maire et à l'Institut national de la statistique et des études
+économiques. 
+
+Un pourvoi en cassation peut être formé contre ce jugement dans un délai de dix jours à compter de sa notification. Le
+pourvoi n'est pas suspensif. L'arrêt rendu par la Cour de cassation est notifié aux parties, au maire et à l'Institut
+national de la statistique et des études économiques. 
+
+II.-Toute personne qui prétend avoir été omise de la liste électorale de la commune en raison d'une erreur purement
+matérielle ou avoir été radiée en méconnaissance de l'article L. 18 peut saisir le tribunal d'instance, qui a compétence pour
+statuer jusqu'au jour du scrutin. Le jugement du tribunal d'instance est notifié à l'électeur intéressé, au maire et à
+l'Institut national de la statistique et des études économiques. 
+
+Un pourvoi en cassation peut être formé contre ce jugement dans un délai de dix jours à compter de sa notification. Le
+pourvoi n'est pas suspensif. L'arrêt rendu par la Cour de cassation est notifié à l'électeur intéressé, au maire et à
+l'Institut national de la statistique et des études économiques.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Cité par_:
 
@@ -1558,6 +1555,7 @@ _Cité par_:
   - Code de commerce - art. L713-14 (VD)
   - Code de l'organisation judiciaire - art. R221-33 (VD)
   - Code rural et de la pêche maritime - art. L723-24 (VD)
+  - Code électoral - art. L17-1 (VT)
   - Code électoral - art. L18 (VD)
   - Code électoral - art. L32 (VD)
   - Code électoral - art. LO227-3 (VD)
@@ -1567,471 +1565,9 @@ _Cité par_:
   - Code électoral - art. R17 (VD)
   - Code électoral - art. R17-1 (Ab)
 
-_Cite_:
-
-  - Code électoral - art. L113 (V)
-
-
-###### Article L21
-
-Les listes sont déposées au secrétariat de la mairie, communiquées et publiées dans les conditions fixées par décret.
-
-**Nota:**
-
-Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
-n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 du 27 octobre 1964
-
-_Abrogé par_:
-
-  - Loi n°2016-1048 du 1er août 2016 - art. 5
-
-_Cité par_:
-
-  - Code électoral - art. R13 (M)
-
-
-###### Article L23
-
-L'électeur qui a été l'objet d'une radiation d'office de la part des commissions administratives désignées à l'article L. 17
-ou dont l'inscription a été contestée devant lesdites commissions est averti sans frais par le maire et peut présenter ses
-observations.
-
-**Nota:**
-
-Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
-n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (M)
-  - Loi organique n°99-209 du 19 mars 1999 - art. 219 (V)
-  - Décret n°2018-286 du 19 avril 2018 - art. 4 (V)
-  - Décret n°2018-286 du 19 avril 2018 - art. 8 (V)
-  - CODE DES COMMUNES. - art. R*173-10 (Ab)
-  - Code électoral - art. L34 (VT)
-  - Code électoral - art. R5 (V)
-  - Code électoral - art. R8 (V)
-
-_Codifié par_:
-
-  - Décret n°64-1086 du 27 octobre 1964
-
-_Abrogé par_:
-
-  - Loi n°2016-1048 du 1er août 2016 - art. 5
-
-_Cite_:
-
-  - Code électoral - art. L17
-
-
-###### Article L25
-
-Les décisions de la commission administrative peuvent être contestées par les électeurs intéressés devant le tribunal
-d'instance.
-
-Dans les mêmes conditions, tout électeur inscrit sur la liste électorale de la commune peut réclamer l'inscription ou la
-radiation d'un électeur omis ou indûment inscrit.
-
-Le même droit appartient au préfet ou sous-préfet.
-
-**Nota:**
-
-Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
-n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
-
-Se reporter aux dispositions du III dudit article 5 en ce qui concerne les dérogations aux dispositions des I et II du même
-article.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (M)
-  - Loi n°77-729 du 7 juillet 1977 - art. 2-3 (VT)
-  - Ordonnance n°77-1102 du 26 septembre 1977 - art. 4-3 (VT)
-  - Loi n°82-1061 du 17 décembre 1982 - art. 19 (Ab)
-  - Décret n°86-157 du 5 février 1986 - art. 4 (V)
-  - Loi n°87-369 du 5 juin 1987 - art. 5 (V)
-  - Décret n°87-376 du 11 juin 1987 - art. 7 (V)
-  - Loi n°91-428 du 13 mai 1991 - art. 85 (V)
-  - Décret n°91-739 du 18 juillet 1991 - art. 18 (Ab)
-  - Décret n°92-1043 du 28 septembre 1992 - art. 25 (Ab)
-  - Décret n°93-207 du 17 février 1993 - art. 4 (V)
-  - Décret n°93-216 du 5 février 1993 - art. 4 (V)
-  - Décret n°93-815 du 11 mai 1993 - art. 4 (V)
-  - Décret n°94-127 du 11 février 1994 - art. 4 (V)
-  - Décret n°94-147 du 16 février 1994 - art. 7 (V)
-  - Décret n°94-367 du 10 mai 1994 - art. 4 (V)
-  - Décret n°94-1072 du 14 décembre 1994 - art. 4 (P)
-  - Décret n°96-99 du 5 février 1996 - art. 3 (V)
-  - Décret n°96-136 du 21 février 1996 - art. 3 (V)
-  - Décret n°96-298 du 9 avril 1996 - art. 3 (V)
-  - Décret n°96-699 du 9 août 1996 - art. 4 (V)
-  - Décret n°96-794 du 12 septembre 1996 - art. 3 (V)
-  - Décret n°97-944 du 16 octobre 1997 - art. 4 (V)
-  - Décret n°97-945 du 16 octobre 1997 - art. 4 (V)
-  - Décret n°97-946 du 16 octobre 1997 - art. 5 (V)
-  - Décret du 5 novembre 1997 - art. 3 (V)
-  - Décret n°97-1173 du 23 décembre 1997 - art. 3 (V)
-  - Décret n°98-213 du 24 mars 1998 - art. 3 (V)
-  - Décret n°98-337 du 6 mai 1998 - art. 3 (V)
-  - Décret n°98-338 du 6 mai 1998 - art. 3 (V)
-  - Décret n°98-717 du 18 août 1998 - art. 3 (V)
-  - Décret n°98-733 du 20 août 1998 - art. 13 (V)
-  - Décret n°98-948 du 23 octobre 1998 - art. 3 (V)
-  - Décret n°99-42 du 21 janvier 1999 - art. 5 (V)
-  - Loi organique n°99-209 du 19 mars 1999 - art. 189 (V)
-  - Décret n°99-433 du 27 mai 1999 - art. 14 (V)
-  - Décret n°99-433 du 27 mai 1999 - art. 17 (Ab)
-  - Décret n°2000-974 du 5 octobre 2000 - art. 4 (V)
-  - Décret n°2001-169 du 22 février 2001 - art. 3 (V)
-  - Décret n°2002-825 du 3 mai 2002 - art. 4 (V)
-  - Décret n°2002-888 du 8 mai 2002 - art. 4 (V)
-  - Décret n°2002-1328 du 5 novembre 2002 - art. 3 (V)
-  - Décret n°2002-1329 du 5 novembre 2002 - art. 3 (V)
-  - Décret n°2002-1505 du 23 décembre 2002 - art. 3 (V)
-  - Décret n°2002-1506 du 23 décembre 2002 - art. 3 (V)
-  - Décret n°2003-95 du 4 février 2003 - art. 4 (V)
-  - Décret n°2003-114 du 14 février 2003 - art. 3 (V)
-  - Décret n°2003-115 du 14 février 2003 - art. 3 (V)
-  - Décret n°2003-389 du 24 avril 2003 - art. 4 (V)
-  - Décret n°2003-995 du 20 octobre 2003 - art. 5 (V)
-  - Décret n°2003-996 du 20 octobre 2003 - art. 5 (V)
-  - Décret n°2004-375 du 29 avril 2004 - art. 3 (V)
-  - Décret n°2004-396 du 6 mai 2004 - art. 6 (V)
-  - Décret n°2004-399 du 7 mai 2004 - art. 3 (V)
-  - Décret n°2004-409 du 13 mai 2004 - art. 3 (V)
-  - Décret n°2004-799 du 29 juillet 2004 - art. 8 (Ab)
-  - Décret n°2004-1036 du 1 octobre 2004 - art. 3 (V)
-  - Décret n°2004-1092 du 15 octobre 2004 - art. 3 (V)
-  - Décret n°2004-1353 du 4 décembre 2004 - art. 3 (V)
-  - Décret n°2005-46 du 24 janvier 2005 - art. 3 (V)
-  - Décret n°2005-823 du 21 juillet 2005 - art. 3 (V)
-  - Décret n°2005-857 du 28 juillet 2005 - art. 3 (V)
-  - Décret n°2005-858 du 28 juillet 2005 - art. 3 (V)
-  - Décret n°2005-969 du 10 août 2005 - art. 3 (V)
-  - Décret n°2005-970 du 10 août 2005 - art. 3 (V)
-  - Décret n°2005-1613 du 22 décembre 2005 - art. 8 (VD)
-  - Décret n°2005-1689 du 26 décembre 2005 - art. 4 (V)
-  - Décret n°2007-1468 du 15 octobre 2007 - art. 2 (V)
-  - Décret n°2007-1469 du 15 octobre 2007 - art. 2 (V)
-  - Décret n°2007-1523 du 25 octobre 2007 - art. 2 (V)
-  - Loi n°2007-1720 du 7 décembre 2007 - art. 5 (V)
-  - Décret n°2008-307 du 3 avril 2008 - art. 2 (V)
-  - Décret n°2008-329 du 9 avril 2008 - art. 2 (V)
-  - Décret n°2008-725 du 22 juillet 2008 - art. 2 (V)
-  - Décret n°2008-1039 du 8 octobre 2008 - art. 2 (V)
-  - Décret n°2008-1079 du 22 octobre 2008 - art. 2 (V)
-  - Décret n°2009-456 du 23 avril 2009 - art. 5 (V)
-  - Décret n°2009-1021 du 26 août 2009 - art. 2 (V)
-  - Décret n°2010-119 du 4 février 2010 - art. 5 (V)
-  - Décret n°2013-307 du 12 avril 2013 - art. 4 (V)
-  - Décret n°2014-127 du 14 février 2014 - art. 3 (V)
-  - Décret n°2014-379 du 29 mars 2014 - art. 5 (V)
-  - Décret n°2014-396 du 11 avril 2014 - art. 2 (V)
-  - Décret n°2014-458 du 7 mai 2014 - art. 2 (V)
-  - Décret n°2014-468 du 9 mai 2014 - art. 2 (V)
-  - Décret n°2014-491 du 16 mai 2014 - art. 2 (V)
-  - Décret n°2014-1233 du 23 octobre 2014 - art. 2 (V)
-  - Décret n°2014-1424 du 28 novembre 2014 - art. 2 (V)
-  - Décret n°2014-1506 du 15 décembre 2014 - art. 2 (V)
-  - Décret n°2015-882 du 17 juillet 2015 (V)
-  - Décret n°2015-898 du 22 juillet 2015 - art. 2 (V)
-  - Décret n°2015-939 du 30 juillet 2015 - art. 2 (V)
-  - Décret n°2016-62 du 29 janvier 2016 - art. 2 (V)
-  - Décret n°2016-63 du 29 janvier 2016 - art. 2 (V)
-  - Décret n°2016-64 du 29 janvier 2016 - art. 2 (V)
-  - Décret n°2016-262 du 4 mars 2016 - art. 2 (V)
-  - Décret n°2016-419 du 8 avril 2016 - art. 2 (V)
-  - Décret n°2016-420 du 8 avril 2016 - art. 2 (V)
-  - Décret n°2016-477 du 18 avril 2016 - art. 2 (V)
-  - Décret n°2017-223 du 24 février 2017 - art. 2 (V)
-  - Décret n°2017-1464 du 11 octobre 2017 (V)
-  - Décret n°2017-1464 du 11 octobre 2017 - art. 2 (V)
-  - Décret n°2017-1685 du 14 décembre 2017 - art. 2 (V)
-  - Décret n°2017-1693 du 15 décembre 2017 - art. 2 (V)
-  - Décret n°2018-40 du 23 janvier 2018 - art. 2 (V)
-  - Décret n°2018-145 du 1er mars 2018 - art. 2 (V)
-  - Décret n°2018-198 du 23 mars 2018 - art. 3 (V)
-  - Décret n°2018-286 du 19 avril 2018 - art. 4 (V)
-  - Décret n°2018-286 du 19 avril 2018 - art. 6 (V)
-  - Décret n°2018-350 du 14 mai 2018 - art. 3
-  - Décret n°2018-350 du 14 mai 2018 - art. 5 (V)
-  - Décret n°2018-350 du 14 mai 2018 - art. 6 (V)
-  - Décret n°2018-451 du 6 juin 2018 - art. 2 (V)
-  - Décret n°2018-605 du 11 juillet 2018 - art. 3 (V)
-  - Décret n°2018-677 du 30 juillet 2018 - art. 3 (An)
-  - Décret n°2018-708 du 3 août 2018 - art. 3 (V)
-  - Décret n°2018-712 du 6 août 2018 - art. 2 (V)
-  - Décret n°2018-844 du 5 octobre 2018 - art. 2 (V)
-  - Décret n°2019-188 du 13 mars 2019 - art. 5 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-3 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-16 (Ab)
-  - Code de commerce - art. L713-14 (V)
-  - Code de commerce - art. L723-3 (VD)
-  - Code de commerce - art. R713-5 (VD)
-  - Code de commerce - art. R723-3 (V)
-  - Code de commerce. - art. R713-40 (V)
-  - Code de l'organisation judiciaire - art. R221-33 (V)
-  - Code de la sécurité sociale. - art. D214-8 (Ab)
-  - Code de la sécurité sociale. - art. L214-4 (Ab)
-  - Code du travail - art. L513-3 (M)
-  - Code rural - art. L723-24 (VT)
-  - Code rural ancien - art. 1019 (Ab)
-  - Code électoral - art. L17-1 (VT)
-  - Code électoral - art. L34 (VT)
-  - Code électoral - art. L40 (VT)
-  - Code électoral - art. LO227-3 (V)
-  - Code électoral - art. R13 (V)
-  - Code électoral - art. R8 (V)
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
 _Modifié par_:
 
-  - Loi n°69-419 1969-05-10 art. 3 jorf 11 mai 1969
-  - Loi n°75-1329 1975-12-31 art. 3 jorf 3 janvier 1975
-  - Décret n°80-1075 1980-12-24 art. 1 jorf 28 décembre 1980
-
-_Abrogé par_:
-
-  - Loi n°2016-1048 du 1er août 2016 - art. 5
-
-
-###### Article L27
-
-La décision du juge du tribunal d'instance est en dernier ressort ; mais elle peut être déférée à la Cour de cassation.
-
-La Cour de cassation statue définitivement sur le pourvoi.
-
-**Nota:**
-
-Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
-n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
-
-Se reporter aux dispositions du III dudit article 5 en ce qui concerne les dérogations aux dispositions des I et II du même
-article.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°46-2769 du 27 novembre 1946 - art. 31 (M)
-  - Décret n°46-2769 du 27 novembre 1946 - art. 32 (M)
-  - Décret n°70-95 du 30 janvier 1970 - art. 16 (Ab)
-  - Décret n°70-158 du 26 février 1970 - art. 21 (Ab)
-  - Décret n°76-950 du 14 octobre 1976 - art. 12 (Ab)
-  - Ordonnance n°77-1102 du 26 septembre 1977 - art. 4-3 (VT)
-  - Décret n°79-394 du 17 mai 1979 - art. 22 (V)
-  - Décret n°79-807 du 18 septembre 1979 - art. 17 (Ab)
-  - Loi n°82-471 du 7 juin 1982 - art. 2 ter (Ab)
-  - Loi n°82-1061 du 17 décembre 1982 - art. 19 (Ab)
-  - Décret n°86-157 du 5 février 1986 - art. 4 (V)
-  - Décret n°91-739 du 18 juillet 1991 - art. 18 (Ab)
-  - Décret n°91-777 du 13 août 1991 - art. 3 (V)
-  - Décret n°93-207 du 17 février 1993 - art. 4 (V)
-  - Décret n°93-216 du 5 février 1993 - art. 4 (V)
-  - Décret n°94-127 du 11 février 1994 - art. 4 (V)
-  - Décret n°94-367 du 10 mai 1994 - art. 4 (V)
-  - Décret n°94-368 du 11 mai 1994 - art. 3 (V)
-  - Décret n°94-930 du 27 octobre 1994 - art. 3 (P)
-  - Décret n°94-1072 du 14 décembre 1994 - art. 4 (P)
-  - Décret n°95-740 du 16 mai 1995 - art. 3 (P)
-  - Décret n°95-741 du 16 mai 1995 - art. 3 (P)
-  - Décret n°95-742 du 16 mai 1995 - art. 3 (P)
-  - Décret n°95-743 du 19 mai 1995 - art. 3 (P)
-  - Décret n°95-744 du 19 mai 1995 - art. 3 (P)
-  - Décret n°95-745 du 19 mai 1995 - art. 3 (P)
-  - Décret n°95-761 du 7 juin 1995 - art. 3 (P)
-  - Décret n°95-894 du 9 août 1995 - art. 3 (V)
-  - Décret n°95-895 du 9 août 1995 - art. 3 (V)
-  - Décret n°95-896 du 9 août 1995 - art. 3 (V)
-  - Décret n°95-897 du 9 août 1995 - art. 3 (V)
-  - Décret n°95-898 du 9 août 1995 - art. 3 (V)
-  - Décret n°95-899 du 9 août 1995 - art. 3 (V)
-  - Décret n°95-900 du 9 août 1995 - art. 3 (V)
-  - Décret n°95-917 du 16 août 1995 - art. 3 (V)
-  - Décret n°95-918 du 16 août 1995 - art. 3 (V)
-  - Décret n°95-919 du 16 août 1995 - art. 3 (V)
-  - Décret n°95-920 du 16 août 1995 - art. 3 (V)
-  - Décret n°95-996 du 6 septembre 1995 - art. 3 (V)
-  - Décret n°95-1146 du 2 novembre 1995 - art. 3 (V)
-  - Décret n°95-1147 du 2 novembre 1995 - art. 3 (V)
-  - Décret n°95-1148 du 2 novembre 1995 - art. 3 (V)
-  - Décret n°95-1149 du 2 novembre 1995 - art. 3 (V)
-  - Décret n°95-1150 du 2 novembre 1995 - art. 3 (V)
-  - Décret n°95-1151 du 2 novembre 1995 - art. 3 (V)
-  - Décret n°95-1152 du 2 novembre 1995 - art. 3 (V)
-  - Décret n°95-1199 du 9 novembre 1995 - art. 3 (V)
-  - Décret n°96-42 du 18 janvier 1996 - art. 3 (V)
-  - Décret n°96-99 du 5 février 1996 - art. 3 (V)
-  - Décret n°96-136 du 21 février 1996 - art. 3 (V)
-  - Décret n°96-298 du 9 avril 1996 - art. 3 (V)
-  - Arrêté du 29 avril 1996 - art. 15 (V)
-  - Arrêté du 29 avril 1996 - art. 5 (V)
-  - Arrêté du 29 avril 1996 - art. 7 (V)
-  - Décret n°96-699 du 9 août 1996 - art. 4 (V)
-  - Décret n°96-794 du 12 septembre 1996 - art. 3 (V)
-  - Décret n°97-944 du 16 octobre 1997 - art. 4 (V)
-  - Décret n°97-945 du 16 octobre 1997 - art. 4 (V)
-  - Décret n°97-946 du 16 octobre 1997 - art. 5 (V)
-  - Décret du 5 novembre 1997 - art. 3 (V)
-  - Décret n°97-1173 du 23 décembre 1997 - art. 3 (V)
-  - Décret n°98-213 du 24 mars 1998 - art. 3 (V)
-  - Décret n°98-337 du 6 mai 1998 - art. 3 (V)
-  - Décret n°98-338 du 6 mai 1998 - art. 3 (V)
-  - Décret n°98-717 du 18 août 1998 - art. 3 (V)
-  - Décret n°98-733 du 20 août 1998 - art. 13 (V)
-  - Décret n°98-948 du 23 octobre 1998 - art. 3 (V)
-  - Décret n°99-42 du 21 janvier 1999 - art. 5 (V)
-  - Décret n°99-433 du 27 mai 1999 - art. 14 (V)
-  - Décret n°2000-974 du 5 octobre 2000 - art. 4 (V)
-  - Décret n°2001-169 du 22 février 2001 - art. 3 (V)
-  - Décret n°2002-825 du 3 mai 2002 - art. 4 (V)
-  - Décret n°2002-888 du 8 mai 2002 - art. 4 (V)
-  - Décret n°2002-1328 du 5 novembre 2002 - art. 3 (V)
-  - Décret n°2002-1329 du 5 novembre 2002 - art. 3 (V)
-  - Décret n°2002-1505 du 23 décembre 2002 - art. 3 (V)
-  - Décret n°2002-1506 du 23 décembre 2002 - art. 3 (V)
-  - Décret n°2003-95 du 4 février 2003 - art. 4 (V)
-  - Décret n°2003-114 du 14 février 2003 - art. 3 (V)
-  - Décret n°2003-115 du 14 février 2003 - art. 3 (V)
-  - Décret n°2003-389 du 24 avril 2003 - art. 4 (V)
-  - Décret n°2003-995 du 20 octobre 2003 - art. 5 (V)
-  - Décret n°2003-996 du 20 octobre 2003 - art. 5 (V)
-  - Décret n°2004-375 du 29 avril 2004 - art. 3 (V)
-  - Décret n°2004-396 du 6 mai 2004 - art. 6 (V)
-  - Décret n°2004-399 du 7 mai 2004 - art. 3 (V)
-  - Décret n°2004-409 du 13 mai 2004 - art. 3 (V)
-  - Décret n°2004-799 du 29 juillet 2004 - art. 8 (Ab)
-  - Décret n°2004-1036 du 1 octobre 2004 - art. 3 (V)
-  - Décret n°2004-1092 du 15 octobre 2004 - art. 3 (V)
-  - Décret n°2004-1353 du 4 décembre 2004 - art. 3 (V)
-  - Décret n°2005-46 du 24 janvier 2005 - art. 3 (V)
-  - Décret n°2005-823 du 21 juillet 2005 - art. 3 (V)
-  - Décret n°2005-857 du 28 juillet 2005 - art. 3 (V)
-  - Décret n°2005-858 du 28 juillet 2005 - art. 3 (V)
-  - Décret n°2005-969 du 10 août 2005 - art. 3 (V)
-  - Décret n°2005-970 du 10 août 2005 - art. 3 (V)
-  - Décret n°2005-1689 du 26 décembre 2005 - art. 4 (V)
-  - Décret n°2007-1468 du 15 octobre 2007 - art. 2 (V)
-  - Décret n°2007-1469 du 15 octobre 2007 - art. 2 (V)
-  - Décret n°2007-1523 du 25 octobre 2007 - art. 2 (V)
-  - Décret n°2008-329 du 9 avril 2008 - art. 2 (V)
-  - Décret n°2008-725 du 22 juillet 2008 - art. 2 (V)
-  - Décret n°2008-1039 du 8 octobre 2008 - art. 2 (V)
-  - Décret n°2008-1079 du 22 octobre 2008 - art. 2 (V)
-  - Décret n°2009-456 du 23 avril 2009 - art. 5 (V)
-  - Décret n°2009-1021 du 26 août 2009 - art. 2 (V)
-  - Décret n°2010-119 du 4 février 2010 - art. 5 (V)
-  - Décret n°2014-379 du 29 mars 2014 - art. 5 (V)
-  - Décret n°2014-396 du 11 avril 2014 - art. 2 (V)
-  - Décret n°2014-458 du 7 mai 2014 - art. 2 (V)
-  - Décret n°2014-468 du 9 mai 2014 - art. 2 (V)
-  - Décret n°2014-491 du 16 mai 2014 - art. 2 (V)
-  - Décret n°2014-1233 du 23 octobre 2014 - art. 2 (V)
-  - Décret n°2014-1424 du 28 novembre 2014 - art. 2 (V)
-  - Décret n°2014-1506 du 15 décembre 2014 - art. 2 (V)
-  - Décret n°2015-898 du 22 juillet 2015 - art. 2 (V)
-  - Décret n°2015-939 du 30 juillet 2015 - art. 2 (V)
-  - Décret n°2016-62 du 29 janvier 2016 - art. 2 (V)
-  - Décret n°2016-63 du 29 janvier 2016 - art. 2 (V)
-  - Décret n°2016-64 du 29 janvier 2016 - art. 2 (V)
-  - Décret n°2016-262 du 4 mars 2016 - art. 2 (V)
-  - Décret n°2016-419 du 8 avril 2016 - art. 2 (V)
-  - Décret n°2016-420 du 8 avril 2016 - art. 2 (V)
-  - Décret n°2016-477 du 18 avril 2016 - art. 2 (V)
-  - Décret n°2017-223 du 24 février 2017 - art. 2 (V)
-  - Décret n°2017-1464 du 11 octobre 2017 (V)
-  - Décret n°2017-1464 du 11 octobre 2017 - art. 2 (V)
-  - Décret n°2017-1685 du 14 décembre 2017 - art. 2 (V)
-  - Décret n°2017-1693 du 15 décembre 2017 - art. 2 (V)
-  - Décret n°2018-40 du 23 janvier 2018 - art. 2 (V)
-  - Décret n°2018-145 du 1er mars 2018 - art. 2 (V)
-  - Décret n°2018-286 du 19 avril 2018 - art. 6 (V)
-  - Décret n°2018-350 du 14 mai 2018 - art. 3
-  - Décret n°2018-350 du 14 mai 2018 - art. 5 (V)
-  - Décret n°2018-712 du 6 août 2018 - art. 2 (V)
-  - Décret n°2018-844 du 5 octobre 2018 - art. 2 (V)
-  - Décret n°2019-188 du 13 mars 2019 - art. 5 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L442-1 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-30 (Ab)
-  - Code de commerce - art. L713-14 (V)
-  - Code de commerce - art. L723-3 (VD)
-  - Code de commerce - art. R713-5 (VD)
-  - Code de commerce. - art. L713-8 (T)
-  - Code de commerce. - art. R713-40 (V)
-  - Code de l'organisation judiciaire - art. R221-33 (V)
-  - Code de la sécurité sociale. - art. L214-4 (Ab)
-  - Code de la sécurité sociale. - art. R611-66 (M)
-  - Code de la sécurité sociale. - art. R611-93 (Ab)
-  - Code de la sécurité sociale. - art. R633-31 (Ab)
-  - Code du travail - art. L513-3 (M)
-  - Code du travail - art. R513-13 (Ab)
-  - Code rural - art. L723-24 (VT)
-  - Code rural - art. R492-4 (V)
-  - Code rural ancien - art. 1019 (Ab)
-  - Décret n°1947-05-02 du 2 mai 1947 - art. 8 (Ab)
-
-_Codifié par_:
-
-  - Décret n°64-1086 du 27 octobre 1964
-
-_Modifié par_:
-
-  - Décret n°80-1075 1980-12-24 art. 1 JORF 28 décembre 1980
-
-_Abrogé par_:
-
-  - Loi n°2016-1048 du 1er août 2016 - art. 5
-
-
-###### Article L28
-
-Les listes électorales sont réunies en un registre et conservées dans les archives de la commune.
-
-Tout électeur, tout candidat et tout parti ou groupement politique peut prendre communication et copie de la liste
-électorale.
-
-**Nota:**
-
-Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
-n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
-
-_Cité par_:
-
-  - Loi n°78-753 du 17 juillet 1978 - art. 21 (VT)
-  - Loi n°78-753 du 17 juillet 1978 - art. 5-1 (Ab)
-  - Loi n°82-471 du 7 juin 1982 - art. 2 ter (Ab)
-  - Décret n°2005-1613 du 22 décembre 2005 - art. 6 (V)
-  - CODE DES COMMUNES. - art. R*151-2 (Ab)
-  - Code des relations entre le public et l'adminis... - art. L342-2 (VT)
-  - Code général des collectivités territoriales - art. D2411-2 (VT)
-
-_Modifié par_:
-
-  - Loi n°88-227 du 11 mars 1988 - art. 13
-
-_Abrogé par_:
-
-  - Loi n°2016-1048 du 1er août 2016 - art. 5
+  - Loi n°2016-1048 du 1er août 2016 - art. 4
 
 
 ###### Article L29
@@ -2045,12 +1581,12 @@ _Codifié par_:
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 
-##### Section 3 : Inscription en dehors des périodes de révision<a id=8></a>
+##### Section 3 : Cas particuliers d'inscription<a id=8></a>
 
 ###### Article L30
 
-Peuvent être inscrits sur les listes électorales en dehors des périodes de révision et lorsque les électeurs sont convoqués
-pour un scrutin :
+Par dérogation à l'article L. 17, peuvent demander à être inscrits sur la liste électorale de la commune entre le sixième
+vendredi précédant le scrutin et le dixième jour précédant ce scrutin :
 
 1° Les fonctionnaires et agents des administrations publiques mutés ou admis à faire valoir leurs droits à la retraite après
 la clôture des délais d'inscription ainsi que les membres de leur famille domiciliés avec eux à la date de la mutation ou de
@@ -2072,6 +1608,14 @@ d'inscription ;
 
 5° Les Français et les Françaises ayant recouvré l'exercice du droit de vote dont ils avaient été privés par l'effet d'une
 décision de justice.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
+
+Se reporter aux dispositions du III dudit article 5 en ce qui concerne les dérogations aux dispositions des I et II du même
+article.
 
 **Liens relatifs à cet article**
 
@@ -2132,21 +1676,34 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-526 du 12 mai 2009 - art. 2
+  - Loi n°2016-1048 du 1er août 2016 - art. 6
 
 
 ###### Article L31
 
-Les demandes d'inscription visées à l'article précédent sont, accompagnées des justifications nécessaires, déposées à la
-mairie.
+Le maire vérifie si la demande d'inscription répond aux conditions fixées à l'article L. 30 ainsi qu'aux autres conditions
+fixées au I de l'article L. 11 ou aux articles L. 12 à L. 15-1. Il statue sur cette demande dans un délai de trois jours. 
 
-Elles ne sont recevables que jusqu'au dixième jour précédant celui du scrutin.
+La décision prise par le maire est immédiatement notifiée à l'électeur intéressé et à l'Institut national de la statistique
+et des études économiques qui en informe le maire de la commune sur la liste électorale de laquelle cet électeur était
+précédemment inscrit. 
+
+Au plus tard cinq jours avant le scrutin, le maire procède à une publication des décisions d'inscription prises en
+application du premier alinéa du présent article.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
+
+Se reporter aux dispositions du III dudit article 5 en ce qui concerne les dérogations aux dispositions des I et II du même
+article.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Cité par_:
 
@@ -2156,11 +1713,28 @@ _Cité par_:
   - Code électoral - art. R14 (VD)
   - Code électoral - art. R17-2 (Ab)
 
+_Modifié par_:
+
+  - Loi n°2016-1048 du 1er août 2016 - art. 6
+
+_Cite_:
+
+  - Code électoral - art. L11 (VT)
+  - Code électoral - art. L12 (V)
+
 
 ###### Article L32
 
-Les demandes d'inscription sont examinées par la commission administrative prévue à l'article L. 17, qui statue au plus tard
-cinq jours avant le jour du scrutin.
+L'électeur intéressé, tout électeur inscrit sur la liste électorale de la commune et le représentant de l'Etat dans le
+département peuvent contester la décision prise par le maire dans les conditions fixées au II de l'article L. 20.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
+
+Se reporter aux dispositions du III dudit article 5 en ce qui concerne les dérogations aux dispositions des I et II du même
+article.
 
 **Liens relatifs à cet article**
 
@@ -2172,183 +1746,32 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-526 du 12 mai 2009 - art. 2
-
-_Cite_:
-
-  - Code électoral - art. L17
-
-
-###### Article L33
-
-Les décisions de la commission administrative sont notifiées dans les deux jours de leur date par le maire à l'intéressé et,
-s'il y a lieu, au maire de la commune de radiation. 
-
-Il inscrit l'électeur sur les listes électorales ainsi que sur le tableau de rectification publié cinq jours avant la réunion
-des électeurs ; si le tableau de rectification est déjà publié, le maire procède à un affichage spécial.
-
-**Nota:**
-
-Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
-n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
-
-Se reporter aux dispositions du III dudit article 5 en ce qui concerne les dérogations aux dispositions des I et II du même
-article.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2009-526 du 12 mai 2009 - art. 2
-
-_Abrogé par_:
-
-  - Loi n°2016-1048 du 1er août 2016 - art. 6
-
-_Cité par_:
-
-  - Code électoral - art. R*17-2 (M)
-  - Code électoral - art. R*4 (M)
-
-
-###### Article L33-1
-
-Les décisions de la commission administrative prises sur le fondement de l'article L. 30 peuvent être contestées par les
-électeurs intéressés, par tout électeur inscrit sur la liste électorale de la commune, par le préfet ou par le sous-préfet
-devant le tribunal d'instance, qui a compétence pour statuer jusqu'au jour du scrutin.
-
-**Nota:**
-
-Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
-n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
-
-Se reporter aux dispositions du III dudit article 5 en ce qui concerne les dérogations aux dispositions des I et II du même
-article.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2009-526 du 12 mai 2009 - art. 2
-
-_Abrogé par_:
-
   - Loi n°2016-1048 du 1er août 2016 - art. 6
 
 _Cite_:
 
-  - Code électoral - art. L30
-
-
-###### Article L34
-
-Le juge du tribunal d'instance, directement saisi, a compétence pour statuer jusqu'au jour du scrutin sur les réclamations
-des personnes qui prétendent avoir été omises sur les listes électorales par suite d'une erreur purement matérielle ou avoir
-été radiées de ces listes sans observation des formalités prescrites par les articles L. 23 et L. 25.
-
-**Nota:**
-
-Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
-n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
-
-Se reporter aux dispositions du III dudit article 5 en ce qui concerne les dérogations aux dispositions des I et II du même
-article.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Cité par_:
-
-  - Ordonnance n°77-1102 du 26 septembre 1977 - art. 4-3 (VT)
-  - Loi n°82-1061 du 17 décembre 1982 - art. 19 (Ab)
-  - Décret n°83-495 du 15 juin 1983 - art. 16 (Ab)
-  - Décret n°84-477 du 18 juin 1984 - art. 16 (M)
-  - Loi n°87-369 du 5 juin 1987 - art. 6 (V)
-  - Décret n°94-147 du 16 février 1994 - art. 14 (V)
-  - Décret n°2018-286 du 19 avril 2018 - art. 2 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-30 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R221-33 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R413-3 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. R932-16 (Ab)
-  - Code de commerce - art. L713-14 (V)
-  - Code de commerce - art. L723-3 (VD)
-  - Code de commerce - art. R723-3 (V)
-  - Code de commerce. - art. L713-8 (T)
-  - Code de la sécurité sociale. - art. D214-15 (Ab)
-  - Code de la sécurité sociale. - art. L214-4 (Ab)
-  - Code du travail - art. L513-3 (M)
-  - Code du travail - art. R513-27 (Ab)
-  - Code général des impôts, CGI. - art. 1635 bis Q (Ab)
-  - Code rural - art. L723-24 (VT)
-  - Code rural ancien - art. 1019 (Ab)
-  - Code électoral - art. R*17-2 (M)
-
-_Abrogé par_:
-
-  - Loi n°2016-1048 du 1er août 2016 - art. 6
-
-_Cite_:
-
-  - Code électoral - art. L23
-  - Code électoral - art. L25
-
-
-###### Article L35
-
-Les décisions du juge du tribunal d'instance peuvent faire l'objet d'un recours en cassation dans les dix jours de leur
-notification.
-
-**Nota:**
-
-Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
-n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
-
-Se reporter aux dispositions du III dudit article 5 en ce qui concerne les dérogations aux dispositions des I et II du même
-article.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Abrogé par_:
-
-  - Loi n°2016-1048 du 1er août 2016 - art. 6
-
-_Cité par_:
-
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-30 (Ab)
-  - Code de commerce. - art. L713-14 (V)
-  - Code de commerce. - art. L713-8 (T)
-  - Code électoral - art. R*17-2 (M)
-  - Code électoral - art. R*4 (M)
+  - Code électoral - art. L20 (VT)
 
 
 ##### Section 4 : Contrôle des inscriptions sur les listes électorales<a id=9></a>
 
 ###### Article L36
 
-Lorsqu'un citoyen est inscrit sur plusieurs listes électorales, le maire ou, à son défaut, tout électeur porté sur l'une de
-ces listes, peut exiger, devant la commission administrative, huit jours au moins avant leur clôture, que ce citoyen opte
-pour son maintien sur l'une seulement de ces listes.
+Les délais mentionnés aux sections 1 à 3 du présent chapitre sont exprimés en jours calendaires.
 
-A défaut de son option dans les huit jours de la notification de la mise en demeure par lettre recommandée, il reste inscrit
-sur la liste dressée dans la commune ou section électorale où il a été inscrit en dernier lieu et il sera rayé des autres
-listes.
+**Nota:**
 
-Les réclamations et contestations à ce sujet sont jugées et réglées par les commissions et juges des tribunaux d'instance
-compétents pour opérer la révision de la liste électorale sur laquelle figure l'électeur qui réclame l'option, et ce suivant
-les formes et délais prescrits par la section II du présent chapitre.
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
+
+Se reporter aux dispositions du III dudit article 5 en ce qui concerne les dérogations aux dispositions des I et II du même
+article.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Cité par_:
 
@@ -2360,17 +1783,33 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L2511-26 (MMN)
   - Code électoral - art. R56 (M)
 
+_Modifié par_:
+
+  - Loi n°2016-1048 du 1er août 2016 - art. 7
+
 
 ###### Article L37
 
-L'Institut national de la statistique et des études économiques est chargé de tenir un fichier général des électeurs et
-électrices en vue du contrôle des inscriptions sur les listes électorales.
+Tout électeur peut prendre communication et obtenir copie de la liste électorale de la commune à la mairie ou des listes
+électorales des communes du département à la préfecture, à la condition de s'engager à ne pas en faire un usage commercial. 
+
+Tout candidat et tout parti ou groupement politique peuvent prendre communication et obtenir copie de l'ensemble des listes
+électorales des communes du département auprès de la préfecture, à la condition de s'engager à ne pas en faire un usage
+commercial.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
+
+Se reporter aux dispositions du III dudit article 5 en ce qui concerne les dérogations aux dispositions des I et II du même
+article.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Cité par_:
 
@@ -2395,41 +1834,16 @@ _Cité par_:
   - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 6 (V)
   - TXT_SOURCE: Arrêté du 28 novembre 1997 - art. 7 (V)
 
+_Modifié par_:
+
+  - Loi n°2016-1048 du 1er août 2016 - art. 7
+
 
 ###### Article L38
 
-Le préfet fait, par toutes voies de droit, procéder aux rectifications nécessaires sur les listes électorales.
-
-En outre, s'il a relevé une infraction aux lois pénales, il saisit le parquet aux fins de poursuites judiciaires.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Cité par_:
-
-  - Loi organique n°76-97 du 31 janvier 1976 - art. 9-2 (VD)
-  - Loi n°82-214 du 2 mars 1982 - art. 23 (Ab)
-  - Loi n°85-892 du 23 août 1985 - art. 14 (Ab)
-  - Loi n°87-369 du 5 juin 1987 - art. 8 (V)
-  - Décret n°98-733 du 20 août 1998 - art. 18 (V)
-  - Loi organique n°99-209 du 19 mars 1999 - art. 219 (V)
-  - Décret n°2005-1613 du 22 décembre 2005 - art. 21 (VT)
-
-
-###### Article L39
-
-En cas d'inscription d'un électeur sur deux ou plusieurs listes, le préfet intervient auprès du maire de la commune du
-dernier lieu d'inscription.
-
-Celui-ci doit aussitôt, et nonobstant la clôture de la période de révision, notifier à l'électeur, par lettre recommandée
-avec accusé de réception que, sauf opposition de sa part, il sera maintenu sur la liste de la commune où il s'est fait
-inscrire en dernier lieu et rayé d'office des autres listes.
-
-Dès que l'électeur a répondu et, à défaut, huit jours après l'envoi de la lettre recommandée, le maire fait procéder à la
-radiation ou avise la mairie intéressée de la radiation à effectuer.
+Un décret en Conseil d'Etat fixe les modalités d'application du présent chapitre. Il peut déterminer les conditions dans
+lesquelles les électeurs échangent des informations avec le système de gestion du répertoire électoral unique mentionné à
+l'article L. 16 et ont accès à ce répertoire pour les données qui les concernent.
 
 **Nota:**
 
@@ -2447,65 +1861,22 @@ _Codifié par_:
 
 _Cité par_:
 
+  - Loi organique n°76-97 du 31 janvier 1976 - art. 9-2 (VD)
   - Loi n°82-214 du 2 mars 1982 - art. 23 (Ab)
   - Loi n°85-892 du 23 août 1985 - art. 14 (Ab)
   - Loi n°87-369 du 5 juin 1987 - art. 8 (V)
   - Décret n°98-733 du 20 août 1998 - art. 18 (V)
   - Loi organique n°99-209 du 19 mars 1999 - art. 219 (V)
-
-_Abrogé par_:
-
-  - Loi n°2016-1048 du 1er août 2016 - art. 7
-
-
-###### Article L40
-
-Les rectifications aux listes électorales prévues par les articles précédents sont effectuées sans délai, nonobstant la
-clôture de la période de révision, par les commissions administratives compétentes visées à l'article L. 17. Les décisions
-des commissions peuvent être contestées devant le tribunal d'instance, qui statue conformément aux dispositions de l'article
-L. 25.
-
-**Nota:**
-
-Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
-n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
-
-Se reporter aux dispositions du III dudit article 5 en ce qui concerne les dérogations aux dispositions des I et II du même
-article.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°2005-1613 du 22 décembre 2005 - art. 21 (VT)
 
 _Modifié par_:
 
-  - Loi n°69-419 1969-05-10 art. 5 JORF 11 mai 1969
-
-_Cité par_:
-
-  - Décret n°90-1163 du 24 décembre 1990 - art. 8 (Ab)
-  - Décret n°2005-1613 du 22 décembre 2005 - art. 19 (VT)
-  - Décret n°2005-1613 du 22 décembre 2005 - art. 2 (VD)
-  - Décret n°2018-286 du 19 avril 2018 - art. 7 (V)
-  - Décret n°2018-286 du 19 avril 2018 - art. 8 (V)
-  - Décret n°2018-451 du 6 juin 2018 - art. 2 (V)
-  - Code de l'organisation judiciaire - art. R221-33 (V)
-  - Code électoral - art. R17 (V)
-  - Code électoral - art. R7 (V)
-
-_Abrogé par_:
-
   - Loi n°2016-1048 du 1er août 2016 - art. 7
 
-_Cite_:
 
-  - Code électoral - art. L17
-  - Code électoral - art. L25
+##### Section 4 : Dispositions communes<a id=10></a>
 
-
-##### Section 5 : Exonération d'impôts et de taxes<a id=10></a>
+##### Section 5 : Exonération d'impôts et de taxes<a id=11></a>
 
 ###### Article L41
 
@@ -2553,7 +1924,7 @@ _Cité par_:
   - Code électoral - art. R*4 (M)
 
 
-##### Section 6 : Cartes électorales<a id=11></a>
+##### Section 6 : Cartes électorales<a id=12></a>
 
 ###### Article L43
 
@@ -2572,7 +1943,7 @@ _Cité par_:
   - Code électoral - art. LO227-3 (VD)
 
 
-#### Chapitre III : Conditions d'éligibilité et inéligibilités<a id=12></a>
+#### Chapitre III : Conditions d'éligibilité et inéligibilités<a id=13></a>
 
 ###### Article L44
 
@@ -2640,7 +2011,7 @@ _Cite_:
   - Code électoral - art. LO136-3 (V)
 
 
-#### Chapitre IV : Incompatibilités<a id=13></a>
+#### Chapitre IV : Incompatibilités<a id=14></a>
 
 ###### Article L46
 
@@ -2760,7 +2131,7 @@ _Cité par_:
   - Code électoral - art. L221 (V)
 
 
-#### Chapitre V : Propagande<a id=14></a>
+#### Chapitre V : Propagande<a id=15></a>
 
 ###### Article L47
 
@@ -3159,7 +2530,7 @@ _Modifié par_:
   - Loi n°2013-403 du 17 mai 2013 - art. 19
 
 
-#### Chapitre V bis : Financement et plafonnement des dépenses électorales<a id=15></a>
+#### Chapitre V bis : Financement et plafonnement des dépenses électorales<a id=16></a>
 
 ###### Article L52-3-1
 
@@ -4306,7 +3677,7 @@ _Cite_:
   - Code électoral - art. L52-8 (V)
 
 
-#### Chapitre VI : Vote<a id=16></a>
+#### Chapitre VI : Vote<a id=17></a>
 
 ###### Article L52-19
 
@@ -4328,7 +3699,7 @@ _Cité par_:
   - Code de l'environnement - art. L123-29 (V)
 
 
-##### Section 1 : Opérations préparatoires au scrutin<a id=17></a>
+##### Section 1 : Opérations préparatoires au scrutin<a id=18></a>
 
 ###### Article L53
 
@@ -4348,7 +3719,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2113-6 (V)
 
 
-##### Section 2 : Opérations de vote<a id=18></a>
+##### Section 2 : Opérations de vote<a id=19></a>
 
 ###### Article L54
 
@@ -4422,36 +3793,6 @@ _Cité par_:
   - Code électoral - art. L397 (V)
   - Code électoral - art. L558-46 (VT)
   - Code électoral - art. L562 (VT)
-
-
-###### Article L57
-
-Seuls peuvent prendre part au deuxième tour de scrutin les électeurs inscrits sur la liste électorale qui a servi au premier
-tour de scrutin.
-
-**Nota:**
-
-Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
-n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Cité par_:
-
-  - Loi organique n°99-209 du 19 mars 1999 - art. 219 (V)
-  - Loi n°2003-486 du 10 juin 2003 - art. 4 (V)
-  - Loi organique n°2004-192 du 27 février 2004 - art. 159 (VD)
-  - Code général des collectivités territoriales - art. LO1112-12 (VT)
-  - Code électoral - art. L558-46 (VT)
-  - Code électoral - art. L562 (M)
-
-_Abrogé par_:
-
-  - Loi n°2016-1048 du 1er août 2016 - art. 8
 
 
 ###### Article L57-1
@@ -4699,13 +4040,18 @@ _Modifié par_:
 
 ###### Article L62-1
 
-Pendant toute la durée des opérations électorales, une copie de la liste électorale certifiée par le maire et comportant les
-mentions prescrites par les articles L. 18 et L. 19 ainsi que le numéro d'ordre attribué à chaque électeur, reste déposée sur
-la table à laquelle siège le bureau. 
+Pendant toute la durée des opérations électorales, la liste des électeurs par bureau de vote établie à partir de la liste
+électorale de la commune reste déposée sur la table à laquelle siège le bureau. Cette liste comporte les mentions prévues aux
+deuxième et troisième alinéas du I de l'article L. 16 ainsi qu'un numéro d'ordre attribué à chaque électeur. 
 
-Cette copie constitue la liste d'émargement. 
+Cette liste constitue la liste d'émargement. 
 
 Le vote de chaque électeur est constaté par sa signature apposée à l'encre en face de son nom sur la liste d'émargement.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
@@ -4724,19 +4070,15 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°88-1262 1988-12-30 art. 38
-
-_Créé par_:
-
-  - Loi n°88-1262 du 30 décembre 1988 - art. 7 () JORF 4 janvier 1989
+  - Loi n°2016-1048 du 1er août 2016 - art. 8
 
 _Cite_:
 
-  - Code électoral - art. L18 (V)
+  - Code électoral - art. L16 (VT)
 
 
 ###### Article L62-2
@@ -5152,7 +4494,7 @@ _Cité par_:
   - Code de la sécurité sociale. - art. D214-56 (Ab)
 
 
-##### Section 3 : Vote par procuration<a id=19></a>
+##### Section 3 : Vote par procuration<a id=20></a>
 
 ###### Article L71
 
@@ -5371,7 +4713,7 @@ _Cité par_:
   - Loi n°87-369 du 5 juin 1987 - art. 14 (V)
 
 
-##### Section 5 : Commissions de contrôle des opérations de vote<a id=20></a>
+##### Section 5 : Commissions de contrôle des opérations de vote<a id=21></a>
 
 ###### Article L85-1
 
@@ -5424,7 +4766,7 @@ _Modifié par_:
   - Loi n°88-1262 du 30 décembre 1988 - art. 16 () JORF 4 janvier 1989
 
 
-#### Chapitre VII : Dispositions pénales<a id=21></a>
+#### Chapitre VII : Dispositions pénales<a id=22></a>
 
 ###### Article L86
 
@@ -6246,6 +5588,14 @@ Si le coupable est fonctionnaire de l'ordre administratif ou judiciaire, agent o
 administration publique, ou chargé d'un ministère de service public ou président d'un bureau de vote, la peine sera portée au
 double.
 
+Le fait de procéder ou de faire procéder indûment, de manière frauduleuse, à des inscriptions, à des radiations ou au
+maintien d'électeurs sur la liste électorale est puni des mêmes peines.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -6303,11 +5653,11 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2016-1048 du 1er août 2016 - art. 2
 
 
 ###### Article L113-1
@@ -6383,6 +5733,22 @@ _Cite_:
   - Code électoral - art. L52-4 (V)
   - Code électoral - art. L52-7-1 (VD)
   - Code électoral - art. L52-8 (VT)
+
+
+###### Article L113-2
+
+L'usage commercial d'une liste électorale ou d'une liste électorale consulaire est puni d'une amende de 15 000 €.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2016-1048 du 1er août 2016 - art. 9
 
 
 ###### Article L114
@@ -6549,7 +5915,7 @@ _Créé par_:
   - Loi n°2016-508 du 25 avril 2016 - art. 5
 
 
-#### Chapitre VIII : Contentieux<a id=22></a>
+#### Chapitre VIII : Contentieux<a id=23></a>
 
 ###### Article L118
 
@@ -6731,9 +6097,9 @@ _Modifié par_:
   - Loi n°2013-403 du 17 mai 2013 - art. 19
 
 
-### Titre II : Dispositions spéciales à l'élection des députés<a id=23></a>
+### Titre II : Dispositions spéciales à l'élection des députés<a id=24></a>
 
-#### Chapitre Ier : Composition de l'Assemblée nationale et durée du mandat des députés<a id=24></a>
+#### Chapitre Ier : Composition de l'Assemblée nationale et durée du mandat des députés<a id=25></a>
 
 ###### Article LO119
 
@@ -6791,7 +6157,7 @@ _Codifié par_:
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 
-#### Chapitre II : Mode de scrutin<a id=25></a>
+#### Chapitre II : Mode de scrutin<a id=26></a>
 
 ###### Article L123
 
@@ -6883,7 +6249,7 @@ _Cité par_:
   - Code électoral - art. L330-3 (VT)
 
 
-#### Chapitre III : Conditions d'éligibilité et inéligibilités<a id=26></a>
+#### Chapitre III : Conditions d'éligibilité et inéligibilités<a id=27></a>
 
 ###### Article LO127
 
@@ -7770,7 +7136,7 @@ _Créé par_:
   - Loi n°2017-1338 du 15 septembre 2017 - art. 4
 
 
-#### Chapitre IV : Incompatibilités<a id=27></a>
+#### Chapitre IV : Incompatibilités<a id=28></a>
 
 ###### Article LO137
 
@@ -8634,7 +8000,7 @@ _Cité par_:
   - Code électoral - art. LO177 (V)
 
 
-#### Chapitre V : Déclarations de candidatures<a id=28></a>
+#### Chapitre V : Déclarations de candidatures<a id=29></a>
 
 ###### Article L154
 
@@ -8919,7 +8285,7 @@ _Modifié par_:
   - Loi organique n°2011-410 du 14 avril 2011 - art. 13
 
 
-#### Chapitre VI : Propagande<a id=29></a>
+#### Chapitre VI : Propagande<a id=30></a>
 
 ###### Article L163-1
 
@@ -9284,7 +8650,7 @@ _Cite_:
   - Code électoral - art. L169 (V)
 
 
-#### Chapitre VII : Opérations préparatoires au scrutin<a id=30></a>
+#### Chapitre VII : Opérations préparatoires au scrutin<a id=31></a>
 
 ###### Article L172
 
@@ -9331,7 +8697,7 @@ _Cite_:
   - Code électoral - art. L55 (V)
 
 
-#### Chapitre VIII : Opérations de vote<a id=31></a>
+#### Chapitre VIII : Opérations de vote<a id=32></a>
 
 ###### Article L174
 
@@ -9380,7 +8746,7 @@ _Modifié par_:
   - Loi n°86-825 du 11 juillet 1986 - art. 1 () JORF 12 juillet 1986
 
 
-#### Chapitre IX : Remplacement des députés<a id=32></a>
+#### Chapitre IX : Remplacement des députés<a id=33></a>
 
 ###### Article L178-1
 
@@ -9490,7 +8856,7 @@ _Cite_:
   - Code électoral - art. LO176 (V)
 
 
-#### Chapitre X : Contentieux<a id=33></a>
+#### Chapitre X : Contentieux<a id=34></a>
 
 ###### Article LO179
 
@@ -9739,7 +9105,7 @@ _Codifié par_:
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 
-#### Chapitre XI : Conditions d'application<a id=34></a>
+#### Chapitre XI : Conditions d'application<a id=35></a>
 
 ###### Article L190
 
@@ -9758,9 +9124,9 @@ _Cite_:
   - Code électoral - art. L161 (V)
 
 
-### Titre III : Dispositions spéciales à l'élection des conseillers départementaux<a id=35></a>
+### Titre III : Dispositions spéciales à l'élection des conseillers départementaux<a id=36></a>
 
-#### Chapitre Ier : Composition des conseils départementaux et durée du mandat des conseillers<a id=36></a>
+#### Chapitre Ier : Composition des conseils départementaux et durée du mandat des conseillers<a id=37></a>
 
 ###### Article L191
 
@@ -9851,7 +9217,7 @@ _Modifié par_:
   - Loi n°2013-403 du 17 mai 2013 - art. 5
 
 
-#### Chapitre II : Mode de scrutin<a id=37></a>
+#### Chapitre II : Mode de scrutin<a id=38></a>
 
 ###### Article L193
 
@@ -9890,7 +9256,7 @@ _Anciens textes_:
   - Loi n°1871-08-10. du 10 août 1871 - art. 14 (Ab)
 
 
-#### Chapitre III : Conditions d'éligibilité et inéligibilités<a id=38></a>
+#### Chapitre III : Conditions d'éligibilité et inéligibilités<a id=39></a>
 
 ###### Article L194
 
@@ -10276,7 +9642,7 @@ _Modifié par_:
   - Loi organique n°2013-402 du 17 mai 2013 - art. 3 (V)
 
 
-#### Chapitre IV : Incompatibilités<a id=39></a>
+#### Chapitre IV : Incompatibilités<a id=40></a>
 
 ###### Article L206
 
@@ -10433,7 +9799,7 @@ _Anciens textes_:
   - Loi n°1871-08-10. du 10 août 1871 - art. 18 (Ab)
 
 
-#### Chapitre IV bis : Déclarations de candidature<a id=40></a>
+#### Chapitre IV bis : Déclarations de candidature<a id=41></a>
 
 ###### Article L210-1
 
@@ -10513,7 +9879,7 @@ _Cite_:
   - Code électoral - art. L52-5
 
 
-#### Chapitre V : Propagande<a id=41></a>
+#### Chapitre V : Propagande<a id=42></a>
 
 ###### Article L211
 
@@ -10661,7 +10027,7 @@ _Cité par_:
   - TXT_ASSOCIE: Code électoral R26 A R39, R110, R111
 
 
-#### Chapitre VI : Opérations préparatoires au scrutin<a id=42></a>
+#### Chapitre VI : Opérations préparatoires au scrutin<a id=43></a>
 
 ###### Article L218
 
@@ -10700,24 +10066,25 @@ _Codifié par_:
 
 ###### Article L220
 
-Il doit y avoir un intervalle de quinze jours francs entre la date de la convocation et le jour de l'élection.
+Il doit y avoir un intervalle de six semaines au moins entre la date de la convocation et le jour de l'élection.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°90-1103 1990-12-11 art. 9, art. 12
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Loi n°94-44 du 18 janvier 1994 - art. 4 ()
+  - Loi n°2016-1048 du 1er août 2016 - art. 10
 
 
-#### Chapitre VIII : Remplacement des conseillers  départementaux<a id=43></a>
+#### Chapitre VIII : Remplacement des conseillers  départementaux<a id=44></a>
 
 ###### Article L221
 
@@ -10773,7 +10140,7 @@ _Cite_:
   - Code électoral - art. L192 (VT)
 
 
-#### Chapitre IX : Contentieux<a id=44></a>
+#### Chapitre IX : Contentieux<a id=45></a>
 
 ###### Article L222
 
@@ -10852,7 +10219,7 @@ _Modifié par_:
   - Loi n°2013-403 du 17 mai 2013 - art. 19
 
 
-#### Chapitre X : Conditions d'application<a id=45></a>
+#### Chapitre X : Conditions d'application<a id=46></a>
 
 ###### Article L224
 
@@ -10865,11 +10232,11 @@ _Codifié par_:
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 
-### Titre IV : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris<a id=46></a>
+### Titre IV : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris<a id=47></a>
 
-#### Chapitre Ier : Dispositions applicables à toutes les communes<a id=47></a>
+#### Chapitre Ier : Dispositions applicables à toutes les communes<a id=48></a>
 
-##### Section 1 : Composition des conseils municipaux et durée du mandat des conseillers<a id=48></a>
+##### Section 1 : Composition des conseils municipaux et durée du mandat des conseillers<a id=49></a>
 
 ###### Article L225
 
@@ -10937,7 +10304,7 @@ _Modifié par_:
   - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 21 () JORF 9 décembre 2003
 
 
-##### Section 1 bis : Dispositions spéciales à l'exercice par les ressortissants d'un Etat membre de l'Union européenne autre que la France du droit de vote pour l'élection des conseillers municipaux et des membres du Conseil de Paris<a id=49></a>
+##### Section 1 bis : Dispositions spéciales à l'exercice par les ressortissants d'un Etat membre de l'Union européenne autre que la France du droit de vote pour l'élection des conseillers municipaux et des membres du Conseil de Paris<a id=50></a>
 
 ###### Article LO227-1
 
@@ -11006,40 +10373,52 @@ _Cite_:
 
 ###### Article LO227-3
 
-Pour chaque bureau de vote, la liste électorale complémentaire est dressée et révisée par les autorités compétentes pour
-dresser et réviser la liste électorale. 
+Pour chaque commune et chaque bureau de vote, la liste électorale complémentaire est extraite d'un répertoire électoral
+unique complémentaire établi par l'Institut national de la statistique et des études économiques conformément à l'article L.
+16. 
 
-Les dispositions des articles L. 10 et L. 11, L. 15 à L. 17, L. 18 à L. 41 et L. 43, dans leur rédaction en vigueur à la date
-de publication de la loi organique n° 98-404 du 25 mai 1998, qui sont relatives à l'établissement des listes électorales et
-au contrôle de leur régularité sont applicables à l'établissement des listes électorales complémentaires et au contrôle de
-leur régularité. Les droits conférés par ces articles aux nationaux français sont exercés par les personnes mentionnées à
-l'article LO 227-1. 
+Les dispositions de l'article L. 10, du I de l'article L. 11 et des articles L. 15 à L. 41 et L. 43, dans leur rédaction
+résultant de la  loi n° 2016-1048 du 1er août 2016  rénovant les modalités d'inscription sur les listes électorales, qui sont
+relatives à l'établissement des listes électorales et au contrôle de leur régularité sont applicables à l'établissement des
+listes électorales complémentaires et au contrôle de leur régularité. Les droits conférés par ces articles aux nationaux
+français sont exercés par les personnes mentionnées à l'article LO 227-1. 
 
-En sus des indications prescrites par les articles L. 18 et L. 19, la liste électorale complémentaire mentionne la
-nationalité des personnes qui y figurent. 
+Outre les indications mentionnées aux deuxième et troisième alinéas du I de l'article L. 16, la liste électorale
+complémentaire mentionne la nationalité des personnes qui y figurent. 
 
-Les recours prévus au deuxième alinéa de l'article L. 25 peuvent être exercés par les électeurs français et par les personnes
-inscrites sur la liste électorale complémentaire tant en ce qui concerne la liste électorale que la liste électorale
-complémentaire.
+Dans chaque bureau de vote, la liste des électeurs inscrits sur la liste électorale complémentaire est établie à partir de
+celle-ci et comporte les mentions prévues au troisième alinéa du présent article. Elle comprend un numéro d'ordre attribué à
+chaque électeur. Elle reste déposée sur la table à laquelle siège le bureau pendant toute la durée des opérations
+électorales. Elle constitue la liste d'émargement. Le vote de chaque électeur est constaté par sa signature apposée à l'encre
+en face de son nom sur la liste d'émargement. 
+
+Les recours prévus à la première phrase du premier alinéa du I de l'article L. 20 peuvent être exercés par les électeurs
+français et par les personnes inscrites sur la liste électorale complémentaire tant en ce qui concerne la liste électorale
+que la liste électorale complémentaire.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1046 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Créé par_:
-
-  - Loi n°98-404 du 25 mai 1998 - art. 1 ()
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Cite_:
 
-  - Code électoral - art. L10 (V)
-  - Code électoral - art. L15 (V)
-  - Code électoral - art. L18 (V)
-  - Code électoral - art. L25 (V)
-  - Code électoral - art. L43 (V)
-  - Code électoral - art. LO227-1 (V)
+  - Loi n°2016-1048 du 1er août 2016
+  - Code électoral - art. L15
+  - Code électoral - art. L16
+  - Code électoral - art. L20
+  - Code électoral - art. L41
+  - Code électoral - art. L43
+
+_Modifié par_:
+
+  - Loi n°2016-1046 du 1er août 2016 - art. 1
 
 _Cité par_:
 
@@ -11101,7 +10480,7 @@ _Cité par_:
   - Code de l'environnement - art. L123-22 (V)
 
 
-##### Section 2 : Conditions d'éligibilité et inéligibilités<a id=50></a>
+##### Section 2 : Conditions d'éligibilité et inéligibilités<a id=51></a>
 
 ###### Article L228
 
@@ -11454,7 +10833,7 @@ _Cite_:
   - Code électoral - art. LO230-2 (V)
 
 
-##### Section 3 : Incompatibilités<a id=51></a>
+##### Section 3 : Incompatibilités<a id=52></a>
 
 ###### Article L237
 
@@ -11634,7 +11013,7 @@ _Cite_:
   - Code électoral - art. L239 (V)
 
 
-##### Section 4 : Propagande<a id=52></a>
+##### Section 4 : Propagande<a id=53></a>
 
 ###### Article L240
 
@@ -11748,28 +11127,28 @@ _Cite_:
   - Code électoral - art. L240 (V)
 
 
-##### Section 5 : Opérations préparatoires au scrutin<a id=53></a>
+##### Section 5 : Opérations préparatoires au scrutin<a id=54></a>
 
 ###### Article L247
 
 Par dérogation à l'article L. 227, les électeurs sont convoqués pour les élections partielles, par arrêté du sous-préfet. 
 
-L'arrêté de convocation est publié dans la commune quinze jours au moins avant l'élection.
+L'arrêté de convocation est publié dans la commune six semaines au moins avant l'élection.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance 2003-1165 2003-12-08 art. 38 I :
-  - TXT_ASSOCIE: Code électoral - art. R127 (Ab)
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 23 () JORF 9 décembre 2003
+  - Loi n°2016-1048 du 1er août 2016 - art. 10
 
 _Cité par_:
 
@@ -11777,10 +11156,14 @@ _Cité par_:
 
 _Cite_:
 
-  - Code électoral - art. L227 (V)
+  - Code électoral - art. L227
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code électoral - art. R127 (Ab)
 
 
-##### Section 6 : Opérations de vote<a id=54></a>
+##### Section 6 : Opérations de vote<a id=55></a>
 
 ###### Article LO247-1
 
@@ -11809,7 +11192,7 @@ _Modifié par_:
   - Loi organique n°2013-402 du 17 mai 2013 - art. 2
 
 
-##### Section 7 : Contentieux<a id=55></a>
+##### Section 7 : Contentieux<a id=56></a>
 
 ###### Article L248
 
@@ -11929,9 +11312,9 @@ _Modifié par_:
   - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 24 () JORF 9 décembre 2003
 
 
-#### Chapitre II : Dispositions spéciales aux communes de moins de 1 000 habitants<a id=56></a>
+#### Chapitre II : Dispositions spéciales aux communes de moins de 1 000 habitants<a id=57></a>
 
-##### Section 1 : Mode de scrutin<a id=57></a>
+##### Section 1 : Mode de scrutin<a id=58></a>
 
 ###### Article L252
 
@@ -12100,7 +11483,7 @@ _Cite_:
   - Code électoral - art. L254 (V)
 
 
-##### Section 1 bis : Déclarations de candidature<a id=58></a>
+##### Section 1 bis : Déclarations de candidature<a id=59></a>
 
 ###### Article L255-2
 
@@ -12227,7 +11610,7 @@ _Cite_:
   - Code électoral - art. LO228-1 (V)
 
 
-##### Section 4  : Opérations de vote<a id=59></a>
+##### Section 4  : Opérations de vote<a id=60></a>
 
 ###### Article L256
 
@@ -12291,7 +11674,7 @@ _Cité par_:
   - Code du travail - art. R513-13 (Ab)
 
 
-##### Section 5 : Remplacement des conseillers municipaux<a id=60></a>
+##### Section 5 : Remplacement des conseillers municipaux<a id=61></a>
 
 ###### Article L258
 
@@ -12346,9 +11729,9 @@ _Cite_:
   - Code électoral - art. L254 (VT)
 
 
-#### Chapitre III : Dispositions spéciales aux communes de 1 000 habitants et plus<a id=61></a>
+#### Chapitre III : Dispositions spéciales aux communes de 1 000 habitants et plus<a id=62></a>
 
-##### Section 1 : Mode de scrutin<a id=62></a>
+##### Section 1 : Mode de scrutin<a id=63></a>
 
 ###### Article L260
 
@@ -12465,7 +11848,7 @@ _Cité par_:
   - Code électoral - art. L273-8 (VD)
 
 
-##### Section 2 : Déclarations de candidatures<a id=63></a>
+##### Section 2 : Déclarations de candidatures<a id=64></a>
 
 ###### Article L263
 
@@ -12675,7 +12058,7 @@ _Cite_:
   - Code électoral - art. LO228-1 (V)
 
 
-##### Section 3 : Opérations de vote<a id=64></a>
+##### Section 3 : Opérations de vote<a id=65></a>
 
 ###### Article L268
 
@@ -12719,7 +12102,7 @@ _Modifié par_:
   - TXT_ASSOCIE: Code électoral - art. R66-1 (V)
 
 
-##### Section 4 : Remplacement des conseillers municipaux<a id=65></a>
+##### Section 4 : Remplacement des conseillers municipaux<a id=66></a>
 
 ###### Article L270
 
@@ -12771,7 +12154,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2122-8 (V)
 
 
-#### Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille<a id=66></a>
+#### Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille<a id=67></a>
 
 ###### Article L271
 
@@ -13003,7 +12386,7 @@ _Cite_:
   - Code électoral - art. LO227-2 (V)
 
 
-#### Chapitre V : Conditions d'application<a id=67></a>
+#### Chapitre V : Conditions d'application<a id=68></a>
 
 ###### Article L273
 
@@ -13035,11 +12418,11 @@ _Cite_:
   - Code électoral - art. L256 (VT)
 
 
-### Titre V : Dispositions spéciales à l'élection des conseillers communautaires<a id=68></a>
+### Titre V : Dispositions spéciales à l'élection des conseillers communautaires<a id=69></a>
 
-#### Chapitre Ier : Dispositions communes<a id=69></a>
+#### Chapitre Ier : Dispositions communes<a id=70></a>
 
-##### Section 1 : Composition des organes délibérants des établissements publics de coopération intercommunale à fiscalité propre<a id=70></a>
+##### Section 1 : Composition des organes délibérants des établissements publics de coopération intercommunale à fiscalité propre<a id=71></a>
 
 ###### Article L273-1
 
@@ -13069,7 +12452,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L5211-6-1 (V)
 
 
-##### Section 2 : Dispositions spéciales à l'exercice par les ressortissants d'un Etat membre de l'Union européenne autre que la France du droit de vote pour l'élection des conseillers communautaires<a id=71></a>
+##### Section 2 : Dispositions spéciales à l'exercice par les ressortissants d'un Etat membre de l'Union européenne autre que la France du droit de vote pour l'élection des conseillers communautaires<a id=72></a>
 
 ###### Article LO273-2
 
@@ -13096,7 +12479,7 @@ _Cite_:
 
 
 ##### Section 3 : Dispositions relatives au mandat
-des conseillers communautaires<a id=72></a>
+des conseillers communautaires<a id=73></a>
 
 ###### Article L273-3
 
@@ -13178,7 +12561,7 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2121-6 (V)
 
 
-#### Chapitre II : Dispositions spéciales aux  communes de 1 000 habitants et plus<a id=73></a>
+#### Chapitre II : Dispositions spéciales aux  communes de 1 000 habitants et plus<a id=74></a>
 
 ###### Article L273-6
 
@@ -13359,7 +12742,7 @@ _Cite_:
 
 
 #### Chapitre III :  Dispositions spéciales aux communes
-de moins de 1 000 habitants<a id=74></a>
+de moins de 1 000 habitants<a id=75></a>
 
 ###### Article L273-11
 
@@ -13423,9 +12806,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L2122-7 (V)
 
 
-## Livre II : Election des sénateurs des départements<a id=75></a>
+## Livre II : Election des sénateurs des départements<a id=76></a>
 
-### Titre Ier  : Composition du Sénat et durée du mandat des sénateurs<a id=76></a>
+### Titre Ier  : Composition du Sénat et durée du mandat des sénateurs<a id=77></a>
 
 ###### Article LO274
 
@@ -13533,7 +12916,7 @@ _Codifié par_:
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 
-### Titre II : Composition du collège électoral<a id=77></a>
+### Titre II : Composition du collège électoral<a id=78></a>
 
 ###### Article L279
 
@@ -13649,7 +13032,7 @@ _Modifié par_:
   - Ordonnance n°2016-1563 du 21 novembre 2016 - art. 2
 
 
-### Titre III : Désignation des délégués des conseils municipaux<a id=78></a>
+### Titre III : Désignation des délégués des conseils municipaux<a id=79></a>
 
 ###### Article L283
 
@@ -14049,7 +13432,7 @@ _Créé par_:
   - Loi n°98-404 du 25 mai 1998 - art. 8 ()
 
 
-### Titre III bis : Désignation des délégués de l'Assemblée de Corse<a id=79></a>
+### Titre III bis : Désignation des délégués de l'Assemblée de Corse<a id=80></a>
 
 ###### Article L293-1
 
@@ -14134,9 +13517,9 @@ _Cité par_:
   - Code électoral - art. R*148-1 (M)
 
 
-### Titre IV : Election des sénateurs<a id=80></a>
+### Titre IV : Election des sénateurs<a id=81></a>
 
-#### Chapitre Ier  : Mode de scrutin<a id=81></a>
+#### Chapitre Ier  : Mode de scrutin<a id=82></a>
 
 ###### Article L294
 
@@ -14189,7 +13572,7 @@ _Modifié par_:
   - Loi n°2013-702 du 2 août 2013 - art. 13
 
 
-#### Chapitre II : Conditions d'éligibilité et inéligibilités<a id=82></a>
+#### Chapitre II : Conditions d'éligibilité et inéligibilités<a id=83></a>
 
 ###### Article LO296
 
@@ -14220,7 +13603,7 @@ _Cite_:
   - Code électoral - art. LO319 (V)
 
 
-#### Chapitre III : Incompatibilités<a id=83></a>
+#### Chapitre III : Incompatibilités<a id=84></a>
 
 ###### Article LO297
 
@@ -14250,7 +13633,7 @@ _Créé par_:
   - Loi n°85-1405 du 30 décembre 1985 - art. 6 (V) JORF 31 Décembre 1985 en vigueur le 16 mars 1986
 
 
-#### Chapitre IV : Déclarations de candidatures<a id=84></a>
+#### Chapitre IV : Déclarations de candidatures<a id=85></a>
 
 ###### Article L298
 
@@ -14453,7 +13836,7 @@ _Cite_:
   - Code électoral - art. LO160 (V)
 
 
-#### Chapitre V : Propagande<a id=85></a>
+#### Chapitre V : Propagande<a id=86></a>
 
 ###### Article L306
 
@@ -14550,7 +13933,7 @@ _Modifié par_:
   - Loi n°2013-1029 du 15 novembre 2013 - art. 26
 
 
-#### Chapitre VI : Opérations préparatoires au scrutin<a id=86></a>
+#### Chapitre VI : Opérations préparatoires au scrutin<a id=87></a>
 
 ###### Article L309
 
@@ -14598,7 +13981,7 @@ _Cité par_:
   - Décret n°2018-319 du 2 mai 2018 (V)
 
 
-#### Chapitre VII : Opérations de vote<a id=87></a>
+#### Chapitre VII : Opérations de vote<a id=88></a>
 
 ###### Article L312
 
@@ -14784,7 +14167,7 @@ _Cité par_:
   - Code électoral - art. L447 (V)
 
 
-#### Chapitre VIII : Remplacement des sénateurs<a id=88></a>
+#### Chapitre VIII : Remplacement des sénateurs<a id=89></a>
 
 ###### Article L324
 
@@ -14936,7 +14319,7 @@ _Cite_:
   - Code électoral - art. LO322
 
 
-#### Chapitre IX : Contentieux<a id=89></a>
+#### Chapitre IX : Contentieux<a id=90></a>
 
 ###### Article LO325
 
@@ -14953,7 +14336,7 @@ _Modifié par_:
   - Loi n°90-383 du 10 mai 1990 - art. 11 () JORF 11 mai 1990
 
 
-### Titre V : Conditions d'application<a id=90></a>
+### Titre V : Conditions d'application<a id=91></a>
 
 ###### Article L326
 
@@ -14967,7 +14350,7 @@ _Codifié par_:
   - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
 
 
-### Titre VI : Dispositions pénales<a id=91></a>
+### Titre VI : Dispositions pénales<a id=92></a>
 
 ###### Article L327
 
@@ -14989,7 +14372,7 @@ _Cite_:
   - Code électoral - art. L113
 
 
-## Livre III : Dispositions spécifiques aux députés élus par les Français établis hors de France<a id=92></a>
+## Livre III : Dispositions spécifiques aux députés élus par les Français établis hors de France<a id=93></a>
 
 ###### Article L330
 
@@ -15025,17 +14408,14 @@ La population des Français établis dans chacune des circonscriptions délimit�
 présent code est estimée chaque année au 1er janvier. Elle est authentifiée par décret. 
 
 L'Institut national de la statistique et des études économiques apporte à l'autorité ministérielle compétente son concours
-technique à la mise en œuvre des dispositions du présent livre et, notamment, à la tenue des listes électorales consulaires
-dressées en application de la loi organique n° 76-97 du 31 janvier 1976 relative aux listes électorales consulaires et au
-vote des Français établis hors de France pour l'élection du Président de la République. 
+technique à la mise en œuvre des dispositions du présent livre.
 
-Il est chargé du contrôle des inscriptions sur ces listes.
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°76-97 du 31 janvier 1976 (V)
 
 _Cité par_:
 
@@ -15045,9 +14425,9 @@ _Cité par_:
   - Code électoral - art. L308-1 (V)
   - Code électoral - art. L330-8 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2009-936 du 29 juillet 2009 - art. 1
+  - Loi n°2016-1048 du 1er août 2016 - art. 13
 
 
 ###### Article LO328
@@ -15101,7 +14481,7 @@ _Créé par_:
   - Loi organique n°2011-410 du 14 avril 2011 - art. 15
 
 
-### Section 1 : Liste électorale<a id=93></a>
+### Section 1 : Liste électorale<a id=94></a>
 
 ###### Article L330-2
 
@@ -15126,41 +14506,6 @@ _Cité par_:
   - Loi n°2013-659 du 22 juillet 2013 - art. 15 (V)
 
 
-###### Article L330-3
-
-Tout électeur inscrit sur une liste électorale consulaire et sur une liste électorale en France choisit d'exercer son droit
-de vote en France ou à l'étranger dans les conditions prévues par l'article 8 de la loi organique du 31 janvier 1976
-susmentionnée. 
-
-Pour l'application du 2° de l'article L. 126, ne sont pas regardés comme inscrits sur la liste électorale consulaire les
-électeurs qui, pour l'année au cours de laquelle a lieu l'élection législative, ont fait le choix de voter en France en vertu
-du précédent alinéa.
-
-**Nota:**
-
-Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
-n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°76-97 du 31 janvier 1976 - art. 8
-  - Code électoral - art. L126
-
-_Créé par_:
-
-  - Ordonnance n°2009-936 du 29 juillet 2009 - art. 1
-
-_Abrogé par_:
-
-  - Loi n°2016-1048 du 1er août 2016 - art. 13
-
-_Cité par_:
-
-  - Code électoral - art. R176-1-8 (V)
-
-
 ###### Article L330-4
 
 Les candidats ou leurs représentants peuvent prendre communication et copie des listes électorales de la circonscription à
@@ -15173,9 +14518,18 @@ Les députés élus par les Français établis hors de France peuvent prendre co
 Tout électeur peut prendre communication et copie de la liste électorale consulaire sur laquelle il est inscrit au lieu de
 son dépôt ou du double de cette liste au ministère des affaires étrangères. 
 
+Les personnes et les partis ou groupements politiques exerçant la faculté prévue au présent article s'engagent à ne pas faire
+un usage commercial des listes électorales consulaires et à ne pas les utiliser à des fins de politique intérieure de l'Etat
+de résidence de l'électeur. 
+
 La faculté prévue au présent article peut être restreinte ou refusée si, en raison de circonstances locales, la divulgation
 des informations relatives à l'adresse ou à la nationalité française des personnes inscrites est de nature à porter atteinte
 à la sécurité ou à leur sûreté.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
@@ -15192,10 +14546,10 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-411 du 14 avril 2011 - art. 2
+  - Loi n°2016-1048 du 1er août 2016 - art. 13
 
 
-### Section 2 : Déclaration de candidature<a id=94></a>
+### Section 2 : Déclaration de candidature<a id=95></a>
 
 ###### Article L330-5
 
@@ -15221,7 +14575,7 @@ _Cite_:
   - Code électoral - art. L157
 
 
-### Section 3 : Campagne électorale<a id=95></a>
+### Section 3 : Campagne électorale<a id=96></a>
 
 ###### Article L330-6
 
@@ -15236,7 +14590,7 @@ consulaires, culturels et scolaires à la disposition des candidats qui en font 
 électorales.
 
 Les attributions de la commission prévue à l'article L. 166 sont exercées par la commission électorale mentionnée à l'article
-7 de la loi organique du 31 janvier 1976 susmentionnée. 
+14 de la loi organique du 31 janvier 1976 susmentionnée. 
 
 Les ambassades et les postes consulaires participent à l'envoi aux électeurs des circulaires et des bulletins de vote des
 candidats dans des conditions fixées par décret en Conseil d'Etat. Ils les tiennent à disposition des électeurs dans leurs
@@ -15244,18 +14598,12 @@ locaux.
 
 Les références à l'article L. 51 figurant aux articles L. 164 et L. 165 s'entendent des références au présent article.
 
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°76-97 du 31 janvier 1976 - art. 7
-  - Code électoral - art. L164
-  - Code électoral - art. L166
-  - Code électoral - art. L51
-
-_Modifié par_:
-
-  - Loi n°2011-411 du 14 avril 2011 - art. 2
 
 _Cité par_:
 
@@ -15264,8 +14612,18 @@ _Cité par_:
   - Code électoral - art. R174-3 (V)
   - Code électoral - art. R176-1-5 (V)
 
+_Modifié par_:
 
-### Section 4 : Financement de la campagne électorale<a id=96></a>
+  - Loi n°2016-1048 du 1er août 2016 - art. 13
+
+_Cite_:
+
+  - Code électoral - art. L164
+  - Code électoral - art. L166
+  - Code électoral - art. L51
+
+
+### Section 4 : Financement de la campagne électorale<a id=97></a>
 
 ###### Article L330-6-1
 
@@ -15415,7 +14773,7 @@ _Cite_:
   - Code électoral - art. L52-12 (V)
 
 
-### Section 5 : Opérations de vote<a id=97></a>
+### Section 5 : Opérations de vote<a id=98></a>
 
 ###### Article L330-11
 
@@ -15495,7 +14853,7 @@ _Cite_:
   - Code électoral - art. L73
 
 
-### Section 6 : Recensement des votes<a id=98></a>
+### Section 6 : Recensement des votes<a id=99></a>
 
 ###### Article L330-14
 
@@ -15503,19 +14861,20 @@ Après la clôture du scrutin, les résultats sont immédiatement affichés dans
 intéressés. 
 
 Ces résultats, ainsi qu'un exemplaire des procès-verbaux, et les documents mentionnés à l'article L. 68 sont transmis à la
-commission électorale mentionnée à l'article 7 de la loi organique du 31 janvier 1976 susmentionnée. Les transmissions à la
+commission électorale mentionnée à l'article 14 de la loi organique du 31 janvier 1976 susmentionnée. Les transmissions à la
 préfecture prévues aux premier et dernier alinéas de l'article L. 68 s'entendent des transmissions à cette commission.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°76-97 du 31 janvier 1976 - art. 7
+  - Loi n°76-97 du 31 janvier 1976 - art. 14 (VT)
   - Code électoral - art. L68
-
-_Créé par_:
-
-  - Ordonnance n°2009-936 du 29 juillet 2009 - art. 1
 
 _Cité par_:
 
@@ -15523,6 +14882,10 @@ _Cité par_:
   - Code électoral - art. R173-1 (V)
   - Code électoral - art. R177-3 (V)
   - Code électoral - art. R177-6 (V)
+
+_Modifié par_:
+
+  - Loi n°2016-1048 du 1er août 2016 - art. 13
 
 
 ###### Article L330-15
@@ -15541,7 +14904,7 @@ _Cite_:
   - Code électoral - art. L175
 
 
-### Section 7 : Dispositions pénales<a id=99></a>
+### Section 7 : Dispositions pénales<a id=100></a>
 
 ###### Article L330-16
 
@@ -15565,7 +14928,7 @@ _Cité par_:
   - Loi n°2013-659 du 22 juillet 2013 - art. 55 (V)
 
 
-## Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse<a id=100></a>
+## Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse<a id=101></a>
 
 ###### Article L335
 
@@ -15591,9 +14954,9 @@ _Modifié par_:
   - Loi n°2015-29 du 16 janvier 2015 - art. 4
 
 
-### Titre Ier : Election des conseillers régionaux<a id=101></a>
+### Titre Ier : Election des conseillers régionaux<a id=102></a>
 
-#### Chapitre Ier : Composition des conseils régionaux et durée du mandat des conseillers<a id=102></a>
+#### Chapitre Ier : Composition des conseils régionaux et durée du mandat des conseillers<a id=103></a>
 
 ###### Article L336
 
@@ -15661,7 +15024,7 @@ _Modifié par_:
   - Loi n°99-36 du 19 janvier 1999 - art. 2 ()
 
 
-#### Chapitre II : Mode de scrutin<a id=103></a>
+#### Chapitre II : Mode de scrutin<a id=104></a>
 
 ###### Article L338
 
@@ -15758,7 +15121,7 @@ _Cite_:
   - Code électoral - art. L338
 
 
-#### Chapitre III : Conditions d'éligibilité et inéligibilités<a id=104></a>
+#### Chapitre III : Conditions d'éligibilité et inéligibilités<a id=105></a>
 
 ###### Article L339
 
@@ -15902,7 +15265,7 @@ _Créé par_:
   - Loi organique n°2011-333 du 29 mars 2011 - art. 42
 
 
-#### Chapitre IV : Incompatibilités<a id=105></a>
+#### Chapitre IV : Incompatibilités<a id=106></a>
 
 ###### Article L342
 
@@ -16016,7 +15379,7 @@ _Modifié par_:
   - Ordonnance n°2003-1165 du 8 décembre 2003 - art. 31 () JORF 9 décembre 2003
 
 
-#### Chapitre V : Déclarations de candidature<a id=106></a>
+#### Chapitre V : Déclarations de candidature<a id=107></a>
 
 ###### Article L346
 
@@ -16239,7 +15602,7 @@ _Cité par_:
   - Code électoral - art. L372 (M)
 
 
-#### Chapitre VI : Propagande<a id=107></a>
+#### Chapitre VI : Propagande<a id=108></a>
 
 ###### Article L353
 
@@ -16352,33 +15715,33 @@ _Cite_:
   - Code électoral - art. L215 (V)
 
 
-#### Chapitre VII : Opérations préparatoires au scrutin<a id=108></a>
+#### Chapitre VII : Opérations préparatoires au scrutin<a id=109></a>
 
 ###### Article L357
 
-Les collèges électoraux sont convoqués par décret publié au moins cinq semaines avant la date du scrutin.
+Les collèges électoraux sont convoqués par décret publié au moins six semaines avant la date du scrutin.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
-_Modifié par_:
-
-  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-  - Loi n°91-428 du 13 mai 1991 - art. 4 () JORF 14 mai 1991
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Cité par_:
 
   - Décret n°2015-939 du 30 juillet 2015 (V)
 
+_Modifié par_:
 
-#### Chapitre VIII : Opérations de vote<a id=109></a>
+  - Loi n°2016-1048 du 1er août 2016 - art. 10
+
+
+#### Chapitre VIII : Opérations de vote<a id=110></a>
 
 ###### Article L358
 
@@ -16436,7 +15799,7 @@ _Modifié par_:
   - Loi n°99-36 du 19 janvier 1999 - art. 10 ()
 
 
-#### Chapitre IX : Remplacement des conseillers régionaux<a id=110></a>
+#### Chapitre IX : Remplacement des conseillers régionaux<a id=111></a>
 
 ###### Article L360
 
@@ -16477,7 +15840,7 @@ _Cité par_:
   - Code électoral - art. L46-1 (MMN)
 
 
-#### Chapitre X : Contentieux<a id=111></a>
+#### Chapitre X : Contentieux<a id=112></a>
 
 ###### Article L361
 
@@ -16559,9 +15922,9 @@ _Modifié par_:
   - Loi n°99-36 du 19 janvier 1999 - art. 13 ()
 
 
-### Titre II : Election des conseillers à l'Assemblée de Corse<a id=112></a>
+### Titre II : Election des conseillers à l'Assemblée de Corse<a id=113></a>
 
-#### Chapitre Ier : Composition de l'assemblée et durée du mandat de ses membres<a id=113></a>
+#### Chapitre Ier : Composition de l'assemblée et durée du mandat de ses membres<a id=114></a>
 
 ###### Article L364
 
@@ -16601,7 +15964,7 @@ _Modifié par_:
   - Loi n°2015-991 du 7 août 2015 - art. 30
 
 
-#### Chapitre II : Mode de scrutin<a id=114></a>
+#### Chapitre II : Mode de scrutin<a id=115></a>
 
 ###### Article L365
 
@@ -16658,7 +16021,7 @@ _Modifié par_:
   - Loi n°2015-991 du 7 août 2015 - art. 30
 
 
-#### Chapitre III : Conditions d'éligibilité et inéligibilités<a id=115></a>
+#### Chapitre III : Conditions d'éligibilité et inéligibilités<a id=116></a>
 
 ###### Article L367
 
@@ -16711,7 +16074,7 @@ _Créé par_:
   - Ordonnance n°2016-1563 du 21 novembre 2016 - art. 4
 
 
-#### Chapitre IV : Incompatibilités<a id=116></a>
+#### Chapitre IV : Incompatibilités<a id=117></a>
 
 ###### Article L368
 
@@ -16761,7 +16124,7 @@ _Créé par_:
   - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
 
 
-#### Chapitre V : Déclarations de candidature<a id=117></a>
+#### Chapitre V : Déclarations de candidature<a id=118></a>
 
 ###### Article L370
 
@@ -16884,7 +16247,7 @@ _Cité par_:
   - Code électoral - art. R192 (V)
 
 
-#### Chapitre VI : Propagande<a id=118></a>
+#### Chapitre VI : Propagande<a id=119></a>
 
 ###### Article L375
 
@@ -16972,29 +16335,29 @@ _Cite_:
   - Code électoral - art. L355 (V)
 
 
-#### Chapitre VII : Opérations préparatoires au scrutin<a id=119></a>
+#### Chapitre VII : Opérations préparatoires au scrutin<a id=120></a>
 
 ###### Article L378
 
-Le collège électoral est convoqué par décret publié au moins cinq semaines avant la date du scrutin.
+Le collège électoral est convoqué par décret publié au moins six semaines avant la date du scrutin.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°91-428 1991-05-13 art. 86
-
-_Créé par_:
-
-  - Loi n°91-428 du 13 mai 1991 - art. 3 () JORF 14 mai 1991
-  - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
+  - Loi n°2016-1048 du 1er août 2016 - art. 10
 
 
-#### Chapitre VIII : Opérations de vote<a id=120></a>
+#### Chapitre VIII : Opérations de vote<a id=121></a>
 
 ###### Article L379
 
@@ -17024,7 +16387,7 @@ _Cité par_:
   - Code électoral - art. R199 (V)
 
 
-#### Chapitre IX : Remplacement des conseillers à l'Assemblée de Corse<a id=121></a>
+#### Chapitre IX : Remplacement des conseillers à l'Assemblée de Corse<a id=122></a>
 
 ###### Article L380
 
@@ -17070,7 +16433,7 @@ _Cite_:
   - Code électoral - art. L46-1
 
 
-#### Chapitre X : Contentieux<a id=122></a>
+#### Chapitre X : Contentieux<a id=123></a>
 
 ###### Article L381
 
@@ -17148,7 +16511,7 @@ _Créé par_:
   - Loi n°91-428 du 13 mai 1991 - art. 7 () JORF 14 mai 1991
 
 
-### Titre III : Conditions  d'application des titre Ier et II<a id=123></a>
+### Titre III : Conditions  d'application des titre Ier et II<a id=124></a>
 
 ###### Article L384
 
@@ -17170,51 +16533,56 @@ _Créé par_:
 
 
 ## Livre V : Dispositions applicables à la 
-Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna<a id=124></a>
+Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna<a id=125></a>
 
-### Titre Ier : Dispositions générales<a id=125></a>
+### Titre Ier : Dispositions générales<a id=126></a>
 
 ###### Article L385
 
 Pour l'application des dispositions du présent code en Nouvelle-Calédonie, il y a lieu de lire :
 
-1° " Nouvelle-Calédonie " au lieu de : " département " ;
+1° "Nouvelle-Calédonie" au lieu de : "département" ;
 
-2° " haut-commissaire " au lieu de : " préfet " ;
+2° "haut-commissaire" au lieu de : "préfet" ;
 
-3° " services du haut-commissaire " au lieu de : " préfecture " ;
+3° "services du haut-commissaire" au lieu de : "préfecture" ;
 
-4°  "subdivision administrative territoriale " au lieu de : " arrondissement " et " commissaire délégué de la République " au
-lieu de : " sous-préfet " ;
+4° "subdivision administrative territoriale" au lieu de : "arrondissement" et "commissaire délégué de la République" au lieu
+de : "sous-préfet" ;
 
-5°  "secrétaire général du haut-commissariat " au lieu de : " secrétaire général de préfecture " ;
+5° "secrétaire général du haut-commissariat" au lieu de : "secrétaire général de préfecture" ;
 
-6° " membre d'une assemblée de province " au lieu de : " conseiller général " et de : " conseiller régional " ;
+6° "membre d'une assemblée de province" au lieu de : "conseiller général" et de : "conseiller régional" ;
 
-7° " province " au lieu de : " département " et " assemblée de province " au lieu de : " conseil général " ;
+7° "province" au lieu de : "département" et "assemblée de province" au lieu de : "conseil général" ;
 
-8° " service du commissaire délégué de la République " au lieu de : " sous-préfecture " ;
+8° "service du commissaire délégué de la République" au lieu de : "sous-préfecture" ;
 
-9° " élection des membres du congrès et des assemblées de province " au lieu de : " élection des conseillers généraux " ;
+9° "élection des membres du congrès et des assemblées de province" au lieu de : "élection des conseillers généraux" ;
 
-10° " provinces " au lieu de : " cantons " ;
+10° "provinces" au lieu de : "cantons" ;
 
-11° " Institut territorial de la statistique et des études économiques " au lieu de : " Institut national de la statistique
-et des études économiques " ;
+11° "Institut de la statistique et des études économiques de la Nouvelle-Calédonie" au lieu de : "Institut national de la
+statistique et des études économiques" ;
 
-12° " tribunal de première instance " au lieu de : " tribunal d'instance " et de : " tribunal de grande instance " ;
+12° "tribunal de première instance" au lieu de : "tribunal d'instance" et de : "tribunal de grande instance" ;
 
-13° " chambre territoriale des comptes " au lieu de : " chambre régionale des comptes " ;
+13° "chambre territoriale des comptes" au lieu de : "chambre régionale des comptes" ;
 
-14° " budget de l'établissement chargé de la poste " au lieu de : " budget annexe des postes et télécommunications " ;
+14° "budget de l'établissement chargé de la poste" au lieu de : "budget annexe des postes et télécommunications" ;
 
-15° " archives de la Nouvelle-Calédonie " ou " archives de la province " au lieu de : " archives départementales ".
+15° "archives de la Nouvelle-Calédonie" ou "archives de la province" au lieu de : "archives départementales".
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Cité par_:
 
@@ -17225,7 +16593,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
+  - Loi n°2016-1048 du 1er août 2016 - art. 15 (VD)
 
 _Nouveaux textes_:
 
@@ -17236,40 +16604,46 @@ _Nouveaux textes_:
 
 Pour l'application des dispositions du présent code en Polynésie française, il y a lieu de lire :
 
-1° " Polynésie française "  au lieu de : " département "  ;
+1° "Polynésie française" au lieu de : "département" ;
 
-2° " haut-commissaire  "  au lieu de :  " préfet "  et de :  " Institut national de la statistique et des études économiques
-"  ;
+2° "haut-commissaire" au lieu de : "préfet" ;
 
-3°  " services du haut-commissaire "  au lieu de :  " préfecture "  ;
+2° bis "Institut de la statistique de la Polynésie française" au lieu de : "Institut national de la statistique et des études
+économiques" ;  
 
-4°  " subdivision administrative "  au lieu de :  " arrondissement "  et  " chef de subdivision administrative "  au lieu
-de :  " sous-préfet "  ;
+3° "services du haut-commissaire" au lieu de : "préfecture" ;
 
-5°  " secrétaire général du haut commissariat "  au lieu de :  " secrétaire général de préfecture "  ;
+4° "subdivision administrative" au lieu de : "arrondissement" et "chef de subdivision administrative" au lieu de : "sous-
+préfet" ;
 
-6°  " tribunal de première instance "  au lieu de :  " tribunal d'instance "  et de :  " tribunal de grande instance "  ;
+5° "secrétaire général du haut commissariat" au lieu de : "secrétaire général de préfecture" ;
 
-7°  " services du chef de subdivision administrative "  au lieu de :  " sous-préfecture "  ;
+6° "tribunal de première instance" au lieu de : "tribunal d'instance" et de : "tribunal de grande instance" ;
 
-8°  " représentant à l'assemblée de la Polynésie française "  au lieu de :  " conseiller général "  ;
+7° "services du chef de subdivision administrative" au lieu de : "sous-préfecture" ;
 
-9°  " élection des représentants de l'assemblée de la Polynésie française "  au lieu de :  " élection des conseillers
-généraux "  ;
+8° "représentant à l'assemblée de la Polynésie française" au lieu de : "conseiller général" ;
 
-10°  " circonscriptions électorales "  au lieu de :  " cantons "  ;
+9° "élection des représentants de l'assemblée de la Polynésie française" au lieu de : "élection des conseillers généraux" ;
 
-11°  " chambre territoriale des comptes "  au lieu de :  " chambre régionale des comptes "  ;
+10° "circonscriptions électorales" au lieu de : "cantons" ;
 
-12°  " budget de l'établissement chargé de la poste "  au lieu de :  " budget annexe des postes et télécommunications "  ;
+11° "chambre territoriale des comptes" au lieu de : "chambre régionale des comptes" ;
 
-13°  " archives de la Polynésie française "  au lieu de :  " archives départementales " .
+12° "budget de l'établissement chargé de la poste" au lieu de : "budget annexe des postes et télécommunications" ;
+
+13° "archives de la Polynésie française" au lieu de : "archives départementales".
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 octobre 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Cité par_:
 
@@ -17281,7 +16655,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2004-193 2004-02-27 art. 14 1° JORF 2 mars 2004
+  - Loi n°2016-1048 du 1er août 2016 - art. 15 (VD)
 
 
 ###### Article L387
@@ -17332,34 +16706,62 @@ _Modifié par_:
 
 ###### Article L388
 
-Les dispositions du titre Ier du livre Ier du présent code, dans leur rédaction résultant de la loi n° 2018-1202 du 22
-décembre 2018 relative à la lutte contre la manipulation de l'information, à l'exception des articles L. 15, L. 15-1, L. 46-1
-et L. 66, sont applicables à l'élection :
+I.-Les dispositions du titre Ier du livre Ier du présent code, dans leur rédaction résultant de la loi n° 2016-1048 du 1er
+août 2016 rénovant les modalités d'inscription sur les listes électorales, à l'exception des articles L. 15, L. 15-1, L. 46-1
+et L. 66, sont applicables à l'élection : 
 
-1° Des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna ;
+1° Des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna ; 
 
 2° Des membres du congrès et des assemblées de province de la Nouvelle-Calédonie, sous réserve de l'application des
-dispositions du titre V de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie ;
+dispositions du titre V de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie ; 
 
 3° Des représentants à l'assemblée de la Polynésie française, sous réserve des dispositions de la loi organique n° 2004-192
-du 27 février 2004 portant statut d'autonomie de la Polynésie française ;
+du 27 février 2004 portant statut d'autonomie de la Polynésie française ; 
 
 4° Des membres de l'assemblée territoriale des îles Wallis et Futuna, sous réserve des dispositions de la section III du
-titre III de la loi n° 61-814 du 29 juillet 1961 conférant aux îles de Wallis et Futuna le statut de territoire d'outre-mer ;
+titre III de la loi n° 61-814 du 29 juillet 1961 conférant aux îles de Wallis et Futuna le statut de territoire d'outre-
+mer ; 
 
-5° Des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française.
+5° Des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française. 
+
+II.-Par dérogation au I, pour les élections en Nouvelle-Calédonie mentionnées aux 1°, 2° et 5° du même I, sont applicables le
+chapitre II du titre Ier du livre Ier, dans sa rédaction résultant de la loi n° 2009-526 du 12 mai 2009 de simplification et
+de clarification du droit et d'allègement des procédures, et l'article L. 62-1 du présent code, dans sa rédaction résultant
+de la loi n° 88-1262 du 30 décembre 1988 modifiant diverses dispositions du  code électoral  et du  code des communes
+relatives aux procédures de vote et au fonctionnement des conseils municipaux.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
+
+Aux termes de l'article 64 XV C de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à
+compter du prochain renouvellement général des conseils municipaux :
+
+1° Si celui-ci intervient avant l'entrée en vigueur de la loi n° 2016-1048 du 1er août 2016 rénovant les modalités
+d'inscription sur les listes électorales :
+
+a) Le livre V du code électoral est ainsi modifié :
+
+- au premier alinéa de l'article L. 388, la référence : "n° 2017-1339 du 15 septembre 2017 pour la confiance dans la vie
+politique" est remplacée par la référence : "n° 2018-607 du 13 juillet 2018 relative à la programmation militaire pour les
+années 2019 à 2025 et portant diverses dispositions intéressant la défense".
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°61-814 du 29 juillet 1961
-  - Loi n°99-209 du 19 mars 1999
-  - Loi organique n°2004-192 du 27 février 2004
-  - Loi n°2016-508 du 25 avril 2016
-  - Code électoral - art. L15
-  - Code électoral - art. L46-1
-  - Code électoral - art. L66
+  - Loi n°61-814 du 29 juillet 1961 (V)
+  - Loi n°88-1262 du 30 décembre 1988 (V)
+  - Loi organique n°99-209 du 19 mars 1999 (V)
+  - Loi organique n°2004-192 du 27 février 2004 (V)
+  - Loi n°2009-526 du 12 mai 2009 (V)
+  - Code des communes
+  - Code électoral
+  - Code électoral - art. L15 (V)
+  - Code électoral - art. L46-1 (VT)
+  - Code électoral - art. L62-1 (VT)
+  - Code électoral - art. L66 (V)
 
 _Cité par_:
 
@@ -17369,15 +16771,23 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-1202 du 22 décembre 2018 - art. 20 (V)
+  - Loi n°2016-1048 du 1er août 2016 - art. 15 (VD)
+  - Loi n°2017-1339 du 15 septembre 2017 - art. 26 (V)
 
 
 ###### Article L389
 
-Dans les îles Wallis et Futuna, par dérogation à l'article L. 17, la liste électorale est fixée pour chaque village par une
-commission administrative constituée pour chacune des circonscriptions et comprenant le chef de la circonscription ou son
-représentant, le délégué de l'administration désigné par l'administrateur supérieur et un délégué désigné par le président du
-tribunal de première instance.
+Dans les îles Wallis et Futuna, par dérogation à l'article L. 19, la commission de contrôle, constituée pour chacune des
+circonscriptions, comprend le chef de la circonscription ou son représentant, le délégué de l'administration désigné par
+l'administrateur supérieur et un délégué désigné par le président du tribunal de première instance. 
+
+En Polynésie française, par dérogation aux V et VI du même article L. 19, la commission de contrôle dans les communes
+composées de communes associées est composée conformément au IV dudit article L. 19.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
@@ -17391,15 +16801,15 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
+  - Loi n°2016-1048 du 1er août 2016 - art. 15 (VD)
 
 _Cite_:
 
-  - Code électoral - art. L17 (V)
+  - Code électoral - art. L19 (VT)
 
 
 ###### Article L390
@@ -17867,46 +17277,53 @@ _Modifié par_:
 
 ###### Article LO384-1
 
-Les dispositions ayant valeur de loi organique du présent code sont applicables en Nouvelle-Calédonie, en Polynésie française
-et dans les îles Wallis et Futuna. Pour leur application, il y a lieu de lire :
+Les dispositions ayant valeur de loi organique du présent code, dans leur rédaction résultant de la loi organique n°
+2016-1046 du 1er août 2016 rénovant les modalités d'inscription sur les listes électorales des ressortissants d'un Etat
+membre de l'Union européenne autre que la France pour les élections municipales, sont applicables en Nouvelle-Calédonie, en
+Polynésie française et dans les îles Wallis et Futuna. Pour leur application, il y a lieu de lire :
 
 1° Pour la Nouvelle-Calédonie :
 
-a) " Nouvelle-Calédonie " au lieu de : " département " ;
+a) "Nouvelle-Calédonie" au lieu de : "département" ;
 
-b) " haut-commissaire de la République " et " services du haut-commissaire de la République " au lieu de : " préfet " et "
-préfecture " ;
+b) "haut-commissaire de la République" et "services du haut-commissaire de la République" au lieu de : "préfet" et
+"préfecture" ;
 
-c) " commissaire délégué de la République " au lieu de : " sous-préfet " ;
+c) "commissaire délégué de la République" au lieu de : "sous-préfet" ;
 
 2° Pour la Polynésie française :
 
-a) " Polynésie française " au lieu de : " département " ;
+a) "Polynésie française" au lieu de : "département" ;
 
-b) " haut-commissaire de la République " et " services du haut-commissaire de la République " au lieu de : " préfet " et "
-préfecture " ;
+b) "haut-commissaire de la République" et "services du haut-commissaire de la République" au lieu de : "préfet" et
+"préfecture" ;
 
-c) " chef de subdivision administrative " au lieu de : " sous-préfet " ;
+c) "chef de subdivision administrative" au lieu de : "sous-préfet" ;
 
-d) " tribunal de première instance " au lieu de : " tribunal d'instance " et de : " tribunal de grande instance " ;
+d) "tribunal de première instance" au lieu de : "tribunal d'instance" et de : "tribunal de grande instance" ;
 
 3° Pour les îles Wallis et Futuna :
 
-a) " Wallis-et-Futuna " au lieu de : " département " ;
+a) "Wallis-et-Futuna" au lieu de : "département" ;
 
-b) " administrateur supérieur " et " services de l'administrateur supérieur " au lieu de : " préfet " et " préfecture " ;
+b) "administrateur supérieur" et "services de l'administrateur supérieur" au lieu de : "préfet" et "préfecture" ;
 
-c) " chef de circonscription territoriale " au lieu de : " sous-préfet ".
+c) "chef de circonscription territoriale" au lieu de : "sous-préfet".
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1046 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2004-192 du 27 février 2004 - art. 193 () JORF 2 mars 2004
+  - Loi n°2016-1046 du 1er août 2016 - art. 2 (VD)
 
 
 ###### Article LO392-1
@@ -17936,7 +17353,7 @@ _Créé par_:
   - Loi n°2004-192 du 27 février 2004 - art. 193 () JORF 2 mars 2004
 
 
-### Titre II : Election des députés<a id=126></a>
+### Titre II : Election des députés<a id=127></a>
 
 ###### Article L395
 
@@ -18067,7 +17484,7 @@ _Cité par_:
   - Code électoral - art. LO438-3 (V)
 
 
-### Titre III : Dispositions applicables à l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie<a id=127></a>
+### Titre III : Dispositions applicables à l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie<a id=128></a>
 
 ###### Article L398
 
@@ -18296,7 +17713,7 @@ _Cité par_:
   - Code électoral - art. R239 (V)
 
 
-### Titre IV : Dispositions applicables à l'élection des membres de l'assemblée de la Polynésie française<a id=128></a>
+### Titre IV : Dispositions applicables à l'élection des membres de l'assemblée de la Polynésie française<a id=129></a>
 
 ###### Article L407
 
@@ -18616,7 +18033,7 @@ _Modifié par_:
   - Loi organique n°2007-1719 du 7 décembre 2007 - art. 3
 
 
-### Titre V : Dispositions applicables à l'élection des membres de l'assemblée territoriale des îles Wallis et Futuna<a id=129></a>
+### Titre V : Dispositions applicables à l'élection des membres de l'assemblée territoriale des îles Wallis et Futuna<a id=130></a>
 
 ###### Article L418
 
@@ -18870,9 +18287,9 @@ _Créé par_:
   - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
 
 
-### Titre VI : Dispositions applicables à l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française<a id=130></a>
+### Titre VI : Dispositions applicables à l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française<a id=131></a>
 
-#### Chapitre Ier : Nouvelle-Calédonie<a id=131></a>
+#### Chapitre Ier : Nouvelle-Calédonie<a id=132></a>
 
 ###### Article L428
 
@@ -19085,14 +18502,13 @@ _Créé par_:
   - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
 
 
-#### Chapitre II : Polynésie Française<a id=132></a>
+#### Chapitre II : Polynésie Française<a id=133></a>
 
 ###### Article L437
 
 Pour l'élection des conseillers municipaux en Polynésie française, les dispositions du chapitre Ier du titre IV du livre Ier
-sont applicables, dans leur rédaction à la date d'entrée en vigueur de la loi n° 2013-403 du 17 mai 2013 relative à
-l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le
-calendrier électoral, sous réserve des dispositions prévues au présent chapitre. 
+sont applicables, dans leur rédaction résultant de la loi n° 2016-1048 du 1er août 2016 rénovant les modalités d'inscription
+sur les listes électorales, sous réserve des dispositions prévues au présent chapitre. 
 
 Pour son application en Polynésie française, le 8° du deuxième alinéa de l'article L. 231 est ainsi rédigé : 
 
@@ -19102,10 +18518,8 @@ directeurs, inspecteurs et chefs de service de la Polynésie française. "
 
 **Nota:**
 
-Cet article a été modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des
-conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral. Conformément à son article
-51, l’article dans sa version modifiée par la loi du 17 mai 2013 s’applique à compter du prochain renouvellement général des
-conseils municipaux et communautaires prévu les 23 et 30 mars 2014, y compris aux opérations préparatoires à ce scrutin.
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
 
 Aux termes de l'article 64 XV C de la loi n° 2018-607 du 13 juillet 2018, les présentes dispositions entrent en vigueur à
 compter du prochain renouvellement général des conseils municipaux :
@@ -19128,7 +18542,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2013-403 du 17 mai 2013 - art. 42 (V)
+  - Loi n°2016-1048 du 1er août 2016 - art. 15 (VD)
 
 _Cité par_:
 
@@ -19136,7 +18550,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code électoral - art. L231 (VT)
+  - Code électoral - art. L231 (V)
 
 
 ###### Article L438
@@ -19180,7 +18594,7 @@ _Modifié par_:
   - Loi n°2018-51 du 31 janvier 2018 - art. 10 (V)
 
 
-### Titre VII : Dispositions applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna<a id=133></a>
+### Titre VII : Dispositions applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna<a id=134></a>
 
 ###### Article L439
 
@@ -19591,7 +19005,7 @@ _Cite_:
   - Code électoral - art. LO394-2
 
 
-### Titre VIII : Conditions d'application<a id=134></a>
+### Titre VIII : Conditions d'application<a id=135></a>
 
 ###### Article L449
 
@@ -19608,11 +19022,11 @@ _Créé par_:
   - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
 
 
-## Livre VI : Dispositions particulières à Mayotte, à Saint-Barthélemy, à Saint-Martin  et à Saint-Pierre-et-Miquelon<a id=135></a>
+## Livre VI : Dispositions particulières à Mayotte, à Saint-Barthélemy, à Saint-Martin  et à Saint-Pierre-et-Miquelon<a id=136></a>
 
-### Titre Ier : Mayotte<a id=136></a>
+### Titre Ier : Mayotte<a id=137></a>
 
-#### Chapitre Ier : Dispositions communes à l'élection du député, des conseillers généraux et des conseillers municipaux<a id=137></a>
+#### Chapitre Ier : Dispositions communes à l'élection du député, des conseillers généraux et des conseillers municipaux<a id=138></a>
 
 ###### Article L451
 
@@ -19689,7 +19103,7 @@ _Cite_:
   - Code électoral - art. L52-12 (V)
 
 
-#### Chapitre III : Dispositions applicables à l'élection des conseillers généraux<a id=138></a>
+#### Chapitre III : Dispositions applicables à l'élection des conseillers généraux<a id=139></a>
 
 ###### Article L462
 
@@ -19762,7 +19176,7 @@ _Cite_:
   - Code électoral - art. L216 (VT)
 
 
-#### Chapitre V : Dispositions applicables à l'élection des sénateurs de Mayotte<a id=139></a>
+#### Chapitre V : Dispositions applicables à l'élection des sénateurs de Mayotte<a id=140></a>
 
 ###### Article L474
 
@@ -19830,9 +19244,9 @@ _Créé par_:
   - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
 
 
-### Titre II : Saint-Barthélemy<a id=140></a>
+### Titre II : Saint-Barthélemy<a id=141></a>
 
-#### Chapitre Ier : Dispositions communes à l'élection du député, des conseillers territoriaux et du sénateur<a id=141></a>
+#### Chapitre Ier : Dispositions communes à l'élection du député, des conseillers territoriaux et du sénateur<a id=142></a>
 
 ###### Article L477
 
@@ -19889,7 +19303,7 @@ _Créé par_:
   - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
 
 
-#### Chapitre II : Dispositions applicables à l'élection du député<a id=142></a>
+#### Chapitre II : Dispositions applicables à l'élection du député<a id=143></a>
 
 ###### Article L478
 
@@ -19955,7 +19369,7 @@ _Cite_:
   - Code électoral - art. LO132 (VD)
 
 
-#### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux<a id=143></a>
+#### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux<a id=144></a>
 
 ###### Article L487
 
@@ -20090,20 +19504,25 @@ _Cité par_:
 
 ###### Article L492
 
-Les électeurs sont convoqués par décret, au plus tard le quatrième lundi précédant la date du scrutin.
+Les électeurs sont convoqués par décret publié au moins six semaines avant la date du scrutin.
 
-Toutefois, pour les élections partielles, les électeurs sont convoqués par arrêté du représentant de l'Etat, au plus tard le
-quatrième lundi précédant la date du scrutin.
+Toutefois, pour les élections partielles, les électeurs sont convoqués par arrêté du représentant de l'Etat publié au moins
+six semaines avant la date du scrutin.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+  - Loi n°2016-1048 du 1er août 2016 - art. 10
 
 
 ###### Article LO481
@@ -20594,7 +20013,7 @@ _Cite_:
   - Code civil - art. 112 (V)
 
 
-#### Chapitre IV : Dispositions applicables à l'élection du sénateur de Saint-Barthélemy<a id=144></a>
+#### Chapitre IV : Dispositions applicables à l'élection du sénateur de Saint-Barthélemy<a id=145></a>
 
 ###### Article L501
 
@@ -20658,9 +20077,9 @@ _Créé par_:
   - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
 
 
-### Titre III : Saint-Martin<a id=145></a>
+### Titre III : Saint-Martin<a id=146></a>
 
-#### Chapitre Ier : Dispositions communes à l'élection du député, des conseillers territoriaux et du sénateur<a id=146></a>
+#### Chapitre Ier : Dispositions communes à l'élection du député, des conseillers territoriaux et du sénateur<a id=147></a>
 
 ###### Article L504
 
@@ -20717,7 +20136,7 @@ _Créé par_:
   - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
 
 
-#### Chapitre II : Dispositions applicables à l'élection du député<a id=147></a>
+#### Chapitre II : Dispositions applicables à l'élection du député<a id=148></a>
 
 ###### Article L505
 
@@ -20783,7 +20202,7 @@ _Cite_:
   - Code électoral - art. LO132 (VD)
 
 
-#### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux<a id=148></a>
+#### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux<a id=149></a>
 
 ###### Article L514
 
@@ -20954,20 +20373,25 @@ _Cité par_:
 
 ###### Article L519
 
-Les électeurs sont convoqués par décret, au plus tard le quatrième lundi précédant la date du scrutin.
+Les électeurs sont convoqués par décret publié au moins six semaines avant la date du scrutin.
 
-Toutefois, pour les élections partielles, les électeurs sont convoqués par arrêté du représentant de l'Etat, au plus tard le
-quatrième lundi précédant la date du scrutin.
+Toutefois, pour les élections partielles, les électeurs sont convoqués par arrêté du représentant de l'Etat publié au moins
+six semaines avant la date du scrutin.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+  - Loi n°2016-1048 du 1er août 2016 - art. 10
 
 
 ###### Article LO508
@@ -21457,7 +20881,7 @@ _Cite_:
   - Code civil - art. 112 (V)
 
 
-#### Chapitre IV : Dispositions applicables à l'élection du sénateur de Saint-Martin<a id=149></a>
+#### Chapitre IV : Dispositions applicables à l'élection du sénateur de Saint-Martin<a id=150></a>
 
 ###### Article L528
 
@@ -21524,9 +20948,9 @@ _Créé par_:
   - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
 
 
-### Titre IV : Saint-Pierre-et-Miquelon<a id=150></a>
+### Titre IV : Saint-Pierre-et-Miquelon<a id=151></a>
 
-#### Chapitre Ier : Dispositions communes à l'élection du député, des conseillers territoriaux et des conseillers municipaux<a id=151></a>
+#### Chapitre Ier : Dispositions communes à l'élection du député, des conseillers territoriaux et des conseillers municipaux<a id=152></a>
 
 ###### Article L531
 
@@ -21610,7 +21034,7 @@ _Cité par_:
   - Code général des collectivités territoriales - art. LO1112-14-1 (VD)
 
 
-#### Chapitre II : Dispositions applicables à l'élection du député<a id=152></a>
+#### Chapitre II : Dispositions applicables à l'élection du député<a id=153></a>
 
 ###### Article L534
 
@@ -21681,7 +21105,7 @@ _Cite_:
   - Code électoral - art. LO132 (VD)
 
 
-#### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux<a id=153></a>
+#### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux<a id=154></a>
 
 ###### Article L542
 
@@ -21850,20 +21274,25 @@ _Cité par_:
 
 ###### Article L547
 
-Les électeurs sont convoqués par décret, au plus tard le quatrième lundi précédant la date du scrutin.
+Les électeurs sont convoqués par décret publié au moins six semaines avant la date du scrutin.
 
-Toutefois, pour les élections partielles, les électeurs sont convoqués par arrêté du représentant de l'Etat, au plus tard le
-quatrième lundi précédant la date du scrutin.
+Toutefois, pour les élections partielles, les électeurs sont convoqués par arrêté du représentant de l'Etat publié au moins
+six semaines avant la date du scrutin.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
+  - Loi n°2016-1048 du 1er août 2016 - art. 10
 
 
 ###### Article LO536
@@ -22359,7 +21788,7 @@ _Cite_:
   - Code civil - art. 112 (V)
 
 
-#### Chapitre V : Dispositions applicables à l'élection du sénateur de Saint-Pierre-et-Miquelon<a id=154></a>
+#### Chapitre V : Dispositions applicables à l'élection du sénateur de Saint-Pierre-et-Miquelon<a id=155></a>
 
 ###### Article L556
 
@@ -22429,7 +21858,7 @@ _Créé par_:
   - Loi n°2007-223 du 21 février 2007 - art. 7 (V) JORF 22 février 2007
 
 
-### Titre V : Conditions d'application<a id=155></a>
+### Titre V : Conditions d'application<a id=156></a>
 
 ###### Article L558
 
@@ -22446,12 +21875,12 @@ _Créé par_:
   - Loi n°2007-224 du 21 février 2007 - art. 6 () JORF 22 février 2007
 
 
-## Livre VI bis : Election des conseillers à l'assemblée de Guyane et des conseillers à l'assemblée de Martinique<a id=156></a>
+## Livre VI bis : Election des conseillers à l'assemblée de Guyane et des conseillers à l'assemblée de Martinique<a id=157></a>
 
-### Titre Ier : Election des conseillers à l'assemblée de Guyane<a id=157></a>
+### Titre Ier : Election des conseillers à l'assemblée de Guyane<a id=158></a>
 
 #### Chapitre Ier : Composition de l'assemblée de Guyane 
-et durée du mandat<a id=158></a>
+et durée du mandat<a id=159></a>
 
 ###### Article L558-1
 
@@ -22501,7 +21930,7 @@ _Cité par_:
   - Code électoral - art. L558-3 (V)
 
 
-#### Chapitre II : Mode de scrutin<a id=159></a>
+#### Chapitre II : Mode de scrutin<a id=160></a>
 
 ###### Article L558-3
 
@@ -22698,9 +22127,9 @@ _Cite_:
   - Code électoral - art. L558-3 (V)
 
 
-### Titre II : Election des conseillers à l'assemblée de Martinique<a id=160></a>
+### Titre II : Election des conseillers à l'assemblée de Martinique<a id=161></a>
 
-#### Chapitre Ier : Composition de l'assemblée de Martinique et durée du mandat<a id=161></a>
+#### Chapitre Ier : Composition de l'assemblée de Martinique et durée du mandat<a id=162></a>
 
 ###### Article L558-5
 
@@ -22729,7 +22158,7 @@ _Créé par_:
   - Loi n°2011-884 du 27 juillet 2011 - art. 8
 
 
-#### Chapitre II : Mode de scrutin<a id=162></a>
+#### Chapitre II : Mode de scrutin<a id=163></a>
 
 ###### Article L558-7
 
@@ -22823,9 +22252,9 @@ _Cite_:
   - Code électoral - art. L558-8
 
 
-### Titre III : Dispositions communes<a id=163></a>
+### Titre III : Dispositions communes<a id=164></a>
 
-#### Chapitre Ier : Conditions d'éligibilité et inéligibilités<a id=164></a>
+#### Chapitre Ier : Conditions d'éligibilité et inéligibilités<a id=165></a>
 
 ###### Article L558-10
 
@@ -22944,7 +22373,7 @@ _Créé par_:
   - Loi organique n°2011-883 du 27 juillet 2011 - art. 5
 
 
-#### Chapitre II : Incompatibilités<a id=165></a>
+#### Chapitre II : Incompatibilités<a id=166></a>
 
 ###### Article L558-15
 
@@ -23032,7 +22461,7 @@ _Créé par_:
   - Loi n°2011-884 du 27 juillet 2011 - art. 8
 
 
-#### Chapitre III : Déclarations de candidature<a id=166></a>
+#### Chapitre III : Déclarations de candidature<a id=167></a>
 
 ###### Article L558-19
 
@@ -23207,7 +22636,7 @@ _Créé par_:
   - Loi n°2011-884 du 27 juillet 2011 - art. 8
 
 
-#### Chapitre IV : Propagande<a id=167></a>
+#### Chapitre IV : Propagande<a id=168></a>
 
 ###### Article L558-25
 
@@ -23284,20 +22713,25 @@ _Cite_:
   - Code électoral - art. L215
 
 
-#### Chapitre V : Opérations préparatoires au scrutin<a id=168></a>
+#### Chapitre V : Opérations préparatoires au scrutin<a id=169></a>
 
 ###### Article L558-29
 
-Le collège électoral est convoqué par décret publié au moins cinq semaines avant la date du scrutin.
+Le collège électoral est convoqué par décret publié au moins six semaines avant la date du scrutin.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2011-884 du 27 juillet 2011 - art. 8
+  - Loi n°2016-1048 du 1er août 2016 - art. 10
 
 
-#### Chapitre VI : Opérations de vote<a id=169></a>
+#### Chapitre VI : Opérations de vote<a id=170></a>
 
 ###### Article L558-30
 
@@ -23329,7 +22763,7 @@ _Créé par_:
   - Loi n°2011-884 du 27 juillet 2011 - art. 8
 
 
-#### Chapitre VII : Remplacement des conseillers à l'assemblée de Guyane et des conseillers à l'assemblée de Martinique<a id=170></a>
+#### Chapitre VII : Remplacement des conseillers à l'assemblée de Guyane et des conseillers à l'assemblée de Martinique<a id=171></a>
 
 ###### Article L558-32
 
@@ -23369,7 +22803,7 @@ _Cite_:
   - Code électoral - art. L46-1
 
 
-#### Chapitre VIII : Contentieux<a id=171></a>
+#### Chapitre VIII : Contentieux<a id=172></a>
 
 ###### Article L558-33
 
@@ -23421,7 +22855,7 @@ _Créé par_:
   - Loi n°2011-884 du 27 juillet 2011 - art. 8
 
 
-### Titre IV : Conditions d'application<a id=172></a>
+### Titre IV : Conditions d'application<a id=173></a>
 
 ###### Article L558-36
 
@@ -23434,11 +22868,11 @@ _Créé par_:
   - Loi n°2011-884 du 27 juillet 2011 - art. 8
 
 
-## Livre VI ter : Dispositions applicables aux opérations référendaires<a id=173></a>
+## Livre VI ter : Dispositions applicables aux opérations référendaires<a id=174></a>
 
-### Titre Ier : Recueil des soutiens à une proposition de loi présentée en application de l'article 11 de la Constitution<a id=174></a>
+### Titre Ier : Recueil des soutiens à une proposition de loi présentée en application de l'article 11 de la Constitution<a id=175></a>
 
-#### Chapitre Ier : Financement des actions tendant à favoriser ou défavoriser le recueil des soutiens<a id=175></a>
+#### Chapitre Ier : Financement des actions tendant à favoriser ou défavoriser le recueil des soutiens<a id=176></a>
 
 ###### Article L558-37
 
@@ -23498,7 +22932,7 @@ _Cité par_:
   - Code électoral - art. R39-10-1 (V)
 
 
-#### Chapitre II : Dispositions pénales<a id=176></a>
+#### Chapitre II : Dispositions pénales<a id=177></a>
 
 ###### Article L558-38
 
@@ -23595,9 +23029,9 @@ _Cite_:
   - Code pénal - art. 131-39
 
 
-### Titre II : Organisation du référendum<a id=177></a>
+### Titre II : Organisation du référendum<a id=178></a>
 
-#### Chapitre Ier : Dispositions générales<a id=178></a>
+#### Chapitre Ier : Dispositions générales<a id=179></a>
 
 ###### Article L558-44
 
@@ -23630,9 +23064,9 @@ _Créé par_:
 
 Sont applicables aux opérations référendaires régies par le présent titre :
 
-1° Les chapitres Ier, II, V, VI et VII du titre Ier du livre Ier, à l'exception des articles L. 52-3, L. 55, L. 56, L. 57, L.
-58, des deux derniers alinéas de l'article L. 65, de l'article L. 66, des deux derniers alinéas de l'article L. 68, des
-articles L. 85-1, L. 88-1, L. 95 et des I, III et V de l'article L. 113-1 ;
+1° Les chapitres Ier, II, V, VI et VII du titre Ier du livre Ier, à l'exception des articles L. 52-3, L. 55, L. 56, L. 58,
+des deux derniers alinéas de l'article L. 65, de l'article L. 66, des deux derniers alinéas de l'article L. 68, des articles
+L. 85-1, L. 88-1, L. 95, des 1° à 5° du I de l'article L. 113-1 et du II du même article ;
 
 1° bis Les articles L. 163-1 et L. 163-2 ;
 
@@ -23643,19 +23077,25 @@ articles L. 85-1, L. 88-1, L. 95 et des I, III et V de l'article L. 113-1 ;
 Pour l'application de ces dispositions, il y a lieu de lire : " parti " ou " groupement habilité à participer à la campagne "
 au lieu de : " candidat " ou " liste de candidats ".
 
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
+  - Loi n°2016-1048 du 1er août 2016 - art. 8
   - Loi n°2018-1202 du 22 décembre 2018 - art. 4
 
 _Cite_:
 
   - Code électoral - art. L113-1
-  - Code électoral - art. L385
+  - Code électoral - art. L385 (VD)
   - Code électoral - art. L386
   - Code électoral - art. L387
-  - Code électoral - art. L389
+  - Code électoral - art. L389 (VD)
   - Code électoral - art. L390-1
   - Code électoral - art. L393
   - Code électoral - art. L451
@@ -23665,7 +23105,7 @@ _Cite_:
   - Code électoral - art. L531
   - Code électoral - art. L55
   - Code électoral - art. L56
-  - Code électoral - art. L57
+  - Code électoral - art. L57 (VT)
   - Code électoral - art. L58
   - Code électoral - art. L65
   - Code électoral - art. L66
@@ -23675,7 +23115,7 @@ _Cite_:
   - Code électoral - art. L95
 
 
-#### Chapitre II : Recensement des votes<a id=179></a>
+#### Chapitre II : Recensement des votes<a id=180></a>
 
 ###### Article L558-47
 
@@ -23740,13 +23180,18 @@ _Créé par_:
   - Loi n°2013-1116 du 6 décembre 2013 - art. 5
 
 
-## Livre VII : Dispositions applicables aux consultations organisées en application des articles 72-4 et 73 de la Constitution<a id=180></a>
+## Livre VII : Dispositions applicables aux consultations organisées en application des articles 72-4 et 73 de la Constitution<a id=181></a>
 
 ###### Article L559
 
 Les dispositions du présent livre sont applicables aux consultations organisées en Guadeloupe, en Guyane, en Martinique, à
-Mayotte, en Polynésie française, à La Réunion, à Saint-Barthélemy, à Saint-Martin et à Saint-Pierre-et-Miquelon en
-application des articles 72-4 et 73 de la Constitution.
+Mayotte, en Polynésie française, dans les îles Wallis et Futuna, à La Réunion, à Saint-Barthélemy, à Saint-Martin et à Saint-
+Pierre-et-Miquelon en application des articles 72-4 et 73 de la Constitution.
+
+**Nota:**
+
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
@@ -23756,7 +23201,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2007-1720 du 7 décembre 2007 - art. 2
+  - Loi n°2016-1048 du 1er août 2016 - art. 15 (VD)
 
 
 ###### Article L560
@@ -23794,36 +23239,33 @@ _Créé par_:
 
 ###### Article L562
 
-Les dispositions suivantes sont applicables aux consultations régies par le présent livre :
+Les dispositions suivantes sont applicables aux consultations régies par le présent livre : 
 
-1° Livre Ier, titre Ier : chapitres Ier, II, V, VI et VII, à l'exception des articles L. 52-3, L. 56, L. 57, L. 57-1, L. 58,
-L. 65 (quatrième alinéa), L. 85-1, L. 88-1, L. 95  et des I, III et V de l'article L. 113-1 ;
+1° Livre Ier, titre Ier : chapitres Ier, II, V, VI et VII, à l'exception des articles L. 52-3, L. 56, L. 57-1, L. 58, L. 65
+(quatrième alinéa), L. 85-1, L. 88-1, L. 95 et L. 113-1 (1° à 5° du I et II) ; 
 
-2° Livre V : articles L. 386 et L. 390-1 ;
+2° Livre V : articles L. 386 et L. 390-1 ; 
 
-3° Livre VI : L. 451, L. 477, L. 504 et L. 531.
+3° Livre VI : L. 451, L. 477, L. 504 et L. 531. 
 
 Pour l'application de ces dispositions, il y a lieu de lire : " parti ou groupement habilité à participer à la campagne " au
 lieu de : " candidat ", " binôme de candidats " ou " liste de candidats ".
 
 **Nota:**
 
-
+Conformément aux dispositions du I de l'article 5 du décret n° 2018-350 du 14 mai 2018, les dispositions de la loi organique
+n° 2016-1048 du 1er août 2016 entrent en vigueur le 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2017-1339 du 15 septembre 2017 - art. 26 (V)
-
-_Abrogé par_:
-
-  - Loi n°2017-1339 du 15 septembre 2017 - art. 26 (V)
+  - Loi n°2016-1048 du 1er août 2016 - art. 8
 
 _Cite_:
 
   - Code électoral - art. L113-1
-  - Code électoral - art. L386
+  - Code électoral - art. L386 (VD)
   - Code électoral - art. L390-1
   - Code électoral - art. L451
   - Code électoral - art. L477
@@ -23982,7 +23424,7 @@ _Cité par_:
   - Décret n°2009-1435 du 20 novembre 2009 - art. 4 (V)
 
 
-## Livre VIII : Commission prévue par l'article 25 de la Constitution<a id=181></a>
+## Livre VIII : Commission prévue par l'article 25 de la Constitution<a id=182></a>
 
 ###### Article L567-1
 
@@ -24150,7 +23592,7 @@ _Modifié par_:
   - Loi organique n°2010-837 du 23 juillet 2010 - art. 2
 
 
-## Livre IX : Dispositions finales<a id=182></a>
+## Livre IX : Dispositions finales<a id=183></a>
 
 ###### Article L568
 
@@ -24346,32 +23788,31 @@ _Anciens textes_:
   - Code électoral - art. L450 (T)
 
 
-# Partie réglementaire<a id=183></a>
+# Partie réglementaire<a id=184></a>
 
-## Livre Ier : Election des députés,   des conseillers départementaux, des conseillers métropolitains de Lyon, des conseillers municipaux et des conseillers communautaires des départements<a id=184></a>
+## Livre Ier : Election des députés,   des conseillers départementaux, des conseillers métropolitains de Lyon, des conseillers municipaux et des conseillers communautaires des départements<a id=185></a>
 
-### Titre Ier : Dispositions communes à l'élection des députés,   des conseillers départementaux, des conseillers métropolitains de Lyon, des conseillers municipaux et des conseillers communautaires<a id=185></a>
+### Titre Ier : Dispositions communes à l'élection des députés,   des conseillers départementaux, des conseillers métropolitains de Lyon, des conseillers municipaux et des conseillers communautaires<a id=186></a>
 
-#### Chapitre II : Listes électorales<a id=186></a>
+#### Chapitre II : Listes électorales<a id=187></a>
 
-##### Section 1 : Conditions d'inscription sur une liste électorale<a id=187></a>
+##### Section 1 : Conditions d'inscription sur une liste électorale<a id=188></a>
 
 ###### Article R1
 
 Tous les Français et Françaises jouissant de leurs droits civils et politiques et n'ayant jamais figuré sur une liste
-électorale doivent solliciter leur inscription, suivant les dispositions des articles L. 11, L. 12, L. 13, L. 14, L. 15 ou L.
-15-1.
+électorale doivent solliciter leur inscription, suivant les dispositions du I de l'article L. 11 ou des articles L. 12, L.
+13, L. 14, L. 15 ou L. 15-1.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 1 () JORF 13 octobre 2006
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
 
 _Cité par_:
 
@@ -24380,11 +23821,16 @@ _Cité par_:
   - Code général des collectivités territoriales - art. D6221-1 (V)
   - Code général des collectivités territoriales - art. D6321-1 (V)
   - Code général des collectivités territoriales - art. R2121-1 (V)
-  - Code électoral - art. R4 (V)
+  - Code électoral - art. R4 (VD)
 
 _Cite_:
 
-  - Code électoral - art. L11 (V)
+  - Code électoral - art. L11
+  - Code électoral - art. L12
+  - Code électoral - art. L13
+  - Code électoral - art. L14
+  - Code électoral - art. L15
+  - Code électoral - art. L15-1
 
 
 ###### Article R2
@@ -24396,61 +23842,55 @@ l'objet d'une mesure d'amnistie, doivent solliciter leur inscription à compter 
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 1 () JORF 13 octobre 2006
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
 
 _Cité par_:
 
   - Code électoral - art. R*4 (M)
 
 
-##### Section 2 : Etablissement et révision des listes électorales<a id=188></a>
-
 ###### Article R3
 
 Les électeurs déjà inscrits sur une liste électorale qui, à la suite d'un changement de domicile ou de résidence, ont perdu
-le droit d'être maintenus sur cette liste et n'ont pas revendiqué l'application des dispositions du 2° du premier alinéa de
+le droit d'être maintenus sur cette liste et n'ont pas revendiqué l'application des dispositions du 2° ou du 2° bis du I de
 l'article L. 11 doivent solliciter une nouvelle inscription.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 1 () JORF 13 octobre 2006
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
 
 _Cite_:
 
-  - Code électoral - art. L11 (V)
+  - Code électoral - art. L11
 
 _Cité par_:
 
-  - Code électoral - art. R*4 (M)
+  - Code électoral - art. R4 (VD)
 
 
 ###### Article R4
 
-Les dispositions des articles R. 1 à R. 3 ne font pas obstacle à l'application de l'avant-dernier alinéa de l'article L. 11
-et des articles L. 30 à L. 35.
+Les dispositions des articles R. 1 à R. 3 ne font pas obstacle à l'application de l'article L. 30.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 1 () JORF 13 octobre 2006
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
 
 _Cité par_:
 
@@ -24458,29 +23898,20 @@ _Cité par_:
 
 _Cite_:
 
-  - Code électoral - art. L11 (VT)
-  - Code électoral - art. L30 (V)
-  - Code électoral - art. R1 (V)
+  - Code électoral - art. L30
+  - Code électoral - art. R1 (VD)
+  - Code électoral - art. R3 (VD)
 
 
 ###### Article R5
 
-Pour chaque révision annuelle des listes électorales, les demandes d'inscription des électeurs doivent parvenir dans les
-mairies jusqu'au dernier jour ouvrable de décembre inclus, le samedi étant considéré comme un jour ouvrable. 
+Les demandes d'inscription, accompagnées des pièces de nature à prouver que le demandeur remplit les conditions fixées au I
+de l'article L. 11 ou aux articles L. 12, L. 13, L. 14, L. 15, L. 15-1, sont déposées en mairie dans les délais fixés par les
+articles L. 17 et L. 30 soit au moyen d'une téléprocédure dans les conditions agréées par le ministre de l'intérieur au plus
+tard à minuit, heure légale de la commune d'inscription, soit personnellement ou par l'intermédiaire d'un mandataire, muni
+d'un mandat écrit. Elles peuvent également être envoyées par courrier, au moyen du formulaire agréé prévu à cet effet. 
 
-Les demandes d'inscription doivent soit être déposées personnellement ou par l'intermédiaire d'un mandataire, muni d'un
-mandat écrit, soit être adressées par courrier, au moyen du formulaire agréé prévu à cet effet. Elles peuvent également être
-admises dans le cadre d'une téléprocédure dans les conditions agréées par le ministre de l'intérieur. 
-
-Les demandes doivent être accompagnées des pièces de nature à prouver que le demandeur remplit les conditions fixées aux
-articles L. 11 et L. 12 à L. 15-1. La liste de ces pièces est fixée par arrêté du ministre de l'intérieur. 
-
-La commission administrative prévue au deuxième alinéa de l'article L. 17 se réunit à compter du 1er septembre. Elle procède
-aux inscriptions correspondant aux demandes parvenues dans le délai fixé au premier alinéa. Au plus tard à la date fixée au
-premier alinéa, elle effectue la radiation des personnes mentionnées à l'article R. 7. 
-
-Au plus tard le 9 janvier, la commission administrative se prononce sur les observations formulées en application des
-articles L. 23 et R. 8, puis dresse le tableau rectificatif.
+La liste des pièces à fournir est fixée par arrêté du ministre de l'intérieur.
 
 **Liens relatifs à cet article**
 
@@ -24531,73 +23962,30 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2009-430 du 20 avril 2009 - art. 2
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
 
 _Cite_:
 
   - Code électoral - art. L11
   - Code électoral - art. L12
+  - Code électoral - art. L13
+  - Code électoral - art. L14
+  - Code électoral - art. L15
+  - Code électoral - art. L15-1
   - Code électoral - art. L17
-  - Code électoral - art. L23
-  - Code électoral - art. R7
-  - Code électoral - art. R8
-
-
-###### Article R5-1
-
-En même temps qu'ils demandent leur inscription dans les conditions prévues au premier alinéa de l'article R. 5, les Français
-établis hors de France peuvent demander leur radiation de la liste électorale consulaire sur laquelle ils sont inscrits. 
-
-Cette demande de radiation est transmise au ministre des affaires étrangères par l'Institut national de la statistique et des
-études économiques.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Créé par_:
-
-  - Décret n°2005-1613 du 22 décembre 2005 - art. 48 () JORF 23 décembre 2005 en vigueur le 1er janvier 2006
-
-_Cité par_:
-
-  - Arrêté du 29 mars 2006 - art. 9 (Ab)
-  - Arrêté du 20 juillet 2007 - art. 13 (V)
-
-_Abrogé par_:
-
-  - Décret n°2018-350 du 14 mai 2018 - art. 1
-
-_Cite_:
-
-  - Code électoral - art. R*5
+  - Code électoral - art. L30
 
 
 ###### Article R6
 
-Les informations mentionnées au premier alinéa de l'article L. 17-1 sont transmises à l'Institut national de la statistique
-et des études économiques au plus tard deux mois avant le début des travaux des commissions administratives par les autorités
-gestionnaires des fichiers mentionnés dans le même alinéa. 
-
-Au cours du premier mois des travaux des commissions administratives, l'Institut national de la statistique et des études
-économiques communique à chaque maire les informations nominatives susmentionnées, en précisant dans chaque cas si elles
-proviennent du fichier du recensement établi en application du code du service national ou d'un fichier d'un organisme
-servant les prestations de base des régimes obligatoires d'assurance maladie. Le maire assure sans délai la transmission de
-ces informations à la commission administrative compétente. 
-
-L'Institut national de la statistique et des études économiques adresse au plus tard le 31 décembre toutes informations
-complémentaires parvenues en sa possession et permettant l'application des articles L. 11-1 et L. 11-2. 
-
-La commission administrative ajoute à la liste électorale les personnes ainsi identifiées qui possèdent les qualités exigées
-par la loi pour être électeur dans la circonscription du bureau de vote.
+Pour l'application du 2° bis du I de l'article L. 11, la qualité de gérant ou d'associé majoritaire ou unique d'une société
+figurant au rôle est établie par les pièces prévues par arrêté du ministre de l'intérieur.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Cité par_:
 
@@ -24617,29 +24005,43 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 1 () JORF 13 octobre 2006
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
 
 _Cite_:
 
-  - Code électoral - art. L11-1 (V)
-  - Code électoral - art. L17-1 (V)
+  - Code électoral - art. L11
 
+
+##### Section 2 : Etablissement et révision des listes électorales<a id=189></a>
+
+##### Sous-section 1 : Commission de contrôle<a id=190></a>
 
 ###### Article R7
 
-La commission administrative retranche de la liste :
+Le maire transmet au préfet la liste des conseillers municipaux prêts à participer aux travaux de la commission prévue à
+l'article L. 19 parmi ceux répondant aux conditions fixées par les IV, V, VI et VII de l'article L. 19. 
 
-- sans préjudice de l'application de l'article L. 40, les électeurs décédés, ceux dont la radiation a été ordonnée par
-l'autorité compétente et ceux qui ont perdu les qualités requises par la loi ;
+Dans chaque commune, les membres de la commission prévue à l'article L. 19 sont nommés par arrêté du préfet, pour une durée
+de trois ans, et après chaque renouvellement intégral du conseil municipal. 
 
-- les électeurs qu'elle reconnaît avoir été indûment inscrits quoique leur inscription n'ait point été attaquée.
+A Paris, Marseille et Lyon, les dispositions de l'article L. 19 et des articles R. 7, R. 8 et R. 10 s'entendent par secteur
+tel que prévu par les tableaux n° 2, n° 3 et n° 4 annexés au  code électoral . Pour les secteurs dans lesquels deux listes
+ont obtenu des sièges au conseil lors de son dernier renouvellement, la commission de contrôle est composée dans les
+conditions prévues au VI de l'article L. 19. 
+
+Sa composition est rendue publique par affichage sur les panneaux officiels d'informations municipales et mise en ligne sur
+le site internet de la commune lorsqu'il existe. 
+
+Si l'un des membres de la commission de contrôle ne satisfait plus aux conditions prévues aux IV, V et VI de l'article L. 19,
+il est remplacé selon les modalités prévues au I du présent article. 
+
+Le secrétariat de la commission prévue à l'article L. 19 est assuré par les services de la commune.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Cité par_:
 
@@ -24656,69 +24058,29 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
-
-_Cite_:
-
-  - Code électoral - art. L40 (V)
-
-
-###### Article R7-1
-
-Lorsqu'il est fait application des dispositions du deuxième alinéa de l'article L. 11-2, l'article R. 6 est applicable.
-Toutefois, l'Institut national de la statistique et des études économiques doit disposer des informations mentionnées par
-l'article L. 17-1 un mois avant la date de clôture des travaux des commissions administratives. Il transmet aux maires les
-informations nominatives nécessaires au plus tard à cette date.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Créé par_:
-
-  - Décret n°97-1105 du 28 novembre 1997 - art. 2 ()
-
-_Cité par_:
-
-  - Décret n°2017-223 du 24 février 2017 - art. 2 (V)
-  - Décret n°2019-188 du 13 mars 2019 - art. 5 (V)
-
-_Abrogé par_:
-
   - Décret n°2018-350 du 14 mai 2018 - art. 1
 
 _Cite_:
 
-  - Code électoral - art. L11-2
-  - Code électoral - art. L17-1
-  - Code électoral - art. R6
+  - Code électoral
+  - Code électoral - art. L19
+  - Code électoral - art. R10
+  - Code électoral - art. R8
 
 
 ###### Article R8
 
-La commission administrative tient un registre de toutes ses décisions et y mentionne les motifs et pièces à l'appui. 
+Dans les communes mentionnées au chapitre II du titre IV du livre 1er du code électoral, la commission de contrôle est
+convoquée par le conseiller municipal qui en est membre.
 
-Lorsque la commission administrative refuse d'inscrire un électeur, cette décision est notifiée dans les deux jours à
-l'intéressé par écrit et à domicile par les soins de l'administration municipale ; l'avis de notification précise les motifs
-de la décision, la date de la publication de la liste électorale ou du tableau rectificatif et informe l'intéressé que
-jusqu'au dixième jour suivant la publication de cette liste ou de ce tableau il pourra contester ladite décision devant le
-tribunal d'instance, conformément aux dispositions de l'article L. 25 du code électoral. Mention de cette notification et de
-sa date est faite sur le registre prévu à l'alinéa précédent. 
-
-Il est procédé à ces mêmes formalités auprès de toutes parties intéressées lorsque la commission administrative radie un
-électeur pour d'autres causes que le décès ou l'inscription dans un autre bureau de vote ou lorsqu'elle prend une décision à
-l'égard d'une inscription qui a été contestée devant elle ; toutefois dans ces cas, la notification à l'électeur informe en
-outre celui-ci qu'il peut présenter des observations, dans les vingt-quatre heures, à la commission administrative,
-conformément à l'article L. 23 du code électoral. Au vu de ces observations, la commission administrative prend une nouvelle
-décision, notifiée dans les mêmes formes et délais que ceux prévus à l'alinéa 2 du présent article.
+Dans les communes mentionnées au chapitre III du titre IV du livre 1er du code électoral, la commission de contrôle est
+convoquée par le premier des trois conseillers municipaux pris dans l'ordre du tableau.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Cité par_:
 
@@ -24733,32 +24095,42 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2007-1670 du 26 novembre 2007 - art. 2 () JORF 28 novembre 2007
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
+
+
+###### Article R9
+
+La commission de contrôle est saisie des recours administratifs préalables prévus au III de l'article L. 18 par voie postale,
+avec accusé de réception, ou par voie électronique, aux adresses indiquées par le maire dans la notification de sa décision
+prise en application du I de l'article L. 18.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
 
 _Cite_:
 
-  - Code électoral - art. L23 (V)
-  - Code électoral - art. L25 (V)
+  - Code électoral - art. L18
 
 
 ###### Article R10
 
-Le tableau contenant les additions et retranchements opérés par la commission administrative est signé de tous les membres de
-cette commission et déposé au secrétariat de la mairie le 10 janvier. Tout requérant peut en prendre communication, le
-recopier et le reproduire par la voie de l'impression. 
+Dans les communes mentionnées au chapitre II du titre IV du livre 1er du code électoral, la commission de contrôle délibère
+valablement lorsque tous ses membres sont présents. 
 
-Le jour même du dépôt, le tableau est affiché par le maire aux lieux accoutumés, où il devra demeurer pendant dix jours. 
+Dans les communes mentionnées au chapitre III du titre IV du livre 1er du code électoral, la commission de contrôle délibère
+valablement lorsque trois au moins de ses cinq membres sont présents. 
 
-Les dispositions des deux alinéas précédents sont applicables au tableau des additions opérées par la commission
-administrative conformément aux dispositions du deuxième alinéa de l'article L. 11-2. Toutefois, dans cette hypothèse, le
-dépôt du tableau a lieu cinq jours après la date de la clôture des inscriptions d'office fixée par le quatrième alinéa de
-l'article L. 17.
+Si elle ne s'est pas réunie depuis le 1er janvier de l'année en cours, la commission prévue à l'article L. 19 se réunit entre
+le sixième vendredi précédant le 31 décembre et l'avant-dernier jour ouvré de l'année.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Cité par_:
 
@@ -24766,7 +24138,7 @@ _Cité par_:
   - Décret n°94-206 du 10 mars 1994 - art. 6 (V)
   - Décret n°2015-882 du 17 juillet 2015 - art. 1 (V)
   - Code électoral - art. L17 (M)
-  - Code électoral - art. R13 (V)
+  - Code électoral - art. R13 (VD)
   - Code électoral - art. R17-1 (Ab)
   - Code électoral - art. R204 (VD)
   - Code électoral - art. R213-2 (VD)
@@ -24774,50 +24146,55 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
 
 _Cite_:
 
-  - Code électoral - art. L11-2 (V)
+  - Code électoral - art. L19
 
 
 ###### Article R11
 
-En même temps, une copie du tableau et du procès-verbal, constatant l'accomplissement des formalités prescrites par l'article
-précédent est transmise par le maire au sous-préfet qui l'adresse, dans les deux jours, avec ses observations, au préfet.
+Pour l'application du II de l'article L. 19, la commission prévue à l'article L. 19 examine en priorité la régularité des
+inscriptions et radiations intervenues depuis sa dernière réunion. 
 
-A la même date, le délégué de l'administration adresse au sous-préfet ou au préfet un compte rendu du déroulement des travaux
-de la commission administrative.
+Les décisions prises dans le cadre du recours administratif préalable prévu au III de l'article L. 18 et celles prévues au II
+de l'article L. 19 sont prises à la majorité des membres présents. 
+
+La commission de contrôle informe par tout moyen l'électeur concerné de sa volonté de le radier des listes électorales. Ce
+dernier dispose d'un délai de quarante-huit heures pour présenter ses observations. 
+
+La commission de contrôle tient un registre de toutes ses décisions et y mentionne les motifs et pièces à l'appui.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
 
+_Cite_:
+
+  - Code électoral - art. L18
+  - Code électoral - art. L19
+
+
+##### Sous-section 2 : Etablissement des listes électorales<a id=191></a>
 
 ###### Article R12
 
-Si le préfet estime que les formalités et les délais prescrits n'ont pas été observés, il doit, dans les deux jours de la
-réception du tableau, déférer les opérations de la commission administrative au tribunal administratif qui statuera dans les
-trois jours et fixera, s'il y a lieu, le délai dans lequel les opérations annulées devront être refaites. 
-
-Le préfet qui défère les opérations de révision au tribunal administratif doit en aviser immédiatement le tribunal d'instance
-compétent. 
-
-Le délai d'appel contre le jugement du tribunal administratif est de dix jours. Il court contre toute partie à l'instance à
-compter du jour de la notification du jugement à cette partie, sans que puissent être appliquées les dispositions du premier
-alinéa de l'article R. 811-5 du code de justice administrative.
+La radiation prévue au I de l'article L. 18 est soumise à une procédure contradictoire écrite. L'électeur est invité à
+formuler ses observations dans un délai de quinze jours à compter de la réception du courrier du maire l'informant de son
+projet de décision.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Cité par_:
 
@@ -24835,32 +24212,28 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 1 () JORF 13 octobre 2006
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
 
 _Cite_:
 
-  - Code de justice administrative - art. R811-5 (V)
+  - Code électoral - art. L18
 
 
 ###### Article R13
 
-Les recours au tribunal d'instance prévus à l'article L. 25 sont formés par déclaration orale ou écrite, faite, remise ou
-adressée au greffe du tribunal d'instance. La déclaration indique les nom, prénoms et adresse du requérant et la qualité en
-laquelle il agit, ainsi que l'objet du recours ; si celui-ci tend à l'inscription ou à la radiation d'un électeur omis ou qui
-serait indûment inscrit, elle précise, en outre, les nom, prénoms et adresse de cet électeur. 
+Le tableau des inscriptions et radiations intervenues depuis la dernière réunion de la commission prévue à l'article L. 19
+est mis à disposition des électeurs auprès des services de la commune, aux horaires d'ouverture habituels. Il le demeure
+jusqu'à l'expiration du délai de recours contentieux prévu au I de l'article L. 20. 
 
-Les recours prévus au premier alinéa de l'article L. 25 doivent être exercés entre la notification de la décision et le
-dixième jour suivant la publication prévue à l'article R. 10. Les recours prévus au deuxième alinéa de l'article L. 25
-doivent être exercés dans les dix jours suivant cette publication. Les recours ouverts au préfet ou au sous-préfet par le
-troisième alinéa de l'article L. 25 doivent être exercés dans les dix jours qui suivent la réception du tableau contenant les
-additions et retranchements faits à la liste électorale.
+Lorsque les dispositions du premier alinéa du III de l'article L. 19 ne peuvent être appliquées, le tableau des inscriptions
+et radiations depuis la dernière réunion de la commission mentionnée à l'article L. 19 est publié le vingtième jour qui
+précède la date du scrutin, ou au plus tard le lendemain de la réunion prévue au troisième alinéa de l'article R. 10.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Cité par_:
 
@@ -24884,34 +24257,27 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2007-1670 du 26 novembre 2007 - art. 2 () JORF 28 novembre 2007
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
 
 _Cite_:
 
-  - Code électoral - art. L25 (V)
-  - Code électoral - art. R10 (V)
+  - Code électoral - art. L19
+  - Code électoral - art. L20
+  - Code électoral - art. R10 (VD)
 
 
 ###### Article R14
 
-Le tribunal statue, sans forme et sur simple avertissement donné trois jours à l'avance à toutes les parties intéressées,
-dans les dix jours du recours ou, le cas échéant, de la décision du tribunal administratif saisi en application de l'article
-L. 20. Trois jours également à l'avance, le greffe du tribunal avise du recours le préfet, qui peut présenter des
-observations. Le tribunal se prononce après avoir vérifié notamment la validité des justifications produites par l'électeur à
-l'appui de sa demande d'inscription devant la commission administrative compétente. 
-
-Toutefois, si la demande portée devant lui implique la solution préjudicielle d'une question d'état, le tribunal d'instance
-renvoie préalablement les parties à se pourvoir devant le juge compétent et fixe un bref délai dans lequel la partie qui aura
-élevé la question préjudicielle devra justifier de ses diligences. Il est procédé, en ce cas, conformément aux articles 855,
-856 et 858 du code de procédure civile. 
-
-En cas d'annulation des opérations de la commission administrative, les recours sont radiés d'office.
+Au plus tard cinq jours avant le scrutin et jusqu'à celui-ci, le tableau des inscriptions prises en application du premier
+alinéa de l'article L. 31 et des radiations depuis la réunion de la commission est mis à disposition des électeurs auprès des
+services de la commune, aux horaires d'ouverture habituels. Il le demeure jusqu'à l'expiration du délai de recours
+contentieux prévu au II de l'article L. 20.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Cité par_:
 
@@ -24924,302 +24290,48 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
 
 _Cite_:
 
-  - Code électoral - art. L20 (V)
-  - Code de procédure civile - art. 855 (V)
-  - Code de procédure civile - art. 858 (V)
+  - Code électoral - art. L20
+  - Code électoral - art. L31
 
 
 ###### Article R15
 
-La décision prise par le tribunal d'instance est notifiée dans les trois jours par le greffe au requérant et au préfet et,
-s'il y a lieu, à l'électeur intéressé, par lettre recommandée avec demande d'avis de réception. Le greffe en donne avis au
-maire dans le même délai. 
-
-La décision n'est pas susceptible d'opposition.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Modifié par_:
-
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
-
-
-###### Article R15-1
-
-Le pourvoi en cassation est formé dans les dix jours suivant la notification de la décision du tribunal d'instance. Il est
-ouvert dans tous les cas au préfet. Il n'est pas suspensif.
+Pour l'exercice de ses missions, le préfet a accès aux listes électorales des communes du département par l'intermédiaire du
+système de gestion du répertoire électoral unique mentionné au  décret n° 2018-343 du 9 mai 2018 (NOR : INTA1801348D).
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°64-1087 du 27 octobre 1964
-
-_Créé par_:
-
-  - Décret n°80-1075 1980-12-24 art. 5 JORF 28 décembre 1980
-
-_Cité par_:
-
-  - Décret n°84-252 du 6 avril 1984 - art. 21 (Ab)
-  - Décret n°98-733 du 20 août 1998 - art. 13 (V)
-  - Décret n°2005-1613 du 22 décembre 2005 - art. 21 (VT)
-  - Décret n°2005-1613 du 22 décembre 2005 - art. 13 (M)
-  - Décret n°2018-451 du 6 juin 2018 - art. 2 (V)
-  - Code de la santé publique - art. R4031-29 (M)
-  - Code de la sécurité sociale. - art. R382-53 (VT)
-  - Code de la sécurité sociale. - art. R611-40 (Ab)
-  - Code de la sécurité sociale. - art. R611-49 (Ab)
-  - Code de la sécurité sociale. - art. R611-66 (M)
-  - Code de procédure civile - art. 996 (VD)
-  - Code électoral - art. R15-7 (Ab)
-  - Code électoral - art. R17-1 (Ab)
-
-_Abrogé par_:
-
-  - Décret n°2018-350 du 14 mai 2018 - art. 1
-
-**Liens**:
-
-  - PILOTE_SUIVEUR: Code de procédure civile - art. 996 (VD)
-
-
-###### Article R15-2
-
-Le pourvoi est formé par une déclaration orale ou écrite que la partie ou tout mandataire muni d'un pouvoir spécial fait,
-remet ou adresse par pli recommandé soit au greffe du tribunal d'instance qui a rendu la décision attaquée, soit au greffe de
-la Cour de cassation. La déclaration indique les nom, prénoms et adresse du demandeur au pourvoi, ainsi que, s'il y a lieu,
-les nom, prénoms et adresse du ou des défendeurs au pourvoi. 
-
-A peine d'irrecevabilité du pourvoi, prononcée d'office, la déclaration doit contenir un énoncé des moyens de cassation
-invoqués et être accompagnée d'une copie de la décision attaquée.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1087 du 27 octobre 1964
-
-_Cité par_:
-
-  - Décret n°83-3 du 5 janvier 1983 - art. 14 (VT)
-  - Décret n°83-495 du 15 juin 1983 - art. 14 (Ab)
-  - Décret n°84-252 du 6 avril 1984 - art. 21 (Ab)
-  - Décret n°84-477 du 18 juin 1984 - art. 14 (M)
-  - Décret n°84-625 du 17 juillet 1984 - art. 43 (Ab)
-  - Décret n°94-147 du 16 février 1994 - art. 12 (V)
-  - Arrêté du 29 avril 1996 - art. 5 (V)
-  - Arrêté du 29 avril 1996 - art. 7 (V)
-  - Décret n°2017-886 du 9 mai 2017 - art. 1
-  - Décret n°2017-1418 du 29 septembre 2017 - art. 5
-  - Décret n°2018-118 du 19 février 2018 - art. 1
-  - Décret n°2018-350 du 14 mai 2018 - art. 3
-  - Code de la santé publique - art. R4031-29 (V)
-  - Code de la santé publique - art. R4031-31 (V)
-  - Code de la santé publique - art. R4031-36 (V)
-  - Code de la santé publique - art. R4125-4 (VD)
-  - Code de la sécurité sociale. - art. D214-13 (Ab)
-  - Code de la sécurité sociale. - art. R611-66 (M)
-  - Code de procédure civile - art. 996 (VD)
-  - Code du travail - art. R513-25 (M)
-
-_Modifié par_:
-
-  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
-
-_Abrogé par_:
-
-  - Décret n°2018-350 du 14 mai 2018 - art. 1
-
-**Liens**:
-
-  - PILOTE_SUIVEUR: Code de procédure civile - art. 996 (VD)
-
-
-###### Article R15-3
-
-Le greffe qui reçoit le pourvoi procède à son enregistrement. Il mentionne la date à laquelle le pourvoi est formé et délivre
-ou adresse par lettre simple récépissé de la déclaration. S'il y a un défendeur, le greffe qui a reçu le pourvoi lui adresse
-aussitôt copie de la déclaration par lettre recommandée avec demande d'avis de réception. Cette notification reproduit la
-teneur de l'article R. 15-5.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1087 du 27 octobre 1964
-
-_Cité par_:
-
-  - Décret n°83-495 du 15 juin 1983 - art. 14 (Ab)
-  - Décret n°84-252 du 6 avril 1984 - art. 21 (Ab)
-  - Décret n°84-477 du 18 juin 1984 - art. 14 (M)
-  - Code de la sécurité sociale. - art. D214-13 (Ab)
-  - Code de la sécurité sociale. - art. R611-66 (M)
-  - Code de procédure civile - art. 996 (VD)
-  - Code du travail - art. R513-25 (M)
-
-_Modifié par_:
-
-  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
-
-_Abrogé par_:
-
-  - Décret n°2018-350 du 14 mai 2018 - art. 1
-
-**Liens**:
-
-  - PILOTE_SUIVEUR: Code de procédure civile - art. 996 (VD)
 
 _Cite_:
 
-  - Code électoral - art. R15-5
-
-
-###### Article R15-4
-
-Lorsque le pourvoi a été formé au tribunal d'instance, le greffe de ce tribunal transmet immédiatement au greffe de la Cour
-de cassation le dossier de l'affaire avec la déclaration ou sa copie, la copie de la décision attaquée ainsi que les
-documents relatifs à la notification de celle-ci et, s'il y a un défenseur, les documents relatifs à la notification du
-pourvoi à ce dernier. Il transmet au greffe de la Cour de cassation toute pièce qui lui parviendrait ultérieurement. 
-
-Lorsque le pourvoi a été formé à la Cour de cassation, le greffe de la Cour de cassation demande immédiatement le dossier de
-l'affaire ainsi que les documents relatifs à la décision attaquée au greffe du tribunal d'instance qui a rendu la décision.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Cité par_:
-
-  - Décret n°83-3 du 5 janvier 1983 - art. 14 (M)
-  - Décret n°83-495 du 15 juin 1983 - art. 14 (Ab)
-  - Décret n°84-252 du 6 avril 1984 - art. 21 (Ab)
-  - Décret n°84-477 du 18 juin 1984 - art. 14 (M)
-  - Code de la sécurité sociale. - art. D214-13 (Ab)
-  - Code de la sécurité sociale. - art. R611-66 (M)
-  - Code de procédure civile - art. 996 (VD)
-  - Code du travail - art. R513-25 (M)
+  - Décret n°2018-343 du 9 mai 2018
 
 _Modifié par_:
 
-  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
-
-_Abrogé par_:
-
   - Décret n°2018-350 du 14 mai 2018 - art. 1
 
-**Liens**:
 
-  - PILOTE_SUIVEUR: Code de procédure civile - art. 996 (VD)
-
-
-###### Article R15-5
-
-Dès qu'il a reçu la copie de la déclaration du pourvoi, le défendeur au pourvoi remet sans délai contre récépissé ou adresse
-par lettre recommandée au greffe de la Cour de cassation un mémoire en réponse. Il en notifie une copie au demandeur.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1087 du 27 octobre 1964
-
-_Cité par_:
-
-  - Décret n°83-495 du 15 juin 1983 - art. 14 (Ab)
-  - Décret n°84-252 du 6 avril 1984 - art. 21 (Ab)
-  - Décret n°84-477 du 18 juin 1984 - art. 14 (M)
-  - Code de la sécurité sociale. - art. D214-13 (Ab)
-  - Code de la sécurité sociale. - art. R611-66 (M)
-  - Code de procédure civile - art. 996 (VD)
-  - Code du travail - art. R513-25 (M)
-  - Code électoral - art. R15-3 (VT)
-
-_Modifié par_:
-
-  - Décret n°2004-836 du 20 août 2004 - art. 52 (V) JORF 22 août 2004 en vigueur le 1er janvier 2005
-
-_Abrogé par_:
-
-  - Décret n°2018-350 du 14 mai 2018 - art. 1
-
-**Liens**:
-
-  - PILOTE_SUIVEUR: Code de procédure civile - art. 996 (VD)
-
-
-###### Article R15-6
-
-Les parties sont dispensées du ministère d'un avocat au Conseil d'Etat et à la Cour de cassation. Si les parties ou l'une
-d'elles chargent un avocat au Conseil d'Etat et à la Cour de cassation de les ou de la représenter, les dispositions des
-articles 974 à 982 du code de procédure civile ne sont pas applicables. 
-
-Lorsqu'un avocat au Conseil d'Etat et à la Cour de cassation a déclaré au greffe de la Cour de cassation qu'il représentait
-une partie, la notification de la copie du mémoire peut être faite à cet avocat, le cas échéant par voie de notification
-entre avocats. La remise à l'avocat, contre récépissé, d'une copie du mémoire, portant cachet à date du greffe, vaut
-notification.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°83-495 du 15 juin 1983 - art. 14 (Ab)
-  - Décret n°84-252 du 6 avril 1984 - art. 21 (Ab)
-  - Décret n°84-477 du 18 juin 1984 - art. 14 (M)
-  - Décret n°84-625 du 17 juillet 1984 - art. 43 (Ab)
-  - Code de la sécurité sociale. - art. D214-13 (Ab)
-  - Code de la sécurité sociale. - art. R611-66 (M)
-  - Code de procédure civile - art. 996 (VD)
-  - Code du travail - art. R513-25 (M)
-
-_Modifié par_:
-
-  - Décret n°2008-484 du 22 mai 2008 - art. 22 (V)
-
-_Abrogé par_:
-
-  - Décret n°2018-350 du 14 mai 2018 - art. 1
-
-**Liens**:
-
-  - PILOTE_SUIVEUR: Code de procédure civile - art. 996 (VD)
-
-_Cite_:
-
-  - Code de procédure civile - art. 974
-
+##### Sous-section 3 : Notifications<a id=192></a>
 
 ###### Article R16
 
-Le dernier jour de février de chaque année, la commission administrative de chaque bureau de vote opère toutes les
-rectifications régulièrement ordonnées et arrête définitivement la liste électorale. Dans les communes où une commission
-administrative est chargée de dresser la liste générale des électeurs, cette commission arrête le même jour, définitivement,
-la liste générale de la commune.
+Les décisions de refus d'inscription ou de radiation prises par le maire sont notifiées par écrit à l'électeur intéressé. La
+notification de ces décisions mentionne les voies et délais de recours prévus aux III et IV de l'article L. 18 ainsi qu'au I
+de l'article L. 20. 
 
-La liste électorale et le tableau définitif des rectifications apportées à la précédente liste électorale sont déposés en
-mairie.
+Les décisions prises dans le cadre du recours administratif préalable prévu au III de l'article L. 18 et celles prévues au II
+de l'article L. 19 sont notifiées par écrit à l'électeur intéressé et au maire. 
 
-Le maire transmet dans les huit jours au préfet une copie de la liste électorale générale de la commune soit sur support
-papier, soit sur support informatique, soit par voie dématérialisée dans les conditions fixées par un arrêté du ministre de
-l'intérieur, accompagnée d'une copie du ou des tableaux définitifs des rectifications apportées à la précédente liste
-électorale. 
-
-A la demande du préfet, le maire lui transmet la liste électorale établie par bureau de vote.
-
-Tout électeur peut prendre communication et copie de la liste électorale et des tableaux rectificatifs à la mairie, ou à la
-préfecture pour l'ensemble des communes du département à la condition de s'engager à ne pas en faire un usage purement
-commercial.
+Pour l'application du présent chapitre, toute transmission ou notification émise par l'Institut national de la statistique et
+des études économiques ou reçue par celui-ci s'effectue par voie dématérialisée par l'intermédiaire du système de gestion du
+répertoire électoral unique.
 
 **Liens relatifs à cet article**
 
@@ -25238,26 +24350,43 @@ _Cité par_:
   - Code forestier - art. R221-12 (Ab)
   - Code forestier - art. R221-9 (Ab)
   - Code électoral - art. L17 (M)
+  - Code électoral - art. R19 (VD)
 
 _Modifié par_:
 
-  - Décret n°2013-938 du 18 octobre 2013 - art. 41
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. L18
+  - Code électoral - art. L19
+  - Code électoral - art. L20
 
 
-##### Section 4 : Contrôle des inscriptions sur les listes électorales<a id=189></a>
+##### Sous-section 4 : Recours contentieux<a id=193></a>
 
 ###### Article R17
 
-La liste électorale reste jusqu'au dernier jour de février de l'année suivante, telle qu'elle a été arrêtée, sauf les
-changements résultant des décisions du tribunal d'instance ou d'arrêts de la Cour de cassation, les radiations des électeurs
-décédés, les rectifications opérées en cours d'année par la commission administrative en application de l'article L. 40,
-ainsi que les inscriptions d'office prononcées en application du deuxième alinéa de l'article L. 11-2.
+I.-Les recours au tribunal d'instance prévus au III de l'article L. 18 et à l'article L. 20 sont formés par déclaration orale
+ou écrite, faite, remise ou adressée au greffe du tribunal d'instance. La déclaration indique les nom, prénoms et adresse du
+requérant et la qualité en laquelle il agit, ainsi que l'objet du recours. 
+
+II.-Pour l'application du I de l'article L. 20, elle précise, en outre, les nom, prénoms et adresse de l'électeur concerné. 
+
+III.-En cas de contestation de la décision rendue à l'issue du recours administratif préalable obligatoire prévue au III de
+l'article L. 18, la déclaration doit être accompagnée : 
+
+1° De la copie du recours administratif préalable obligatoire formé auprès de la commune ; 
+
+2° De la copie de l'accusé de réception postale ou électronique du recours administratif préalable obligatoire ; 
+
+3° Le cas échéant, de la copie de la décision rendue à l'issue du recours administratif préalable obligatoire.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Cité par_:
 
@@ -25313,24 +24442,31 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
 
 _Cite_:
 
-  - Code électoral - art. L11-2 (V)
-  - Code électoral - art. L40 (V)
+  - Code électoral - art. L18
+  - Code électoral - art. L20
 
 
 ###### Article R18
 
-Lorsqu'un électeur est décédé, son nom est rayé de la liste électorale aussitôt que l'acte de décès a été dressé dans la
-commune ou communiqué au maire. Tout électeur de la commune a le droit d'exiger cette radiation.
+Le tribunal statue, sans forme et sur simple avertissement donné trois jours à l'avance à toutes les parties intéressées,
+dans les huit jours du recours. Trois jours également à l'avance, le greffe du tribunal avise du recours le préfet, qui peut
+présenter des observations. Le tribunal se prononce après avoir vérifié notamment la validité des justifications produites
+par l'électeur à l'appui de sa demande d'inscription.
+
+Toutefois, si la demande portée devant lui implique la solution préjudicielle d'une question d'état, le tribunal d'instance
+renvoie préalablement les parties à se pourvoir devant le juge compétent et fixe un bref délai dans lequel la partie qui aura
+élevé la question préjudicielle devra justifier de ses diligences. Il est procédé, en ce cas, conformément aux articles
+855,856 et  858 du code de procédure civile.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Cité par_:
 
@@ -25472,20 +24608,27 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 1 () JORF 13 octobre 2006
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
+
+_Cite_:
+
+  - Code de procédure civile
 
 
 ###### Article R19
 
-Toute demande de changement d'inscription doit être accompagnée d'une demande en radiation de la liste du domicile électoral
-antérieur pour être transmise au maire dudit domicile.
+La décision prise par le tribunal d'instance est notifiée dans les deux jours par le greffe au requérant, au préfet, au maire
+et, s'il y a lieu, à l'électeur intéressé, par lettre recommandée avec demande d'avis de réception. Elle est également
+notifiée à l'Institut national de la statistique et des études économiques dans les conditions prévues au troisième alinéa de
+l'article R. 16. 
+
+La décision n'est pas susceptible d'opposition.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Cité par_:
 
@@ -25495,24 +24638,157 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
 
+_Cite_:
+
+  - Code électoral - art. R16 (VD)
+
+
+###### Article R19-1
+
+Le pourvoi en cassation est formé dans les dix jours suivant la notification de la décision du tribunal d'instance. Il est
+ouvert dans tous les cas au préfet. Il n'est pas suspensif.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
+
+_Cité par_:
+
+  - Décret n°2018-450 du 6 juin 2018 - art. 1
+  - Code de procédure civile - art. 996 (VD)
+
+
+###### Article R19-2
+
+Le pourvoi est formé par une déclaration orale ou écrite que la partie ou tout mandataire muni d'un pouvoir spécial fait,
+remet ou adresse par pli recommandé soit au greffe du tribunal d'instance qui a rendu la décision attaquée, soit au greffe de
+la Cour de cassation. La déclaration indique les nom, prénoms et adresse du demandeur au pourvoi, ainsi que, s'il y a lieu,
+les nom, prénoms et adresse du ou des défendeurs au pourvoi.
+
+A peine d'irrecevabilité du pourvoi, prononcée d'office, la déclaration doit contenir un énoncé des moyens de cassation
+invoqués et être accompagnée d'une copie de la décision attaquée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
+
+_Cité par_:
+
+  - Code de la santé publique - art. R4031-29 (VD)
+  - Code de la santé publique - art. R4031-36 (VD)
+  - Code de procédure civile - art. 996 (VD)
+
+
+###### Article R19-3
+
+Le greffe qui reçoit le pourvoi procède à son enregistrement. Il mentionne la date à laquelle le pourvoi est formé et délivre
+ou adresse par lettre simple récépissé de la déclaration. S'il y a un défendeur, le greffe qui a reçu le pourvoi lui adresse
+aussitôt copie de la déclaration par lettre recommandée avec demande d'avis de réception. Cette notification reproduit la
+teneur de l'article R. 19-5.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
+
+_Cité par_:
+
+  - Code de procédure civile - art. 996 (VD)
+
+
+###### Article R19-4
+
+Lorsque le pourvoi a été formé au tribunal d'instance, le greffe de ce tribunal transmet immédiatement au greffe de la Cour
+de cassation le dossier de l'affaire avec la déclaration ou sa copie, la copie de la décision attaquée ainsi que les
+documents relatifs à la notification de celle-ci et, s'il y a un défenseur, les documents relatifs à la notification du
+pourvoi à ce dernier. Il transmet au greffe de la Cour de cassation toute pièce qui lui parviendrait ultérieurement.
+
+Lorsque le pourvoi a été formé à la Cour de cassation, le greffe de la Cour de cassation demande immédiatement le dossier de
+l'affaire ainsi que les documents relatifs à la décision attaquée au greffe du tribunal d'instance qui a rendu la décision.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
+
+_Cité par_:
+
+  - Code de procédure civile - art. 996 (VD)
+
+
+###### Article R19-5
+
+Dès qu'il a reçu la copie de la déclaration du pourvoi, le défendeur au pourvoi remet sans délai contre récépissé ou adresse
+par lettre recommandée au greffe de la Cour de cassation un mémoire en réponse. Il en notifie une copie au demandeur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
+
+_Cité par_:
+
+  - Code de procédure civile - art. 996 (VD)
+
+
+###### Article R19-6
+
+Les parties sont dispensées du ministère d'un avocat au Conseil d'Etat et à la Cour de cassation. Si les parties ou l'une
+d'elles chargent un avocat au Conseil d'Etat et à la Cour de cassation de les ou de la représenter, les dispositions des
+articles 974 à 982 du code de procédure civile ne sont pas applicables. 
+
+Lorsqu'un avocat au Conseil d'Etat et à la Cour de cassation a déclaré au greffe de la Cour de cassation qu'il représentait
+une partie, la notification de la copie du mémoire peut être faite à cet avocat, le cas échéant par voie de notification
+entre avocats. La remise à l'avocat, contre récépissé, d'une copie du mémoire, portant cachet à date du greffe, vaut
+notification.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
+
+_Cité par_:
+
+  - Code de commerce - art. R713-41 (VD)
+  - Code de la santé publique - art. R4031-29 (VD)
+  - Code de la santé publique - art. R4031-36 (VD)
+  - Code de procédure civile - art. 996 (VD)
+
+_Cite_:
+
+  - Code de procédure civile - art. 974
+  - Code de procédure civile - art. 982
+
+
+##### Section 4 : Dispositions communes<a id=194></a>
 
 ###### Article R20
 
-Les maires sont tenus d'envoyer, dans un délai de huit jours, à l'Institut national de la statistique et des études
-économiques un avis de toute inscription ou radiation effectuée sur la liste électorale de leur commune.
+Pour l'application de l'article L. 37, les listes électorales comportent les informations suivantes : 
 
-Lorsque la radiation est demandée par l'Institut national de la statistique et des études économiques, le maire ne lui
-communique que les décisions de refus accompagnées de leurs motifs.
+1° Données d'identification de l'électeur : nom, nom d'usage, prénoms, date de naissance, lieu de naissance ; 
 
-Mention de la date et du lieu de naissance de chaque électeur doit figurer sur les avis d'inscription ou de radiation.
+2° Adresse au titre de laquelle l'électeur est inscrit sur la liste électorale ; 
+
+3° Numéro du bureau de vote ; 
+
+4° Numéro d'ordre séquentiel sur la liste d'émargement du bureau de vote.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Cité par_:
 
@@ -25536,30 +24812,23 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 1 () JORF 13 octobre 2006
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
+
+_Cite_:
+
+  - Code électoral - art. L37
 
 
 ###### Article R21
 
-En cas de changement de commune d'inscription, le maire de la nouvelle commune d'inscription envoie à l'Institut national de
-la statistique et des études économiques un avis d'inscription assorti d'une demande de radiation. L'institut avise le maire
-de la commune de départ de cette demande de radiation ; le maire informe l'institut de la suite donnée à la demande de
-radiation.
-
-En cas de décès d'un électeur survenu hors de sa commune d'inscription, d'une condamnation comportant privation des droits
-électoraux ou de toute autre cause devant entraîner radiation d'office des listes électorales, l'Institut national de la
-statistique et des études économiques communique au maire de la commune d'inscription les informations lui permettant de
-procéder ou de faire procéder par la commission administrative à la radiation.
-
-Le préfet est informé, par l'Institut national de la statistique et des études économiques, des radiations effectuées sur les
-listes électorales des communes de son département.
+Par dérogation à l'article R. 25-2, les délais mentionnés aux sections I à III du présent chapitre sont exprimés en jours
+calendaires.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 **Liens**:
 
@@ -25574,21 +24843,25 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
 
+_Cite_:
+
+  - Code électoral - art. R25-2
+
+
+##### Section 6 : Cartes électorales<a id=195></a>
 
 ###### Article R22
 
-Lorsqu'il constate une irrégularité renouvelée ou prolongée dans les inscriptions et notamment en cas d'inscription sur deux
-ou plusieurs listes, d'inscription sous un faux état civil, de maintien d'inscription sur une liste électorale d'un électeur
-décédé ou privé de ses droits électoraux, l'Institut national de la statistique et des études économiques en avise la
-préfecture compétente.
+Une carte électorale valable pour toutes les consultations politiques au suffrage direct est délivrée à tout électeur inscrit
+sur la liste électorale.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Cité par_:
 
@@ -25608,47 +24881,59 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
 
-
-##### Section 6 : Cartes électorales<a id=190></a>
 
 ###### Article R23
 
-Une carte électorale valable pour toutes les consultations politiques au suffrage direct est délivrée à tout électeur inscrit
-sur la liste électorale.
+Dans chaque commune les cartes électorales sont établies par le maire.
+
+Elles doivent obligatoirement comporter :
+
+1° Les nom, prénoms, domicile ou résidence, date et lieu de naissance de l'électeur ;
+
+2° L'identifiant national d'électeur prévu à l' article 2 du décret n° 2018-343 du 9 mai 2018 (NOR INTA1801348D) ;
+
+3° L'indication du lieu du bureau de vote où doit se présenter l'électeur.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Cité par_:
 
   - Décret n°79-160 du 28 février 1979 - art. 2-4 (VD)
 
+_Cite_:
+
+  - Décret n°2018-343 du 9 mai 2018 - art. 2
+
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
 
 
 ###### Article R24
 
-Dans chaque commune les cartes électorales sont établies par le maire. 
+La carte électorale des personnes inscrites sur les listes électorales de la commune qui ont atteint l'âge de dix-huit ans
+depuis le 1er mars de l'année précédente leur est remise lors d'une cérémonie de citoyenneté.
 
-Elles doivent obligatoirement comporter :
+Cette cérémonie est organisée par le maire dans un délai de trois mois à compter du 1er janvier de chaque année ; elle ne
+peut pas être organisée durant la campagne électorale d'une élection concernant tout ou partie du territoire de la commune.
 
-- les mentions figurant sur la liste électorale en application des articles L. 18 et L. 19 ainsi que le code postal du
-domicile, de la résidence ou de l'adresse de l'organisme d'accueil de l'électeur ;
+Le maire invite le préfet et le président du tribunal de grande instance, ou leurs délégués, à assister à la cérémonie de
+citoyenneté.
 
-- l'indication du lieu du bureau de vote où doit se présenter l'électeur.
+A défaut de remise au cours de cette cérémonie ou lorsque celle-ci n'a pas été organisée, la carte électorale est adressée
+dans les conditions prévues à l'article R. 25.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Cité par_:
 
@@ -25658,78 +24943,41 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 1 () JORF 13 octobre 2006
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
-
-_Cite_:
-
-  - Code électoral - art. L18 (V)
-
-
-###### Article R24-1
-
-La carte électorale des personnes inscrites sur les listes électorales de la commune qui ont atteint l'âge de dix-huit ans
-depuis le 1er mars de l'année précédente leur est remise lors d'une cérémonie de citoyenneté. 
-
-Cette cérémonie est organisée par le maire dans un délai de trois mois à compter du 1er mars de chaque année ; elle ne peut
-pas être organisée durant la campagne électorale d'une élection concernant tout ou partie du territoire de la commune. 
-
-Le préfet et le président du tribunal de grande instance, ou leurs délégués, assistent à la cérémonie de citoyenneté. 
-
-A défaut de remise au cours de cette cérémonie ou lorsque celle-ci n'a pas été organisée, la carte électorale est adressée
-dans les conditions prévues à l'article R. 25.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
-
-_Créé par_:
-
-  - Décret n°2007-168 du 8 février 2007 - art. 1 () JORF 9 février 2007
-
-_Abrogé par_:
-
   - Décret n°2018-350 du 14 mai 2018 - art. 1
 
 _Cite_:
 
-  - Code électoral - art. R*25
+  - Code électoral - art. L18
 
 
 ###### Article R25
 
 Les cartes électorales sont distribuées aux électeurs, par les soins du maire.
 
-Cette distribution doit être achevée trois jours avant le scrutin et, en l'absence de scrutin, au plus tard le 1er juillet.
+Cette distribution doit être achevée trois jours avant le scrutin et, en l'absence de scrutin, au plus tard le 30 avril de
+l'année suivante.
 
 Les cartes qui n'ont pu être remises à leur titulaire font retour à la mairie.
 
 Elles sont remises le jour du scrutin au bureau de vote intéressé et y sont tenues à la disposition de leur titulaire. Elles
 ne peuvent être délivrées à l'électeur que sur la présentation d'une pièce d'identité.
 
-Procès-verbal de cette opération est alors dressé, signé par le titulaire et paraphé par le bureau.
-
-Dans chaque bureau de vote, lors de la clôture du scrutin, les cartes non retirées, ainsi que celles qui l'ont été, sont
-mentionnées nominativement sur le procès-verbal des opérations de vote, auquel sont joints les procès-verbaux de remise
-prévus à l'alinéa précédent.
+Procès-verbal de cette opération est alors dressé, signé par le titulaire et paraphé par le bureau. Dans chaque bureau de
+vote, lors de la clôture du scrutin, les cartes non retirées, ainsi que celles qui l'ont été, sont mentionnées nominativement
+sur le procès-verbal des opérations de vote, auquel sont joints les procès-verbaux de remise prévus à l'alinéa précédent.
 
 Les cartes non retirées sont mises sous pli cacheté, portant l'indication de leur nombre, et ce pli, paraphé par les membres
-du bureau, est déposé à la mairie ; il ne peut être ouvert que par la commission administrative à partir du 1er septembre.
+du bureau, et déposé à la mairie ; ces plis sont aussitôt mis à la disposition du maire pour la mise à jour des listes
+électorales.
 
-Lorsqu'au 1er septembre aucun scrutin n'a eu lieu dans l'année et si les électeurs n'ont pas été, à cette date, convoqués
-pour un scrutin, les cartes non distribuées et retournées en mairie sont aussitôt mises à la disposition de la commission
-administrative pour les besoins de la révision des listes.
-
-Cette commission tient compte, dans ses travaux, des indications qui ont motivé le retour de la carte à la mairie, ainsi que
-des indications fournies par les électeurs qui ont dû retirer directement leur carte au bureau de vote.
+Le maire tient compte, dans la mise à jour des listes électorales, des indications qui ont motivé le retour de la carte à la
+mairie, ainsi que des indications fournies par les électeurs qui ont dû retirer directement leur carte au bureau de vote.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Cité par_:
 
@@ -25739,10 +24987,10 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2007-1670 du 26 novembre 2007 - art. 2 () JORF 28 novembre 2007
+  - Décret n°2018-350 du 14 mai 2018 - art. 1
 
 
-#### Chapitre II bis : Dispositions générales en matière électorale<a id=191></a>
+#### Chapitre II bis : Dispositions générales en matière électorale<a id=196></a>
 
 ###### Article R25-1
 
@@ -25809,7 +25057,7 @@ _Créé par_:
   - Décret n°2015-1169 du 22 septembre 2015 - art. 7
 
 
-#### Chapitre V : Propagande<a id=192></a>
+#### Chapitre V : Propagande<a id=197></a>
 
 ###### Article R26
 
@@ -25980,8 +25228,7 @@ _Cite_:
 ###### Article R29
 
 Chaque candidat, binôme de candidats ou liste de candidats ne peut faire adresser à chaque électeur, par la commission de
-propagande, qu'une seule circulaire d'un grammage compris entre 60 et 80 grammes au mètre carré et d'un format de 210 mm x
-297 mm.
+propagande, qu'une seule circulaire d'un grammage de 70 grammes au mètre carré et d'un format de 210 mm x 297 mm.
 
 Cette circulaire est soustraite à la formalité du dépôt légal.
 
@@ -25990,6 +25237,7 @@ Cette circulaire est soustraite à la formalité du dépôt légal.
 _Cité par_:
 
   - Décret n°64-231 du 14 mars 1964 - art. 15 (Ab)
+  - Décret n°79-160 du 28 février 1979 - art. 6 (VD)
   - Décret n°84-477 du 18 juin 1984 - art. 36 (M)
   - Décret n°86-170 du 6 février 1986 - art. 13 (Ab)
   - Décret n°86-170 du 6 février 1986 - art. 6 (Ab)
@@ -26024,13 +25272,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2013-938 du 18 octobre 2013 - art. 14
+  - Décret n°2018-918 du 26 octobre 2018 - art. 8
 
 
 ###### Article R30
 
-Les bulletins doivent être imprimés en une seule couleur sur papier blanc, d'un grammage compris entre 60 et 80 grammes au
-mètre carré et avoir les formats suivants :
+Les bulletins doivent être imprimés en une seule couleur sur papier blanc, d'un grammage de 70 grammes au mètre carré et
+avoir les formats suivants :
 
 - 105 x 148 mm au format paysage pour les bulletins comportant de un à quatre noms ;
 
@@ -26062,6 +25310,7 @@ _Codifié par_:
 
 _Cité par_:
 
+  - Décret n°79-160 du 28 février 1979 - art. 6 (VD)
   - Décret n°86-170 du 6 février 1986 - art. 13 (Ab)
   - Décret n°86-170 du 6 février 1986 - art. 6 (Ab)
   - Décret n°93-1429 du 31 décembre 1993 - art. 39 (Ab)
@@ -26087,7 +25336,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2013-938 du 18 octobre 2013 - art. 15
+  - Décret n°2018-918 du 26 octobre 2018 - art. 8
 
 
 ###### Article R30-1
@@ -26433,7 +25682,7 @@ _Cite_:
   - Code électoral - art. R29 (VT)
 
 
-#### Chapitre V bis : Financement et plafonnement des dépenses électorales<a id=193></a>
+#### Chapitre V bis : Financement et plafonnement des dépenses électorales<a id=198></a>
 
 ###### Article R39-1
 
@@ -26759,28 +26008,27 @@ _Cite_:
   - Code électoral - art. L558-37
 
 
-#### Chapitre VI : Vote<a id=194></a>
+#### Chapitre VI : Vote<a id=199></a>
 
-##### Section 1 : Opérations préparatoires au scrutin<a id=195></a>
+##### Section 1 : Opérations préparatoires au scrutin<a id=200></a>
 
 ###### Article R40
 
 Les électeurs sont répartis par arrêté du préfet en autant de bureaux de vote que l'exigent les circonstances locales et le
-nombre des électeurs. 
+nombre des électeurs.
 
 Tout arrêté modifiant le périmètre des bureaux de vote doit être notifié au maire avant le 31 août de chaque année. Il entre
-en vigueur le premier mars suivant et est pris en compte pour l'établissement des listes électorales entrant en vigueur à
-partir de cette date. 
+en vigueur le premier janvier suivant.
 
 Toutefois, cet arrêté peut être modifié pour tenir compte des changements intervenus dans les limites des circonscriptions
-administratives ou des circonscriptions prévues par l'article L. 124. 
+administratives ou des circonscriptions prévues par l'article L. 124.
 
-Les lieux de vote sont désignés dans l'arrêté du préfet instituant les bureaux. 
+Les lieux de vote sont désignés dans l'arrêté du préfet instituant les bureaux.
 
 Lorsqu'une commune comprend plusieurs bureaux de vote, le même arrêté détermine le bureau centralisateur de la commune.
 Lorsqu'une commune comprend plusieurs circonscriptions ou fractions de circonscriptions électorales, le même arrêté détermine
 le bureau centralisateur de chaque circonscription ou fraction de circonscription au sein de la commune pour l'élection
-correspondante. 
+correspondante.
 
 Sauf cas de force majeure, tout arrêté modifiant les lieux de vote et les bureaux centralisateurs est affiché au plus tard à
 l'ouverture de la campagne électorale dans la commune intéressée.
@@ -26812,15 +26060,15 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°2007-1670 du 26 novembre 2007 - art. 4 () JORF 28 novembre 2007
+  - Décret n°2018-350 du 14 mai 2018 - art. 2
 
 _Cite_:
 
-  - Code électoral - art. L124 (V)
+  - Code électoral - art. L124
 
 
 ###### Article R41
@@ -26990,7 +26238,7 @@ _Modifié par_:
   - Décret n°2013-938 du 18 octobre 2013 - art. 43
 
 
-##### Section 2 : Opérations de vote<a id=196></a>
+##### Section 2 : Opérations de vote<a id=201></a>
 
 ###### Article D56-1
 
@@ -28346,7 +27594,7 @@ _Cite_:
   - Code électoral - art. L68 (VT)
 
 
-##### Section 3 : Vote par procuration<a id=197></a>
+##### Section 3 : Vote par procuration<a id=202></a>
 
 ###### Article R72
 
@@ -28801,7 +28049,7 @@ _Modifié par_:
   - Décret n°2006-1244 du 11 octobre 2006 - art. 8 () JORF 13 octobre 2006
 
 
-##### Section 5  : Commissions de contrôle des opérations de vote<a id=198></a>
+##### Section 5  : Commissions de contrôle des opérations de vote<a id=203></a>
 
 ###### Article R93-1
 
@@ -28899,7 +28147,7 @@ _Cite_:
   - Code électoral - art. L85-1 (V)
 
 
-#### Chapitre VII : Dispositions pénales<a id=199></a>
+#### Chapitre VII : Dispositions pénales<a id=204></a>
 
 ###### Article R94
 
@@ -29025,7 +28273,7 @@ _Cite_:
   - Code électoral - art. L61 (V)
 
 
-#### Chapitre VIII : Contentieux<a id=200></a>
+#### Chapitre VIII : Contentieux<a id=205></a>
 
 ###### Article R97
 
@@ -29048,9 +28296,9 @@ _Cité par_:
   - Décret n°2018-457 du 6 juin 2018 - art. 13 (V)
 
 
-### Titre II : Dispositions spéciales à l'élection des députés<a id=201></a>
+### Titre II : Dispositions spéciales à l'élection des députés<a id=206></a>
 
-#### Chapitre V : Déclarations de candidatures<a id=202></a>
+#### Chapitre V : Déclarations de candidatures<a id=207></a>
 
 ###### Article R98
 
@@ -29207,7 +28455,7 @@ _Cité par_:
   - Code électoral - art. R173-5 (V)
 
 
-#### Chapitre VI : Propagande<a id=203></a>
+#### Chapitre VI : Propagande<a id=208></a>
 
 ###### Article R103
 
@@ -29316,7 +28564,7 @@ _Créé par_:
   - Décret n°2018-1176 du 18 décembre 2018 - art. 2
 
 
-#### Chapitre VIII : Opérations de vote<a id=204></a>
+#### Chapitre VIII : Opérations de vote<a id=209></a>
 
 ###### Article R104
 
@@ -29462,9 +28710,9 @@ _Modifié par_:
   - Décret n°2007-1670 du 26 novembre 2007 - art. 5 () JORF 28 novembre 2007
 
 
-### Titre III : Dispositions spéciales à l'élection des conseillers départementaux<a id=205></a>
+### Titre III : Dispositions spéciales à l'élection des conseillers départementaux<a id=210></a>
 
-#### Chapitre IV bis : Déclarations de candidatures<a id=206></a>
+#### Chapitre IV bis : Déclarations de candidatures<a id=211></a>
 
 ###### Article R109-1
 
@@ -29571,7 +28819,7 @@ _Cite_:
   - Code électoral - art. R99 (V)
 
 
-#### Chapitre V : Propagande<a id=207></a>
+#### Chapitre V : Propagande<a id=212></a>
 
 ###### Article R110
 
@@ -29629,7 +28877,7 @@ _Cite_:
   - Code électoral - art. L52-11-1 (V)
 
 
-#### Chapitre VII : Opérations de vote<a id=208></a>
+#### Chapitre VII : Opérations de vote<a id=213></a>
 
 ###### Article R111
 
@@ -29696,7 +28944,7 @@ _Cite_:
   - Code électoral - art. L221
 
 
-#### Chapitre IX : Contentieux<a id=209></a>
+#### Chapitre IX : Contentieux<a id=214></a>
 
 ###### Article R113
 
@@ -29865,18 +29113,19 @@ _Cite_:
   - Code électoral - art. L118-3 (VT)
 
 
-### Titre IV  : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris<a id=210></a>
+### Titre IV  : Dispositions spéciales à l'élection des conseillers municipaux et des membres du Conseil de Paris<a id=215></a>
 
-#### Chapitre Ier : Dispositions applicables à toutes les communes<a id=211></a>
+#### Chapitre Ier : Dispositions applicables à toutes les communes<a id=216></a>
 
-##### Section 1 bis : Dispositions spéciales à l'exercice par les ressortissants d'un Etat membre de l'Union européenne autre que la France du droit de vote pour l'élection des conseillers municipaux et des membres du Conseil de Paris<a id=212></a>
+##### Section 1 bis : Dispositions spéciales à l'exercice par les ressortissants d'un Etat membre de l'Union européenne autre que la France du droit de vote pour l'élection des conseillers municipaux et des membres du Conseil de Paris<a id=217></a>
 
 ###### Article R117-2
 
-Les dispositions des articles R. 5, R. 7, R. 8 à R. 22 sont applicables à l'établissement et à la révision des listes
-électorales complémentaires instituées par l'article LO. 227-2. 
+Les dispositions des articles R. 5 à R. 16 sont applicables à l'établissement des listes électorales complémentaires
+instituées par l'article LO. 227-2.
 
-L'avis d'inscription ou de radiation prévu par l'article R. 20 comporte en outre la mention de la nationalité de l'électeur. 
+Les décisions prises par le maire en application du I de l'article L. 18 comportent en outre la mention de la nationalité de
+l'électeur.
 
 Les personnes inscrites dans les conditions fixées à l'article LO. 227-3 ne peuvent s'inscrire dans une commune différente au
 titre de l'article 2-2 de la loi du 7 juillet 1977 susvisée. En cas d'inscription dans deux communes, seule la dernière
@@ -29886,19 +29135,19 @@ inscription est valable.
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Cite_:
 
-  - Loi n°77-729 du 7 juillet 1977 - art. 2-2 (V)
-  - Code électoral - art. LO227-2 (V)
-  - Code électoral - art. LO227-3 (V)
-  - Code électoral - art. R5 (V)
-  - Code électoral - art. R7 (V)
+  - Loi n°77-729 du 7 juillet 1977 - art. 2-2
+  - Code électoral - art. LO227-2
+  - Code électoral - art. LO227-3
+  - Code électoral - art. R*5
+  - Code électoral - art. R*7
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 1 () JORF 13 octobre 2006
+  - Décret n°2018-350 du 14 mai 2018 - art. 2
 
 _Cité par_:
 
@@ -29908,29 +29157,29 @@ _Cité par_:
 ###### Article R117-3
 
 Une carte électorale d'un modèle spécial est délivrée à tout électeur inscrit sur une liste électorale complémentaire. Les
-dispositions des articles R. 24 et R. 25 sont applicables à cette carte électorale qui mentionne en outre la nationalité de
+dispositions des articles R. 23 et R. 25 sont applicables à cette carte électorale qui mentionne en outre la nationalité de
 l'électeur.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1087 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1087 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Décret n°2006-1244 du 11 octobre 2006 - art. 1 () JORF 13 octobre 2006
+  - Décret n°2018-350 du 14 mai 2018 - art. 2
 
 _Cite_:
 
-  - Code électoral - art. R24 (V)
+  - Code électoral - art. R*24
 
 _Cité par_:
 
   - Code électoral - art. R265 (VD)
 
 
-##### Section 4 : Propagande<a id=213></a>
+##### Section 4 : Propagande<a id=218></a>
 
 ###### Article R117-4
 
@@ -29983,7 +29232,7 @@ _Créé par_:
   - Décret n°2018-808 du 25 septembre 2018 - art. 1
 
 
-##### Section 6 : Opérations de vote<a id=214></a>
+##### Section 6 : Opérations de vote<a id=219></a>
 
 ###### Article R118
 
@@ -30011,7 +29260,7 @@ _Modifié par_:
   - Décret n°76-281 1976-03-18 art. 6 JORF 30 mars 1976
 
 
-##### Section 7 : Contentieux<a id=215></a>
+##### Section 7 : Contentieux<a id=220></a>
 
 ###### Article R119
 
@@ -30207,9 +29456,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. R2113-11 (V)
 
 
-#### Chapitre II : Dispositions spéciales aux communes de moins de 1 000 habitants<a id=216></a>
+#### Chapitre II : Dispositions spéciales aux communes de moins de 1 000 habitants<a id=221></a>
 
-##### Section 1 : Déclarations de candidature<a id=217></a>
+##### Section 1 : Déclarations de candidature<a id=222></a>
 
 ###### Article R124
 
@@ -30248,7 +29497,7 @@ _Cite_:
   - Code électoral - art. R128-1 (V)
 
 
-##### Section 2 : Opérations de vote<a id=218></a>
+##### Section 2 : Opérations de vote<a id=223></a>
 
 ###### Article R126
 
@@ -30311,9 +29560,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. R2121-2
 
 
-#### Chapitre III : Dispositions spéciales aux communes de 1000 habitants et plus<a id=219></a>
+#### Chapitre III : Dispositions spéciales aux communes de 1000 habitants et plus<a id=224></a>
 
-##### Section 1 : Mode de scrutin<a id=220></a>
+##### Section 1 : Mode de scrutin<a id=225></a>
 
 ###### Article R127-1
 
@@ -30360,7 +29609,7 @@ _Cité par_:
   - Code électoral - art. R269 (V)
 
 
-##### Section 2 : Déclarations de candidature<a id=221></a>
+##### Section 2 : Déclarations de candidature<a id=226></a>
 
 ###### Article R127-2
 
@@ -30536,7 +29785,7 @@ _Cite_:
   - Code électoral - art. L273-9 (V)
 
 
-##### Section 3 : Opérations de vote<a id=222></a>
+##### Section 3 : Opérations de vote<a id=227></a>
 
 ###### Article R128-4
 
@@ -30556,9 +29805,9 @@ _Créé par_:
   - Décret n°2013-938 du 18 octobre 2013 - art. 38
 
 
-#### Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille<a id=223></a>
+#### Chapitre IV : Dispositions particulières applicables à Paris, Lyon et Marseille<a id=228></a>
 
-##### Section 2 : Opérations préparatoires au scrutin<a id=224></a>
+##### Section 2 : Opérations préparatoires au scrutin<a id=229></a>
 
 ###### Article R129
 
@@ -30591,7 +29840,7 @@ _Modifié par_:
   - Décret n°2006-1244 du 11 octobre 2006 - art. 12 () JORF 13 octobre 2006
 
 
-### Titre V : DISPOSITIONS SPÉCIALES À L'ÉLECTION DES CONSEILLERS COMMUNAUTAIRES<a id=225></a>
+### Titre V : DISPOSITIONS SPÉCIALES À L'ÉLECTION DES CONSEILLERS COMMUNAUTAIRES<a id=230></a>
 
 ###### Article R130-1-A
 
@@ -30610,9 +29859,9 @@ _Cite_:
   - Code électoral - art. L273-9
 
 
-## Livre II  : Election des sénateurs des départements<a id=226></a>
+## Livre II  : Election des sénateurs des départements<a id=231></a>
 
-### Titre II : Composition du collège électoral<a id=227></a>
+### Titre II : Composition du collège électoral<a id=232></a>
 
 ###### Article R130-1
 
@@ -30645,7 +29894,7 @@ _Cité par_:
   - Code électoral - art. R271 (V)
 
 
-### Titre III : Désignation des délégués des conseils municipaux<a id=228></a>
+### Titre III : Désignation des délégués des conseils municipaux<a id=233></a>
 
 ###### Article R*136
 
@@ -31063,7 +30312,7 @@ _Modifié par_:
   - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
 
 
-### Titre III bis : Désignation des délégués à l'Assemblée de Corse<a id=229></a>
+### Titre III bis : Désignation des délégués à l'Assemblée de Corse<a id=234></a>
 
 ###### Article R148-1
 
@@ -31104,9 +30353,9 @@ _Modifié par_:
   - Décret n°2006-1244 du 11 octobre 2006 - art. 17 (V) JORF 13 octobre 2006
 
 
-### Titre IV : Election des sénateurs<a id=230></a>
+### Titre IV : Election des sénateurs<a id=235></a>
 
-#### Chapitre IV : Déclarations de candidatures<a id=231></a>
+#### Chapitre IV : Déclarations de candidatures<a id=236></a>
 
 ###### Article R149
 
@@ -31257,7 +30506,7 @@ _Cité par_:
   - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
 
 
-#### Chapitre V : Propagande<a id=232></a>
+#### Chapitre V : Propagande<a id=237></a>
 
 ###### Article R154
 
@@ -31531,7 +30780,7 @@ _Cité par_:
   - Code électoral - art. R160 (V)
 
 
-#### Chapitre VI : Opérations préparatoires au scrutin<a id=233></a>
+#### Chapitre VI : Opérations préparatoires au scrutin<a id=238></a>
 
 ###### Article R162
 
@@ -31585,7 +30834,7 @@ _Cité par_:
   - Code électoral - art. R278 (V)
 
 
-#### Chapitre VII : Opérations de vote<a id=234></a>
+#### Chapitre VII : Opérations de vote<a id=239></a>
 
 ###### Article R163
 
@@ -31944,9 +31193,9 @@ _Cité par_:
   - TXT_ASSOCIE: Code électoral - art. L317 (V)
 
 
-## Livre III : Dispositions spécifiques aux députés élus par les Français établis hors de France<a id=235></a>
+## Livre III : Dispositions spécifiques aux députés élus par les Français établis hors de France<a id=240></a>
 
-### Section 1 : Liste électorale<a id=236></a>
+### Section 1 : Liste électorale<a id=241></a>
 
 ###### Article R172
 
@@ -31975,7 +31224,7 @@ _Cité par_:
   - Code électoral - art. R176-3 (V)
 
 
-### Section 2 : Déclaration de candidature<a id=237></a>
+### Section 2 : Déclaration de candidature<a id=242></a>
 
 ###### Article R173
 
@@ -32109,7 +31358,7 @@ _Créé par_:
   - Décret n°2018-1176 du 18 décembre 2018 - art. 4
 
 
-### Section 3 : Campagne électorale<a id=238></a>
+### Section 3 : Campagne électorale<a id=243></a>
 
 ###### Article R174
 
@@ -32226,7 +31475,7 @@ _Cite_:
   - Code électoral - art. L167
 
 
-### Section 4 : Financement de la campagne électorale<a id=239></a>
+### Section 4 : Financement de la campagne électorale<a id=244></a>
 
 ###### Article R175
 
@@ -32333,9 +31582,9 @@ _Cite_:
   - Code électoral - art. L52-11-1
 
 
-### Section 5 : Opérations de vote<a id=240></a>
+### Section 5 : Opérations de vote<a id=245></a>
 
-#### Sous-section 1 : Information des électeurs<a id=241></a>
+#### Sous-section 1 : Information des électeurs<a id=246></a>
 
 ###### Article R176
 
@@ -32353,7 +31602,7 @@ _Modifié par_:
   - Décret n°2011-843 du 15 juillet 2011 - art. 1
 
 
-#### Sous-section 2 : Vote à l'urne<a id=242></a>
+#### Sous-section 2 : Vote à l'urne<a id=247></a>
 
 ###### Article R176-1
 
@@ -32666,7 +31915,7 @@ _Cite_:
   - Code électoral - art. R176-1-6
 
 
-#### Sous-section 3 : Vote par procuration<a id=243></a>
+#### Sous-section 3 : Vote par procuration<a id=248></a>
 
 ###### Article R176-2
 
@@ -32774,7 +32023,7 @@ _Cite_:
   - Code électoral - art. R*80
 
 
-#### Sous-section 4 : Vote par correspondance électronique<a id=244></a>
+#### Sous-section 4 : Vote par correspondance électronique<a id=249></a>
 
 ###### Article R176-3
 
@@ -33148,7 +32397,7 @@ _Cite_:
   - Code électoral - art. R40
 
 
-#### Sous-section 5 : Vote par correspondance sous pli fermé<a id=245></a>
+#### Sous-section 5 : Vote par correspondance sous pli fermé<a id=250></a>
 
 ###### Article R176-4
 
@@ -33376,7 +32625,7 @@ _Cité par_:
   - Code électoral - art. R177-4 (V)
 
 
-### Section 6 : Dépouillement et recensement des votes<a id=246></a>
+### Section 6 : Dépouillement et recensement des votes<a id=251></a>
 
 ###### Article R177
 
@@ -33569,7 +32818,7 @@ _Cite_:
   - Code électoral - art. R69
 
 
-### Section 7 : Dispositions pénales<a id=247></a>
+### Section 7 : Dispositions pénales<a id=252></a>
 
 ###### Article R178
 
@@ -33587,7 +32836,7 @@ _Modifié par_:
   - Décret n°2011-843 du 15 juillet 2011 - art. 1
 
 
-### Section 8 : Contentieux<a id=248></a>
+### Section 8 : Contentieux<a id=253></a>
 
 ###### Article R179
 
@@ -33640,7 +32889,7 @@ _Cite_:
   - Code électoral - art. R176-3
 
 
-## Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse<a id=249></a>
+## Livre IV : Election des conseillers régionaux et des conseillers à l'Assemblée de Corse<a id=254></a>
 
 ###### Article R182
 
@@ -33662,9 +32911,9 @@ _Modifié par_:
   - Décret n°91-653 du 15 juillet 1991 - art. 1 () JORF 16 juillet 1991
 
 
-### Titre Ier : Election des conseillers régionaux<a id=250></a>
+### Titre Ier : Election des conseillers régionaux<a id=255></a>
 
-#### Chapitre V : Déclarations de candidatures<a id=251></a>
+#### Chapitre V : Déclarations de candidatures<a id=256></a>
 
 ###### Article R183
 
@@ -33730,7 +32979,7 @@ _Cité par_:
   - Code électoral - art. R187 (Ab)
 
 
-#### Chapitre VI : Propagande<a id=252></a>
+#### Chapitre VI : Propagande<a id=257></a>
 
 ###### Article R186
 
@@ -33757,7 +33006,7 @@ _Cité par_:
   - Code électoral - art. R187 (Ab)
 
 
-#### Chapitre VIII : Opérations de vote<a id=253></a>
+#### Chapitre VIII : Opérations de vote<a id=258></a>
 
 ###### Article R188
 
@@ -33851,7 +33100,7 @@ _Créé par_:
   - Décret n°99-232 du 24 mars 1999 - art. 3 ()
 
 
-#### Chapitre X : Contentieux<a id=254></a>
+#### Chapitre X : Contentieux<a id=259></a>
 
 ###### Article R190
 
@@ -33878,9 +33127,9 @@ _Cité par_:
   - Code électoral - art. R358 (V)
 
 
-### Titre  II : Election des conseillers à l'Assemblée de Corse<a id=255></a>
+### Titre  II : Election des conseillers à l'Assemblée de Corse<a id=260></a>
 
-#### Chapitre V : Déclarations de candidature<a id=256></a>
+#### Chapitre V : Déclarations de candidature<a id=261></a>
 
 ###### Article R191
 
@@ -33944,7 +33193,7 @@ _Cité par_:
   - Code électoral - art. R197 (Ab)
 
 
-#### Chapitre VI : Propagande<a id=257></a>
+#### Chapitre VI : Propagande<a id=262></a>
 
 ###### Article R195
 
@@ -33994,7 +33243,7 @@ _Cité par_:
   - Code électoral - art. R197 (Ab)
 
 
-#### Chapitre VII : Opérations de vote<a id=258></a>
+#### Chapitre VII : Opérations de vote<a id=263></a>
 
 ###### Article R198
 
@@ -34048,7 +33297,7 @@ _Cite_:
   - Code électoral - art. R107 (V)
 
 
-#### Chapitre X : Contentieux<a id=259></a>
+#### Chapitre X : Contentieux<a id=264></a>
 
 ###### Article R200
 
@@ -34073,11 +33322,11 @@ _Cite_:
   - Code électoral - art. R190 (V)
 
 
-## Livre V : Dispositions applicables à la Nouvelle-Calédonie, à la Polynésie française et aux îles  Wallis et Futuna<a id=260></a>
+## Livre V : Dispositions applicables à la Nouvelle-Calédonie, à la Polynésie française et aux îles  Wallis et Futuna<a id=265></a>
 
-### Titre Ier : Dispositions générales<a id=261></a>
+### Titre Ier : Dispositions générales<a id=266></a>
 
-#### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna<a id=262></a>
+#### Chapitre Ier : Dispositions communes à la Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna<a id=267></a>
 
 ###### Article R201
 
@@ -34273,21 +33522,25 @@ _Modifié par_:
 
 ###### Article R204
 
-Les dispositions du titre Ier du livre Ier du présent code (partie réglementaire), à l'exclusion des mots : " sur papier
-blanc " figurant à l'article R. 30, sont applicables, dans leur rédaction résultant du décret n° 2017-1795 du 28 décembre
-2017 : 
+I. - Les dispositions du titre Ier du livre Ier du présent code (partie réglementaire), à l'exclusion des mots : " sur papier
+blanc " figurant à l'article R. 30, sont applicables, dans leur rédaction résultant du décret n° 2018-918 du 26 octobre
+2018 :
 
-1° A l'élection des députés en Nouvelle-Calédonie et en Polynésie française et, à l'exception des articles R. 20 à R. 22, R.
-43 et R. 60, à l'élection du député dans les îles Wallis et Futuna ; 
+1° A l'élection des députés en Nouvelle-Calédonie et en Polynésie française et, à l'exception des articles R. 7, R. 8 et R.
+10, R. 43 et R. 60, à l'élection du député dans les îles Wallis et Futuna ;
 
-2° A l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie ; 
+2° A l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie ;
 
-3° A l'élection des représentants à l'assemblée de Polynésie française ; 
+3° A l'élection des représentants à l'assemblée de Polynésie française ;
 
-4° A l'exception des articles R. 20 à R. 22, R. 43 et R. 60 et du chapitre V bis, à l'élection des membres de l'assemblée
-territoriale des îles Wallis et Futuna ; 
+4° A l'exception des articles R. 7, R. 8 et R. 10, R. 43 et R. 60 et du chapitre V bis, à l'élection des membres de
+l'assemblée territoriale des îles Wallis et Futuna ;
 
 5° A l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française.
+
+II. - Par dérogation au I, pour les élections en Nouvelle-Calédonie mentionnées aux 1°, 2° et 5° du même I, sont applicables
+le chapitre II du titre Ier du livre Ier et l'article R. 40 du présent code (partie réglementaire), dans leur rédaction
+résultant du décret n° 2013-938 du 18 octobre 2013.
 
 **Liens relatifs à cet article**
 
@@ -34297,16 +33550,21 @@ _Cité par_:
   - Décret n°2016-1819 du 22 décembre 2016 - art. 4
   - Code électoral - art. R210 (V)
 
-_Modifié par_:
-
-  - Décret n°2017-1795 du 28 décembre 2017 - art. 3 (V)
-
 _Cite_:
 
-  - Code électoral - art. R*20
-  - Code électoral - art. R30 (V)
+  - Décret n°2013-938 du 18 octobre 2013
+  - Décret n°2018-350 du 14 mai 2018
+  - Code électoral - art. R*10
+  - Code électoral - art. R*7
+  - Code électoral - art. R*8
+  - Code électoral - art. R30
+  - Code électoral - art. R40
   - Code électoral - art. R43
   - Code électoral - art. R60
+
+_Modifié par_:
+
+  - Décret n°2018-918 du 26 octobre 2018 - art. 8
 
 
 ###### Article R205
@@ -34494,7 +33752,7 @@ _Cite_:
   - Code électoral - art. L118-3 (V)
 
 
-#### Chapitre II : Dispositions propres à la Nouvelle-Calédonie<a id=263></a>
+#### Chapitre II : Dispositions propres à la Nouvelle-Calédonie<a id=268></a>
 
 ###### Article R213
 
@@ -34632,7 +33890,7 @@ _Modifié par_:
   - Décret n°2016-943 du 8 juillet 2016 - art. 3
 
 
-#### Chapitre III : Dispositions propres aux îles Wallis et Futuna<a id=264></a>
+#### Chapitre III : Dispositions propres aux îles Wallis et Futuna<a id=269></a>
 
 ###### Article R213-1
 
@@ -34656,112 +33914,73 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-#### Chapitre IV : Dispositions propres à la Polynésie française<a id=265></a>
+###### Article R213-1-1
 
-###### Article R213-2
+I.-Dans les îles Wallis et Futuna, les modalités de la tenue du répertoire électoral unique sont définies dans une convention
+entre l'Institut national de la statistique et des études économiques et l'administrateur supérieur des îles Wallis et
+Futuna. 
 
-I. - L'Institut de la statistique de la Polynésie française (ISPF) met en œuvre un traitement automatisé de données à
-caractère personnel en vue de la tenue du fichier général des électeurs et électrices inscrits en Polynésie française,
-mentionné à l'article 189 de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie
-française. 
+II.-Un arrêté de l'administrateur supérieur des îles Wallis et Futuna dresse la liste des membres de la commission prévue à
+l'article L. 19, qui sont nommés pour une durée de trois ans. Sa composition est rendue publique par affichage à la porte de
+la circonscription territoriale. 
 
-II. - Le fichier mentionné au I est constitué à partir : 
+La commission de contrôle, qui est convoquée par le chef de la circonscription ou son représentant, délibère valablement
+lorsque tous ses membres sont présents. 
 
-1° Des listes électorales de la Polynésie française ; 
+Si elle ne s'est pas réunie depuis le 1er janvier de l'année en cours, la commission se réunit entre le sixième vendredi
+précédant le 31 décembre et le dernier jour ouvré de l'année. 
 
-2° Des listes électorales complémentaires établies en Polynésie française pour l'application du chapitre Ier bis de la loi n°
-77-729 du 7 juillet 1977 relative à l'élection des représentants au Parlement européen ; 
-
-3° Des listes électorales complémentaires établies en Polynésie française pour l'application des articles LO 227-1 à LO 227-4
-du présent code. 
-
-III. - Le fichier mentionné au I est mis à jour à partir : 
-
-1° Des décisions des commissions administratives chargées de la révision des listes électorales, relatives aux inscriptions
-et radiations effectuées sur cette liste ; 
-
-2° Des décisions juridictionnelles intervenues en application du chapitre II du titre Ier du livre Ier du présent code ; 
-
-3° Des avis de perte de la capacité électorale établis par les services du casier judiciaire ; 
-
-4° Des avis de décès établis par les mairies de Polynésie française ; 
-
-5° Des informations mentionnées au premier alinéa de l'article L. 17-1 ; 
-
-6° Des avis reçus de l'Institut national de la statistique et des études économiques, de l'Institut de la statistique et des
-études économiques de la Nouvelle-Calédonie (ISEE) et du représentant de l'Etat chargé du contrôle des listes électorales
-dans les îles Wallis et Futuna, relatifs aux personnes inscrites sur les listes électorales en Polynésie française et qui : 
-
-a) Soit, étant également inscrites sur une liste électorale hors de la Polynésie française, doivent être radiées en Polynésie
-française ; 
-
-b) Soit, étant également inscrites sur une liste électorale consulaire, ont décidé de voter à l'étranger dans le cadre des
-élections présidentielles, législatives et européennes ; 
-
-c) Soit sont décédées hors de la Polynésie française ; 
-
-d) Soit ont fait l'objet hors de la Polynésie française d'une décision les privant de leurs droits civils et politiques. 
-
-IV. - Les catégories d'informations traitées sont les suivantes : 
-
-1° Eléments de l'état civil de l'électeur : nom, prénoms, sexe, date et lieu de naissance ; 
-
-2° Lieux et dates d'inscription, par les commissions administratives, sur les listes électorales ; 
-
-3° Date de dépôt de la demande d'inscription sur les listes électorales ; 
-
-4° Date d'inscription sur les listes électorales ; 
-
-5° Nature de la liste électorale, générale ou complémentaire ; 
-
-6° Perte des droits civils et politiques (date d'effet et durée) ; 
-
-7° Perte de la nationalité française (date d'effet) ; 
-
-8° Nationalité, pour les ressortissants de l'Union européenne autres que les citoyens français ; 
-
-9° Décès ; 
-
-10° Vote à l'étranger lorsque l'électeur est inscrit sur une liste électorale consulaire. 
-
-V. - Peuvent consulter les informations traitées : 
-
-1° Le haut-commissaire de la République ; 
-
-2° Les maires de la Polynésie française pour ce qui concerne leur commune ; 
-
-3° L'Institut national de la statistique et des études économiques, l'Institut de la statistique et des études économiques de
-la Nouvelle-Calédonie (ISEE) et, dans les îles Wallis et Futuna, le représentant de l'Etat chargé du contrôle des listes
-électorales, pour les informations de la nature de celles qui sont mentionnées au 6° du III. 
-
-VI. - Les droits d'accès et de rectification prévus aux articles 39 et 40 de la loi n° 78-17 du 6 janvier 1978 modifiée
-relative à l'informatique et aux libertés s'exercent auprès de l'Institut de la statistique de la Polynésie française. 
-
-VII. - Le fichier ne peut servir à des fins de recherche de personnes.
+Le secrétariat de la commission est assuré par un agent de la circonscription territoriale.
 
 **Liens relatifs à cet article**
 
+_Cité par_:
+
+  - Décret n°79-160 du 28 février 1979 - art. 23 (VD)
+
+_Créé par_:
+
+  - Décret n°2018-350 du 14 mai 2018 - art. 4
+
 _Cite_:
 
-  - Loi n°77-729 du 7 juillet 1977
-  - Loi n°78-17 du 6 janvier 1978 - art. 39
-  - Loi n°78-17 du 6 janvier 1978 - art. 40
-  - Loi organique n°2004-192 du 27 février 2004 - art. 189
-  - Code électoral - art. L17-1 (VT)
-  - Code électoral - art. LO227-1 (V)
+  - Code électoral - art. L19
+
+
+#### Chapitre IV : Dispositions propres à la Polynésie française<a id=270></a>
+
+###### Article R213-2
+
+I.-En Polynésie française, les modalités de la tenue du répertoire électoral unique sont définies dans la convention entre
+l'Etat et la Polynésie française mentionnée à l'article 189 de la loi organique n° 2004-192 du 27 février 2004 portant statut
+d'autonomie de la Polynésie française. 
+
+II.-En application du second alinéa de l'article L. 389 du présent code, les dispositions des articles R. 8 et R. 10
+applicables à la commission de contrôle dans les communes mentionnées au chapitre II du titre IV du livre 1er du code
+électoral sont applicables à la commission de contrôle dans les communes composées de communes associées de la Polynésie
+française.
+
+**Liens relatifs à cet article**
 
 _Cité par_:
 
   - Décret n°79-160 du 28 février 1979 - art. 22 (VD)
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2016-943 du 8 juillet 2016 - art. 1
+  - Loi organique n°2004-192 du 27 février 2004 - art. 189
+  - Code électoral - art. L389
+  - Code électoral - art. R*10
+  - Code électoral - art. R*8
+
+_Modifié par_:
+
+  - Décret n°2018-350 du 14 mai 2018 - art. 4
 
 
-### Titre II : Election des députés<a id=266></a>
+### Titre II : Election des députés<a id=271></a>
 
-#### Chapitre Ier : Dispositions générales<a id=267></a>
+#### Chapitre Ier : Dispositions générales<a id=272></a>
 
 ###### Article R214
 
@@ -34783,7 +34002,7 @@ _Modifié par_:
   - Décret n°2018-1176 du 18 décembre 2018 - art. 5
 
 
-#### Chapitre II : Régime des inéligibilités<a id=268></a>
+#### Chapitre II : Régime des inéligibilités<a id=273></a>
 
 ###### Article R**215
 
@@ -34865,7 +34084,7 @@ _Cité par_:
   - Code électoral - art. R**273 (V)
 
 
-#### Chapitre III : Candidatures<a id=269></a>
+#### Chapitre III : Candidatures<a id=274></a>
 
 ###### Article R216
 
@@ -34895,7 +34114,7 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-#### Chapitre IV : Recensement des votes<a id=270></a>
+#### Chapitre IV : Recensement des votes<a id=275></a>
 
 ###### Article R217
 
@@ -34939,7 +34158,7 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-#### Chapitre V :  Dispositions propres à la Polynésie française<a id=271></a>
+#### Chapitre V :  Dispositions propres à la Polynésie française<a id=276></a>
 
 ###### Article R218-1
 
@@ -34954,11 +34173,11 @@ _Créé par_:
   - Décret n°2018-1176 du 18 décembre 2018 - art. 5
 
 
-### Titre III : Dispositions applicables à l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie<a id=272></a>
+### Titre III : Dispositions applicables à l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie<a id=277></a>
 
-#### Chapitre Ier : Liste électorale spéciale<a id=273></a>
+#### Chapitre Ier : Liste électorale spéciale<a id=278></a>
 
-##### Section 1 : Etablissement de la liste électorale spéciale<a id=274></a>
+##### Section 1 : Etablissement de la liste électorale spéciale<a id=279></a>
 
 ###### Article R219
 
@@ -35257,7 +34476,7 @@ _Modifié par_:
   - Décret n°2004-191 du 27 février 2004 - art. 2 () JORF 28 février 2004
 
 
-##### Section 2 : Inscription en dehors des périodes de révision<a id=275></a>
+##### Section 2 : Inscription en dehors des périodes de révision<a id=280></a>
 
 ###### Article R229
 
@@ -35319,7 +34538,7 @@ _Cite_:
   - Code électoral - art. R229 (V)
 
 
-##### Section 3 : Carte électorale spéciale<a id=276></a>
+##### Section 3 : Carte électorale spéciale<a id=281></a>
 
 ###### Article R231
 
@@ -35353,7 +34572,7 @@ _Cité par_:
   - Arrêté du 9 février 2004 - art. 1 (V)
 
 
-#### Chapitre II : Candidatures et bulletins de vote<a id=277></a>
+#### Chapitre II : Candidatures et bulletins de vote<a id=282></a>
 
 ###### Article R232
 
@@ -35483,7 +34702,7 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-#### Chapitre III : Propagande<a id=278></a>
+#### Chapitre III : Propagande<a id=283></a>
 
 ###### Article R237
 
@@ -35538,7 +34757,7 @@ _Cité par_:
   - Code électoral - art. R235 (V)
 
 
-#### Chapitre IV : Opérations de vote et recensement<a id=279></a>
+#### Chapitre IV : Opérations de vote et recensement<a id=284></a>
 
 ###### Article R238
 
@@ -35653,9 +34872,9 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-### Titre IV : Dispositions applicables à l'élection des représentants à l'assemblée de la Polynésie française<a id=280></a>
+### Titre IV : Dispositions applicables à l'élection des représentants à l'assemblée de la Polynésie française<a id=285></a>
 
-#### Chapitre Ier : Candidatures et bulletins de vote<a id=281></a>
+#### Chapitre Ier : Candidatures et bulletins de vote<a id=286></a>
 
 ###### Article R242
 
@@ -35777,7 +34996,7 @@ _Modifié par_:
   - Décret n°2004-327 2004-04-14 art. 1 2° JORF 16 avril 2004
 
 
-#### Chapitre II : Propagande<a id=282></a>
+#### Chapitre II : Propagande<a id=287></a>
 
 ###### Article R247
 
@@ -35868,7 +35087,7 @@ _Cite_:
   - Code électoral - art. L414 (V)
 
 
-#### Chapitre III : Opérations de vote et recensement<a id=283></a>
+#### Chapitre III : Opérations de vote et recensement<a id=288></a>
 
 ###### Article R250
 
@@ -35970,9 +35189,9 @@ _Modifié par_:
   - Décret n°2018-216 du 28 mars 2018 - art. 1
 
 
-### Titre V : Dispositions applicables à l'élection des membres de l'assemblée territoriale des îles  Wallis et Futuna<a id=284></a>
+### Titre V : Dispositions applicables à l'élection des membres de l'assemblée territoriale des îles  Wallis et Futuna<a id=289></a>
 
-#### Chapitre Ier : Candidatures et bulletins de vote<a id=285></a>
+#### Chapitre Ier : Candidatures et bulletins de vote<a id=290></a>
 
 ###### Article R254
 
@@ -36086,7 +35305,7 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-#### Chapitre II : Propagande<a id=286></a>
+#### Chapitre II : Propagande<a id=291></a>
 
 ###### Article R259
 
@@ -36131,7 +35350,7 @@ _Cite_:
   - Code électoral - art. R209 (V)
 
 
-#### Chapitre III : Opérations de vote et recensement<a id=287></a>
+#### Chapitre III : Opérations de vote et recensement<a id=292></a>
 
 ###### Article R261
 
@@ -36240,44 +35459,41 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-### Titre VI : Dispositions applicables à l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française<a id=288></a>
+### Titre VI : Dispositions applicables à l'élection des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française<a id=293></a>
 
-#### Chapitre Ier : Dispositions communes<a id=289></a>
+#### Chapitre Ier : Dispositions communes<a id=294></a>
 
 ###### Article R265
 
-Les dispositions des chapitres Ier, II et III du titre IV du livre Ier du présent code (partie réglementaire), dans leur
-rédaction en vigueur à la date du décret n° 2018-808 du 25 septembre 2018, sont applicables, à l'exception du dernier alinéa
-de l'article R. 117-4 et, en Nouvelle-Calédonie, des articles R. 126 et R. 127, à l'élection des membres des conseils
-municipaux en Nouvelle-Calédonie et en Polynésie française, sous réserve des adaptations suivantes :
+I.-Les dispositions des chapitres Ier, II et III du titre IV du livre Ier du présent code (partie réglementaire), dans leur
+rédaction en vigueur à la date du décret n° 2013-938 du 18 octobre 2013, sont applicables, à l'exception du dernier alinéa de
+l'article R. 117-4 et, en Nouvelle-Calédonie, des articles R. 126 et R. 127, à l'élection des membres des conseils municipaux
+en Nouvelle-Calédonie et en Polynésie française, sous réserve des adaptations suivantes : 
 
-1° (Abrogé) ;
+1° (Abrogé) ; 
 
 2° Par dérogation au premier alinéa de l'article R. 119, le délai de recours contentieux contre l'élection est porté à quinze
-jours.
+jours. 
 
-**Nota:**
-
-Cet article a été modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n° 2013-403 du 17 mai
-2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers communautaires, et
-modifiant le calendrier électoral. Conformément à son article 71, l’article dans sa version modifiée par le décret du 18
-octobre 2013 s’applique à compter du prochain renouvellement général des conseils municipaux et communautaires prévu les 23
-et 30 mars 2014, y compris aux opérations préparatoires à ce scrutin.
+II.-Par dérogation au I, pour les élections municipales en Nouvelle-Calédonie, sont applicables les articles R. 117-2 et R.
+117-3 dans leur rédaction résultant du décret n° 2006-1244 du 11 octobre 2006.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2018-808 du 25 septembre 2018 - art. 3
+  - Décret n°2018-350 du 14 mai 2018 - art. 4
 
 _Cite_:
 
+  - Code électoral - art. R117-2
+  - Code électoral - art. R117-3
   - Code électoral - art. R117-4
   - Code électoral - art. R119
   - Code électoral - art. R126
 
 
-#### Chapitre II : Dispositions particulières à la Nouvelle-Calédonie<a id=290></a>
+#### Chapitre II : Dispositions particulières à la Nouvelle-Calédonie<a id=295></a>
 
 ###### Article R267
 
@@ -36294,7 +35510,7 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-#### Chapitre III : Dispositions particulières à la Polynésie française<a id=291></a>
+#### Chapitre III : Dispositions particulières à la Polynésie française<a id=296></a>
 
 ###### Article R268
 
@@ -36354,9 +35570,9 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-### Titre VII : Dispositions applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et  Futuna<a id=292></a>
+### Titre VII : Dispositions applicables à l'élection des sénateurs en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et  Futuna<a id=297></a>
 
-#### Chapitre Ier : Dispositions générales<a id=293></a>
+#### Chapitre Ier : Dispositions générales<a id=298></a>
 
 ###### Article R271
 
@@ -36449,7 +35665,7 @@ _Cite_:
   - Code électoral - art. R169 (V)
 
 
-#### Chapitre II : Régime des inéligibilités<a id=294></a>
+#### Chapitre II : Régime des inéligibilités<a id=299></a>
 
 ###### Article R**273
 
@@ -36471,7 +35687,7 @@ _Cite_:
   - Code électoral - art. R**215 (V)
 
 
-#### Chapitre III : Election des délégués des conseils municipaux en Nouvelle-Calédonie et en Polynésie française<a id=295></a>
+#### Chapitre III : Election des délégués des conseils municipaux en Nouvelle-Calédonie et en Polynésie française<a id=300></a>
 
 ###### Article R274
 
@@ -36547,7 +35763,7 @@ _Créé par_:
   - Décret n°2002-105 du 25 janvier 2002 - art. 2 () JORF 26 janvier 2002
 
 
-#### Chapitre IV : Propagande<a id=296></a>
+#### Chapitre IV : Propagande<a id=301></a>
 
 ###### Article R277
 
@@ -36576,7 +35792,7 @@ _Cite_:
   - Code électoral - art. R157 (V)
 
 
-#### Chapitre V : Opérations préparatoires au scrutin<a id=297></a>
+#### Chapitre V : Opérations préparatoires au scrutin<a id=302></a>
 
 ###### Article R278
 
@@ -36602,7 +35818,7 @@ _Cité par_:
   - Code électoral - art. R283 (V)
 
 
-#### Chapitre VI : Opérations de vote<a id=298></a>
+#### Chapitre VI : Opérations de vote<a id=303></a>
 
 ###### Article R279
 
@@ -36731,11 +35947,11 @@ _Cite_:
   - Code électoral - art. R278
 
 
-## Livre VI : Dispositions particulières à Mayotte, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon<a id=299></a>
+## Livre VI : Dispositions particulières à Mayotte, Saint-Barthélemy, Saint-Martin et Saint-Pierre-et-Miquelon<a id=304></a>
 
-### Titre Ier : Dispositions particulières à Mayotte<a id=300></a>
+### Titre Ier : Dispositions particulières à Mayotte<a id=305></a>
 
-#### Chapitre Ier : Dispositions générales<a id=301></a>
+#### Chapitre Ier : Dispositions générales<a id=306></a>
 
 ###### Article R284
 
@@ -36783,7 +35999,7 @@ _Modifié par_:
   - Décret n°2013-938 du 18 octobre 2013 - art. 68
 
 
-#### Chapitre III :  Dispositions applicables à l'élection des conseillers généraux de Mayotte<a id=302></a>
+#### Chapitre III :  Dispositions applicables à l'élection des conseillers généraux de Mayotte<a id=307></a>
 
 ###### Article R298
 
@@ -36829,9 +36045,9 @@ _Créé par_:
   - Décret n°2008-170 du 22 février 2008 - art. 3
 
 
-### Titre II : Dispositions particulières à Saint-Barthélemy<a id=303></a>
+### Titre II : Dispositions particulières à Saint-Barthélemy<a id=308></a>
 
-#### Chapitre Ier : Dispositions générales<a id=304></a>
+#### Chapitre Ier : Dispositions générales<a id=309></a>
 
 ###### Article R303
 
@@ -36851,18 +36067,21 @@ _Cite_:
 
 ###### Article R304
 
-Pour l'application de ces dispositions à Saint-Barthélemy, il y a lieu de lire : 
+Pour l'application de ces dispositions à Saint-Barthélemy, il y a lieu de lire :
 
-1° " collectivité " et " de la collectivité ", au lieu de : " département " ou " arrondissement " et " départemental " ; 
+1° " collectivité " et " de la collectivité ", au lieu de : " département " ou " arrondissement " et " départemental " ;
 
-2° " circonscription électorale ", au lieu de : " canton " ; 
+2° " circonscription électorale ", au lieu de : " canton " ;
 
-3° " président de conseil territorial ", au lieu de : " maire " ; 
+3° " président de conseil territorial ", au lieu de : " maire ", et “ conseil territorial ”, au lieu de : “ conseil municipal
+” ;
 
 4° " représentant de l'Etat " ou " services du représentant de l'Etat ", au lieu de : " préfet ", " sous-préfet " ou "
-préfecture " et " sous-préfecture " ; 
+préfecture " et " sous-préfecture " ;
 
-5° " hôtel de la collectivité ", au lieu de : " mairie ".
+5° " hôtel de la collectivité ", au lieu de : " mairie " ;
+
+6° “ collectivité ”, au lieu de : “ commune ”.
 
 **Liens relatifs à cet article**
 
@@ -36871,9 +36090,9 @@ _Cité par_:
   - Décret n°79-160 du 28 février 1979 - art. 25-1 (V)
   - Décret n°2001-213 du 8 mars 2001 - art. 32 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-170 du 22 février 2008 - art. 3
+  - Décret n°2018-350 du 14 mai 2018 - art. 4
 
 
 ###### Article R305
@@ -36942,7 +36161,7 @@ _Créé par_:
   - Décret n°2008-170 du 22 février 2008 - art. 3
 
 
-#### Chapitre II : Dispositions applicables à l'élection du député<a id=305></a>
+#### Chapitre II : Dispositions applicables à l'élection du député<a id=310></a>
 
 ###### Article R308
 
@@ -36961,7 +36180,7 @@ _Cite_:
   - Code électoral - art. R*98
 
 
-#### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Barthélemy<a id=306></a>
+#### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Barthélemy<a id=311></a>
 
 ###### Article R309
 
@@ -37169,9 +36388,9 @@ _Créé par_:
   - Décret n°2008-170 du 22 février 2008 - art. 3
 
 
-### Titre III : Dispositions particulières à Saint-Martin<a id=307></a>
+### Titre III : Dispositions particulières à Saint-Martin<a id=312></a>
 
-#### Chapitre Ier : Dispositions générales<a id=308></a>
+#### Chapitre Ier : Dispositions générales<a id=313></a>
 
 ###### Article R318
 
@@ -37191,19 +36410,22 @@ _Cite_:
 
 ###### Article R319
 
-Pour l'application de ces dispositions à Saint-Martin, il y a lieu de lire : 
+Pour l'application de ces dispositions à Saint-Martin, il y a lieu de lire :
 
 1° " collectivité " et " de la collectivité ", au lieu de : " département ", " mairie ", ou " arrondissement " et "
-départemental " ; 
+départemental " ;
 
-2° " circonscription électorale ", au lieu de : " canton " ; 
+2° " circonscription électorale ", au lieu de : " canton " ;
 
-3° " président du conseil territorial ", au lieu de : " maire " ; 
+3° " président du conseil territorial ", au lieu de : " maire ", et “ conseil territorial ”, au lieu de : “ conseil municipal
+” ;
 
 4° " représentant de l'Etat " ou " services du représentant de l'Etat ", au lieu de : " préfet ", " sous-préfet " ou "
-préfecture " et " sous-préfecture " ; 
+préfecture " et " sous-préfecture " ;
 
-5° " hôtel de la collectivité ", au lieu de : " mairie ".
+5° " hôtel de la collectivité ", au lieu de : " mairie " ;
+
+6° “ collectivité ”, au lieu de : “ commune ”.
 
 **Liens relatifs à cet article**
 
@@ -37212,9 +36434,9 @@ _Cité par_:
   - Décret n°79-160 du 28 février 1979 - art. 25-2 (V)
   - Décret n°2001-213 du 8 mars 2001 - art. 32 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-170 du 22 février 2008 - art. 3
+  - Décret n°2018-350 du 14 mai 2018 - art. 4
 
 
 ###### Article R320
@@ -37284,7 +36506,7 @@ _Créé par_:
   - Décret n°2008-170 du 22 février 2008 - art. 3
 
 
-#### Chapitre II : Dispositions applicables à l'élection du député<a id=309></a>
+#### Chapitre II : Dispositions applicables à l'élection du député<a id=314></a>
 
 ###### Article R323
 
@@ -37305,7 +36527,7 @@ _Cite_:
   - Code électoral - art. R*98
 
 
-#### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Martin<a id=310></a>
+#### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Martin<a id=315></a>
 
 ###### Article R324
 
@@ -37508,9 +36730,9 @@ _Créé par_:
   - Décret n°2008-170 du 22 février 2008 - art. 3
 
 
-### Titre IV : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=311></a>
+### Titre IV : Dispositions particulières à Saint-Pierre-et-Miquelon<a id=316></a>
 
-#### Chapitre Ier : Dispositions générales<a id=312></a>
+#### Chapitre Ier : Dispositions générales<a id=317></a>
 
 ###### Article R333
 
@@ -37626,7 +36848,7 @@ _Créé par_:
   - Décret n°2008-170 du 22 février 2008 - art. 3
 
 
-#### Chapitre II : Dispositions applicables à l'élection du député<a id=313></a>
+#### Chapitre II : Dispositions applicables à l'élection du député<a id=318></a>
 
 ###### Article R338
 
@@ -37647,7 +36869,7 @@ _Cite_:
   - Code électoral - art. R*98
 
 
-#### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Pierre-et-Miquelon<a id=314></a>
+#### Chapitre III : Dispositions applicables à l'élection des conseillers territoriaux de Saint-Pierre-et-Miquelon<a id=319></a>
 
 ###### Article R339
 
@@ -37843,9 +37065,9 @@ _Créé par_:
   - Décret n°2008-170 du 22 février 2008 - art. 3
 
 
-## Livre VI bis : Election des conseillers à l'assemblée de Guyane et des conseillers à l'assemblée de Martinique<a id=315></a>
+## Livre VI bis : Election des conseillers à l'assemblée de Guyane et des conseillers à l'assemblée de Martinique<a id=320></a>
 
-### Titre Ier : Election des conseillers à l'assemblée de Guyane<a id=316></a>
+### Titre Ier : Election des conseillers à l'assemblée de Guyane<a id=321></a>
 
 ###### Article R347
 
@@ -37879,7 +37101,7 @@ _Créé par_:
   - Décret n°2012-105 du 27 janvier 2012 - art. 1
 
 
-### Titre II : Election des conseillers à l'assemblée de Martinique<a id=317></a>
+### Titre II : Election des conseillers à l'assemblée de Martinique<a id=322></a>
 
 ###### Article R349
 
@@ -37913,9 +37135,9 @@ _Créé par_:
   - Décret n°2012-105 du 27 janvier 2012 - art. 1
 
 
-### Titre III : Dispositions communes<a id=318></a>
+### Titre III : Dispositions communes<a id=323></a>
 
-#### Chapitre III : Déclarations de candidature<a id=319></a>
+#### Chapitre III : Déclarations de candidature<a id=324></a>
 
 ###### Article R351
 
@@ -37971,7 +37193,7 @@ _Cité par_:
   - Code électoral - art. R353 (V)
 
 
-#### Chapitre IV : Propagande<a id=320></a>
+#### Chapitre IV : Propagande<a id=325></a>
 
 ###### Article R353
 
@@ -38018,7 +37240,7 @@ _Cite_:
   - Code électoral - art. R32
 
 
-#### Chapitre VI : Opérations de vote<a id=321></a>
+#### Chapitre VI : Opérations de vote<a id=326></a>
 
 ###### Article R355
 
@@ -38074,7 +37296,7 @@ _Cite_:
   - Code électoral - art. R*107
 
 
-#### Chapitre VIII : Contentieux<a id=322></a>
+#### Chapitre VIII : Contentieux<a id=327></a>
 
 ###### Article R358
 
@@ -38092,9 +37314,9 @@ _Cite_:
   - Code électoral - art. R190
 
 
-# Annexes<a id=323></a>
+# Annexes<a id=328></a>
 
-## Tableau des circonscriptions électorales des départements (élection des députés)<a id=324></a>
+## Tableau des circonscriptions électorales des départements (élection des députés)<a id=329></a>
 
 ###### Article Annexe tableau n° 1
 
@@ -39954,7 +39176,7 @@ _Modifié par_:
   - Ordonnance n°2009-935 du 29 juillet 2009 - art.
 
 
-## Tableau des circonscriptions électorales des départements (élection des députés) (1).<a id=325></a>
+## Tableau des circonscriptions électorales des départements (élection des députés) (1).<a id=330></a>
 
 ###### Article Annexe tableau n° 1 (suite)
 
@@ -40618,7 +39840,7 @@ _Modifié par_:
   - Loi n°2010-1487 du 7 décembre 2010 - art. 9
 
 
-## Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés).<a id=326></a>
+## Tableau des circonscriptions électorales de la Nouvelle-Calédonie et des collectivités d'outre-mer régies par l'article 74 de la Constitution (élection des députés).<a id=331></a>
 
 ###### Article Annexe tableau n° 1 bis
 
@@ -40663,7 +39885,7 @@ _Modifié par_:
   - Loi n°2010-1487 du 7 décembre 2010 - art. 9
 
 
-## Tableau des circonscriptions électorales des français établis hors de France<a id=327></a>
+## Tableau des circonscriptions électorales des français établis hors de France<a id=332></a>
 
 ###### Article Annexe tableau n° 1 ter
 
@@ -40753,7 +39975,7 @@ _Créé par_:
   - Ordonnance n°2009-935 du 29 juillet 2009 - art.
 
 
-## Tableau des secteurs pour l'élection des membres du conseil de Paris<a id=328></a>
+## Tableau des secteurs pour l'élection des membres du conseil de Paris<a id=333></a>
 
 ###### Article Annexe tableau n° 2
 
@@ -40824,7 +40046,7 @@ _Modifié par_:
   - Loi n°2013-713 du 5 août 2013 - art. 1
 
 
-## Tableau des secteurs pour l'élection des conseillers municipaux de Lyon<a id=329></a>
+## Tableau des secteurs pour l'élection des conseillers municipaux de Lyon<a id=334></a>
 
 ###### Article Annexe tableau n° 3
 
@@ -40867,7 +40089,7 @@ _Modifié par_:
   - Loi n°82-1170 1982-12-31 art. 4 JORF 1er janvier 1983
 
 
-## Tableau des secteurs pour l'élection des conseillers municipaux de Marseille.<a id=330></a>
+## Tableau des secteurs pour l'élection des conseillers municipaux de Marseille.<a id=335></a>
 
 ###### Article Annexe tableau n° 4
 
@@ -40909,7 +40131,7 @@ _Modifié par_:
   - Loi n°87-509 1987-07-09 art. 1 JORF 11 juillet 1987
 
 
-## Répartition des sièges de sénateurs entre les séries<a id=331></a>
+## Répartition des sièges de sénateurs entre les séries<a id=336></a>
 
 ###### Article Annexe tableau n° 5
 
@@ -41706,9 +40928,9 @@ _Modifié par_:
   - Loi n°2010-1487 du 7 décembre 2010 - art. 9
 
 
-## Election des sénateurs<a id=332></a>
+## Election des sénateurs<a id=337></a>
 
-### Nombre de sénateurs représentant les départements<a id=333></a>
+### Nombre de sénateurs représentant les départements<a id=338></a>
 
 ###### Article Annexe tableau n° 6
 
@@ -41937,7 +41159,7 @@ _Modifié par_:
   - Loi n°2003-697 du 30 juillet 2003 - art. 1 () JORF 31 juillet 2003
 
 
-## Effectif des conseils régionaux et nombre de candidats par section départementale<a id=334></a>
+## Effectif des conseils régionaux et nombre de candidats par section départementale<a id=339></a>
 
 ###### Article Annexe tableau n° 7
 
