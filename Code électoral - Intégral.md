@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2019-01-01
+Version Consolidée au 2019-03-25
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires (art. L1 à L273-12)](#2)
@@ -395,268 +395,6 @@ _Modifié par_:
 
   - Loi n°70-596 du 9 juillet 1970 - art. 3 () JORF 10 juillet 1970
   - Loi n°74-631 du 5 juillet 1974 - art. 2 () JORF 7 juillet 1974
-
-
-###### Article L5
-
-Lorsqu'il ouvre ou renouvelle une mesure de tutelle, le juge statue sur le maintien ou la suppression du droit de vote de la
-personne protégée.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Décret n°46-2769 du 27 novembre 1946 - art. 27 (M)
-  - Décret n°46-2769 du 27 novembre 1946 - art. 56 (M)
-  - Décret n°51-721 du 8 juin 1951 - art. 3 (Ab)
-  - Loi n°62-1292 du 6 novembre 1962 - art. 3 (M)
-  - Décret n°72-350 du 2 mai 1972 - art. 16 (Ab)
-  - Loi n°72-1097 du 11 décembre 1972 - art. 1 (Ab)
-  - Loi n°72-1097 du 11 décembre 1972 - art. 6 (Ab)
-  - Ordonnance n°77-1102 du 26 septembre 1977 - art. 4-2 (Ab)
-  - Décret n°78-389 du 17 mars 1978 - art. 8 (VT)
-  - Décret n°79-800 du 17 septembre 1979 - art. 11 (V)
-  - Décret n°79-800 du 17 septembre 1979 - art. 3 (V)
-  - Décret n°82-451 du 28 mai 1982 - art. 14 (V)
-  - Décret n°82-452 du 28 mai 1982 - art. 10 (VT)
-  - Décret n°82-453 du 28 mai 1982 - art. 44 (VD)
-  - Loi n°82-471 du 7 juin 1982 - art. 2 (M)
-  - Décret n°82-970 du 16 novembre 1982 - art. 30 (Ab)
-  - Loi n°82-1061 du 17 décembre 1982 - art. 16 (Ab)
-  - Loi n°82-1061 du 17 décembre 1982 - art. 18 (Ab)
-  - Décret n°83-495 du 15 juin 1983 - art. 19 (Ab)
-  - Décret n°83-495 du 15 juin 1983 - art. 36 (Ab)
-  - Décret n°83-1253 du 30 décembre 1983 - art. 5 (Ab)
-  - Arrêté du 18 juin 1984 - art. 3 (V)
-  - Décret n°84-477 du 18 juin 1984 - art. 24 (M)
-  - Décret n°84-477 du 18 juin 1984 - art. 35 (M)
-  - Loi n°85-98 du 25 janvier 1985 - art. 11 (Ab)
-  - Décret n°85-565 du 30 mai 1985 - art. 11 (VD)
-  - Décret n°85-565 du 30 mai 1985 - art. 5 (VD)
-  - Décret n°85-924 du 30 août 1985 - art. 25 (M)
-  - Décret n°85-1003 du 19 septembre 1985 - art. 12 (Ab)
-  - Ordonnance n°85-1181 du 13 novembre 1985 - art. 102 (Ab)
-  - Ordonnance n°85-1181 du 13 novembre 1985 - art. 110 (Ab)
-  - Loi n°86-845 du 17 juillet 1986 - art. 51-1 (M)
-  - Loi n°86-845 du 17 juillet 1986 - art. 90 (Ab)
-  - Loi n°86-845 du 17 juillet 1986 - art. 98 (Ab)
-  - Décret n°88-950 du 6 octobre 1988 - art. 7 (Ab)
-  - Décret n°89-95 du 10 février 1989 - art. 8 (Ab)
-  - Décret n°89-229 du 17 avril 1989 - art. 11 (VD)
-  - Loi n°89-475 du 10 juillet 1989 - art. 10 (Ab)
-  - Arrêté du 9 mai 1990 - art. 11 (VT)
-  - Décret n°90-1111 du 12 décembre 1990 - art. 3 (VT)
-  - Décret n°90-1112 du 12 décembre 1990 - art. 3 (Ab)
-  - Décret n°90-1215 du 20 décembre 1990 - art. 8 (V)
-  - Décret n°90-1215 du 20 décembre 1990 - art. 9 (V)
-  - Arrêté du 13 mars 1991 - art. 4 (Ab)
-  - Décret n°91-790 du 14 août 1991 - art. 11 (V)
-  - Décret n°92-794 du 14 août 1992 - art. 18 (Ab)
-  - Décret n°92-1005 du 21 septembre 1992 - art. 14 (Ab)
-  - Loi n°92-1336 du 16 décembre 1992 - art. 336 (V)
-  - Arrêté du 16 février 1993 - art. 11 (V)
-  - Décret n°94-130 du 11 février 1994 - art. 14 (V)
-  - Décret n°94-131 du 11 février 1994 - art. 14 (V)
-  - Décret n°94-147 du 16 février 1994 - art. 18 (V)
-  - Décret n°94-147 du 16 février 1994 - art. 24 (V)
-  - Décret n°96-253 du 26 mars 1996 - art. 4 (V)
-  - Arrêté du 29 avril 1996 - art. 3 (V)
-  - Décret n°98-596 du 13 juillet 1998 - art. 10 (V)
-  - Décret n°98-596 du 13 juillet 1998 - art. 8 (V)
-  - Arrêté du 12 juillet 2001 - art. 6 (V)
-  - Arrêté du 6 septembre 2001 - art. 11 (VT)
-  - Arrêté du 14 janvier 2002 - art. 8 (Ab)
-  - Arrêté du 1 mars 2002 - art. 11 (Ab)
-  - Arrêté du 19 juin 2002 - art. 12 (V)
-  - Arrêté du 3 mars 2003 - art. 6 (Ab)
-  - Décret n°2003-655 du 18 juillet 2003 - art. 18 (V)
-  - Décret n°2003-761 du 1 août 2003 - art. 14 (V)
-  - Décret n°2003-802 du 26 août 2003 - art. 10 (Ab)
-  - Arrêté du 21 juin 2004 - art. 3 (V)
-  - Arrêté du 21 juin 2004 - art. 11 (V)
-  - Arrêté du 14 mars 2005 - art. 7 (V)
-  - Arrêté du 30 mai 2005 - art. 10 (V)
-  - Arrêté du 19 septembre 2005 - art. 11 (Ab)
-  - Arrêté du 20 mars 2006 - art. 24 (Ab)
-  - Arrêté du 26 octobre 2007 - art. 12 (V)
-  - Arrêté du 2 novembre 2007 - art. 8 (V)
-  - Arrêté du 16 novembre 2007 - art. 12 (V)
-  - Arrêté du 23 novembre 2007 - art. 12 (V)
-  - Arrêté du 21 décembre 2007 - art. 10 (V)
-  - Arrêté du 9 janvier 2008 - art. 6 (Ab)
-  - Arrêté du 18 janvier 2008 - art. 6 (V)
-  - Arrêté du 11 février 2008 - art. 22 (V)
-  - Arrêté du 17 mars 2008 - art. 22 (VT)
-  - Arrêté du 7 mars 2008 - art. 19 (VT)
-  - Arrêté du 7 mars 2008 - art. 21 (VT)
-  - Arrêté du 3 avril 2008 - art. 2 (Ab)
-  - Arrêté du 23 avril 2008 - art. 5 (V)
-  - Arrêté du 29 avril 2008 - art. 8 (Ab)
-  - Arrêté du 23 juin 2008 - art. 11 (V)
-  - Arrêté du 10 juillet 2008 - art. 7 (V)
-  - Arrêté du 18 juillet 2008 - art. 10 (Ab)
-  - Arrêté du 23 juillet 2008 - art. 4 (Ab)
-  - Arrêté du 9 décembre 2008 - art. 12 (V)
-  - Arrêté du 12 décembre 2008 - art. 11 (VT)
-  - Arrêté du 10 février 2009 - art. 4 (V)
-  - Arrêté du 10 février 2009 - art. 21 (V)
-  - Arrêté du 24 juin 2009 - art. 8 (V)
-  - Arrêté du 10 août 2009 - art. 12 (Ab)
-  - Arrêté du 6 octobre 2009 - art. 12 (V)
-  - Arrêté du 8 octobre 2009 - art. 11 (V)
-  - Arrêté du 1er décembre 2009 - art. 12 (Ab)
-  - Arrêté du 12 novembre 2009 - art. 9 (Ab)
-  - Arrêté du 17 décembre 2009 - art. 11 (V)
-  - Arrêté du 31 décembre 2009 - art. 5 (V)
-  - Arrêté du 10 mai 2010 - art. 4 (V)
-  - Arrêté du 18 août 2010 - art. 4 (Ab)
-  - Arrêté du 6 août 2010 - art. 12 (Ab)
-  - Arrêté du 19 novembre 2010 - art. 6 (V)
-  - Décret n°2011-184 du 15 février 2011 - art. 20 (V)
-  - Décret n°2011-580 du 26 mai 2011 - art. 10 (VT)
-  - Arrêté du 8 juillet 2011 - art. 12 (VD)
-  - Arrêté du 7 juillet 2011 - art. 11 (VT)
-  - Arrêté du 27 juin 2011 - art. 30 (VD)
-  - Arrêté du 27 juin 2011 - art. 31-1 (V)
-  - Arrêté du 27 juin 2011 - art. 34 (VD)
-  - Arrêté du 27 juin 2011 - art. 35-1 (V)
-  - Arrêté du 20 juin 2011 - art. 12 (Ab)
-  - Arrêté du 17 août 2011 - art. 11 (Ab)
-  - Arrêté du 24 août 2011 (V)
-  - Arrêté du 24 août 2011 - art. 11 (V)
-  - Décret n°2011-1063 du 7 septembre 2011 - art. 14 (V)
-  - Arrêté du 7 septembre 2011 - art. 6
-  - Arrêté du 23 septembre 2011 - art. 7 (Ab)
-  - Décret n°2011-1551 du 15 novembre 2011 - art. 47 (V)
-  - Décret n°2011-1551 du 15 novembre 2011 - art. 82 (V)
-  - Décret n°2011-1551 du 15 novembre 2011 - art. 85 (V)
-  - Arrêté du 19 janvier 2012 - art. 4 (V)
-  - Arrêté du 22 mars 2013 - art. 8 (V)
-  - Arrêté du 30 avril 2014 - art. 12 (V)
-  - Arrêté du 13 juin 2014 - art. 10 (V)
-  - Arrêté du 13 juin 2014 - art. 11 (V)
-  - Arrêté du 3 juillet 2014 - art. 11 (V)
-  - Arrêté du 18 juillet 2014 - art. 13 (V)
-  - Arrêté du 31 juillet 2014 - art. 5 (Ab)
-  - Arrêté du 8 août 2014 - art. 4 (V)
-  - Arrêté du 23 septembre 2014 - art. 11 (V)
-  - Arrêté du 6 octobre 2014 - art. 9 (V)
-  - Arrêté du 10 octobre 2014 - art. 8 (Ab)
-  - Arrêté du 26 septembre 2014 - art. 10 (Ab)
-  - Arrêté du 15 octobre 2014 - art. 6 (Ab)
-  - Arrêté du 21 octobre 2014 - art. 9 (Ab)
-  - Arrêté du 9 octobre 2014 - art. 15 (V)
-  - Arrêté du 15 octobre 2014 - art. 7 (V)
-  - Arrêté du 22 octobre 2014 - art. 11 (Ab)
-  - Arrêté du 4 novembre 2014 - art. 4 (V)
-  - Arrêté du 15 avril 2015 - art. 4 (V)
-  - Décret n°2016-1065 du 3 août 2016 - art. 9 (V)
-  - Décret n°2016-1858 du 23 décembre 2016 - art. 10 (V)
-  - Arrêté du 19 janvier 2017 - art. 5 (V)
-  - Arrêté du 18 décembre 2017 - art. 14 (V)
-  - Arrêté du 8 janvier 2018 - art. 7 (V)
-  - Arrêté du 3 mai 2018 - art. 6 (V)
-  - Décret n°2018-343 du 9 mai 2018 - art. 7 (VD)
-  - Arrêté du 25 avril 2018 - art. 9 (V)
-  - Arrêté du 18 mai 2018 - art. 11 (V)
-  - Arrêté du 14 mai 2018 - art. 5 (V)
-  - Arrêté du 24 mai 2018 - art. 13 (V)
-  - Arrêté du 1er juin 2018 (V)
-  - Arrêté du 1er juin 2018 - art. 6
-  - Arrêté du 1er juin 2018 - art. 6 (V)
-  - Arrêté du 18 mai 2018 - art. (V)
-  - Arrêté du 18 mai 2018 - art. Annexe I (V)
-  - Décret n°2018-449 du 5 juin 2018 - art. 1 (V)
-  - Arrêté du 5 juin 2018 - art. 6 (V)
-  - Arrêté du 6 juin 2018 - art. 5 (V)
-  - Décret n°2018-639 du 19 juillet 2018 - art. 1
-  - Décret n°2018-801 du 21 septembre 2018 - art. 5 (V)
-  - Arrêté du 20 septembre 2018 - art. 7
-  - Arrêté du 22 octobre 2018 - art. 5 (V)
-  - Décret n°2019-79 du 6 février 2019 - art. 12
-  - Décret n°2019-79 du 6 février 2019 - art. 8
-  - Arrêté du 11 mars 2019 - art. 3 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L413-1 (M)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-12 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L932-20 (V)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L933-2 (Ab)
-  - CODE DE L'ORGANISATION JUDICIAIRE. - art. L942-12 (Ab)
-  - Code de commerce. - art. L621-9 (M)
-  - Code de commerce. - art. L713-3 (M)
-  - Code de commerce. - art. L713-9 (M)
-  - Code de l'action sociale et des familles - art. Annexe 4-3 (V)
-  - Code de l'action sociale et des familles - art. L315-11 (V)
-  - Code de l'action sociale et des familles - art. R315-36 (V)
-  - Code de l'organisation judiciaire - art. L552-9-10 (M)
-  - Code de l'éducation - art. R914-10-6 (V)
-  - Code de la famille et de l'aide sociale. - art. 206 (Ab)
-  - Code de la famille et de l'aide sociale. - art. 95 (Ab)
-  - Code de la mutualité - art. L125-3 (Ab)
-  - Code de la santé publique - art. D6147-45 (T)
-  - Code de la santé publique - art. L1432-3 (V)
-  - Code de la santé publique - art. L6143-6 (V)
-  - Code de la santé publique - art. L6162-8 (M)
-  - Code de la santé publique - art. L6414-3 (Ab)
-  - Code de la santé publique - art. L6431-5 (M)
-  - Code de la santé publique - art. L714-3 (Ab)
-  - Code de la santé publique - art. L726-3 (Ab)
-  - Code de la santé publique - art. L731-4 (Ab)
-  - Code de la santé publique - art. R6144-53 (V)
-  - Code de la santé publique - art. R6147-104 (Ab)
-  - Code de la santé publique - art. R6156-14 (V)
-  - Code de la santé publique - art. R6156-47 (VD)
-  - Code de la santé publique - art. R714-17-10 (Ab)
-  - Code de la sécurité sociale. - art. D214-18 (Ab)
-  - Code de la sécurité sociale. - art. D214-36 (Ab)
-  - Code de la sécurité sociale. - art. D231-7 (M)
-  - Code de la sécurité sociale. - art. L214-1 (Ab)
-  - Code de la sécurité sociale. - art. L231-6 (M)
-  - Code de la sécurité sociale. - art. R382-38 (VT)
-  - Code des juridictions financières - art. R212-36 (V)
-  - Code des juridictions financières - art. R220-6 (V)
-  - Code des ports maritimes - art. R511-3-1 (Ab)
-  - Code du travail - art. L411-4 (AbD)
-  - Code du travail - art. L412-12 (M)
-  - Code du travail - art. L412-14 (AbD)
-  - Code du travail - art. L423-7 (AbD)
-  - Code du travail - art. L433-4 (AbD)
-  - Code du travail - art. L513-1 (M)
-  - Code du travail - art. L513-2 (M)
-  - Code du travail - art. L514-14 (M)
-  - Code du travail - art. L712-11 (AbD)
-  - Code du travail - art. R236-26 (VT)
-  - Code du travail - art. R4615-5 (Ab)
-  - Code du travail - art. R512-6 (VT)
-  - Code du travail - art. R513-34 (M)
-  - Code du travail - art. R513-41 (M)
-  - Code du travail - art. R712-41 (VT)
-  - Code du travail applicable à Mayotte. - art. L411-4 (VT)
-  - Code minier - art. 228 (VT)
-  - Code minier - art. 229 (VT)
-  - Code minier - art. 251-17 (VD)
-  - Code minier - art. 251-18 (VD)
-  - Code rural ancien - art. 1019 (Ab)
-  - Code rural et de la pêche maritime - art. L723-24 (VD)
-  - Code rural et de la pêche maritime - art. R723-47 (V)
-  - Code rural et de la pêche maritime - art. R912-134 (V)
-  - Code rural et de la pêche maritime - art. R912-74 (V)
-  - Code électoral - art. L199 (M)
-  - Code électoral - art. L6 (M)
-  - Décret n°1947-05-02 du 2 mai 1947 - art. 1 (Ab)
-  - Décret n°1947-05-02 du 2 mai 1947 - art. 42 (M)
-  - Décret n°1947-05-02 du 2 mai 1947 - art. 43 (Ab)
-
-_Codifié par_:
-
-  - Décret n°64-1086 du 27 octobre 1964
-
-_Modifié par_:
-
-  - Loi n°2007-308 du 5 mars 2007 - art. 12 () JORF 7 mars 2007 en vigueur le 1er janvier 2009
-
-_Abrogé par_:
-
-  - Loi n°2019-222 du 23 mars 2019 - art. 11
 
 
 ###### Article L6
@@ -4178,11 +3916,17 @@ _Modifié par_:
 
 Tout électeur atteint d'infirmité certaine et le mettant dans l'impossibilité d'introduire son bulletin dans l'enveloppe et
 de glisser celle-ci dans l'urne ou de faire fonctionner la machine à voter est autorisé à se faire assister par un électeur
-de son choix. 
+de son choix, autre que l'une des personnes mentionnées aux 1° à 3° de l'article L. 72-1, s'agissant des majeurs en tutelle.
 
 Lorsqu'un électeur se trouve dans l'impossibilité de signer, l'émargement prévu par le troisième alinéa de l'article L. 62-1
 est apposé par un électeur de son choix qui fait suivre sa signature de la mention suivante : " l'électeur ne peut signer
 lui-même ".
+
+**Nota:**
+
+Conformément à l'article 109 IV de la loi n° 2019-222 du 23 mars 2019, les présentes dispositions s'appliquent aux personnes
+qui bénéficient d'une mesure de tutelle à la date de publication de la présente loi ainsi qu'aux instances en cours à cette
+même date. Les autres dispositions du jugement prononçant ou renouvelant la mesure de tutelle continuent de s'appliquer.
 
 **Liens relatifs à cet article**
 
@@ -4197,19 +3941,15 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°88-1262 1988-12-30 art. 38
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Modifié par_:
 
-  - Loi n°88-1262 du 30 décembre 1988 - art. 9 () JORF 4 janvier 1989
+  - Loi n°2019-222 du 23 mars 2019 - art. 11
 
 _Cite_:
 
-  - Code électoral - art. L62-1 (V)
+  - Code électoral - art. L62-1
 
 
 ###### Article L65
@@ -4616,6 +4356,44 @@ _Cité par_:
 _Modifié par_:
 
   - Décret n°98-733 du 20 août 1998 - art. 30 () JORF 22 août 1998
+
+
+###### Article L72-1
+
+Le majeur protégé exerce personnellement son droit de vote pour lequel il ne peut être représenté par la personne chargée de
+la mesure de protection le concernant.
+
+Il ne peut donner procuration à l'une des personnes suivantes :
+
+1° Le mandataire judiciaire à sa protection ;
+
+2° Les personnes physiques propriétaires, gestionnaires, administrateurs ou employés de l'établissement ou du service soumis
+à autorisation ou à déclaration en application du code de l'action sociale et des familles, d'un établissement de santé
+mentionné à l'article L. 6111-1 du code de la santé publique ou d'un service soumis à agrément ou à déclaration mentionné au
+2° de l'article L. 7231-1 du code du travail qui le prend en charge, ainsi que les bénévoles ou les volontaires qui agissent
+au sein de ces structures ou y exercent une responsabilité ;
+
+3° Les salariés mentionnés à l'article L. 7221-1 du code du travail accomplissant des services à la personne définis au 2° de
+l'article L. 7231-1 du même code.
+
+**Nota:**
+
+Conformément à l'article 109 IV de la loi n° 2019-222 du 23 mars 2019, les présentes dispositions s'appliquent aux personnes
+qui bénéficient d'une mesure de tutelle à la date de publication de la présente loi ainsi qu'aux instances en cours à cette
+même date. Les autres dispositions du jugement prononçant ou renouvelant la mesure de tutelle continuent de s'appliquer.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 11
+
+_Cite_:
+
+  - Code du travail - art. L7221-1
+  - Code du travail - art. L7231-1
+  - Code de la santé publique - art. L6111-1
+  - Code de l'action sociale et des familles
 
 
 ###### Article L73
@@ -5571,14 +5349,20 @@ _Cite_:
 
 ###### Article L111
 
-Toute manoeuvre frauduleuse ayant pour but d'enfreindre les dispositions des articles L. 71 à L. 77 sera punie des peines
-prévues à l'article L. 107.
+Toute manoeuvre frauduleuse ayant pour but d'enfreindre les dispositions des articles L. 64 et L. 71 à L. 77 sera punie des
+peines prévues à l'article L. 107.
+
+**Nota:**
+
+Conformément à l'article 109 IV de la loi n° 2019-222 du 23 mars 2019, les présentes dispositions s'appliquent aux personnes
+qui bénéficient d'une mesure de tutelle à la date de publication de la présente loi ainsi qu'aux instances en cours à cette
+même date. Les autres dispositions du jugement prononçant ou renouvelant la mesure de tutelle continuent de s'appliquer.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Cité par_:
 
@@ -5590,10 +5374,14 @@ _Cité par_:
   - Code électoral - art. L116-1 (Ab)
   - Code électoral - art. L117 (V)
 
+_Modifié par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 11
+
 _Cite_:
 
-  - Code électoral - art. L107 (V)
-  - Code électoral - art. L71 (V)
+  - Code électoral - art. L107
+  - Code électoral - art. L71
 
 
 ###### Article L112
@@ -16775,25 +16563,60 @@ _Modifié par_:
   - Ordonnance 2003-923 2003-09-26 art. 6 4° JORF 27 septembre 2003 en vigueur le 1er septembre 2004
 
 
+###### Article L387-1
+
+I. - Pour l'application de l'article L. 72-1 en Polynésie française et en Nouvelle-Calédonie, la référence à l'établissement
+ou au service soumis à autorisation ou à déclaration en application du code de l'action sociale et des familles, à
+l'établissement de santé mentionné à l'article L. 6111-1 du code de la santé publique, au service soumis à agrément ou à
+déclaration mentionné au 2° de l'article L. 7231-1 du code du travail, aux bénévoles ou aux volontaires qui agissent au sein
+de ces structures ou y exercent une responsabilité et aux salariés mentionnés à l'article L. 7221-1 du même code
+accomplissant des services à la personne définis au 2° de l'article L. 7231-1 dudit code, est remplacée par la référence aux
+établissements, aux services ou aux personnes équivalentes dans la réglementation applicable localement.
+
+II. - Pour l'application de l'article L. 72-1 du présent code dans les îles Wallis et Futuna, la référence à l'établissement
+ou au service soumis à autorisation ou à déclaration en application du code de l'action sociale et des familles, au service
+soumis à agrément ou à déclaration mentionné au 2° de l'article L. 7231-1 du code du travail, aux bénévoles ou aux
+volontaires qui agissent en son sein ou y exercent une responsabilité et aux salariés mentionnés à l'article L. 7221-1 du
+même code accomplissant des services à la personne définis au 2° de l'article L. 7231-1 dudit code, est remplacée par la
+référence aux établissements, aux services ou aux personnes équivalentes dans la réglementation applicable localement.
+
+**Nota:**
+
+Conformément à l'article 109 IV de la loi n° 2019-222 du 23 mars 2019, les présentes dispositions s'appliquent aux personnes
+qui bénéficient d'une mesure de tutelle à la date de publication de la présente loi ainsi qu'aux instances en cours à cette
+même date. Les autres dispositions du jugement prononçant ou renouvelant la mesure de tutelle continuent de s'appliquer.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2019-222 du 23 mars 2019 - art. 11
+
+_Cite_:
+
+  - Code du travail - art. L7231-1
+  - Code de la santé publique - art. L6111-1
+  - Code de l'action sociale et des familles
+
+
 ###### Article L388
 
-I.-Les dispositions du titre Ier du livre Ier du présent code, dans leur rédaction résultant de la loi n° 2016-1048 du 1er
-août 2016 rénovant les modalités d'inscription sur les listes électorales, à l'exception des articles L. 15, L. 15-1, L. 46-1
-et L. 66, sont applicables à l'élection : 
+I. - Les dispositions du titre Ier du livre Ier du présent code, dans leur rédaction résultant de la loi n° 2019-222 du 23
+mars 2019 de programmation 2018-2022 et de réforme pour la justice, à l'exception des articles L. 15, L. 15-1, L. 46-1 et L.
+66, sont applicables à l'élection :
 
-1° Des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna ; 
+1° Des députés en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna ;
 
 2° Des membres du congrès et des assemblées de province de la Nouvelle-Calédonie, sous réserve de l'application des
-dispositions du titre V de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie ; 
+dispositions du titre V de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie ;
 
 3° Des représentants à l'assemblée de la Polynésie française, sous réserve des dispositions de la loi organique n° 2004-192
-du 27 février 2004 portant statut d'autonomie de la Polynésie française ; 
+du 27 février 2004 portant statut d'autonomie de la Polynésie française ;
 
 4° Des membres de l'assemblée territoriale des îles Wallis et Futuna, sous réserve des dispositions de la section III du
-titre III de la loi n° 61-814 du 29 juillet 1961 conférant aux îles de Wallis et Futuna le statut de territoire d'outre-
-mer ; 
+titre III de la loi n° 61-814 du 29 juillet 1961 conférant aux îles de Wallis et Futuna le statut de territoire d'outre-mer ;
 
-5° Des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française. 
+5° Des conseillers municipaux en Nouvelle-Calédonie et en Polynésie française.
 
 II.-Par dérogation au I, pour les élections en Nouvelle-Calédonie mentionnées aux 1°, 2° et 5° du même I, sont applicables le
 chapitre II du titre Ier du livre Ier, dans sa rédaction résultant de la loi n° 2009-526 du 12 mai 2009 de simplification et
@@ -16822,17 +16645,17 @@ années 2019 à 2025 et portant diverses dispositions intéressant la défense".
 
 _Cite_:
 
-  - Loi n°61-814 du 29 juillet 1961 (V)
-  - Loi n°88-1262 du 30 décembre 1988 (V)
-  - Loi organique n°99-209 du 19 mars 1999 (V)
-  - Loi organique n°2004-192 du 27 février 2004 (V)
-  - Loi n°2009-526 du 12 mai 2009 (V)
+  - Loi n°61-814 du 29 juillet 1961
+  - Loi n°88-1262 du 30 décembre 1988
+  - Loi n°99-209 du 19 mars 1999
+  - Loi organique n°2004-192 du 27 février 2004
+  - Loi n°2009-526 du 12 mai 2009
   - Code des communes
   - Code électoral
-  - Code électoral - art. L15 (V)
-  - Code électoral - art. L46-1 (VT)
-  - Code électoral - art. L62-1 (VT)
-  - Code électoral - art. L66 (V)
+  - Code électoral - art. L15
+  - Code électoral - art. L46-1
+  - Code électoral - art. L62-1
+  - Code électoral - art. L66
 
 _Cité par_:
 
@@ -16842,8 +16665,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1048 du 1er août 2016 - art. 15 (VD)
-  - Loi n°2017-1339 du 15 septembre 2017 - art. 26 (V)
+  - Loi n°2019-222 du 23 mars 2019 - art. 11
 
 
 ###### Article L389
