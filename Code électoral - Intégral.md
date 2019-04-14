@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2019-03-25
+Version Consolidée au 2019-04-15
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires (art. L1 à L273-12)](#2)
@@ -212,7 +212,7 @@ et durée du mandat (art. L558-1 à L558-2)](#159)
         - [Chapitre VIII : Contentieux (art. R97)](#205)
       - [Titre II : Dispositions spéciales à l'élection des députés (art. R98 à R109)](#206)
         - [Chapitre V : Déclarations de candidatures (art. R98 à R102)](#207)
-        - [Chapitre VI : Propagande (art. R103 à R103-4)](#208)
+        - [Chapitre VI : Propagande (art. D102-1 à R103-4)](#208)
         - [Chapitre VIII : Opérations de vote (art. R104 à R109)](#209)
       - [Titre III : Dispositions spéciales à l'élection des conseillers départementaux (art. R109-1 à R117-1)](#210)
         - [Chapitre IV bis : Déclarations de candidatures (art. R109-1 à R109-2)](#211)
@@ -28334,6 +28334,39 @@ _Cité par_:
 
 
 #### Chapitre VI : Propagande<a id=208></a>
+
+###### Article D102-1
+
+I.-Le nombre de connexions au-delà duquel les opérateurs de plateforme en ligne sont soumis aux obligations de l'article L.
+163-1 est fixé à cinq millions de visiteurs uniques par mois, par plateforme, calculé sur la base de la dernière année
+civile.
+
+II.-Le montant de rémunération à partir duquel ces opérateurs sont soumis aux obligations du 3° de l'article L. 163-1 est
+fixé à 100 euros hors taxe, pour chaque contenu d'information se rattachant à un débat d'intérêt général.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-297 du 10 avril 2019 - art. 1
+
+
+###### Article D102-2
+
+I.-Les informations mentionnées au 1°, 2° et 3° de l'article L. 163-1 sont précisées à proximité de chaque contenu
+d'information se rattachant à un débat d'intérêt général. Elles peuvent également être précisées dans une rubrique
+directement et aisément accessible à partir de chaque contenu d'information se rattachant à un débat d'intérêt général.
+
+II.-Le registre d'informations mentionné au cinquième alinéa de l'article L. 163-1 est directement et aisément accessible à
+partir de toutes les pages du site qui comportent des contenus d'information mentionnés à l'article L. 163-1 ou qui donnent
+accès à de tels contenus.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2019-297 du 10 avril 2019 - art. 1
+
 
 ###### Article R103
 
