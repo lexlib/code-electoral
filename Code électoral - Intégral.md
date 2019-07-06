@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2019-04-15
+Version Consolidée au 2019-07-07
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires (art. L1 à L273-12)](#2)
@@ -129,7 +129,7 @@ de moins de 1 000 habitants (art. L273-11 à L273-12)](#75)
       - [Titre III : Conditions  d'application des titre Ier et II (art. L384)](#124)
     - [Livre V : Dispositions applicables à la 
 Nouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna (art. L385 à L449)](#125)
-      - [Titre Ier : Dispositions générales (art. L385 à LO392-1)](#126)
+      - [Titre Ier : Dispositions générales (art. L385 à LO384-1)](#126)
       - [Titre II : Election des députés (art. L395 à LO394-2)](#127)
       - [Titre III : Dispositions applicables à l'élection des membres du congrès et des assemblées de province de la Nouvelle-Calédonie (art. L398 à L406)](#128)
       - [Titre IV : Dispositions applicables à l'élection des membres de l'assemblée de la Polynésie française (art. L407 à LO406-1)](#129)
@@ -17189,37 +17189,6 @@ _Modifié par_:
   - Loi n°2016-1046 du 1er août 2016 - art. 2 (VD)
 
 
-###### Article LO392-1
-
-Le fichier général des électeurs inscrits sur les listes électorales de la Polynésie française est régi par les dispositions
-de l'article 189 de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française ci-
-après reproduites :
-
-" Art. 189. - L'Institut de la statistique de la Polynésie française tient un fichier général des électeurs inscrits sur les
-listes électorales de la Polynésie française, y compris pour l'élection des conseils municipaux et des représentants au
-Parlement européen, en vue de contrôler les inscriptions sur les listes électorales.
-
-Pour l'exercice de ces attributions, l'Institut de la statistique agit pour le compte de l'Etat. Il est placé sous l'autorité
-du haut-commissaire de la République.
-
-Une convention entre l'Etat et la Polynésie française précise les modalités d'application du présent article dans le respect
-des conditions prévues par la législation en vigueur relative à l'informatique, aux fichiers et aux libertés. "
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°64-1086 du 27 octobre 1964
-
-_Créé par_:
-
-  - Loi n°2004-192 du 27 février 2004 - art. 193 () JORF 2 mars 2004
-
-_Abrogé par_:
-
-  - Loi n°2019-706 du 5 juillet 2019 - art. 40
-
-
 ### Titre II : Election des députés<a id=127></a>
 
 ###### Article L395
@@ -17595,7 +17564,7 @@ la liste par son responsable doit être assorti de l'ensemble des mandats des ca
 
 La liste déposée indique expressément :
 
-1° Le titre de la liste présentée ; plusieurs listes ne peuvent avoir, dans la même circonscription, le même titre ;
+1° Le titre de la liste présentée ; plusieurs listes ne peuvent avoir le même titre ;
 
 2° Les nom, prénoms, sexe, date et lieu de naissance, domicile et profession de chacun des candidats ;
 
@@ -17626,7 +17595,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2018-51 du 31 janvier 2018 - art. 10 (V)
+  - Loi n°2019-707 du 5 juillet 2019 - art. 7
 
 _Cité par_:
 
@@ -17690,8 +17659,8 @@ d'enregistrement devant le tribunal administratif, qui statue dans les trois jou
 peut être contestée qu'à l'occasion d'un recours contre l'élection.
 
 Lorsque le refus d'enregistrement est motivé par l'inobservation des dispositions relatives aux inéligibilités, ou par la
-présence d'un candidat sur plusieurs listes ou dans plus d'une circonscription, la liste dispose, pour se compléter, de
-quarante-huit heures à compter de ce refus ou de la décision du tribunal administratif confirmant le refus.
+présence d'un candidat sur plusieurs listes, la liste dispose, pour se compléter, de quarante-huit heures à compter de ce
+refus ou de la décision du tribunal administratif confirmant le refus.
 
 Dans le cas prévu à l'alinéa précédent, la candidature est enregistrée si le tribunal administratif, saisi par le candidat
 tête de liste ou son mandataire, n'a pas statué dans le délai prévu au premier alinéa.
@@ -17700,11 +17669,11 @@ tête de liste ou son mandataire, n'a pas statué dans le délai prévu au premi
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2000-350 du 19 avril 2000 - art. 4 ()
+  - Loi n°2019-707 du 5 juillet 2019 - art. 7
 
 
 ###### Article L411
@@ -17760,54 +17729,47 @@ _Cité par_:
 ###### Article L414
 
 I. - En Polynésie française, les antennes de la société nationale chargée du service public de la communication audiovisuelle
-outre-mer sont mises à la disposition des listes dont la candidature a été régulièrement enregistrée. 
+outre-mer sont mises à la disposition des listes dont la candidature a été régulièrement enregistrée.
 
 II. - Une durée d'émission de trois heures à la télévision et de trois heures à la radio est mise à la disposition des listes
-présentées par les partis et groupements politiques représentés à l'assemblée de la Polynésie française. 
+présentées par les partis et groupements politiques représentés à l'assemblée de la Polynésie française.
 
 Le Conseil supérieur de l'audiovisuel détermine le temps attribué à chaque liste en fonction de la représentation des partis
 et groupements politiques à l'assemblée de la Polynésie française. Cette représentation est constatée au vu de la déclaration
 individuelle de rattachement faite par chaque élu sortant au plus tard deux mois avant la date d'expiration du mandat de
 l'assemblée de la Polynésie française ou, dans les cas prévus aux articles 157 et 157-1 de la loi organique n° 2004-192 du 27
 février 2004 portant statut d'autonomie de la Polynésie française, dans les huit jours qui suivent la publication au Journal
-officiel du décret prévu à ces articles. 
+officiel du décret prévu à ces articles.
 
-Les listes peuvent décider d'utiliser en commun leur temps de parole. 
+Les listes peuvent décider d'utiliser en commun leur temps de parole.
 
-Chaque liste dispose d'une durée minimale de cinq minutes à la télévision et de cinq minutes à la radio. 
+Chaque liste dispose d'une durée minimale de cinq minutes à la télévision et de cinq minutes à la radio.
 
 III. - Une durée maximale d'émission de trente minutes à la télévision et de trente minutes à la radio est mise à la
-disposition des autres listes. 
+disposition des autres listes.
 
 Cette durée est répartie également entre ces listes par le Conseil supérieur de l'audiovisuel, sans qu'une liste ne puisse
-bénéficier de plus de cinq minutes à la télévision et de cinq minutes à la radio. 
+bénéficier de plus de cinq minutes à la télévision et de cinq minutes à la radio.
 
 IV. - Les conditions de production, de programmation et de diffusion des émissions sont fixées par le Conseil supérieur de
 l'audiovisuel. Celui-ci adresse des recommandations aux exploitants des autres services de communication audiovisuelle
-autorisés en Polynésie française. Il désigne un représentant en Polynésie française pendant toute la durée de la campagne. 
-
-V. - Les dispositions qui précèdent sont applicables en cas d'élection partielle consécutive à l'annulation globale des
-opérations électorales dans une circonscription ou aux vacances visées au II de l'article 107 de la loi organique n° 2004-192
-du 27 février 2004 portant statut d'autonomie de la Polynésie française. Dans ce cas, le temps est réduit, par
-circonscription, à une heure au lieu de trois heures et à quinze minutes au lieu de trente minutes. Les déclarations
-individuelles de rattachement prévues au deuxième alinéa du II doivent être faites dans les huit jours suivant l'événement
-qui a rendu cette élection nécessaire.
+autorisés en Polynésie française. Il désigne un représentant en Polynésie française pendant toute la durée de la campagne.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°2004-192 du 27 février 2004 - art. 107 (V)
-  - Loi n°2004-192 du 27 février 2004 - art. 157 (V)
-
-_Modifié par_:
-
-  - Loi n°2007-1720 du 7 décembre 2007 - art. 1
+  - Loi organique n°2004-192 du 27 février 2004 - art. 107
+  - Loi organique n°2004-192 du 27 février 2004 - art. 157
 
 _Cité par_:
 
   - Loi n°2007-1720 du 7 décembre 2007 - art. 5 (V)
   - Code électoral - art. R249-1 (V)
+
+_Modifié par_:
+
+  - Loi n°2019-707 du 5 juillet 2019 - art. 7
 
 
 ###### Article L415
