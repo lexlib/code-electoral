@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2019-07-07
+Version Consolidée au 2019-08-03
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires (art. L1 à L273-12)](#2)
@@ -13121,43 +13121,49 @@ _Modifié par_:
 
 ###### Article L290-2
 
-I. - Dans les communes de moins de 9 000 habitants, lorsque le conseil municipal est composé selon les modalités fixées à
-l'article L. 2113-7 du code général des collectivités territoriales, il élit parmi ses membres un nombre de délégués
-déterminé dans les conditions prévues à l'article L. 284 du présent code pour une commune appartenant à la strate
-démographique immédiatement supérieure. 
+I. - Dans les communes dont le conseil municipal, composé selon les modalités fixées à l'article L. 2113-7 du code général
+des collectivités territoriales ou à l'article L. 2113-8 du même code, comprend 29 membres ou moins, celui-ci élit parmi ses
+membres un nombre de délégués déterminé dans les conditions prévues à l'article L. 284 du présent code pour une commune
+appartenant à la strate démographique immédiatement supérieure.
 
-Dans les communes de moins de 9 000 habitants, lorsque le conseil municipal est composé selon les modalités fixées à
-l'article L. 2113-8 du code général des collectivités territoriales, il élit parmi ses membres un nombre de délégués
-déterminé dans les conditions fixées à l'article L. 284 du présent code. 
+Lorsque la détermination du nombre de délégués est impossible en application du même article L. 284, elle s'opère dans les
+conditions prévues aux II et III du présent article.
 
-Dans les communes mentionnées aux deux premiers alinéas du présent I, le nombre de délégués ne peut excéder le nombre total
-de délégués auquel les anciennes communes avaient droit avant la création de la commune nouvelle. Toutefois, ce nombre de
-délégués ne peut être inférieur à celui auquel aurait droit une commune comptant la même population. 
+Dans les communes mentionnées au premier alinéa du présent I, sauf dans le cas mentionné au deuxième alinéa, le nombre de
+délégués ne peut être inférieur à celui auquel aurait droit une commune comptant la même population.
 
-II. - Dans les communes de moins de 9 000 habitants dont le conseil municipal est composé de plus de 30 membres et dans
-celles de 9 000 habitants et plus, lorsque le conseil municipal est composé selon les modalités fixées aux articles L. 2113-7
-ou L. 2113-8 du code général des collectivités territoriales, tous les conseillers municipaux sont désignés délégués, dans
-les conditions fixées à l'article L. 285 du présent code. 
+II. - Dans les communes dont le conseil municipal, composé selon les modalités fixées à l'article L. 2113-7 du code général
+des collectivités territoriales, comprend plus de 29 membres, tous les conseillers municipaux sont délégués de droit. En
+outre, dans les communes de plus de 30 000 habitants, les conseils municipaux élisent des délégués supplémentaires dans les
+conditions prévues au second alinéa de l'article L. 285 du présent code.
 
-Toutefois, le nombre de délégués ne peut ni excéder le nombre total de délégués auquel les anciennes communes avaient droit
-avant la création de la commune nouvelle, ni être inférieur à celui auquel aurait droit une commune comptant la même
-population. 
+Toutefois, le nombre de délégués ne peut excéder le nombre total de délégués auquel les anciennes communes avaient droit
+avant la création de la commune nouvelle.
 
 Si, en application des deux premiers alinéas du présent II, tous les conseillers municipaux ne peuvent être désignés
 délégués, le conseil municipal élit ses délégués parmi ses membres.
 
+III. - Dans les communes dont le conseil municipal, composé selon les modalités fixées à l'article L. 2113-8 du code général
+des collectivités territoriales, comprend plus de 29 membres, celui-ci élit parmi ses membres un nombre de délégués égal au
+nombre de conseillers municipaux prévu à l'article L. 2121-2 du même code pour une commune appartenant à la strate
+démographique immédiatement supérieure. En outre, dans les communes de plus de 30 000 habitants, les conseils municipaux
+élisent des délégués supplémentaires dans les conditions prévues au second alinéa de l'article L. 285 du présent code.
+
+Toutefois, le nombre de délégués ne peut excéder le nombre total de délégués auquel les anciennes communes avaient droit
+avant la création de la commune nouvelle.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2016-1500 du 8 novembre 2016 - art. 15
+  - Loi n°2019-809 du 1er août 2019 - art. 1
 
 _Cite_:
 
   - Code électoral - art. L284
   - Code électoral - art. L285
   - Code général des collectivités territoriales - art. L2113-7
-  - Code général des collectivités territoriales - art. L2113-8
+  - Code général des collectivités territoriales - art. L2113-8 (V)
 
 
 ###### Article L291
