@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2019-12-29
+Version Consolidée au 2019-12-30
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires (art. L1 à L273-12)](#2)
@@ -229,7 +229,7 @@ et durée du mandat (art. L558-1 à L558-2)](#161)
           - [Section 6 : Opérations de vote (art. R118)](#222)
           - [Section 7 : Contentieux (art. R119 à R123)](#223)
         - [Chapitre II : Dispositions spéciales aux communes de moins de 1 000 habitants (art. R124 à R127)](#224)
-          - [Section 1 : Déclarations de candidature (art. R124)](#225)
+          - [Section 1 bis : Déclaration de candidature (art. R124)](#225)
           - [Section 2 : Opérations de vote (art. R126 à R127)](#226)
         - [Chapitre III : Dispositions spéciales aux communes de 1000 habitants et plus (art. R127-1 à R128-4)](#227)
           - [Section 1 : Mode de scrutin (art. R127-1)](#228)
@@ -28295,23 +28295,24 @@ _Modifié par_:
 
 ###### Article R99
 
-I. - La déclaration de candidature et l'acceptation du remplaçant sont rédigées sur papier libre. 
+I. - La déclaration de candidature est rédigée sur un imprimé. L'acceptation du remplaçant est rédigée sur papier libre.
 
 Elles sont accompagnées, pour le candidat et le remplaçant, d'une attestation d'inscription sur une liste électorale
-comportant les mentions prévues aux articles L. 18 et L. 19 délivrée par le maire de la commune d'inscription dans les trente
+comportantles nom, prénoms, date de naissance, sexe et lieu de vote de l'intéressé, délivrée par le maire de la commune
+d'inscription ou générée par la télé-procédure mentionnée à l'article 5 du décret n° 2018-343 du 9 mai 2018 dans les trente
 jours précédant le dépôt de la candidature, ou d'une copie de la décision de justice ordonnant l'inscription de l'intéressé,
 ou, à défaut, d'un certificat de nationalité ou de la carte nationale d'identité en cours de validité et un bulletin n° 3 du
-casier judiciaire délivré depuis moins de trois mois. 
+casier judiciaire délivré depuis moins de trois mois.
 
-II. - La déclaration de candidature est également accompagnée : 
+II. - La déclaration de candidature est également accompagnée :
 
 1° Si un mandataire financier a été désigné, du récépissé de déclaration établi selon les modalités prévues à l'article R.
-39-1-A ou des pièces prévues aux 1° et 2° du même article ; 
+39-1-A ou des pièces prévues aux 1° et 2° du même article ;
 
 2° Si une association de financement électorale a été désignée, du récépissé prévu à l'article 5 du décret du 16 août 1901
 pris pour l'exécution de la loi du 1er juillet 1901 ou des pièces prévues à ce décret, ou, dans les départements du Bas-Rhin,
 du Haut-Rhin et de la Moselle, des pièces prévues par le droit civil local pour obtenir l'inscription de l'association au
-registre des associations ou attester de cette inscription. 
+registre des associations ou attester de cette inscription.
 
 III. - En cas de second tour, le candidat est dispensé de produire à nouveau l'acceptation du remplaçant et les pièces
 prévues aux I et II, fournies à l'occasion du premier tour.
@@ -28320,9 +28321,9 @@ prévues aux I et II, fournies à l'occasion du premier tour.
 
 _Cite_:
 
-  - Décret du 16 août 1901 - art. 5 (V)
-  - Code électoral - art. L18 (V)
-  - Code électoral - art. R39-1-A (VT)
+  - Décret du 16 août 1901 - art. 5
+  - Code électoral - art. L18
+  - Code électoral - art. R39-1-A
 
 _Codifié par_:
 
@@ -28334,7 +28335,7 @@ _Cité par_:
   - Décret n°86-170 du 6 février 1986 - art. 11 (Ab)
   - Décret n°86-170 du 6 février 1986 - art. 4 (Ab)
   - Décret n°2015-1423 du 5 novembre 2015 - art. Annexe 1 (VT)
-  - Code électoral - art. R109-2 (M)
+  - Code électoral - art. R109-2 (V)
   - Code électoral - art. R128-2 (V)
   - Code électoral - art. R149 (V)
   - Code électoral - art. R173-2 (V)
@@ -28346,7 +28347,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2012-220 du 16 février 2012 - art. 2
+  - Décret n°2019-1494 du 27 décembre 2019 - art. 2
 
 
 ###### Article R100
@@ -29454,7 +29455,7 @@ _Cité par_:
 
 #### Chapitre II : Dispositions spéciales aux communes de moins de 1 000 habitants<a id=224></a>
 
-##### Section 1 : Déclarations de candidature<a id=225></a>
+##### Section 1 bis : Déclaration de candidature<a id=225></a>
 
 ###### Article R124
 
@@ -29476,9 +29477,9 @@ _Codifié par_:
 
   - Décret n°64-1087 du 27 octobre 1964
 
-_Modifié par_:
+**Liens**:
 
-  - Décret n°2013-938 du 18 octobre 2013 - art. 34
+  - DEPLACE: Décret n°2019-1494 du 27 décembre 2019 - art. 3
 
 _Cité par_:
 
@@ -29488,9 +29489,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code électoral - art. R127-2 (VD)
-  - Code électoral - art. R128 (V)
-  - Code électoral - art. R128-1 (V)
+  - Code électoral - art. R127-2
+  - Code électoral - art. R128
+  - Code électoral - art. R128-1
 
 
 ##### Section 2 : Opérations de vote<a id=226></a>
@@ -29862,14 +29863,21 @@ _Cite_:
 ###### Article R130-1
 
 Les personnes appelées à remplacer les députés, les sénateurs, les conseillers régionaux, les conseillers à l'Assemblée de
-Corse et les conseillers départementaux dans les conditions prévues par l'article L. 282 doivent être désignées préalablement
-à l'élection des délégués des conseils municipaux et de leurs suppléants. 
+Corse, les conseillers départementaux et les conseillers métropolitains de Lyon dans les conditions prévues par l'article L.
+282 doivent être désignées préalablement à l'élection des délégués des conseils municipaux et de leurs suppléants.
 
-Le président du conseil départemental, le président du conseil régional ou le président de l'Assemblée de Corse en accuse
-réception aux députés, aux sénateurs, aux conseillers régionaux, aux conseillers à l'Assemblée de Corse ou aux conseillers
-départementaux remplacés et les notifie au préfet dans les vingt-quatre heures. 
+Le président du conseil départemental, le président de la métropole de Lyon, le président du conseil régional ou le président
+de l'Assemblée de Corse en accuse réception aux députés, aux sénateurs, aux conseillers régionaux, aux conseillers à
+l'Assemblée de Corse ou aux conseillers départementaux remplacés et les notifie au préfet dans les vingt-quatre heures.
 
 Les désignations faites en vertu du présent article sont de droit.
+
+**Nota:**
+
+Conformément à l'article 10 du Décret n° 2019-1494 du 27 décembre 2019 portant diverses modifications du code électoral et du
+décret n° 79-160 du 28 février 1979 portant application de la loi n° 77-729 du 7 juillet 1977 relative à l'élection des
+représentants au Parlement européen , les dispositions des 1°, 2° et 6° à 8° de l'article 4 entrent en vigueur à compter du
+prochain renouvellement du Sénat.
 
 **Liens relatifs à cet article**
 
@@ -29879,11 +29887,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+  - Décret n°2019-1494 du 27 décembre 2019 - art. 4
 
 _Cite_:
 
-  - Code électoral - art. L282 (VT)
+  - Code électoral - art. L282
 
 _Cité par_:
 
@@ -30781,8 +30789,8 @@ _Cité par_:
 ###### Article R162
 
 La liste des électeurs du département est dressée par ordre alphabétique par le préfet. Cette liste comprend les députés, les
-sénateurs, les conseillers régionaux, conseillers départementaux et les délégués des conseils municipaux désignés dans les
-conditions prévues au titre III du présent livre.
+sénateurs, les conseillers régionaux, les conseillers départementaux , les conseillers métropolitains de Lyon et les délégués
+des conseils municipaux désignés dans les conditions prévues au titre III du présent livre.
 
 Sont mentionnés dans cette liste :
 
@@ -30810,6 +30818,13 @@ Pour l'application du premier alinéa en Corse, il y a lieu de lire : “les con
 département conformément aux dispositions de l'article L. 293-1” au lieu de : “les conseillers régionaux, conseillers
 départementaux”.
 
+**Nota:**
+
+Conformément à l'article 10 du Décret n° 2019-1494 du 27 décembre 2019 portant diverses modifications du code électoral et du
+décret n° 79-160 du 28 février 1979 portant application de la loi n° 77-729 du 7 juillet 1977 relative à l'élection des
+représentants au Parlement européen , les dispositions des 1°, 2° et 6° à 8° de l'article 4 entrent en vigueur à compter du
+prochain renouvellement du Sénat.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -30818,7 +30833,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-1777 du 27 décembre 2017 - art. 2
+  - Décret n°2019-1494 du 27 décembre 2019 - art. 4
 
 _Cite_:
 
@@ -30896,25 +30911,32 @@ _Cité par_:
 
 ###### Article R164-1
 
-Les députés, les conseillers régionaux, les conseillers à l'Assemblée de Corse et les conseillers départementaux qui
-souhaitent exercer leur droit de vote par procuration doivent adresser une demande revêtue de leur signature au représentant
-de l'Etat dans le département à qui elle doit parvenir, à peine d'irrecevabilité, quarante-huit heures au moins avant le
-début du scrutin. 
+Les députés, les conseillers régionaux, les conseillers à l'Assemblée de Corse, les conseillers départementaux et les
+conseillers métropolitains de Lyon qui souhaitent exercer leur droit de vote par procuration doivent adresser une demande
+revêtue de leur signature au représentant de l'Etat dans le département à qui elle doit parvenir, à peine d'irrecevabilité,
+quarante-huit heures au moins avant le début du scrutin.
 
 Cette demande doit préciser la nature de l'empêchement majeur invoqué par le mandant, au regard des dispositions des a et c
-de l'article L. 71. 
+de l'article L. 71.
 
 La procuration jointe à la demande est rédigée sur papier libre et revêtue de la signature de l'intéressé. Elle ne peut être
-établie qu'au profit d'un membre du collège électoral du département. 
+établie qu'au profit d'un membre du collège électoral du département.
 
-Le représentant de l'Etat dans le département avise immédiatement le mandant dont la procuration n'est pas valable. 
+Le représentant de l'Etat dans le département avise immédiatement le mandant dont la procuration n'est pas valable.
 
 Le représentant de l'Etat dans le département transmet les demandes valables au président du bureau du collège électoral.
 Mention en est faite sur la liste des électeurs sénatoriaux du département. Le mandataire n'est admis à voter que s'il
-présente un mandat de procuration régulièrement établi et signé par le mandant. 
+présente un mandat de procuration régulièrement établi et signé par le mandant.
 
 La procuration est irrévocable. Cependant, dans le cas où le mandant se présente personnellement pour participer au scrutin,
 la procuration est révoquée de plein droit, à moins qu'elle n'ait déjà été utilisée.
+
+**Nota:**
+
+Conformément à l'article 10 du Décret n° 2019-1494 du 27 décembre 2019 portant diverses modifications du code électoral et du
+décret n° 79-160 du 28 février 1979 portant application de la loi n° 77-729 du 7 juillet 1977 relative à l'élection des
+représentants au Parlement européen , les dispositions des 1°, 2° et 6° à 8° de l'article 4 entrent en vigueur à compter du
+prochain renouvellement du Sénat.
 
 **Liens relatifs à cet article**
 
@@ -30924,11 +30946,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+  - Décret n°2019-1494 du 27 décembre 2019 - art. 4
 
 _Cite_:
 
-  - Code électoral - art. L71 (V)
+  - Code électoral - art. L71
 
 _Cité par_:
 
