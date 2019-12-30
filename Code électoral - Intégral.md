@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2019-01-01
+Version Consolidée au 2019-12-31
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires (art. L1 à L273-12)](#2)
@@ -9,8 +9,8 @@ Version Consolidée au 2019-01-01
           - [Section 1 : Conditions d'inscription sur une liste électorale (art. L9 à L15-1)](#6)
           - [Section 2 : Etablissement et révision des listes électorales (art. L16 à L29)](#7)
           - [Section 3 : Cas particuliers d'inscription (art. L30 à L32)](#8)
-          - [Section 4 : Contrôle des inscriptions sur les listes électorales (art. L36 à L38)](#9)
-          - [Section 4 : Dispositions communes (art.  à L38)](#10)
+          - [Section 4 : Contrôle des inscriptions sur les listes électorales (art.  à L32)](#9)
+          - [Section 4 : Dispositions communes (art. L36 à L38)](#10)
           - [Section 5 : Exonération d'impôts et de taxes (art. L41 à L42)](#11)
           - [Section 6 : Cartes électorales (art. L43)](#12)
         - [Chapitre III : Conditions d'éligibilité et inéligibilités (art. L44 à L45-1)](#13)
@@ -1735,6 +1735,8 @@ _Cite_:
 
 ##### Section 4 : Contrôle des inscriptions sur les listes électorales<a id=9></a>
 
+##### Section 4 : Dispositions communes<a id=10></a>
+
 ###### Article L36
 
 Les délais mentionnés aux sections 1 à 3 du présent chapitre sont exprimés en jours calendaires.
@@ -1852,8 +1854,6 @@ _Modifié par_:
 
   - Loi n°2016-1048 du 1er août 2016 - art. 7
 
-
-##### Section 4 : Dispositions communes<a id=10></a>
 
 ##### Section 5 : Exonération d'impôts et de taxes<a id=11></a>
 
