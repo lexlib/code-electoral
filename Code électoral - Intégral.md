@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2019-12-31
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés, des conseillers départementaux, des conseillers municipaux et des conseillers communautaires (art. L1 à L273-12)](#2)
@@ -1823,11 +1823,18 @@ _Cite_:
 ###### Article L46
 
 Les fonctions de militaire de carrière ou assimilé, en activité de service ou servant au-delà de la durée légale, sont
-incompatibles avec les mandats qui font l'objet du livre I.
+incompatibles avec les mandats qui font l'objet du livre I (1).
 
 Ces dispositions ne sont pas applicables au réserviste exerçant une activité en vertu d'un engagement à servir dans la
 réserve opérationnelle ou au titre de la disponibilité. Toutefois, le réserviste de la gendarmerie nationale ne peut exercer
 cette activité au sein de sa circonscription.
+
+**Nota:**
+
+(1) Dans sa décision n° 2014-432 QPC du 28 novembre 2014 (NOR : CSCX1429182S), le Conseil constitutionnel a déclaré le
+premier alinéa de l'article L. 46 du code électoral contraire à la Constitution.  La déclaration d'inconstitutionnalité de
+l'article 1er prend effet dans les conditions fixées au considérant 17 (Abrogation au 1er janvier 2020 ou au prochain
+renouvellement général des conseils municipaux s'il intervient avant cette date).
 
 **Liens relatifs à cet article**
 
@@ -1843,7 +1850,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-971 du 3 août 2009 - art. 13
+  - DÉCISION n°2014-432 QPC du 28 novembre 2014 - art. 1, v. init.
 
 
 ###### Article L46-1
@@ -10459,25 +10466,27 @@ Les fonctions de conseiller municipal sont incompatibles avec celles :
 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière dans la ou les
 communes de rattachement de l'établissement où il est affecté. 
 
-Les personnes désignées à l'article L. 46 et au présent article qui seraient élues membres d'un conseil municipal auront, à
-partir de la proclamation du résultat du scrutin, un délai de dix jours pour opter entre l'acceptation du mandat et la
-conservation de leur emploi. A défaut de déclaration adressée dans ce délai à leurs supérieurs hiérarchiques, elles seront
-réputées avoir opté pour la conservation dudit emploi.
+Les personnes désignées au présent article qui seraient élues membres d'un conseil municipal auront, à partir de la
+proclamation du résultat du scrutin, un délai de dix jours pour opter entre l'acceptation du mandat et la conservation de
+leur emploi. A défaut de déclaration adressée dans ce délai à leurs supérieurs hiérarchiques, elles seront réputées avoir
+opté pour la conservation dudit emploi.
+
+**Nota:**
+
+Dans sa décision n° 2014-432 QPC du 28 novembre 2014 (NOR : CSCX1429182S), le Conseil constitutionnel a déclaré les mots " à
+l'article L. 46 et " figurant au dernier alinéa de l'article L. 237 du code électoral contraires à la Constitution. La
+déclaration d'inconstitutionnalité de l'article 1er prend effet dans les conditions fixées au considérant 17 (Abrogation au
+1er janvier 2020 ou au prochain renouvellement général des conseils municipaux s'il intervient avant cette date).
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°64-1086 du 27 octobre 1964
-
 _Cite_:
 
-  - Loi n°86-33 du 9 janvier 1986 - art. 2
-  - Code électoral - art. L46
+  - Loi n°86-33 du 9 janvier 1986 - art. 2 (V)
 
 _Modifié par_:
 
-  - Ordonnance n°2017-10 du 5 janvier 2017 - art. 1
+  - DÉCISION n°2014-432 QPC du 28 novembre 2014 - art. 1, v. init.
 
 _Cité par_:
 
