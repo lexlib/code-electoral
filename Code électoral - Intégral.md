@@ -1,5 +1,5 @@
 # Code électoral  
-Version Consolidée au 2021-01-01
+Version Consolidée au 2022-01-01
 ## Contenu: 
   - [Partie législative (art. L1 à L568)](#1)
     - [Livre Ier : Election des députés,   des conseillers départementaux, des conseillers métropolitains de Lyon, des conseillers municipaux et des conseillers communautaires (art. L1 à L273-12)](#2)
@@ -4517,13 +4517,18 @@ _Modifié par_:
 
 ###### Article L72
 
-Le ou la mandataire doit jouir de ses droits électoraux et être inscrit dans la même commune que le mandant.
+Le ou la mandataire doit jouir de ses droits électoraux.
+
+**Nota:**
+
+Conformément à l'article 112 de la loi n°2019-1461 III, le I, à l'exception du 4°, et les IV et V de cet article entrent en
+vigueur à une date fixée par décret, et au plus tard le 1er janvier 2021.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°64-1086 1964-10-27 JORF 28 OCTOBRE 1964
+  - Décret n°64-1086 du 27 octobre 1964
 
 _Cité par_:
 
@@ -4533,7 +4538,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°98-733 du 20 août 1998 - art. 30 () JORF 22 août 1998
+  - Loi n°2019-1461 du 27 décembre 2019 - art. 112 (V)
 
 
 ###### Article L72-1
